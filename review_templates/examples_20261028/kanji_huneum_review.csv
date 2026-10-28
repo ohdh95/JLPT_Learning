@@ -1,0 +1,2543 @@
+﻿character,jlpt_level,meanings_en_json,korean_hun,korean_eum,reference_url,cross_reference_url,reviewer,reviewed_at,evidence_note,reviewed
+一,N5,"[""one"",""one radical (no.1)""]",한,일,,,,,,0
+七,N5,"[""seven""]",일곱,칠,,,,,,0
+万,N5,"[""ten thousand"",""10,000""]",일만,만,,,,,,0
+丈,N5,"[""length"",""ten shaku"",""measure"",""Mr."",""Ms."",""height"",""stature"",""all (one has)"",""only"",""that's all"",""merely""]",어른,장,,,,,,0
+三,N5,"[""three""]",석,삼,,,,,,0
+上,N5,"[""above"",""up""]",위,상,,,,,,0
+下,N5,"[""below"",""down"",""descend"",""give"",""low"",""inferior""]",아래,하,,,,,,0
+中,N5,"[""in"",""inside"",""middle"",""mean"",""center""]",가운데,중,,,,,,0
+九,N5,"[""nine""]",아홉,구,,,,,,0
+二,N5,"[""two"",""two radical (no. 7)""]",두,이,,,,,,0
+五,N5,"[""five""]",다섯,오,,,,,,0
+人,N5,"[""person""]",사람,인,,,,,,0
+今,N5,"[""now""]",이제,금,,,,,,0
+休,N5,"[""rest"",""day off"",""retire"",""sleep""]",쉴,휴,,,,,,0
+何,N5,"[""what""]",어찌,하,,,,,,0
+先,N5,"[""before"",""ahead"",""previous"",""future"",""precedence""]",먼저,선,,,,,,0
+入,N5,"[""enter"",""insert""]",들,입,,,,,,0
+八,N5,"[""eight"",""eight radical (no. 12)""]",여덟,팔,,,,,,0
+六,N5,"[""six""]",여섯,륙,,,,,,0
+円,N5,"[""circle"",""yen"",""round""]",둥글,원,,,,,,0
+出,N5,"[""exit"",""leave"",""go out"",""come out"",""put out"",""protrude""]",날,출,,,,,,0
+分,N5,"[""part"",""minute of time"",""segment"",""share"",""degree"",""one's lot"",""duty"",""understand"",""know"",""rate"",""1%"",""chances"",""shaku/100""]",나눌,분,,,,,,0
+前,N5,"[""in front"",""before""]",앞,전,,,,,,0
+北,N5,"[""north""]",북녘,북,,,,,,0
+十,N5,"[""ten""]",열,십,,,,,,0
+千,N5,"[""thousand""]",일천,천,,,,,,0
+午,N5,"[""noon"",""sign of the horse"",""11AM-1PM"",""seventh sign of Chinese zodiac""]",낮,오,,,,,,0
+半,N5,"[""half"",""middle"",""odd number"",""semi-"",""part-""]",반,반,,,,,,0
+南,N5,"[""south""]",남녘,남,,,,,,0
+友,N5,"[""friend""]",벗,우,,,,,,0
+右,N5,"[""right""]",오른쪽,우,,,,,,0
+名,N5,"[""name"",""noted"",""distinguished"",""reputation""]",이름,명,,,,,,0
+四,N5,"[""four""]",넉,사,,,,,,0
+国,N5,"[""country""]",나라,국,,,,,,0
+土,N5,"[""soil"",""earth"",""ground"",""Turkey""]",흙,토,,,,,,0
+外,N5,"[""outside""]",바깥,외,,,,,,0
+大,N5,"[""large"",""big""]",큰,대,,,,,,0
+天,N5,"[""heavens"",""sky"",""imperial""]",하늘,천,,,,,,0
+女,N5,"[""woman"",""female""]",계집,녀,,,,,,0
+子,N5,"[""child"",""sign of the rat"",""11PM-1AM"",""first sign of Chinese zodiac""]",아들,자,,,,,,0
+学,N5,"[""study"",""learning"",""science""]",배울,학,,,,,,0
+小,N5,"[""little"",""small""]",작을,소,,,,,,0
+山,N5,"[""mountain""]",뫼,산,,,,,,0
+川,N5,"[""stream"",""river"",""river or three-stroke river radical (no. 47)""]",내,천,,,,,,0
+左,N5,"[""left""]",왼,좌,,,,,,0
+年,N5,"[""year"",""counter for years""]",해,년,,,,,,0
+後,N5,"[""behind"",""back"",""later""]",뒤,후,,,,,,0
+日,N5,"[""day"",""sun"",""Japan"",""counter for days""]",날,일,,,,,,0
+時,N5,"[""time"",""hour""]",때,시,,,,,,0
+書,N5,"[""write""]",쓸,서,,,,,,0
+月,N5,"[""month"",""moon""]",달,월,,,,,,0
+木,N5,"[""tree"",""wood""]",나무,목,,,,,,0
+本,N5,"[""book"",""present"",""main"",""origin"",""true"",""real"",""counter for long cylindrical things""]",밑,본,,,,,,0
+来,N5,"[""come"",""due"",""next"",""cause"",""become""]",올,래,,,,,,0
+東,N5,"[""east""]",동녘,동,,,,,,0
+校,N5,"[""exam"",""school"",""printing"",""proof"",""correction""]",학교,교,,,,,,0
+母,N5,"[""mother""]",어미,모,,,,,,0
+毎,N5,"[""every""]",매양,매,,,,,,0
+気,N5,"[""spirit"",""mind"",""air"",""atmosphere"",""mood""]",기운,기,,,,,,0
+水,N5,"[""water""]",물,수,,,,,,0
+火,N5,"[""fire""]",불,화,,,,,,0
+無,N5,"[""nothingness"",""none"",""ain't"",""nothing"",""nil"",""not""]",없을,무,,,,,,0
+父,N5,"[""father""]",아비,부,,,,,,0
+生,N5,"[""life"",""genuine"",""birth""]",날,생,,,,,,0
+男,N5,"[""male""]",사내,남,,,,,,0
+白,N5,"[""white""]",흰,백,,,,,,0
+百,N5,"[""hundred""]",일백,백,,,,,,0
+聞,N5,"[""hear"",""ask"",""listen""]",들을,문,,,,,,0
+行,N5,"[""going"",""journey"",""carry out"",""conduct"",""act"",""line"",""row"",""bank""]",다닐,행,,,,,,0
+西,N5,"[""west"",""Spain""]",서녘,서,,,,,,0
+見,N5,"[""see"",""hopes"",""chances"",""idea"",""opinion"",""look at"",""visible""]",볼,견,,,,,,0
+話,N5,"[""tale"",""talk""]",말할,화,,,,,,0
+語,N5,"[""word"",""speech"",""language""]",말씀,어,,,,,,0
+読,N5,"[""read""]",읽을,독,,,,,,0
+誰,N5,"[""who"",""someone"",""somebody""]",누구,수,,,,,,0
+貼,N5,"[""stick"",""paste"",""apply""]",붙을,첩,,,,,,0
+車,N5,"[""car""]",수레,차,,,,,,0
+金,N5,"[""gold""]",쇠,금,,,,,,0
+長,N5,"[""long"",""leader"",""superior"",""senior""]",길,장,,,,,,0
+間,N5,"[""interval"",""space""]",틈,간,,,,,,0
+雨,N5,"[""rain""]",비,우,,,,,,0
+電,N5,"[""electricity""]",번개,전,,,,,,0
+食,N5,"[""eat"",""food""]",밥,식,,,,,,0
+高,N5,"[""tall"",""high"",""expensive""]",높을,고,,,,,,0
+不,N4,"[""negative"",""non-"",""bad"",""ugly"",""clumsy""]",아닐,불,,,,,,0
+世,N4,"[""generation"",""world"",""society"",""public""]",세상,세,,,,,,0
+主,N4,"[""lord"",""chief"",""master"",""main thing"",""principal""]",주인,주,,,,,,0
+事,N4,"[""matter"",""thing"",""fact"",""business"",""reason"",""possibly""]",일,사,,,,,,0
+京,N4,"[""capital"",""10**16""]",서울,경,,,,,,0
+仕,N4,"[""attend"",""doing"",""official"",""serve""]",벼슬할,사,,,,,,0
+代,N4,"[""substitute"",""change"",""convert"",""replace"",""period"",""age"",""counter for decades of ages, eras, etc."",""generation"",""charge"",""rate"",""fee""]",대신할,대,,,,,,0
+以,N4,"[""by means of"",""because"",""in view of"",""compared with""]",써,이,,,,,,0
+会,N4,"[""meeting"",""meet"",""party"",""association"",""interview"",""join""]",모일,회,,,,,,0
+住,N4,"[""dwell"",""reside"",""live"",""inhabit""]",살,주,,,,,,0
+体,N4,"[""body"",""substance"",""object"",""reality"",""counter for images""]",몸,체,,,,,,0
+作,N4,"[""make"",""production"",""prepare"",""build""]",지을,작,,,,,,0
+使,N4,"[""use"",""send on a mission"",""order"",""messenger"",""envoy"",""ambassador"",""cause""]",하여금,사,,,,,,0
+借,N4,"[""borrow"",""rent""]",빌,차,,,,,,0
+元,N4,"[""beginning"",""former time"",""origin""]",으뜸,원,,,,,,0
+兄,N4,"[""elder brother"",""big brother""]",맏이,형,,,,,,0
+公,N4,"[""public"",""prince"",""official"",""governmental""]",공변될,공,,,,,,0
+写,N4,"[""copy"",""be photographed"",""describe""]",베낄,사,,,,,,0
+冬,N4,"[""winter""]",겨울,동,,,,,,0
+凄,N4,"[""uncanny"",""weird"",""threatening"",""horrible""]",쓸쓸할,처,,,,,,0
+切,N4,"[""cut"",""cutoff"",""be sharp""]",끊을,절,,,,,,0
+別,N4,"[""separate"",""branch off"",""diverge"",""fork"",""another"",""extra"",""specially""]",나눌,별,,,,,,0
+力,N4,"[""power"",""strength"",""strong"",""strain"",""bear up"",""exert""]",힘,력,,,,,,0
+勉,N4,"[""exertion"",""endeavour"",""encourage"",""strive"",""make effort"",""diligent""]",힘쓸,면,,,,,,0
+動,N4,"[""move"",""motion"",""change"",""confusion"",""shift"",""shake""]",움직일,동,,,,,,0
+医,N4,"[""doctor"",""medicine""]",의원,의,,,,,,0
+去,N4,"[""gone"",""past"",""quit"",""leave"",""elapse"",""eliminate"",""divorce""]",갈,거,,,,,,0
+口,N4,"[""mouth""]",입,구,,,,,,0
+古,N4,"[""old""]",옛,고,,,,,,0
+台,N4,"[""pedestal"",""a stand"",""counter for machines and vehicles""]",대,대,,,,,,0
+同,N4,"[""same"",""agree"",""equal""]",같을,동,,,,,,0
+味,N4,"[""flavor"",""taste""]",맛,미,,,,,,0
+品,N4,"[""goods"",""refinement"",""dignity"",""article"",""counter for meal courses""]",물건,품,,,,,,0
+員,N4,"[""employee"",""member"",""number"",""the one in charge""]",관원,원,,,,,,0
+問,N4,"[""question"",""ask"",""problem""]",물을,문,,,,,,0
+図,N4,"[""map"",""drawing"",""plan"",""extraordinary"",""audacious""]",그림,도,,,,,,0
+地,N4,"[""ground"",""earth""]",땅,지,,,,,,0
+坊,N4,"[""boy"",""priest's residence"",""priest""]",동네,방,,,,,,0
+堂,N4,"[""public chamber"",""hall""]",집,당,,,,,,0
+場,N4,"[""location"",""place""]",마당,장,,,,,,0
+売,N4,"[""sell""]",팔,매,,,,,,0
+夏,N4,"[""summer""]",여름,하,,,,,,0
+夕,N4,"[""evening""]",저녁,석,,,,,,0
+多,N4,"[""many"",""frequent"",""much""]",많을,다,,,,,,0
+夜,N4,"[""night"",""evening""]",밤,야,,,,,,0
+妹,N4,"[""younger sister""]",누이,매,,,,,,0
+姉,N4,"[""elder sister""]",손윗누이,자,,,,,,0
+始,N4,"[""commence"",""begin""]",비로소,시,,,,,,0
+字,N4,"[""character"",""letter"",""word"",""section of village""]",글자,자,,,,,,0
+安,N4,"[""relax"",""cheap"",""low"",""quiet"",""rested"",""contented"",""peaceful""]",편안할,안,,,,,,0
+室,N4,"[""room"",""apartment"",""chamber"",""greenhouse"",""cellar""]",집,실,,,,,,0
+家,N4,"[""house"",""home"",""family"",""professional"",""expert"",""performer""]",집,가,,,,,,0
+少,N4,"[""few"",""little""]",적을,소,,,,,,0
+屋,N4,"[""roof"",""house"",""shop"",""dealer"",""seller""]",집,옥,,,,,,0
+工,N4,"[""craft"",""construction"",""katakana e radical (no. 48)""]",장인,공,,,,,,0
+帰,N4,"[""homecoming"",""arrive at"",""lead to"",""result in""]",돌아올,귀,,,,,,0
+広,N4,"[""wide"",""broad"",""spacious""]",넓을,광,,,,,,0
+店,N4,"[""store"",""shop""]",가게,점,,,,,,0
+度,N4,"[""degrees"",""occurrence"",""time"",""counter for occurrences"",""consider"",""attitude""]",법도,도,,,,,,0
+建,N4,"[""build""]",세울,건,,,,,,0
+弟,N4,"[""younger brother"",""faithful service to elders""]",아우,제,,,,,,0
+強,N4,"[""strong""]",강할,강,,,,,,0
+待,N4,"[""wait"",""depend on""]",기다릴,대,,,,,,0
+心,N4,"[""heart"",""mind"",""spirit"",""heart radical (no. 61)""]",마음,심,,,,,,0
+思,N4,"[""think""]",생각할,사,,,,,,0
+急,N4,"[""hurry"",""emergency"",""sudden"",""steep""]",급할,급,,,,,,0
+悪,N4,"[""bad"",""vice"",""rascal"",""false"",""evil"",""wrong""]",나쁠,악,,,,,,0
+意,N4,"[""idea"",""mind"",""heart"",""taste"",""thought"",""desire"",""care"",""liking""]",뜻,의,,,,,,0
+手,N4,"[""hand""]",손,수,,,,,,0
+持,N4,"[""hold"",""have""]",가질,지,,,,,,0
+教,N4,"[""teach"",""faith"",""doctrine""]",가르칠,교,,,,,,0
+文,N4,"[""sentence"",""literature"",""style"",""art"",""decoration"",""figures"",""plan"",""literary radical (no. 67)""]",글월,문,,,,,,0
+料,N4,"[""fee"",""materials""]",되질할,료,,,,,,0
+新,N4,"[""new""]",새,신,,,,,,0
+方,N4,"[""direction"",""person"",""alternative""]",모,방,,,,,,0
+旅,N4,"[""trip"",""travel""]",나그네,려,,,,,,0
+族,N4,"[""tribe"",""family""]",겨레,족,,,,,,0
+早,N4,"[""early"",""fast""]",이를,조,,,,,,0
+明,N4,"[""bright"",""light""]",밝을,명,,,,,,0
+映,N4,"[""reflect"",""reflection"",""projection""]",비칠,영,,,,,,0
+春,N4,"[""springtime"",""spring (season)""]",봄,춘,,,,,,0
+昼,N4,"[""daytime"",""noon""]",낮,주,,,,,,0
+曜,N4,"[""weekday""]",해 비칠,요,,,,,,0
+有,N4,"[""possess"",""have"",""exist"",""happen"",""occur"",""approx""]",있을,유,,,,,,0
+服,N4,"[""clothing"",""admit"",""obey"",""discharge""]",옷,복,,,,,,0
+朝,N4,"[""morning"",""dynasty"",""regime"",""epoch"",""period"",""(North) Korea""]",아침,조,,,,,,0
+業,N4,"[""business"",""vocation"",""arts"",""performance""]",일,업,,,,,,0
+楽,N4,"[""music"",""comfort"",""ease""]",즐길,락,,,,,,0
+歌,N4,"[""song"",""sing""]",노래,가,,,,,,0
+止,N4,"[""stop"",""halt""]",그칠,지,,,,,,0
+正,N4,"[""correct"",""justice"",""righteous"",""10**40""]",바를,정,,,,,,0
+歩,N4,"[""walk"",""counter for steps""]",걸을,보,,,,,,0
+死,N4,"[""death"",""die""]",죽을,사,,,,,,0
+注,N4,"[""pour"",""irrigate"",""shed (tears)"",""flow into"",""concentrate on"",""notes"",""comment"",""annotate""]",물댈,주,,,,,,0
+洋,N4,"[""ocean"",""sea"",""foreign"",""Western style""]",큰 바다,양,,,,,,0
+海,N4,"[""sea"",""ocean""]",바다,해,,,,,,0
+漢,N4,"[""Sino-"",""China""]",한수,한,,,,,,0
+牛,N4,"[""cow""]",소,우,,,,,,0
+物,N4,"[""thing"",""object"",""matter""]",만물,물,,,,,,0
+特,N4,"[""special""]",특별할,특,,,,,,0
+犬,N4,"[""dog""]",개,견,,,,,,0
+理,N4,"[""logic"",""arrangement"",""reason"",""justice"",""truth""]",다스릴,리,,,,,,0
+用,N4,"[""utilize"",""business"",""service"",""use"",""employ""]",쓸,용,,,,,,0
+田,N4,"[""rice field"",""rice paddy""]",밭,전,,,,,,0
+町,N4,"[""town"",""village"",""block"",""street""]",밭 두덕,정,,,,,,0
+画,N4,"[""brush-stroke"",""picture""]",그림,화,,,,,,0
+界,N4,"[""world"",""boundary""]",지경,계,,,,,,0
+病,N4,"[""ill"",""sick""]",병,병,,,,,,0
+痩,N4,"[""get thin""]",파리할,수,,,,,,0
+発,N4,"[""departure"",""discharge"",""publish"",""emit"",""start from"",""disclose"",""counter for gunshots""]",필,발,,,,,,0
+目,N4,"[""eye"",""class"",""look"",""insight"",""experience"",""care"",""favor""]",눈,목,,,,,,0
+真,N4,"[""true"",""reality"",""Buddhist sect""]",참,진,,,,,,0
+着,N4,"[""don"",""arrive"",""wear"",""counter for suits of clothing""]",붙을,착,,,,,,0
+知,N4,"[""know"",""wisdom""]",알,지,,,,,,0
+研,N4,"[""polish"",""study of"",""sharpen""]",연마할,연,,,,,,0
+社,N4,"[""company"",""firm"",""office"",""association"",""shrine""]",모일,사,,,,,,0
+私,N4,"[""private"",""I"",""me""]",사사,사,,,,,,0
+秋,N4,"[""autumn""]",가을,추,,,,,,0
+究,N4,"[""research"",""study""]",궁리할,구,,,,,,0
+空,N4,"[""empty"",""sky"",""void"",""vacant"",""vacuum""]",빌,공,,,,,,0
+立,N4,"[""stand up"",""rise"",""set up"",""erect""]",설,립,,,,,,0
+答,N4,"[""solution"",""answer""]",대답할,답,,,,,,0
+紙,N4,"[""paper""]",종이,지,,,,,,0
+終,N4,"[""end"",""finish""]",끝낼,종,,,,,,0
+習,N4,"[""learn""]",익힐,습,,,,,,0
+考,N4,"[""consider"",""think over""]",상고할,고,,,,,,0
+者,N4,"[""someone"",""person""]",놈,자,,,,,,0
+肉,N4,"[""meat""]",고기,육,,,,,,0
+自,N4,"[""oneself""]",스스로,자,,,,,,0
+色,N4,"[""color""]",빛,색,,,,,,0
+花,N4,"[""flower""]",꽃,화,,,,,,0
+英,N4,"[""England"",""English"",""hero"",""outstanding"",""calyx""]",꽃부리,영,,,,,,0
+茶,N4,"[""tea""]",차,다,,,,,,0
+親,N4,"[""parent"",""intimacy"",""relative"",""familiarity"",""dealer (cards)""]",친할,친,,,,,,0
+言,N4,"[""say"",""word""]",말씀,언,,,,,,0
+計,N4,"[""plot"",""plan"",""scheme"",""measure""]",셀,계,,,,,,0
+試,N4,"[""test"",""try"",""attempt"",""experiment"",""ordeal""]",시험할,시,,,,,,0
+買,N4,"[""buy""]",살,매,,,,,,0
+貸,N4,"[""lend""]",빌릴,대,,,,,,0
+質,N4,"[""substance"",""quality"",""matter"",""temperament""]",바탕,질,,,,,,0
+赤,N4,"[""red""]",붉을,적,,,,,,0
+走,N4,"[""run""]",달릴,주,,,,,,0
+起,N4,"[""rouse"",""wake up"",""get up""]",일어날,기,,,,,,0
+足,N4,"[""leg"",""foot"",""be sufficient"",""counter for pairs of footwear""]",발,족,,,,,,0
+転,N4,"[""revolve"",""turn around"",""change""]",구를,전,,,,,,0
+近,N4,"[""near"",""early"",""akin"",""tantamount""]",가까울,근,,,,,,0
+送,N4,"[""escort"",""send""]",보낼,송,,,,,,0
+通,N4,"[""traffic"",""pass through"",""avenue"",""commute"",""counter for letters, notes, documents, etc.""]",통할,통,,,,,,0
+週,N4,"[""week""]",돌,주,,,,,,0
+運,N4,"[""carry"",""luck"",""destiny"",""fate"",""lot"",""transport"",""progress"",""advance""]",움직일,운,,,,,,0
+道,N4,"[""road-way"",""street"",""district"",""journey"",""course"",""moral"",""teachings""]",길,도,,,,,,0
+重,N4,"[""heavy"",""important"",""esteem"",""respect"",""heap up"",""pile up"",""nest of boxes"",""-fold""]",무거울,중,,,,,,0
+野,N4,"[""plains"",""field"",""rustic"",""civilian life""]",들판,야,,,,,,0
+銀,N4,"[""silver""]",은,은,,,,,,0
+開,N4,"[""open"",""unfold"",""unseal""]",열,개,,,,,,0
+院,N4,"[""Inst."",""institution"",""temple"",""mansion"",""school""]",집,원,,,,,,0
+集,N4,"[""gather"",""meet"",""congregate"",""swarm"",""flock""]",모일,집,,,,,,0
+青,N4,"[""blue"",""green""]",푸를,청,,,,,,0
+音,N4,"[""sound"",""noise""]",소리,음,,,,,,0
+題,N4,"[""topic"",""subject""]",제목,제,,,,,,0
+風,N4,"[""wind"",""air"",""style"",""manner""]",바람,풍,,,,,,0
+飯,N4,"[""meal"",""boiled rice""]",밥,반,,,,,,0
+飲,N4,"[""drink"",""smoke"",""take""]",마실,음,,,,,,0
+館,N4,"[""building"",""mansion"",""large building"",""palace""]",객사,관,,,,,,0
+駅,N4,"[""station""]",역,역,,,,,,0
+験,N4,"[""verification"",""effect"",""testing""]",시험할,험,,,,,,0
+魚,N4,"[""fish""]",물고기,어,,,,,,0
+鳥,N4,"[""bird"",""chicken""]",새,조,,,,,,0
+黒,N4,"[""black""]",검을,흑,,,,,,0
+与,N3,"[""bestow"",""participate in"",""give"",""award"",""impart"",""provide"",""cause"",""gift"",""godsend""]",줄,여,,,,,,0
+両,N3,"[""both"",""old Japanese coin"",""counter for carriages (e.g., in a train)"",""two""]",두,량,,,,,,0
+乗,N3,"[""ride"",""power"",""multiplication"",""record"",""counter for vehicles"",""board"",""mount"",""join""]",오를,승,,,,,,0
+予,N3,"[""beforehand"",""previous"",""myself"",""I""]",미리,예,,,,,,0
+争,N3,"[""contend"",""dispute"",""argue""]",다툴,쟁,,,,,,0
+互,N3,"[""mutually"",""reciprocally"",""together""]",서로,호,,,,,,0
+亡,N3,"[""deceased"",""the late"",""dying"",""perish""]",망할,망,,,,,,0
+交,N3,"[""mingle"",""mixing"",""association"",""coming & going""]",사귈,교,,,,,,0
+他,N3,"[""other"",""another"",""the others""]",다를,타,,,,,,0
+付,N3,"[""adhere"",""attach"",""refer to"",""append""]",줄,부,,,,,,0
+件,N3,"[""affair"",""case"",""matter"",""item""]",조건,건,,,,,,0
+任,N3,"[""responsibility"",""duty"",""term"",""entrust to"",""appoint""]",맡길,임,,,,,,0
+伝,N3,"[""transmit"",""go along"",""walk along"",""follow"",""report"",""communicate"",""legend"",""tradition""]",전할,전,,,,,,0
+似,N3,"[""becoming"",""resemble"",""counterfeit"",""imitate"",""suitable""]",닮을,사,,,,,,0
+位,N3,"[""rank"",""grade"",""throne"",""crown"",""about"",""some""]",벼슬,위,,,,,,0
+余,N3,"[""too much"",""myself"",""surplus"",""other"",""remainder""]",남을,여,,,,,,0
+例,N3,"[""example"",""custom"",""usage"",""precedent""]",법식,례,,,,,,0
+供,N3,"[""submit"",""offer"",""present"",""serve (meal)"",""accompany""]",이바지할,공,,,,,,0
+便,N3,"[""convenience"",""facility"",""excrement"",""feces"",""letter"",""chance""]",편할,편,,,,,,0
+係,N3,"[""person in charge"",""connection"",""duty"",""concern oneself""]",걸릴,계,,,,,,0
+信,N3,"[""faith"",""truth"",""fidelity"",""trust""]",믿을,신,,,,,,0
+倒,N3,"[""overthrow"",""fall"",""collapse"",""drop"",""break down""]",넘어질,도,,,,,,0
+候,N3,"[""climate"",""season"",""weather"",""wait for"",""expect""]",기후,후,,,,,,0
+値,N3,"[""price"",""cost"",""value""]",값,치,,,,,,0
+偉,N3,"[""admirable"",""greatness"",""remarkable"",""conceited"",""famous"",""excellent""]",클,위,,,,,,0
+側,N3,"[""side"",""lean"",""oppose"",""regret""]",곁,측,,,,,,0
+偶,N3,"[""accidentally"",""even number"",""couple"",""man & wife"",""same kind""]",짝지울,우,,,,,,0
+備,N3,"[""equip"",""provision"",""preparation""]",갖출,비,,,,,,0
+僅,N3,"[""a wee bit""]",겨우,근,,,,,,0
+働,N3,"[""work"",""(kokuji)""]",일할,동,,,,,,0
+優,N3,"[""tenderness"",""excel"",""surpass"",""actor"",""superiority"",""gentleness""]",넉넉할,우,,,,,,0
+光,N3,"[""ray"",""light""]",빛,광,,,,,,0
+全,N3,"[""whole"",""entire"",""all"",""complete"",""fulfill""]",온전할,전,,,,,,0
+共,N3,"[""together"",""both"",""neither"",""all"",""and"",""alike"",""with""]",함께,공,,,,,,0
+具,N3,"[""tool"",""utensil"",""means"",""possess"",""ingredients"",""counter for armor, suits, sets of furniture""]",갖출,구,,,,,,0
+内,N3,"[""inside"",""within"",""between"",""among"",""house"",""home""]",안,내,,,,,,0
+冷,N3,"[""cool"",""cold (beer, person)"",""chill""]",찰,랭,,,,,,0
+処,N3,"[""dispose"",""manage"",""deal with"",""sentence"",""condemn"",""act"",""behave"",""place""]",곳,처,,,,,,0
+列,N3,"[""file"",""row"",""rank"",""tier"",""column""]",줄,렬,,,,,,0
+初,N3,"[""first time"",""beginning""]",처음,초,,,,,,0
+判,N3,"[""judgement"",""judgment"",""signature"",""stamp"",""seal""]",판단할,판,,,,,,0
+利,N3,"[""profit"",""advantage"",""benefit""]",날카로울,리,,,,,,0
+到,N3,"[""arrival"",""proceed"",""reach"",""attain"",""result in""]",이를,도,,,,,,0
+制,N3,"[""system"",""law"",""rule""]",억제할,제,,,,,,0
+刻,N3,"[""engrave"",""cut fine"",""chop"",""hash"",""mince"",""time"",""carving""]",새길,각,,,,,,0
+割,N3,"[""proportion"",""comparatively"",""divide"",""cut"",""separate"",""split""]",벨,할,,,,,,0
+加,N3,"[""add"",""addition"",""increase"",""join"",""include"",""Canada""]",더할,가,,,,,,0
+助,N3,"[""help"",""rescue"",""assist""]",도울,조,,,,,,0
+努,N3,"[""toil"",""diligent"",""as much as possible""]",힘쓸,노,,,,,,0
+労,N3,"[""labor"",""thank for"",""reward for"",""toil"",""trouble""]",일할,로,,,,,,0
+務,N3,"[""task"",""duties""]",일,무,,,,,,0
+勝,N3,"[""victory"",""win"",""prevail"",""excel""]",이길,승,,,,,,0
+勤,N3,"[""diligence"",""become employed"",""serve""]",부지런할,근,,,,,,0
+化,N3,"[""change"",""take the form of"",""influence"",""enchant"",""delude"",""-ization""]",될,화,,,,,,0
+単,N3,"[""simple"",""one"",""single"",""merely""]",홀로,단,,,,,,0
+危,N3,"[""dangerous"",""fear"",""uneasy""]",위태할,위,,,,,,0
+原,N3,"[""meadow"",""original"",""primitive"",""field"",""plain"",""prairie"",""tundra"",""wilderness""]",근본,원,,,,,,0
+参,N3,"[""nonplussed"",""three (in documents)"",""going"",""coming"",""visiting"",""visit"",""be defeated"",""die"",""be madly in love"",""participate"",""take part in""]",참여할,참,,,,,,0
+反,N3,"[""anti-""]",돌이킬,반,,,,,,0
+収,N3,"[""income"",""obtain"",""reap"",""pay"",""supply"",""store""]",모을,수,,,,,,0
+取,N3,"[""take"",""fetch"",""take up""]",거둘,취,,,,,,0
+受,N3,"[""accept"",""undergo"",""answer (phone)"",""take"",""get"",""catch"",""receive""]",받을,수,,,,,,0
+可,N3,"[""can"",""passable"",""approval""]",옳을,가,,,,,,0
+号,N3,"[""nickname"",""number"",""item"",""title"",""pseudonym"",""name"",""call""]",이름,호,,,,,,0
+合,N3,"[""fit"",""suit"",""join"",""0.1""]",합할,합,,,,,,0
+向,N3,"[""yonder"",""facing"",""beyond"",""confront"",""defy"",""tend toward"",""approach""]",향할,향,,,,,,0
+君,N3,"[""mister"",""you"",""ruler"",""male name suffix""]",임금,군,,,,,,0
+否,N3,"[""negate"",""no"",""noes"",""refuse"",""decline"",""deny""]",아닐,부,,,,,,0
+吸,N3,"[""suck"",""imbibe"",""inhale"",""sip""]",숨 들이쉴,흡,,,,,,0
+吹,N3,"[""blow"",""breathe"",""puff"",""emit"",""smoke""]",불,취,,,,,,0
+告,N3,"[""revelation"",""tell"",""inform"",""announce""]",알릴,고,,,,,,0
+呼,N3,"[""call"",""call out to"",""invite""]",부를,호,,,,,,0
+命,N3,"[""fate"",""command"",""decree"",""destiny"",""life"",""appoint""]",목숨,명,,,,,,0
+和,N3,"[""harmony"",""Japanese style"",""peace"",""soften"",""Japan""]",화할,화,,,,,,0
+商,N3,"[""make a deal"",""selling"",""dealing in"",""merchant""]",장사,상,,,,,,0
+喜,N3,"[""rejoice"",""take pleasure in""]",기뻐할,희,,,,,,0
+回,N3,"[""-times"",""round"",""game"",""revolve"",""counter for occurrences""]",돌,회,,,,,,0
+因,N3,"[""cause"",""factor"",""be associated with"",""depend on"",""be limited to""]",인할,인,,,,,,0
+困,N3,"[""quandary"",""become distressed"",""annoyed""]",괴로울,곤,,,,,,0
+園,N3,"[""park"",""garden"",""yard"",""farm""]",동산,원,,,,,,0
+在,N3,"[""exist"",""outskirts"",""suburbs"",""located in""]",있을,재,,,,,,0
+報,N3,"[""report"",""news"",""reward"",""retribution""]",갚을,보,,,,,,0
+増,N3,"[""increase"",""add"",""augment"",""gain"",""promote""]",불을,증,,,,,,0
+声,N3,"[""voice""]",소리,성,,,,,,0
+変,N3,"[""unusual"",""change"",""strange""]",변할,변,,,,,,0
+夢,N3,"[""dream"",""vision"",""illusion""]",꿈,몽,,,,,,0
+太,N3,"[""plump"",""thick"",""big around""]",클,태,,,,,,0
+夫,N3,"[""husband"",""man""]",지아비,부,,,,,,0
+失,N3,"[""lose"",""error"",""fault"",""disadvantage"",""loss""]",잃을,실,,,,,,0
+好,N3,"[""fond"",""pleasing"",""like something""]",좋을,호,,,,,,0
+妻,N3,"[""wife"",""spouse""]",아내,처,,,,,,0
+娘,N3,"[""daughter"",""girl""]",아가씨,낭,,,,,,0
+婚,N3,"[""marriage""]",혼인할,혼,,,,,,0
+婦,N3,"[""lady"",""woman"",""wife"",""bride""]",지어미,부,,,,,,0
+存,N3,"[""exist"",""suppose"",""be aware of"",""believe"",""feel""]",있을,존,,,,,,0
+宅,N3,"[""home"",""house"",""residence"",""our house"",""my husband""]",집,택,,,,,,0
+守,N3,"[""guard"",""protect"",""defend"",""obey""]",지킬,수,,,,,,0
+完,N3,"[""perfect"",""completion"",""end""]",완전할,완,,,,,,0
+官,N3,"[""bureaucrat"",""the government"",""organ""]",벼슬,관,,,,,,0
+定,N3,"[""determine"",""fix"",""establish"",""decide""]",정할,정,,,,,,0
+実,N3,"[""reality"",""truth"",""seed"",""fruit"",""nut""]",열매,실,,,,,,0
+客,N3,"[""guest"",""visitor"",""customer"",""client""]",손님,객,,,,,,0
+害,N3,"[""harm"",""injury""]",해할,해,,,,,,0
+容,N3,"[""contain"",""form"",""looks""]",얼굴,용,,,,,,0
+宿,N3,"[""inn"",""lodging"",""relay station"",""dwell"",""lodge"",""be pregnant"",""home"",""dwelling""]",잘,숙,,,,,,0
+寄,N3,"[""draw near"",""stop in"",""bring near"",""gather"",""collect"",""send"",""forward""]",부칠,기,,,,,,0
+富,N3,"[""wealth"",""enrich"",""abundant""]",부유할,부,,,,,,0
+寒,N3,"[""cold""]",찰,한,,,,,,0
+寝,N3,"[""lie down"",""sleep"",""rest"",""bed"",""remain unsold""]",잠잘,침,,,,,,0
+察,N3,"[""guess"",""presume"",""surmise"",""judge"",""understand""]",살필,찰,,,,,,0
+対,N3,"[""vis-a-vis"",""opposite"",""even"",""equal"",""versus"",""anti-"",""compare""]",마주볼,대,,,,,,0
+尻,N3,"[""buttocks"",""hips"",""butt"",""rear""]",꽁무니,고,,,,,,0
+局,N3,"[""bureau"",""board"",""office"",""affair"",""conclusion"",""court lady"",""lady-in-waiting"",""her apartment""]",판,국,,,,,,0
+居,N3,"[""reside"",""to be"",""exist"",""live with""]",살,거,,,,,,0
+差,N3,"[""distinction"",""difference"",""variation"",""discrepancy"",""margin"",""balance""]",어긋날,차,,,,,,0
+市,N3,"[""market"",""city"",""town""]",저자,시,,,,,,0
+師,N3,"[""expert"",""teacher"",""master"",""model"",""exemplar"",""army (incl. counter)"",""war""]",스승,사,,,,,,0
+席,N3,"[""seat"",""mat"",""occasion"",""place""]",자리,석,,,,,,0
+常,N3,"[""usual"",""ordinary"",""normal"",""common"",""regular"",""continually"",""always"",""long-lasting""]",항상,상,,,,,,0
+平,N3,"[""even"",""flat"",""peace""]",평탄할,평,,,,,,0
+幸,N3,"[""happiness"",""blessing"",""fortune""]",다행할,행,,,,,,0
+幾,N3,"[""how many"",""how much"",""how far"",""how long"",""some"",""several""]",몇,기,,,,,,0
+座,N3,"[""squat"",""seat"",""cushion"",""gathering"",""sit""]",자리,좌,,,,,,0
+庭,N3,"[""courtyard"",""garden"",""yard""]",뜰,정,,,,,,0
+式,N3,"[""style"",""ceremony"",""rite"",""function"",""method"",""system"",""form"",""expression""]",법,식,,,,,,0
+引,N3,"[""pull"",""tug"",""jerk"",""admit"",""install"",""quote"",""refer to""]",끌,인,,,,,,0
+当,N3,"[""hit"",""right"",""appropriate"",""himself""]",마땅할,당,,,,,,0
+形,N3,"[""shape"",""form"",""style""]",모양,형,,,,,,0
+役,N3,"[""duty"",""war"",""campaign"",""drafted labor"",""office"",""service"",""role""]",부릴,역,,,,,,0
+彼,N3,"[""he"",""that"",""the""]",저,피,,,,,,0
+徒,N3,"[""on foot"",""junior"",""emptiness"",""vanity"",""futility"",""uselessness"",""ephemeral thing"",""gang"",""set"",""party"",""people""]",무리,도,,,,,,0
+得,N3,"[""gain"",""get"",""find"",""earn"",""acquire"",""can"",""may"",""able to"",""profit"",""advantage"",""benefit""]",얻을,득,,,,,,0
+御,N3,"[""honorable"",""manipulate"",""govern""]",거느릴,어,,,,,,0
+必,N3,"[""invariably"",""certain"",""inevitable""]",반드시,필,,,,,,0
+忘,N3,"[""forget""]",잊을,망,,,,,,0
+忙,N3,"[""busy"",""occupied"",""restless""]",바쁠,망,,,,,,0
+念,N3,"[""wish"",""sense"",""idea"",""thought"",""feeling"",""desire"",""attention""]",생각,념,,,,,,0
+怒,N3,"[""angry"",""be offended""]",성낼,노,,,,,,0
+怖,N3,"[""dreadful"",""be frightened"",""fearful""]",두려울,포,,,,,,0
+性,N3,"[""sex"",""gender"",""nature""]",성품,성,,,,,,0
+恐,N3,"[""fear"",""dread"",""awe""]",두려울,공,,,,,,0
+恥,N3,"[""shame"",""dishonor""]",부끄럼,치,,,,,,0
+息,N3,"[""breath"",""respiration"",""son"",""interest (on money)"",""rest"",""coming to an end""]",숨쉴,식,,,,,,0
+悲,N3,"[""grieve"",""sad"",""deplore"",""regret""]",슬플,비,,,,,,0
+情,N3,"[""feelings"",""emotion"",""passion"",""sympathy"",""circumstances"",""facts""]",뜻,정,,,,,,0
+想,N3,"[""idea"",""thought"",""conception"",""think""]",생각할,상,,,,,,0
+愛,N3,"[""love"",""affection"",""favourite""]",사랑,애,,,,,,0
+感,N3,"[""emotion"",""feeling"",""sensation""]",느낄,감,,,,,,0
+慣,N3,"[""accustomed"",""get used to"",""become experienced""]",버릇,관,,,,,,0
+成,N3,"[""turn into"",""become"",""get"",""grow"",""elapse"",""reach""]",이룰,성,,,,,,0
+戚,N3,"[""grieve"",""relatives""]",친척,척,,,,,,0
+戦,N3,"[""war"",""battle"",""match""]",싸움,전,,,,,,0
+戻,N3,"[""re-"",""return"",""revert"",""resume"",""restore"",""go backwards""]",어그러질,려,,,,,,0
+所,N3,"[""place"",""extent""]",바,소,,,,,,0
+才,N3,"[""genius"",""years old"",""cubic shaku""]",재주,재,,,,,,0
+打,N3,"[""strike"",""hit"",""knock"",""pound"",""dozen""]",때릴,타,,,,,,0
+払,N3,"[""pay"",""clear out"",""prune"",""banish"",""dispose of""]",떨,불,,,,,,0
+投,N3,"[""throw"",""discard"",""abandon"",""launch into"",""join"",""invest in"",""hurl"",""give up"",""sell at a loss""]",던질,투,,,,,,0
+折,N3,"[""fold"",""break"",""fracture"",""bend"",""yield"",""submit""]",꺾을,절,,,,,,0
+抜,N3,"[""slip out"",""extract"",""pull out"",""pilfer"",""quote"",""remove"",""omit""]",뺄,발,,,,,,0
+抱,N3,"[""embrace"",""hug"",""hold in arms""]",안을,포,,,,,,0
+押,N3,"[""push"",""stop"",""check"",""subdue"",""attach"",""seize"",""weight"",""shove"",""press"",""seal"",""do in spite of""]",누를,압,,,,,,0
+招,N3,"[""beckon"",""invite"",""summon"",""engage""]",부를,초,,,,,,0
+拶,N3,"[""be imminent"",""draw close""]",핍박할,찰,,,,,,0
+指,N3,"[""finger"",""point to"",""indicate"",""put into"",""play (chess)"",""measure (ruler)""]",손가락,지,,,,,,0
+挨,N3,"[""approach"",""draw near"",""push open""]",밀칠,애,,,,,,0
+捕,N3,"[""catch"",""capture""]",사로잡을,포,,,,,,0
+掛,N3,"[""hang"",""suspend"",""depend"",""arrive at"",""tax"",""pour""]",걸,괘,,,,,,0
+探,N3,"[""grope"",""search"",""look for""]",찾을,탐,,,,,,0
+支,N3,"[""branch"",""support"",""sustain"",""branch radical (no. 65)""]",지탱할,지,,,,,,0
+放,N3,"[""set free"",""release"",""fire"",""shoot"",""emit"",""banish"",""liberate""]",놓을,방,,,,,,0
+政,N3,"[""politics"",""government""]",정사,정,,,,,,0
+敗,N3,"[""failure"",""defeat"",""reversal""]",패할,패,,,,,,0
+散,N3,"[""scatter"",""disperse"",""spend"",""squander""]",흩을,산,,,,,,0
+数,N3,"[""number"",""strength"",""fate"",""law"",""figures""]",헤아릴,수,,,,,,0
+断,N3,"[""severance"",""decline"",""refuse"",""apologize"",""warn"",""dismiss"",""prohibit"",""decision"",""judgement"",""cutting""]",끊을,단,,,,,,0
+易,N3,"[""easy"",""ready to"",""simple"",""fortune-telling"",""divination""]",바꿀,역,,,,,,0
+昔,N3,"[""once upon a time"",""antiquity"",""old times""]",옛,석,,,,,,0
+昨,N3,"[""yesterday"",""previous""]",어제,작,,,,,,0
+晩,N3,"[""nightfall"",""night""]",저물,만,,,,,,0
+景,N3,"[""scenery"",""view""]",볕,경,,,,,,0
+晴,N3,"[""clear up""]",갤,청,,,,,,0
+暗,N3,"[""darkness"",""disappear"",""shade"",""informal"",""grow dark"",""be blinded""]",어두울,암,,,,,,0
+暮,N3,"[""evening"",""twilight"",""season's end"",""livelihood"",""make a living"",""spend time""]",저물,모,,,,,,0
+曲,N3,"[""bend"",""music"",""melody"",""composition"",""pleasure"",""injustice"",""fault"",""curve"",""crooked"",""perverse"",""lean""]",굽을,곡,,,,,,0
+更,N3,"[""grow late"",""night watch"",""sit up late"",""of course"",""renew"",""renovate"",""again"",""more and more"",""further""]",다시,갱,,,,,,0
+最,N3,"[""utmost"",""most"",""extreme""]",가장,최,,,,,,0
+望,N3,"[""ambition"",""full moon"",""hope"",""desire"",""aspire to"",""expect""]",바랄,망,,,,,,0
+期,N3,"[""period"",""time"",""date"",""term""]",기약할,기,,,,,,0
+未,N3,"[""un-"",""not yet"",""hitherto"",""still"",""even now"",""sign of the ram"",""1-3PM"",""eighth sign of Chinese zodiac""]",아닐,미,,,,,,0
+末,N3,"[""end"",""close"",""tip"",""powder"",""posterity""]",끝,말,,,,,,0
+束,N3,"[""bundle"",""sheaf"",""ream"",""tie in bundles"",""govern"",""manage"",""control""]",묶을,속,,,,,,0
+杯,N3,"[""counter for cupfuls"",""wine glass"",""glass"",""toast""]",잔,배,,,,,,0
+果,N3,"[""fruit"",""reward"",""carry out"",""achieve"",""complete"",""end"",""finish"",""succeed""]",실과,과,,,,,,0
+格,N3,"[""status"",""rank"",""capacity"",""character"",""case (law, grammar)""]",격식,격,,,,,,0
+構,N3,"[""posture"",""stance"",""appearance"",""build"",""set up""]",얽을,구,,,,,,0
+様,N3,"[""Esq."",""way"",""manner"",""situation"",""polite suffix""]",모양,양,,,,,,0
+権,N3,"[""authority"",""power"",""rights""]",권세,권,,,,,,0
+横,N3,"[""sideways"",""side"",""horizontal"",""width"",""woof"",""unreasonable"",""perverse""]",가로,횡,,,,,,0
+機,N3,"[""loom"",""mechanism"",""machine"",""airplane"",""opportunity"",""potency"",""efficacy"",""occasion""]",틀,기,,,,,,0
+欠,N3,"[""lack"",""gap"",""fail"",""yawning radical (no. 76)""]",하품,흠,,,,,,0
+次,N3,"[""next"",""order"",""sequence""]",버금,차,,,,,,0
+欲,N3,"[""longing"",""covetousness"",""greed"",""passion"",""desire"",""craving""]",욕심낼,욕,,,,,,0
+歯,N3,"[""tooth"",""cog""]",이,치,,,,,,0
+歳,N3,"[""year-end"",""age"",""occasion"",""opportunity""]",해,세,,,,,,0
+残,N3,"[""remainder"",""leftover"",""balance""]",남을,잔,,,,,,0
+段,N3,"[""grade"",""steps"",""stairs""]",층계,단,,,,,,0
+殺,N3,"[""kill"",""murder"",""butcher"",""slice off"",""split"",""diminish"",""reduce"",""spoil""]",죽일,살,,,,,,0
+民,N3,"[""people"",""nation"",""subjects""]",백성,민,,,,,,0
+求,N3,"[""request"",""want"",""wish for"",""require"",""demand""]",찾을,구,,,,,,0
+決,N3,"[""decide"",""fix"",""agree upon"",""appoint""]",결단할,결,,,,,,0
+治,N3,"[""reign"",""be at peace"",""calm down"",""subdue"",""quell"",""govt"",""cure"",""heal"",""rule"",""conserve""]",다스릴,치,,,,,,0
+法,N3,"[""method"",""law"",""rule"",""principle"",""model"",""system""]",법,법,,,,,,0
+泳,N3,"[""swim""]",헤엄칠,영,,,,,,0
+洗,N3,"[""wash"",""inquire into"",""probe""]",씻을,세,,,,,,0
+活,N3,"[""lively"",""resuscitation"",""being helped"",""living""]",살,활,,,,,,0
+流,N3,"[""current"",""a sink"",""flow"",""forfeit""]",흐를,류,,,,,,0
+浮,N3,"[""floating"",""float"",""rise to surface""]",뜰,부,,,,,,0
+消,N3,"[""extinguish"",""blow out"",""turn off"",""neutralize"",""cancel""]",사라질,소,,,,,,0
+深,N3,"[""deep"",""heighten"",""intensify"",""strengthen""]",깊을,심,,,,,,0
+済,N3,"[""settle (debt, etc.)"",""relieve (burden)"",""finish"",""come to an end"",""excusable"",""need not""]",건널,제,,,,,,0
+渡,N3,"[""transit"",""ford"",""ferry"",""cross"",""import"",""deliver"",""diameter"",""migrate""]",건널,도,,,,,,0
+港,N3,"[""harbor""]",항구,항,,,,,,0
+満,N3,"[""full"",""fullness"",""enough"",""satisfy""]",찰,만,,,,,,0
+溺,N3,"[""drown"",""indulge""]",빠질,닉,,,,,,0
+演,N3,"[""performance"",""act"",""play"",""render"",""stage""]",펼칠,연,,,,,,0
+点,N3,"[""spot"",""point"",""mark"",""speck"",""decimal point""]",점,점,,,,,,0
+然,N3,"[""sort of thing"",""so"",""if so"",""in that case"",""well""]",그럴,연,,,,,,0
+煙,N3,"[""smoke""]",연기,연,,,,,,0
+熱,N3,"[""heat"",""temperature"",""fever"",""mania"",""passion""]",뜨거울,열,,,,,,0
+犯,N3,"[""crime"",""sin"",""offense""]",범할,범,,,,,,0
+状,N3,"[""status quo"",""conditions"",""circumstances"",""form"",""appearance""]",형상,상,,,,,,0
+猫,N3,"[""cat""]",고양이,묘,,,,,,0
+王,N3,"[""king"",""rule"",""magnate""]",임금,왕,,,,,,0
+現,N3,"[""present"",""existing"",""actual""]",나타날,현,,,,,,0
+球,N3,"[""ball"",""sphere""]",공,구,,,,,,0
+産,N3,"[""products"",""bear"",""give birth"",""yield"",""childbirth"",""native"",""property""]",낳을,산,,,,,,0
+由,N3,"[""wherefore"",""a reason""]",말미암을,유,,,,,,0
+申,N3,"[""have the honor to"",""sign of the monkey"",""3-5PM"",""ninth sign of Chinese zodiac""]",펼,신,,,,,,0
+畑,N3,"[""farm"",""field"",""garden"",""one's specialty"",""(kokuji)""]",밭,전,,,,,,0
+留,N3,"[""detain"",""fasten"",""halt"",""stop""]",머무를,류,,,,,,0
+番,N3,"[""turn"",""number in a series""]",차례,번,,,,,,0
+疑,N3,"[""doubt"",""distrust"",""be suspicious"",""question""]",의심할,의,,,,,,0
+疲,N3,"[""exhausted"",""tire"",""weary""]",피곤할,피,,,,,,0
+痛,N3,"[""pain"",""hurt"",""damage"",""bruise""]",아플,통,,,,,,0
+登,N3,"[""ascend"",""climb up""]",오를,등,,,,,,0
+的,N3,"[""bull's eye"",""mark"",""target"",""object"",""adjective ending""]",과녁,적,,,,,,0
+皆,N3,"[""all"",""everything""]",모두,개,,,,,,0
+盗,N3,"[""steal"",""rob"",""pilfer""]",도둑,도,,,,,,0
+直,N3,"[""straightaway"",""honesty"",""frankness"",""fix"",""repair""]",곧을,직,,,,,,0
+相,N3,"[""inter-"",""mutual"",""together"",""each other"",""minister of state"",""councillor"",""aspect"",""phase"",""physiognomy""]",서로,상,,,,,,0
+眠,N3,"[""sleep"",""die"",""sleepy""]",잠잘,면,,,,,,0
+石,N3,"[""stone""]",돌,석,,,,,,0
+破,N3,"[""rend"",""rip"",""tear"",""break"",""destroy"",""defeat"",""frustrate""]",깨뜨릴,파,,,,,,0
+確,N3,"[""assurance"",""firm"",""tight"",""hard"",""solid"",""confirm"",""clear"",""evident""]",굳을,확,,,,,,0
+示,N3,"[""show"",""indicate"",""point out"",""express"",""display""]",보일,시,,,,,,0
+礼,N3,"[""salute"",""bow"",""ceremony"",""thanks"",""remuneration""]",예도,례,,,,,,0
+祖,N3,"[""ancestor"",""pioneer"",""founder""]",조상,조,,,,,,0
+神,N3,"[""gods"",""mind"",""soul""]",귀신,신,,,,,,0
+福,N3,"[""blessing"",""fortune"",""luck"",""wealth""]",복,복,,,,,,0
+科,N3,"[""department"",""course"",""section""]",과정,과,,,,,,0
+程,N3,"[""extent"",""degree"",""law"",""formula"",""distance"",""limits"",""amount""]",한도,정,,,,,,0
+種,N3,"[""species"",""kind"",""class"",""variety"",""seed""]",씨,종,,,,,,0
+積,N3,"[""volume"",""product (x*y)"",""acreage"",""contents"",""pile up"",""stack"",""load"",""amass""]",쌓을,적,,,,,,0
+突,N3,"[""stab"",""protruding"",""thrust"",""pierce"",""prick"",""collision"",""sudden""]",부딪칠,돌,,,,,,0
+窓,N3,"[""window"",""pane""]",창,창,,,,,,0
+笑,N3,"[""laugh""]",웃을,소,,,,,,0
+等,N3,"[""etc."",""and so forth"",""class (first)"",""quality"",""equal"",""similar""]",같을,등,,,,,,0
+箱,N3,"[""box"",""chest"",""case"",""bin"",""railway car""]",상자,상,,,,,,0
+籠,N3,"[""basket"",""devote oneself"",""seclude oneself"",""cage"",""coop"",""implied""]",대바구니,롱,,,,,,0
+米,N3,"[""rice"",""USA"",""metre""]",쌀,미,,,,,,0
+粧,N3,"[""cosmetics"",""adorn (one's person)""]",단장할,장,,,,,,0
+精,N3,"[""refined"",""ghost"",""fairy"",""energy"",""vitality"",""semen"",""excellence"",""purity"",""skill""]",정교할,정,,,,,,0
+約,N3,"[""promise"",""approximately"",""shrink""]",맺을,약,,,,,,0
+組,N3,"[""association"",""braid"",""plait"",""construct"",""assemble"",""unite"",""cooperate"",""grapple""]",짤,조,,,,,,0
+経,N3,"[""sutra"",""longitude"",""pass thru"",""expire"",""warp""]",날,경,,,,,,0
+給,N3,"[""salary"",""wage"",""gift"",""allow"",""grant"",""bestow on""]",줄,급,,,,,,0
+絵,N3,"[""picture"",""drawing"",""painting"",""sketch""]",그림,회,,,,,,0
+絶,N3,"[""discontinue"",""sever"",""cut off"",""abstain"",""interrupt"",""suppress"",""be beyond"",""without match"",""peerless"",""unparalleled""]",끊을,절,,,,,,0
+続,N3,"[""continue"",""series"",""sequel""]",이을,속,,,,,,0
+緒,N3,"[""thong"",""beginning"",""inception"",""end"",""cord"",""strap"",""mental or emotional state""]",실마리,서,,,,,,0
+罪,N3,"[""guilt"",""sin"",""crime"",""fault"",""blame"",""offense""]",허물,죄,,,,,,0
+置,N3,"[""placement"",""put"",""set"",""deposit"",""leave behind"",""keep"",""employ"",""pawn""]",둘,치,,,,,,0
+美,N3,"[""beauty"",""beautiful""]",아름다울,미,,,,,,0
+老,N3,"[""old man"",""old age"",""grow old""]",늙을,로,,,,,,0
+耳,N3,"[""ear""]",귀,이,,,,,,0
+職,N3,"[""post"",""employment"",""work""]",벼슬,직,,,,,,0
+育,N3,"[""bring up"",""grow up"",""raise"",""rear""]",기를,육,,,,,,0
+背,N3,"[""stature"",""height"",""back"",""behind"",""disobey"",""defy"",""go back on"",""rebel""]",등,배,,,,,,0
+能,N3,"[""ability"",""talent"",""skill"",""capacity""]",능할,능,,,,,,0
+脇,N3,"[""armpit"",""the other way"",""another place"",""flank"",""supporting role""]",갈비,협,,,,,,0
+腹,N3,"[""abdomen"",""belly"",""stomach""]",배,복,,,,,,0
+膝,N3,"[""knee"",""lap""]",무릎,슬,,,,,,0
+舞,N3,"[""dance"",""flit"",""circle"",""wheel""]",춤출,무,,,,,,0
+船,N3,"[""ship"",""boat""]",배,선,,,,,,0
+良,N3,"[""good"",""pleasing"",""skilled""]",좋을,량,,,,,,0
+若,N3,"[""young"",""if"",""perhaps"",""possibly"",""low number"",""immature""]",같을,약,,,,,,0
+苦,N3,"[""suffering"",""trial"",""worry"",""hardship"",""feel bitter"",""scowl""]",쓸,고,,,,,,0
+草,N3,"[""grass"",""weeds"",""herbs"",""pasture"",""write"",""draft""]",풀,초,,,,,,0
+落,N3,"[""fall"",""drop"",""come down"",""village"",""hamlet""]",떨어질,락,,,,,,0
+葉,N3,"[""leaf"",""plane"",""lobe"",""needle"",""blade"",""spear"",""counter for flat things"",""fragment"",""piece""]",잎,엽,,,,,,0
+薬,N3,"[""medicine"",""chemical"",""enamel"",""gunpowder"",""benefit""]",약,약,,,,,,0
+術,N3,"[""art"",""technique"",""skill"",""means"",""trick"",""resources"",""magic""]",재주,술,,,,,,0
+表,N3,"[""surface"",""table"",""chart"",""diagram""]",겉,표,,,,,,0
+袖,N3,"[""sleeve"",""wing (building)"",""extension"",""give cold shoulder""]",소매,수,,,,,,0
+要,N3,"[""need"",""main point"",""essence"",""pivot"",""key to""]",요긴할,요,,,,,,0
+規,N3,"[""standard"",""measure""]",그림쇠,규,,,,,,0
+覚,N3,"[""memorize"",""learn"",""remember"",""awake"",""sober up""]",깨달을,각,,,,,,0
+観,N3,"[""outlook"",""look"",""appearance"",""condition"",""view""]",볼,관,,,,,,0
+解,N3,"[""unravel"",""notes"",""key"",""explanation"",""understanding"",""untie"",""undo"",""solve"",""answer"",""cancel"",""absolve"",""explain"",""minute""]",풀,해,,,,,,0
+記,N3,"[""scribe"",""account"",""narrative""]",기록할,기,,,,,,0
+訪,N3,"[""call on"",""visit"",""look up"",""offer sympathy""]",찾을,방,,,,,,0
+許,N3,"[""permit"",""approve""]",허락할,허,,,,,,0
+認,N3,"[""acknowledge"",""witness"",""discern"",""recognize"",""appreciate"",""believe""]",알,인,,,,,,0
+誤,N3,"[""mistake"",""err"",""do wrong"",""mislead""]",그릇할,오,,,,,,0
+説,N3,"[""opinion"",""theory"",""explanation"",""rumor""]",말씀,설,,,,,,0
+調,N3,"[""tune"",""tone"",""meter"",""key (music)"",""writing style"",""prepare"",""exorcise"",""investigate"",""harmonize"",""mediate""]",고를,조,,,,,,0
+談,N3,"[""discuss"",""talk""]",말씀,담,,,,,,0
+論,N3,"[""argument"",""discourse""]",말할,론,,,,,,0
+諦,N3,"[""truth"",""clarity"",""abandon"",""give up""]",살필,체,,,,,,0
+謎,N3,"[""riddle"",""puzzle"",""enigma"",""hint"",""tip""]",수수께끼,미,,,,,,0
+識,N3,"[""discriminating"",""know"",""write""]",알,식,,,,,,0
+警,N3,"[""admonish"",""commandment""]",경계할,경,,,,,,0
+議,N3,"[""deliberation"",""consultation"",""debate"",""consideration""]",의논할,의,,,,,,0
+負,N3,"[""defeat"",""negative"",""-"",""minus"",""bear"",""owe"",""assume a responsibility""]",질,부,,,,,,0
+財,N3,"[""property"",""money"",""wealth"",""assets""]",재물,재,,,,,,0
+貧,N3,"[""poverty"",""poor""]",가난할,빈,,,,,,0
+責,N3,"[""blame"",""condemn"",""censure""]",꾸짖을,책,,,,,,0
+費,N3,"[""expense"",""cost"",""spend"",""consume"",""waste""]",쓸,비,,,,,,0
+資,N3,"[""assets"",""resources"",""capital"",""funds"",""data"",""be conducive to"",""contribute to""]",재물,자,,,,,,0
+賛,N3,"[""approve"",""praise"",""title or inscription on picture"",""assist"",""agree with""]",도울,찬,,,,,,0
+越,N3,"[""surpass"",""cross over"",""move to"",""exceed"",""Vietnam""]",넘을,월,,,,,,0
+路,N3,"[""path"",""route"",""road"",""distance""]",길,로,,,,,,0
+身,N3,"[""somebody"",""person"",""one's station in life""]",몸,신,,,,,,0
+辞,N3,"[""resign"",""word"",""term"",""expression""]",말,사,,,,,,0
+込,N3,"[""crowded"",""mixture"",""in bulk"",""included"",""(kokuji)""]",담을,입,,,,,,0
+迎,N3,"[""welcome"",""meet"",""greet""]",맞을,영,,,,,,0
+返,N3,"[""return"",""answer"",""fade"",""repay""]",돌이킬,반,,,,,,0
+迷,N3,"[""astray"",""be perplexed"",""in doubt"",""lost"",""err"",""illusion""]",미혹할,미,,,,,,0
+追,N3,"[""chase"",""drive away"",""follow"",""pursue"",""meanwhile""]",쫓을,추,,,,,,0
+退,N3,"[""retreat"",""withdraw"",""retire"",""resign"",""repel"",""expel"",""reject""]",물러갈,퇴,,,,,,0
+逃,N3,"[""escape"",""flee"",""shirk"",""evade"",""set free""]",달아날,도,,,,,,0
+途,N3,"[""route"",""way"",""road""]",길,도,,,,,,0
+速,N3,"[""quick"",""fast""]",빠를,속,,,,,,0
+連,N3,"[""take along"",""lead"",""join"",""connect"",""party"",""gang"",""clique""]",이을,련,,,,,,0
+進,N3,"[""advance"",""proceed"",""progress"",""promote""]",나아갈,진,,,,,,0
+遅,N3,"[""slow"",""late"",""back"",""later""]",늦을,지,,,,,,0
+遊,N3,"[""play""]",놀,유,,,,,,0
+過,N3,"[""overdo"",""exceed"",""go beyond"",""error""]",지날,과,,,,,,0
+達,N3,"[""accomplished"",""reach"",""arrive"",""attain""]",통달할,달,,,,,,0
+違,N3,"[""difference"",""differ""]",어길,위,,,,,,0
+遠,N3,"[""distant"",""far""]",멀,원,,,,,,0
+適,N3,"[""suitable"",""occasional"",""rare"",""qualified"",""capable""]",맞을,적,,,,,,0
+選,N3,"[""elect"",""select"",""choose"",""prefer""]",가릴,선,,,,,,0
+部,N3,"[""section"",""bureau"",""dept"",""class"",""copy"",""part"",""portion"",""counter for copies of a newspaper or magazine""]",거느릴,부,,,,,,0
+都,N3,"[""metropolis"",""capital"",""all"",""everything""]",도읍,도,,,,,,0
+配,N3,"[""distribute"",""spouse"",""exile"",""rationing""]",나눌,배,,,,,,0
+酒,N3,"[""sake"",""alcohol""]",술,주,,,,,,0
+鍋,N3,"[""pot"",""pan"",""kettle""]",노구솥,과,,,,,,0
+閉,N3,"[""closed"",""shut""]",닫을,폐,,,,,,0
+関,N3,"[""connection"",""barrier"",""gateway"",""involve"",""concerning""]",빗장,관,,,,,,0
+降,N3,"[""descend"",""precipitate"",""fall"",""surrender""]",내릴,강,,,,,,0
+限,N3,"[""limit"",""restrict"",""to best of ability""]",한정할,한,,,,,,0
+除,N3,"[""exclude"",""division (x/3)"",""remove"",""abolish"",""cancel"",""except""]",덜,제,,,,,,0
+険,N3,"[""precipitous"",""inaccessible place"",""impregnable position"",""steep place"",""sharp eyes""]",험할,험,,,,,,0
+陽,N3,"[""sunshine"",""yang principle"",""positive"",""male"",""heaven"",""daytime""]",볕,양,,,,,,0
+際,N3,"[""occasion"",""side"",""edge"",""verge"",""dangerous"",""adventurous"",""indecent"",""time"",""when""]",사이,제,,,,,,0
+雑,N3,"[""miscellaneous""]",섞일,잡,,,,,,0
+難,N3,"[""difficult"",""impossible"",""trouble"",""accident"",""defect""]",어려울,난,,,,,,0
+雪,N3,"[""snow""]",눈,설,,,,,,0
+静,N3,"[""quiet""]",고요할,정,,,,,,0
+非,N3,"[""un-"",""mistake"",""negative"",""injustice"",""non-""]",아닐,비,,,,,,0
+面,N3,"[""mask"",""face"",""features"",""surface""]",낯,면,,,,,,0
+靴,N3,"[""shoes""]",신,화,,,,,,0
+頂,N3,"[""place on the head"",""receive"",""top of head"",""top"",""summit"",""peak""]",정수리,정,,,,,,0
+頃,N3,"[""time"",""about"",""toward""]",잠깐,경,,,,,,0
+頭,N3,"[""head"",""counter for large animals""]",머리,두,,,,,,0
+頼,N3,"[""trust"",""request""]",의뢰할,뢰,,,,,,0
+顔,N3,"[""face"",""expression""]",얼굴,안,,,,,,0
+願,N3,"[""petition"",""request"",""vow"",""wish"",""hope""]",원할,원,,,,,,0
+類,N3,"[""sort"",""kind"",""variety"",""class"",""genus""]",무리,류,,,,,,0
+飛,N3,"[""fly"",""skip (pages)"",""scatter""]",날,비,,,,,,0
+餌,N3,"[""food"",""bait"",""prey"",""tempting profit""]",미끼,이,,,,,,0
+首,N3,"[""neck"",""counter for songs and poems""]",머리,수,,,,,,0
+馬,N3,"[""horse""]",말,마,,,,,,0
+髪,N3,"[""hair of the head""]",터럭,발,,,,,,0
+鳴,N3,"[""chirp"",""cry"",""bark"",""sound"",""ring"",""echo"",""honk""]",울,명,,,,,,0
+並,N2,"[""row"",""and"",""besides"",""as well as"",""line up"",""rank with"",""rival"",""equal""]",아우를,병,,,,,,0
+丸,N2,"[""round"",""full (month)"",""perfection"",""-ship"",""pills"",""make round"",""roll up"",""curl up"",""seduce"",""explain away""]",알,환,,,,,,0
+丼,N2,"[""bowl"",""bowl of food""]",우물,정,,,,,,0
+久,N2,"[""long time"",""old story""]",오랠,구,,,,,,0
+乱,N2,"[""riot"",""war"",""disorder"",""disturb""]",어지러울,란,,,,,,0
+乳,N2,"[""milk"",""breasts""]",젖,유,,,,,,0
+乾,N2,"[""drought"",""dry"",""desiccate"",""drink up"",""heaven"",""emperor""]",하늘,건,,,,,,0
+了,N2,"[""complete"",""finish""]",마칠,료,,,,,,0
+介,N2,"[""jammed in"",""shellfish"",""mediate"",""concern oneself with""]",낄,개,,,,,,0
+仏,N2,"[""Buddha"",""the dead"",""France""]",부처,불,,,,,,0
+令,N2,"[""orders"",""laws"",""command"",""decree"",""good""]",명령,령,,,,,,0
+仲,N2,"[""go-between"",""relationship""]",버금,중,,,,,,0
+伸,N2,"[""expand"",""stretch"",""extend"",""lengthen"",""increase""]",펼,신,,,,,,0
+伺,N2,"[""pay respects"",""visit"",""ask"",""inquire"",""question"",""implore""]",엿볼,사,,,,,,0
+低,N2,"[""lower"",""short"",""humble""]",낮을,저,,,,,,0
+依,N2,"[""reliant"",""depend on"",""consequently"",""therefore"",""due to""]",의지할,의,,,,,,0
+個,N2,"[""individual"",""counter for articles""]",낱,개,,,,,,0
+倍,N2,"[""double"",""twice"",""times"",""fold""]",곱,배,,,,,,0
+停,N2,"[""halt"",""stopping""]",머무를,정,,,,,,0
+傾,N2,"[""lean"",""incline"",""tilt"",""trend"",""wane"",""sink"",""ruin"",""bias""]",기울,경,,,,,,0
+像,N2,"[""statue"",""picture"",""image"",""figure"",""portrait""]",형상,상,,,,,,0
+億,N2,"[""hundred million"",""10**8""]",억,억,,,,,,0
+兆,N2,"[""portent"",""10**12"",""trillion"",""sign"",""omen"",""symptoms""]",조짐,조,,,,,,0
+児,N2,"[""newborn babe"",""child"",""young of animals""]",아이,아,,,,,,0
+党,N2,"[""party"",""faction"",""clique""]",무리,당,,,,,,0
+兵,N2,"[""soldier"",""private"",""troops"",""army"",""warfare"",""strategy"",""tactics""]",군사,병,,,,,,0
+冊,N2,"[""tome"",""counter for books"",""volume""]",책,책,,,,,,0
+再,N2,"[""again"",""twice"",""second time""]",두 번,재,,,,,,0
+凍,N2,"[""frozen"",""congeal"",""refrigerate""]",얼,동,,,,,,0
+刊,N2,"[""publish"",""carve"",""engrave""]",책 펴낼,간,,,,,,0
+刷,N2,"[""printing"",""print"",""brush""]",인쇄할,쇄,,,,,,0
+券,N2,"[""ticket""]",문서,권,,,,,,0
+刺,N2,"[""thorn"",""pierce"",""stab"",""prick"",""sting"",""calling card""]",찌를,자,,,,,,0
+則,N2,"[""rule"",""law"",""follow"",""based on"",""model after""]",법칙,칙,,,,,,0
+副,N2,"[""vice-"",""assistant"",""aide"",""duplicate"",""copy""]",버금,부,,,,,,0
+劇,N2,"[""drama"",""play""]",심할,극,,,,,,0
+効,N2,"[""merit"",""efficacy"",""efficiency"",""benefit""]",본받을,효,,,,,,0
+勇,N2,"[""courage"",""cheer up"",""be in high spirits"",""bravery"",""heroism""]",날랠,용,,,,,,0
+募,N2,"[""recruit"",""campaign"",""gather (contributions)"",""enlist"",""grow violent""]",모을,모,,,,,,0
+勢,N2,"[""forces"",""energy"",""military strength""]",권세,세,,,,,,0
+匂,N2,"[""fragrant"",""stink"",""glow"",""insinuate"",""(kokuji)""]",향내,내,,,,,,0
+包,N2,"[""wrap"",""pack up"",""cover"",""conceal""]",꾸릴,포,,,,,,0
+匹,N2,"[""equal"",""head"",""counter for small animals"",""roll of cloth""]",짝,필,,,,,,0
+区,N2,"[""ward"",""district""]",구역,구,,,,,,0
+卒,N2,"[""graduate"",""soldier"",""private"",""die""]",군사,졸,,,,,,0
+協,N2,"[""co-"",""cooperation""]",화합할,협,,,,,,0
+占,N2,"[""fortune-telling"",""divining"",""forecasting"",""occupy"",""hold"",""have"",""get"",""take""]",점칠,점,,,,,,0
+印,N2,"[""stamp"",""seal"",""mark"",""imprint"",""symbol"",""emblem"",""trademark"",""evidence"",""souvenir"",""India""]",도장,인,,,,,,0
+卵,N2,"[""egg"",""ovum"",""spawn"",""roe""]",알,란,,,,,,0
+厚,N2,"[""thick"",""heavy"",""rich"",""kind"",""cordial"",""brazen"",""shameless""]",두터울,후,,,,,,0
+双,N2,"[""pair"",""set"",""comparison"",""counter for pairs""]",짝,쌍,,,,,,0
+叫,N2,"[""shout"",""exclaim"",""yell""]",부를,규,,,,,,0
+召,N2,"[""seduce"",""call"",""send for"",""wear"",""put on"",""ride in"",""buy"",""eat"",""drink"",""catch (cold)""]",부를,소,,,,,,0
+史,N2,"[""history"",""chronicle""]",역사,사,,,,,,0
+各,N2,"[""each"",""every"",""either""]",각각,각,,,,,,0
+含,N2,"[""contain"",""include"",""hold in the mouth"",""bear in mind"",""understand"",""cherish""]",머금을,함,,,,,,0
+周,N2,"[""circumference"",""circuit"",""lap""]",두루,주,,,,,,0
+咲,N2,"[""blossom"",""bloom""]",웃음,소,,,,,,0
+喫,N2,"[""consume"",""eat"",""drink"",""smoke"",""receive (a blow)""]",먹을,끽,,,,,,0
+営,N2,"[""camp"",""perform"",""build"",""conduct (business)""]",경영할,영,,,,,,0
+嗅,N2,"[""smell"",""sniff"",""scent""]",맡을,후,,,,,,0
+団,N2,"[""group"",""association""]",둥글,단,,,,,,0
+囲,N2,"[""surround"",""besiege"",""store"",""paling"",""enclosure"",""encircle"",""preserve"",""keep""]",둘레,위,,,,,,0
+固,N2,"[""harden"",""set"",""clot"",""curdle""]",굳을,고,,,,,,0
+圧,N2,"[""pressure"",""push"",""overwhelm"",""oppress"",""dominate""]",누를,압,,,,,,0
+坂,N2,"[""slope"",""incline"",""hill""]",언덕,판,,,,,,0
+均,N2,"[""level"",""average""]",고를,균,,,,,,0
+型,N2,"[""mould"",""type"",""model""]",거푸집,형,,,,,,0
+埋,N2,"[""bury"",""be filled up"",""embedded""]",묻을,매,,,,,,0
+城,N2,"[""castle""]",성,성,,,,,,0
+域,N2,"[""range"",""region"",""limits"",""stage"",""level""]",경계,역,,,,,,0
+塔,N2,"[""pagoda"",""tower"",""steeple""]",탑,탑,,,,,,0
+塗,N2,"[""paint"",""plaster"",""daub"",""smear"",""coating""]",바를,도,,,,,,0
+塞,N2,"[""close"",""shut"",""cover"",""block"",""obstruct""]",변방,새,,,,,,0
+塩,N2,"[""salt""]",소금,염,,,,,,0
+境,N2,"[""boundary"",""border"",""region""]",지경,경,,,,,,0
+央,N2,"[""center"",""middle""]",가운데,앙,,,,,,0
+奥,N2,"[""heart"",""interior""]",속,오,,,,,,0
+姓,N2,"[""surname""]",일가,성,,,,,,0
+委,N2,"[""committee"",""entrust to"",""leave to"",""devote"",""discard""]",맡길,위,,,,,,0
+孝,N2,"[""filial piety"",""child's respect""]",효도,효,,,,,,0
+季,N2,"[""seasons""]",계절,계,,,,,,0
+孫,N2,"[""grandchild"",""descendants""]",손자,손,,,,,,0
+宇,N2,"[""eaves"",""roof"",""house"",""heaven""]",집,우,,,,,,0
+宛,N2,"[""address"",""just like"",""fortunately""]",완연할,완,,,,,,0
+宝,N2,"[""treasure"",""wealth"",""valuables""]",보배,보,,,,,,0
+寺,N2,"[""Buddhist temple""]",절,사,,,,,,0
+寿,N2,"[""longevity"",""congratulations"",""one's natural life""]",목숨,수,,,,,,0
+封,N2,"[""seal"",""closing""]",봉할,봉,,,,,,0
+専,N2,"[""specialty"",""exclusive"",""mainly"",""solely""]",오로지,전,,,,,,0
+将,N2,"[""leader"",""commander"",""general"",""admiral"",""or"",""and again"",""soon"",""from now on"",""just about""]",장차,장,,,,,,0
+尊,N2,"[""revered"",""valuable"",""precious"",""noble"",""exalted""]",존귀할,존,,,,,,0
+導,N2,"[""guidance"",""leading"",""conduct"",""usher""]",이끌,도,,,,,,0
+届,N2,"[""deliver"",""reach"",""arrive"",""report"",""notify"",""forward""]",이를,계,,,,,,0
+層,N2,"[""stratum"",""social class"",""layer"",""story"",""floor""]",겹,층,,,,,,0
+岩,N2,"[""boulder"",""rock"",""cliff""]",바위,암,,,,,,0
+岸,N2,"[""beach""]",물가 언덕,안,,,,,,0
+島,N2,"[""island""]",섬,도,,,,,,0
+州,N2,"[""state"",""province""]",고을,주,,,,,,0
+巨,N2,"[""gigantic"",""big"",""large"",""great""]",클,거,,,,,,0
+巻,N2,"[""scroll"",""volume"",""book"",""part"",""roll up"",""wind up"",""tie"",""coil"",""counter for texts (or book scrolls)""]",책,권,,,,,,0
+巾,N2,"[""towel"",""hanging scroll"",""width"",""cloth radical (no. 50)""]",수건,건,,,,,,0
+布,N2,"[""linen"",""cloth"",""spread"",""distribute""]",베,포,,,,,,0
+希,N2,"[""hope"",""beg"",""request"",""pray"",""beseech"",""Greece"",""dilute (acid)"",""rare"",""few"",""phenomenal""]",바랄,희,,,,,,0
+帯,N2,"[""sash"",""belt"",""obi"",""zone"",""region""]",띠,대,,,,,,0
+帽,N2,"[""cap"",""headgear""]",모자,모,,,,,,0
+幅,N2,"[""hanging scroll"",""width""]",폭,폭,,,,,,0
+干,N2,"[""dry"",""parch"",""ebb"",""recede"",""interfere"",""intercede""]",방패,간,,,,,,0
+幼,N2,"[""infancy"",""childhood""]",어릴,유,,,,,,0
+庁,N2,"[""government office""]",관청,청,,,,,,0
+床,N2,"[""bed"",""counter for beds"",""floor"",""padding"",""tatami""]",평상,상,,,,,,0
+底,N2,"[""bottom"",""sole"",""depth"",""bottom price"",""base"",""kind"",""sort""]",밑,저,,,,,,0
+府,N2,"[""borough"",""urban prefecture"",""govt office"",""representative body"",""storehouse""]",곳집,부,,,,,,0
+庫,N2,"[""warehouse"",""storehouse""]",곳집,고,,,,,,0
+延,N2,"[""prolong"",""stretching""]",미칠,연,,,,,,0
+弱,N2,"[""weak"",""frail""]",약할,약,,,,,,0
+律,N2,"[""rhythm"",""law"",""regulation"",""gauge"",""control""]",법,률,,,,,,0
+復,N2,"[""restore"",""return to"",""revert"",""resume""]",돌아올,복,,,,,,0
+快,N2,"[""cheerful"",""pleasant"",""agreeable"",""comfortable""]",쾌할,쾌,,,,,,0
+恋,N2,"[""romance"",""in love"",""yearn for"",""miss"",""darling""]",사모할,련,,,,,,0
+患,N2,"[""afflicted"",""disease"",""suffer from"",""be ill""]",근심,환,,,,,,0
+悩,N2,"[""trouble"",""worry"",""in pain"",""distress"",""illness""]",괴로워할,뇌,,,,,,0
+憎,N2,"[""hate"",""detest""]",미워할,증,,,,,,0
+戸,N2,"[""door"",""counter for houses"",""door radical (no. 63)""]",지게,호,,,,,,0
+承,N2,"[""acquiesce"",""hear"",""listen to"",""be informed"",""receive""]",받들,승,,,,,,0
+技,N2,"[""skill"",""art"",""craft"",""ability"",""feat"",""performance"",""vocation"",""arts""]",재주,기,,,,,,0
+担,N2,"[""shouldering"",""carry"",""raise"",""bear""]",멜,담,,,,,,0
+拝,N2,"[""worship"",""adore"",""pray to""]",절,배,,,,,,0
+拭,N2,"[""wipe"",""mop"",""swab""]",닦을,식,,,,,,0
+拾,N2,"[""pick up"",""gather"",""find"",""go on foot"",""ten""]",주울,습,,,,,,0
+挟,N2,"[""pinch"",""between""]",낄,협,,,,,,0
+捜,N2,"[""search"",""look for"",""locate""]",찾을,수,,,,,,0
+捨,N2,"[""discard"",""throw away"",""abandon"",""resign"",""reject"",""sacrifice""]",버릴,사,,,,,,0
+捻,N2,"[""twirl"",""twist"",""play with""]",비틀,념,,,,,,0
+掃,N2,"[""sweep"",""brush""]",쓸,소,,,,,,0
+掘,N2,"[""dig"",""delve"",""excavate""]",팔,굴,,,,,,0
+採,N2,"[""pick"",""take"",""fetch"",""take up""]",캘,채,,,,,,0
+接,N2,"[""touch"",""contact"",""adjoin"",""piece together""]",사귈,접,,,,,,0
+換,N2,"[""interchange"",""period"",""change"",""convert"",""replace"",""renew""]",바꿀,환,,,,,,0
+損,N2,"[""damage"",""loss"",""disadvantage"",""hurt"",""injure""]",덜,손,,,,,,0
+改,N2,"[""reformation"",""change"",""modify"",""mend"",""renew"",""examine"",""inspect"",""search""]",고칠,개,,,,,,0
+敬,N2,"[""awe"",""respect"",""honor"",""revere""]",공경할,경,,,,,,0
+斬,N2,"[""beheading"",""kill"",""murder""]",벨,참,,,,,,0
+旧,N2,"[""old times"",""old things"",""old friend"",""former"",""ex-""]",옛,구,,,,,,0
+昇,N2,"[""rise up""]",해 돋을,승,,,,,,0
+星,N2,"[""star"",""spot"",""dot"",""mark""]",별,성,,,,,,0
+普,N2,"[""universal"",""wide(ly)"",""generally"",""Prussia""]",널리,보,,,,,,0
+暴,N2,"[""outburst"",""rave"",""fret"",""force"",""violence"",""cruelty"",""outrage""]",사나울,폭,,,,,,0
+曇,N2,"[""cloudy weather"",""cloud up""]",날 흐릴,담,,,,,,0
+替,N2,"[""exchange"",""spare"",""substitute"",""per-""]",바꿀,체,,,,,,0
+札,N2,"[""tag"",""paper money"",""counter for bonds"",""placard"",""bid""]",패,찰,,,,,,0
+机,N2,"[""desk"",""table""]",책상,궤,,,,,,0
+材,N2,"[""lumber"",""log"",""timber"",""wood"",""materials"",""ingredients"",""talent""]",재목,재,,,,,,0
+村,N2,"[""village"",""town""]",마을,촌,,,,,,0
+板,N2,"[""plank"",""board"",""plate"",""stage""]",널조각,판,,,,,,0
+枕,N2,"[""pillow""]",베개,침,,,,,,0
+林,N2,"[""grove"",""forest""]",수풀,림,,,,,,0
+枚,N2,"[""sheet of..."",""counter for flat thin objects or sheets""]",낱,매,,,,,,0
+枝,N2,"[""bough"",""branch"",""twig"",""limb"",""counter for branches""]",가지,지,,,,,,0
+枯,N2,"[""wither"",""die"",""dry up"",""be seasoned""]",마를,고,,,,,,0
+柔,N2,"[""tender"",""weakness"",""gentleness"",""softness""]",부드러울,유,,,,,,0
+柱,N2,"[""pillar"",""post"",""cylinder"",""support""]",기둥,주,,,,,,0
+査,N2,"[""investigate""]",조사할,사,,,,,,0
+栄,N2,"[""flourish"",""prosperity"",""honor"",""glory"",""splendor""]",영화로울,영,,,,,,0
+根,N2,"[""root"",""radical"",""head (pimple)""]",뿌리,근,,,,,,0
+桁,N2,"[""beam"",""girder"",""spar"",""unit or column (accounting)""]",수갑,항,,,,,,0
+械,N2,"[""contraption"",""fetter"",""machine"",""instrument""]",형틀,계,,,,,,0
+棒,N2,"[""rod"",""stick"",""cane"",""pole"",""club"",""line""]",몽둥이,봉,,,,,,0
+森,N2,"[""forest"",""woods""]",나무빽빽할,삼,,,,,,0
+植,N2,"[""plant""]",심을,식,,,,,,0
+極,N2,"[""extreme"",""pole"",""extremely"",""very"",""highly"",""most"",""end"",""settlement"",""conclusion"",""highest rank""]",다할,극,,,,,,0
+橋,N2,"[""bridge""]",다리,교,,,,,,0
+欧,N2,"[""Europe""]",구라파,구,,,,,,0
+武,N2,"[""warrior"",""military"",""chivalry"",""arms""]",굳셀,무,,,,,,0
+歴,N2,"[""curriculum"",""continuation"",""passage of time""]",지낼,력,,,,,,0
+殿,N2,"[""Mr."",""hall"",""mansion"",""palace"",""temple"",""lord""]",대궐,전,,,,,,0
+毒,N2,"[""poison"",""virus"",""venom"",""germ"",""harm"",""injury"",""spite""]",독,독,,,,,,0
+比,N2,"[""compare"",""race"",""ratio"",""Philippines""]",견줄,비,,,,,,0
+毛,N2,"[""fur"",""hair"",""feather"",""down""]",털,모,,,,,,0
+氷,N2,"[""icicle"",""ice"",""hail"",""freeze"",""congeal""]",얼음,빙,,,,,,0
+永,N2,"[""eternity"",""long"",""lengthy""]",길,영,,,,,,0
+汗,N2,"[""sweat"",""perspire""]",땀,한,,,,,,0
+汚,N2,"[""dirty"",""pollute"",""disgrace"",""rape"",""defile""]",더러울,오,,,,,,0
+池,N2,"[""pond"",""cistern"",""pool"",""reservoir""]",못,지,,,,,,0
+沈,N2,"[""sink"",""be submerged"",""subside"",""be depressed"",""aloes""]",잠길,침,,,,,,0
+河,N2,"[""river""]",물,하,,,,,,0
+沸,N2,"[""seethe"",""boil"",""ferment"",""uproar"",""breed""]",끓을,비,,,,,,0
+油,N2,"[""oil"",""fat""]",기름,유,,,,,,0
+況,N2,"[""condition"",""situation""]",하물며,황,,,,,,0
+泉,N2,"[""spring"",""fountain""]",샘,천,,,,,,0
+泊,N2,"[""overnight stay"",""put up at"",""ride at anchor""]",머무를,박,,,,,,0
+波,N2,"[""waves"",""billows"",""Poland""]",물결,파,,,,,,0
+泥,N2,"[""mud"",""mire"",""adhere to"",""be attached to""]",진흙,니,,,,,,0
+浅,N2,"[""shallow"",""superficial"",""frivolous"",""wretched"",""shameful""]",얕을,천,,,,,,0
+浴,N2,"[""bathe"",""be favored with"",""bask in""]",목욕할,욕,,,,,,0
+涙,N2,"[""tears"",""sympathy""]",눈물,루,,,,,,0
+液,N2,"[""fluid"",""liquid"",""juice"",""sap"",""secretion""]",진,액,,,,,,0
+涼,N2,"[""refreshing"",""nice and cool""]",서늘할,량,,,,,,0
+混,N2,"[""mix"",""blend"",""confuse""]",섞을,혼,,,,,,0
+清,N2,"[""pure"",""purify"",""cleanse"",""exorcise"",""Manchu dynasty""]",맑을,청,,,,,,0
+減,N2,"[""dwindle"",""decrease"",""reduce"",""decline"",""curtail"",""get hungry""]",덜,감,,,,,,0
+温,N2,"[""warm""]",따뜻할,온,,,,,,0
+測,N2,"[""fathom"",""plan"",""scheme"",""measure""]",측량할,측,,,,,,0
+湖,N2,"[""lake""]",호수,호,,,,,,0
+湯,N2,"[""hot water"",""bath"",""hot spring""]",끓일,탕,,,,,,0
+湾,N2,"[""gulf"",""bay"",""inlet""]",물굽이,만,,,,,,0
+湿,N2,"[""damp"",""wet"",""moist""]",젖을,습,,,,,,0
+準,N2,"[""semi-"",""correspond to"",""proportionate to"",""conform"",""imitate""]",준할,준,,,,,,0
+溶,N2,"[""melt"",""dissolve"",""thaw""]",녹을,용,,,,,,0
+滴,N2,"[""drip"",""drop""]",물방울,적,,,,,,0
+漁,N2,"[""fishing"",""fishery""]",물고기 잡을,어,,,,,,0
+潰,N2,"[""crush"",""smash"",""break"",""dissipate""]",흩어질,궤,,,,,,0
+濃,N2,"[""concentrated"",""thick"",""dark"",""undiluted""]",짙을,농,,,,,,0
+濯,N2,"[""laundry"",""wash"",""pour on"",""rinse""]",씻을,탁,,,,,,0
+灯,N2,"[""lamp"",""a light"",""light"",""counter for lights""]",등잔,등,,,,,,0
+灰,N2,"[""ashes"",""puckery juice"",""cremate""]",재,회,,,,,,0
+炭,N2,"[""charcoal"",""coal""]",숯,탄,,,,,,0
+焼,N2,"[""bake"",""burning""]",불사를,소,,,,,,0
+煎,N2,"[""broil"",""parch"",""roast"",""boil""]",달일,전,,,,,,0
+照,N2,"[""illuminate"",""shine"",""compare"",""bashful""]",비출,조,,,,,,0
+燃,N2,"[""burn"",""blaze"",""glow""]",불사를,연,,,,,,0
+燥,N2,"[""parch"",""dry up""]",마를,조,,,,,,0
+爆,N2,"[""bomb"",""burst open"",""pop"",""split""]",터질,폭,,,,,,0
+爪,N2,"[""claw"",""nail"",""talon""]",손톱,조,,,,,,0
+片,N2,"[""one-sided"",""leaf"",""sheet"",""right-side kata radical (no. 91)""]",조각,편,,,,,,0
+版,N2,"[""printing block"",""printing plate"",""edition"",""impression"",""label""]",조각,판,,,,,,0
+狙,N2,"[""aim at"",""sight"",""shadow"",""stalk""]",원숭이,저,,,,,,0
+玉,N2,"[""jewel"",""ball""]",구슬,옥,,,,,,0
+珍,N2,"[""rare"",""curious"",""strange""]",보배,진,,,,,,0
+瓦,N2,"[""tile"",""gram""]",질그릇,와,,,,,,0
+瓶,N2,"[""bottle"",""vial"",""jar"",""jug"",""vat"",""urn""]",병,병,,,,,,0
+甘,N2,"[""sweet"",""coax"",""pamper"",""be content"",""sugary""]",달,감,,,,,,0
+畜,N2,"[""livestock"",""domestic fowl and animals""]",가축,축,,,,,,0
+略,N2,"[""abbreviation"",""omission"",""outline"",""shorten"",""capture"",""plunder""]",다스릴,략,,,,,,0
+畳,N2,"[""tatami mat"",""counter for tatami mats"",""fold"",""shut up"",""do away with""]",거듭,첩,,,,,,0
+療,N2,"[""heal"",""cure""]",병고칠,료,,,,,,0
+皮,N2,"[""pelt"",""skin"",""hide"",""leather"",""skin radical (no. 107)""]",가죽,피,,,,,,0
+皿,N2,"[""dish"",""a helping"",""plate""]",그릇,명,,,,,,0
+省,N2,"[""government ministry"",""conserve"",""omit""]",살필,성,,,,,,0
+県,N2,"[""prefecture""]",고을,현,,,,,,0
+短,N2,"[""short"",""brevity"",""fault"",""defect"",""weak point""]",짧을,단,,,,,,0
+砂,N2,"[""sand""]",모래,사,,,,,,0
+硬,N2,"[""stiff"",""hard""]",굳을,경,,,,,,0
+磨,N2,"[""grind"",""polish"",""scour"",""improve"",""brush (teeth)""]",갈,마,,,,,,0
+祈,N2,"[""pray"",""wish""]",빌,기,,,,,,0
+祝,N2,"[""celebrate"",""congratulate""]",빌,축,,,,,,0
+祭,N2,"[""ritual"",""offer prayers"",""celebrate"",""deify"",""enshrine"",""worship""]",제사,제,,,,,,0
+禁,N2,"[""prohibition"",""ban"",""forbid""]",금할,금,,,,,,0
+秒,N2,"[""second (1/60 minute)""]",시간 단위,초,,,,,,0
+移,N2,"[""shift"",""move"",""change"",""drift"",""catch (cold, fire)"",""pass into""]",옮길,이,,,,,,0
+税,N2,"[""tax"",""duty""]",세금,세,,,,,,0
+稽,N2,"[""think"",""consider""]",상고할,계,,,,,,0
+章,N2,"[""badge"",""chapter"",""composition"",""poem"",""design""]",글,장,,,,,,0
+童,N2,"[""juvenile"",""child""]",아이,동,,,,,,0
+競,N2,"[""emulate"",""compete with"",""bid"",""sell at auction"",""bout"",""contest"",""race""]",겨룰,경,,,,,,0
+竹,N2,"[""bamboo""]",대,죽,,,,,,0
+符,N2,"[""token"",""sign"",""mark"",""tally"",""charm""]",부신,부,,,,,,0
+筆,N2,"[""writing brush"",""writing"",""painting brush"",""handwriting""]",붓,필,,,,,,0
+筒,N2,"[""cylinder"",""pipe"",""tube"",""gun barrel"",""sleeve""]",통,통,,,,,,0
+箋,N2,"[""paper"",""label"",""letter"",""composition""]",기록할,전,,,,,,0
+算,N2,"[""calculate"",""divining"",""number"",""abacus"",""probability""]",셀,산,,,,,,0
+管,N2,"[""pipe"",""tube"",""wind instrument"",""drunken talk"",""control"",""jurisdiction""]",대롱,관,,,,,,0
+築,N2,"[""fabricate"",""build"",""construct""]",다질,축,,,,,,0
+簡,N2,"[""simplicity"",""brevity""]",대쪽,간,,,,,,0
+籍,N2,"[""enroll"",""domiciliary register"",""membership""]",문서,적,,,,,,0
+粉,N2,"[""flour"",""powder"",""dust""]",가루,분,,,,,,0
+粒,N2,"[""grains"",""drop"",""counter for tiny particles""]",알,립,,,,,,0
+糸,N2,"[""thread""]",실,사,,,,,,0
+紅,N2,"[""crimson"",""deep red""]",붉을,홍,,,,,,0
+純,N2,"[""genuine"",""purity"",""innocence"",""net (profit)""]",순수할,순,,,,,,0
+細,N2,"[""dainty"",""get thin"",""taper"",""slender"",""narrow"",""detailed"",""precise""]",가늘,세,,,,,,0
+紹,N2,"[""introduce"",""inherit"",""help""]",이을,소,,,,,,0
+絡,N2,"[""entwine"",""coil around"",""get caught in""]",이을,락,,,,,,0
+綿,N2,"[""cotton""]",솜,면,,,,,,0
+総,N2,"[""general"",""whole"",""all"",""full"",""total""]",거느릴,총,,,,,,0
+緑,N2,"[""green""]",초록빛,록,,,,,,0
+線,N2,"[""line"",""track""]",실,선,,,,,,0
+編,N2,"[""compilation"",""knit"",""plait"",""braid"",""twist"",""editing"",""completed poem"",""part of a book""]",책편,편,,,,,,0
+練,N2,"[""practice"",""gloss"",""train"",""drill"",""polish"",""refine""]",익힐,련,,,,,,0
+績,N2,"[""exploits"",""achievements"",""unreeling cocoons""]",길쌈,적,,,,,,0
+缶,N2,"[""tin can"",""container"",""jar radical (no. 121)""]",장군,부,,,,,,0
+署,N2,"[""signature"",""govt office"",""police station""]",관청,서,,,,,,0
+群,N2,"[""flock"",""group"",""crowd"",""herd"",""swarm"",""cluster""]",무리,군,,,,,,0
+羨,N2,"[""envious"",""be jealous"",""covet""]",부러워할,선,,,,,,0
+羽,N2,"[""feathers"",""counter for birds, rabbits""]",깃,우,,,,,,0
+翌,N2,"[""the following"",""next""]",다음날,익,,,,,,0
+耕,N2,"[""till"",""plow"",""cultivate""]",밭갈,경,,,,,,0
+肌,N2,"[""texture"",""skin"",""body"",""grain""]",살,기,,,,,,0
+肘,N2,"[""elbow"",""arm""]",팔꿈치,주,,,,,,0
+肩,N2,"[""shoulder""]",어깨,견,,,,,,0
+肯,N2,"[""agreement"",""consent"",""comply with""]",옳이 여길,긍,,,,,,0
+胃,N2,"[""stomach"",""paunch"",""crop"",""craw""]",밥통,위,,,,,,0
+胸,N2,"[""bosom"",""breast"",""chest"",""heart"",""feelings""]",가슴,흉,,,,,,0
+脂,N2,"[""fat"",""grease"",""tallow"",""lard"",""rosin"",""gum"",""tar""]",기름,지,,,,,,0
+脳,N2,"[""brain"",""memory""]",머리,뇌,,,,,,0
+腕,N2,"[""arm"",""ability"",""talent""]",팔뚝,완,,,,,,0
+腰,N2,"[""loins"",""hips"",""waist"",""low wainscoting""]",허리,요,,,,,,0
+膚,N2,"[""skin"",""body"",""grain"",""texture"",""disposition""]",살갗,부,,,,,,0
+臓,N2,"[""entrails"",""viscera"",""bowels""]",오장,장,,,,,,0
+臣,N2,"[""retainer"",""subject""]",신하,신,,,,,,0
+舟,N2,"[""boat"",""ship""]",배,주,,,,,,0
+航,N2,"[""navigate"",""sail"",""cruise"",""fly""]",쌍배,항,,,,,,0
+般,N2,"[""carrier"",""carry"",""all"",""general"",""sort"",""kind""]",옮길,반,,,,,,0
+芯,N2,"[""wick""]",등심초,심,,,,,,0
+芸,N2,"[""technique"",""art"",""craft"",""performance"",""acting"",""trick"",""stunt""]",재주,예,,,,,,0
+荒,N2,"[""laid waste"",""rough"",""rude"",""wild""]",거칠,황,,,,,,0
+荷,N2,"[""baggage"",""shoulder-pole load"",""bear (a burden)"",""shoulder (a gun)"",""load"",""cargo"",""freight""]",연,하,,,,,,0
+菓,N2,"[""candy"",""cakes"",""fruit""]",과일,과,,,,,,0
+菜,N2,"[""vegetable"",""side dish"",""greens""]",나물,채,,,,,,0
+著,N2,"[""renowned"",""publish"",""write"",""remarkable"",""phenomenal"",""put on"",""don"",""wear"",""arrival"",""finish (race)"",""counter for suits of clothing"",""literary work""]",나타날,저,,,,,,0
+蒸,N2,"[""steam"",""heat"",""sultry"",""foment"",""get musty""]",찔,증,,,,,,0
+蓋,N2,"[""cover"",""lid"",""flap""]",뚜껑,개,,,,,,0
+蔵,N2,"[""storehouse"",""hide"",""own"",""have"",""possess""]",감출,장,,,,,,0
+薄,N2,"[""dilute"",""thin"",""weak (tea)"",""pampas grass""]",엷을,박,,,,,,0
+虫,N2,"[""insect"",""bug"",""temper""]",벌레,충,,,,,,0
+血,N2,"[""blood""]",피,혈,,,,,,0
+衣,N2,"[""garment"",""clothes"",""dressing""]",옷,의,,,,,,0
+袋,N2,"[""sack"",""bag"",""pouch""]",자루,대,,,,,,0
+被,N2,"[""incur"",""cover"",""veil"",""brood over"",""shelter"",""wear"",""put on"",""be exposed (film)"",""receiving""]",이불,피,,,,,,0
+装,N2,"[""attire"",""dress"",""pretend"",""disguise"",""profess""]",차려 입을,장,,,,,,0
+裏,N2,"[""back"",""amidst"",""in"",""reverse"",""inside"",""palm"",""sole"",""rear"",""lining"",""wrong side""]",속,리,,,,,,0
+補,N2,"[""supplement"",""supply"",""make good"",""offset"",""compensate"",""assistant"",""learner""]",기울,보,,,,,,0
+複,N2,"[""duplicate"",""double"",""compound"",""multiple""]",겹옷,복,,,,,,0
+角,N2,"[""angle"",""corner"",""square"",""horn"",""antlers""]",뿔,각,,,,,,0
+触,N2,"[""contact"",""touch"",""feel"",""hit"",""proclaim"",""announce"",""conflict""]",닿을,촉,,,,,,0
+訓,N2,"[""instruction"",""Japanese character reading"",""explanation"",""read""]",가르칠,훈,,,,,,0
+設,N2,"[""establishment"",""provision"",""prepare""]",베풀,설,,,,,,0
+詞,N2,"[""part of speech"",""words"",""poetry""]",말씀,사,,,,,,0
+詰,N2,"[""packed"",""close"",""pressed"",""reprove"",""rebuke"",""blame""]",물을,힐,,,,,,0
+誌,N2,"[""document"",""records""]",기록할,지,,,,,,0
+課,N2,"[""chapter"",""lesson"",""section"",""department"",""division"",""counter for chapters (of a book)""]",매길,과,,,,,,0
+諸,N2,"[""various"",""many"",""several"",""together""]",모든,제,,,,,,0
+講,N2,"[""lecture"",""club"",""association""]",강론할,강,,,,,,0
+谷,N2,"[""valley""]",골짜기,곡,,,,,,0
+豊,N2,"[""bountiful"",""excellent"",""rich""]",풍년,풍,,,,,,0
+象,N2,"[""elephant"",""pattern after"",""imitate"",""image"",""shape"",""sign (of the times)""]",코끼리,상,,,,,,0
+貝,N2,"[""shellfish""]",조개,패,,,,,,0
+貨,N2,"[""freight"",""goods"",""property""]",재화,화,,,,,,0
+販,N2,"[""marketing"",""sell"",""trade""]",장사,판,,,,,,0
+貯,N2,"[""savings"",""store"",""lay in"",""keep"",""wear mustache""]",쌓을,저,,,,,,0
+貿,N2,"[""trade"",""exchange""]",바꿀,무,,,,,,0
+賞,N2,"[""prize"",""reward"",""praise""]",상줄,상,,,,,,0
+賢,N2,"[""intelligent"",""wise"",""wisdom"",""cleverness""]",어질,현,,,,,,0
+贈,N2,"[""presents"",""send"",""give to"",""award to"",""confer on"",""presenting something""]",보낼,증,,,,,,0
+超,N2,"[""transcend"",""super-"",""ultra-""]",뛰어넘을,초,,,,,,0
+跡,N2,"[""tracks"",""mark"",""print"",""impression""]",자취,적,,,,,,0
+踊,N2,"[""jump"",""dance"",""leap"",""skip""]",뛸,용,,,,,,0
+蹴,N2,"[""kick""]",찰,축,,,,,,0
+軍,N2,"[""army"",""force"",""troops"",""war"",""battle""]",군사,군,,,,,,0
+軒,N2,"[""flats"",""counter for houses"",""eaves""]",초헌,헌,,,,,,0
+軟,N2,"[""soft""]",부드러울,연,,,,,,0
+軽,N2,"[""lightly"",""trifling"",""unimportant""]",가벼울,경,,,,,,0
+輪,N2,"[""wheel"",""ring"",""circle"",""link"",""loop"",""counter for wheels and flowers""]",바퀴,륜,,,,,,0
+輸,N2,"[""transport"",""send"",""be inferior""]",나를,수,,,,,,0
+辛,N2,"[""spicy"",""bitter"",""hot"",""acrid""]",매울,신,,,,,,0
+農,N2,"[""agriculture"",""farmers""]",농사,농,,,,,,0
+辺,N2,"[""environs"",""boundary"",""border"",""vicinity""]",가,변,,,,,,0
+述,N2,"[""mention"",""state"",""speak"",""relate""]",펼,술,,,,,,0
+逆,N2,"[""inverted"",""reverse"",""opposite"",""wicked""]",거스를,역,,,,,,0
+造,N2,"[""create"",""make"",""structure"",""physique""]",지을,조,,,,,,0
+遜,N2,"[""humble"",""modest""]",순할,손,,,,,,0
+遡,N2,"[""go upstream"",""retrace the past""]",거스를,소,,,,,,0
+郊,N2,"[""outskirts"",""suburbs"",""rural area""]",성 밖,교,,,,,,0
+郵,N2,"[""mail"",""stagecoach stop""]",역말,우,,,,,,0
+量,N2,"[""quantity"",""measure"",""weight"",""amount"",""consider"",""estimate"",""surmise""]",헤아릴,량,,,,,,0
+釜,N2,"[""kettle"",""cauldron"",""iron pot""]",가마,부,,,,,,0
+針,N2,"[""needle"",""pin"",""staple"",""stinger""]",바늘,침,,,,,,0
+鈍,N2,"[""dull"",""slow"",""foolish"",""blunt""]",무딜,둔,,,,,,0
+鉄,N2,"[""iron""]",쇠,철,,,,,,0
+鉱,N2,"[""mineral"",""ore""]",쇳돌,광,,,,,,0
+銅,N2,"[""copper""]",구리,동,,,,,,0
+鋭,N2,"[""pointed"",""sharpness"",""edge"",""weapon"",""sharp"",""violent""]",날카로울,예,,,,,,0
+録,N2,"[""record""]",기록할,록,,,,,,0
+門,N2,"[""gate"",""counter for cannons""]",문,문,,,,,,0
+防,N2,"[""ward off"",""defend"",""protect"",""resist""]",막을,방,,,,,,0
+陸,N2,"[""land"",""six""]",뭍,륙,,,,,,0
+隅,N2,"[""corner"",""nook""]",모퉁이,우,,,,,,0
+階,N2,"[""storey"",""stair"",""counter for storeys of a building""]",섬돌,계,,,,,,0
+隙,N2,"[""crevice"",""fissure"",""discord"",""opportunity"",""leisure""]",틈,극,,,,,,0
+隻,N2,"[""vessels"",""counter for ships"",""fish"",""birds"",""arrows"",""one of a pair""]",새 한 마리,척,,,,,,0
+雇,N2,"[""employ"",""hire""]",품팔,고,,,,,,0
+雲,N2,"[""cloud""]",구름,운,,,,,,0
+零,N2,"[""zero"",""spill"",""overflow"",""nothing"",""cipher""]",떨어질,령,,,,,,0
+震,N2,"[""quake"",""shake"",""tremble"",""quiver"",""shiver""]",우레,진,,,,,,0
+革,N2,"[""leather"",""skin"",""reform"",""become serious""]",가죽,혁,,,,,,0
+順,N2,"[""obey"",""order"",""turn"",""right"",""docility"",""occasion""]",좇을,순,,,,,,0
+預,N2,"[""deposit"",""custody"",""leave with"",""entrust to""]",미리,예,,,,,,0
+領,N2,"[""jurisdiction"",""dominion"",""territory"",""fief"",""reign""]",옷깃,령,,,,,,0
+額,N2,"[""forehead"",""tablet"",""plaque"",""framed picture"",""sum"",""amount"",""volume""]",이마,액,,,,,,0
+餅,N2,"[""mochi rice cake""]",떡,병,,,,,,0
+香,N2,"[""incense"",""smell"",""perfume""]",향내,향,,,,,,0
+駐,N2,"[""stop-over"",""reside in"",""resident""]",머무를,주,,,,,,0
+骨,N2,"[""skeleton"",""bone"",""remains"",""frame""]",뼈,골,,,,,,0
+麓,N2,"[""foot of a mountain""]",산기슭,록,,,,,,0
+麦,N2,"[""barley"",""wheat""]",보리,맥,,,,,,0
+黄,N2,"[""yellow""]",누를,황,,,,,,0
+鼻,N2,"[""nose"",""snout""]",코,비,,,,,,0
+齢,N2,"[""age""]",나이,령,,,,,,0
+丁,N1,"[""street"",""ward"",""town"",""counter for guns, tools, leaves or cakes of something"",""even number"",""4th calendar sign""]",장정,정,,,,,,0
+丑,N1,"[""sign of the ox or cow"",""1-3AM"",""second sign of Chinese zodiac""]",소,축,,,,,,0
+且,N1,"[""moreover"",""also"",""furthermore""]",또,차,,,,,,0
+丘,N1,"[""hill"",""knoll""]",언덕,구,,,,,,0
+丙,N1,"[""third class"",""3rd"",""3rd calendar sign""]",남녘,병,,,,,,0
+丞,N1,"[""help""]",이을,승,,,,,,0
+串,N1,"[""spit"",""skewer""]",땅이름,곶,,,,,,0
+丹,N1,"[""rust-colored"",""red"",""red lead"",""pills"",""sincerity""]",붉을,단,,,,,,0
+乃,N1,"[""from"",""possessive particle"",""whereupon"",""accordingly""]",이에,내,,,,,,0
+之,N1,"[""of"",""this""]",갈,지,,,,,,0
+乏,N1,"[""destitution"",""scarce"",""limited""]",없을,핍,,,,,,0
+乙,N1,"[""the latter"",""duplicate"",""strange"",""witty"",""fishhook radical (no. 5)""]",새,을,,,,,,0
+乞,N1,"[""beg"",""invite"",""ask""]",구걸할,걸,,,,,,0
+也,N1,"[""to be (classical)""]",단정의 어조사,야,,,,,,0
+亀,N1,"[""tortoise"",""turtle""]",거북,귀,,,,,,0
+井,N1,"[""well"",""well crib"",""town"",""community""]",우물,정,,,,,,0
+亘,N1,"[""span"",""range"",""extend over""]",뻗칠,긍,,,,,,0
+亜,N1,"[""Asia"",""rank next"",""come after"",""-ous""]",버금,아,,,,,,0
+亥,N1,"[""sign of the hog"",""9-11PM"",""twelfth sign of the Chinese zodiac""]",열 둘째 지지,해,,,,,,0
+亦,N1,"[""also"",""again""]",또,역,,,,,,0
+亨,N1,"[""pass through"",""go smoothly""]",형통할,형,,,,,,0
+享,N1,"[""enjoy"",""receive"",""undergo"",""answer (phone)"",""take"",""get"",""catch""]",드릴,향,,,,,,0
+亭,N1,"[""pavilion"",""restaurant"",""mansion"",""arbor"",""cottage"",""vaudeville"",""music hall"",""stage name""]",정자,정,,,,,,0
+亮,N1,"[""clear"",""help""]",밝을,량,,,,,,0
+仁,N1,"[""humanity"",""virtue"",""benevolence"",""charity"",""man"",""kernel""]",어질,인,,,,,,0
+仙,N1,"[""hermit"",""wizard"",""cent""]",신선,선,,,,,,0
+仮,N1,"[""sham"",""temporary"",""interim"",""assumed (name)"",""informal""]",거짓,가,,,,,,0
+仰,N1,"[""face-up"",""look up"",""depend"",""seek"",""respect"",""revere"",""drink"",""take""]",우러를,앙,,,,,,0
+企,N1,"[""undertake"",""scheme"",""design"",""attempt"",""plan""]",꾀할,기,,,,,,0
+伊,N1,"[""Italy"",""that one""]",저,이,,,,,,0
+伍,N1,"[""five"",""five-man squad"",""file"",""line""]",다섯 사람,오,,,,,,0
+伎,N1,"[""deed"",""skill""]",재주,기,,,,,,0
+伏,N1,"[""prostrated"",""bend down"",""bow"",""cover"",""lay (pipes)""]",엎드릴,복,,,,,,0
+伐,N1,"[""fell"",""strike"",""attack"",""punish""]",칠,벌,,,,,,0
+伯,N1,"[""chief"",""count"",""earl"",""uncle"",""Brazil""]",맏,백,,,,,,0
+伴,N1,"[""consort"",""accompany"",""bring with"",""companion""]",짝,반,,,,,,0
+伶,N1,"[""actor""]",영리할,령,,,,,,0
+伽,N1,"[""nursing"",""attending"",""entertainer""]",절,가,,,,,,0
+但,N1,"[""however"",""but""]",다만,단,,,,,,0
+佐,N1,"[""assistant"",""help""]",도울,좌,,,,,,0
+佑,N1,"[""help"",""assist""]",도울,우,,,,,,0
+佳,N1,"[""excellent"",""beautiful"",""good"",""pleasing"",""skilled""]",아름다울,가,,,,,,0
+併,N1,"[""join"",""get together"",""unite"",""collective""]",아우를,병,,,,,,0
+侃,N1,"[""strong"",""just"",""righteous"",""peace-loving""]",강직할,간,,,,,,0
+侍,N1,"[""waiter"",""samurai"",""wait upon"",""serve""]",모실,시,,,,,,0
+侑,N1,"[""urge to eat""]",도울,유,,,,,,0
+価,N1,"[""value"",""price""]",값,가,,,,,,0
+侮,N1,"[""scorn"",""despise"",""make light of"",""contempt""]",업신여길,모,,,,,,0
+侯,N1,"[""marquis"",""lord"",""daimyo""]",제후,후,,,,,,0
+侵,N1,"[""encroach"",""invade"",""raid"",""trespass"",""violate""]",범할,침,,,,,,0
+侶,N1,"[""companion"",""follower""]",짝,려,,,,,,0
+促,N1,"[""stimulate"",""urge"",""press"",""demand"",""incite""]",핍박할,촉,,,,,,0
+俊,N1,"[""sagacious"",""genius"",""excellence""]",준걸,준,,,,,,0
+俗,N1,"[""vulgar"",""customs"",""manners"",""worldliness"",""mundane things""]",풍속,속,,,,,,0
+保,N1,"[""protect"",""guarantee"",""keep"",""preserve"",""sustain"",""support""]",지킬,보,,,,,,0
+修,N1,"[""discipline"",""conduct oneself well"",""study"",""master""]",닦을,수,,,,,,0
+俳,N1,"[""haiku"",""actor""]",광대,배,,,,,,0
+俵,N1,"[""bag"",""bale"",""sack"",""counter for bags""]",나누어 줄,표,,,,,,0
+俸,N1,"[""stipend"",""salary""]",녹,봉,,,,,,0
+俺,N1,"[""I"",""myself""]",자기,엄,,,,,,0
+倉,N1,"[""godown"",""warehouse"",""storehouse"",""cellar"",""treasury""]",곳집,창,,,,,,0
+倖,N1,"[""happiness"",""luck""]",요행,행,,,,,,0
+倣,N1,"[""emulate"",""imitate""]",본뜰,방,,,,,,0
+倫,N1,"[""ethics"",""companion""]",인륜,륜,,,,,,0
+倭,N1,"[""Yamato"",""ancient Japan""]",나라이름,왜,,,,,,0
+倹,N1,"[""frugal"",""economy"",""thrifty""]",검소할,검,,,,,,0
+偏,N1,"[""partial"",""side"",""left-side radical"",""inclining"",""biased""]",치우칠,편,,,,,,0
+健,N1,"[""healthy"",""health"",""strength"",""persistence""]",굳셀,건,,,,,,0
+偲,N1,"[""recollect"",""remember""]",간절히 책망할,시,,,,,,0
+偵,N1,"[""spy""]",엿볼,정,,,,,,0
+偽,N1,"[""falsehood"",""lie"",""deceive"",""pretend"",""counterfeit"",""forgery""]",거짓,위,,,,,,0
+傍,N1,"[""bystander"",""side"",""besides"",""while"",""nearby"",""third person""]",곁,방,,,,,,0
+傑,N1,"[""greatness"",""excellence""]",호걸,걸,,,,,,0
+傘,N1,"[""umbrella""]",우산,산,,,,,,0
+催,N1,"[""sponsor"",""hold (a meeting)"",""give (a dinner)""]",재촉할,최,,,,,,0
+傲,N1,"[""be proud""]",업신여길,오,,,,,,0
+債,N1,"[""bond"",""loan"",""debt""]",빚,채,,,,,,0
+傷,N1,"[""wound"",""hurt"",""injure"",""impair"",""pain"",""injury"",""cut"",""gash"",""scar"",""weak point""]",상처,상,,,,,,0
+僕,N1,"[""me"",""I (male)"",""servant"",""manservant""]",종,복,,,,,,0
+僚,N1,"[""colleague"",""official"",""companion""]",동료,료,,,,,,0
+僧,N1,"[""Buddhist priest"",""monk""]",중,승,,,,,,0
+儀,N1,"[""ceremony"",""rule"",""affair"",""case"",""a matter""]",꼴,의,,,,,,0
+儒,N1,"[""Confucian""]",선비,유,,,,,,0
+償,N1,"[""reparation"",""make up for"",""recompense"",""redeem""]",갚을,상,,,,,,0
+允,N1,"[""license"",""sincerity"",""permit""]",미쁠,윤,,,,,,0
+充,N1,"[""allot"",""fill""]",가득찰,충,,,,,,0
+克,N1,"[""overcome"",""kindly"",""skillfully""]",이길,극,,,,,,0
+免,N1,"[""excuse"",""dismissal""]",면할,면,,,,,,0
+典,N1,"[""code"",""ceremony"",""law"",""rule""]",책,전,,,,,,0
+兼,N1,"[""concurrently"",""and"",""beforehand"",""in advance""]",겸할,겸,,,,,,0
+冒,N1,"[""risk"",""face"",""defy"",""dare"",""damage"",""assume (a name)""]",가릴,모,,,,,,0
+冗,N1,"[""superfluous"",""uselessness""]",한산할,용,,,,,,0
+冠,N1,"[""crown"",""best"",""peerless""]",갓,관,,,,,,0
+冥,N1,"[""dark""]",어두울,명,,,,,,0
+冴,N1,"[""be clear"",""serene"",""cold"",""skilful""]",찰,호,,,,,,0
+冶,N1,"[""melting"",""smelting""]",단련할,야,,,,,,0
+准,N1,"[""quasi-"",""semi-"",""associate""]",승인할,준,,,,,,0
+凌,N1,"[""endure"",""keep (rain)out"",""stave off"",""tide over"",""defy"",""slight"",""surpass""]",얼음,능,,,,,,0
+凜,N1,"[""cold"",""strict"",""severe""]",찰,늠,,,,,,0
+凝,N1,"[""congeal"",""freeze"",""stiff"",""be absorbed in""]",엉길,응,,,,,,0
+凡,N1,"[""commonplace"",""ordinary"",""mediocre""]",무릇,범,,,,,,0
+凪,N1,"[""lull"",""calm"",""(kokuji)""]",그칠,지,,,,,,0
+凱,N1,"[""victory song""]",개선할,개,,,,,,0
+凶,N1,"[""villain"",""evil"",""bad luck"",""disaster""]",흉할,흉,,,,,,0
+凸,N1,"[""convex"",""beetle brow"",""uneven""]",볼록할,철,,,,,,0
+凹,N1,"[""concave"",""hollow"",""sunken""]",오목할,요,,,,,,0
+刀,N1,"[""sword"",""saber"",""knife""]",칼,도,,,,,,0
+刃,N1,"[""blade"",""sword"",""edge""]",칼날,인,,,,,,0
+刈,N1,"[""reap"",""cut"",""clip"",""trim"",""prune""]",풀 벨,예,,,,,,0
+刑,N1,"[""punish"",""penalty"",""sentence"",""punishment""]",형벌,형,,,,,,0
+刹,N1,"[""temple""]",절,찰,,,,,,0
+削,N1,"[""plane"",""sharpen"",""whittle"",""pare"",""shave""]",깎을,삭,,,,,,0
+剖,N1,"[""divide""]",쪼갤,부,,,,,,0
+剛,N1,"[""sturdy"",""strength""]",굳을,강,,,,,,0
+剝,N1,"[""come off"",""peel"",""fade"",""discolor""]",벗길,박,,,,,,0
+剣,N1,"[""sabre"",""sword"",""blade"",""clock hand""]",칼,검,,,,,,0
+剤,N1,"[""dose"",""medicine"",""drug""]",약 지을,제,,,,,,0
+剰,N1,"[""surplus"",""besides""]",남을,잉,,,,,,0
+創,N1,"[""genesis"",""wound"",""injury"",""hurt"",""start"",""originate""]",비롯할,창,,,,,,0
+功,N1,"[""achievement"",""merits"",""success"",""honor"",""credit""]",공,공,,,,,,0
+劣,N1,"[""inferiority"",""be inferior to"",""be worse""]",못할,렬,,,,,,0
+励,N1,"[""encourage"",""be diligent"",""inspire""]",힘쓸,려,,,,,,0
+劾,N1,"[""censure"",""criminal investigation""]",캐물을,핵,,,,,,0
+勁,N1,"[""strong""]",굳셀,경,,,,,,0
+勃,N1,"[""suddenness"",""rise""]",갑작스러울,발,,,,,,0
+勅,N1,"[""imperial order""]",신칙할,칙,,,,,,0
+勘,N1,"[""intuition"",""perception"",""check"",""compare"",""sixth sense""]",마감할,감,,,,,,0
+勧,N1,"[""persuade"",""recommend"",""advise"",""encourage"",""offer""]",권할,권,,,,,,0
+勲,N1,"[""meritorious deed"",""merit""]",공,훈,,,,,,0
+勺,N1,"[""ladle"",""one tenth of a go"",""dip""]",구기,작,,,,,,0
+勾,N1,"[""be bent"",""slope"",""capture""]",글귀절,구,,,,,,0
+匁,N1,"[""monme"",""3.75 grams"",""(kokuji)""]",몸메,문,,,,,,0
+匠,N1,"[""artisan"",""workman"",""carpenter""]",장인,장,,,,,,0
+匡,N1,"[""correct"",""save"",""assist""]",바룰,광,,,,,,0
+匿,N1,"[""hide"",""shelter"",""shield""]",숨길,닉,,,,,,0
+升,N1,"[""measuring box"",""1.8 liter""]",되,승,,,,,,0
+卑,N1,"[""lowly"",""base"",""vile"",""vulgar"",""despise""]",낮을,비,,,,,,0
+卓,N1,"[""eminent"",""table"",""desk"",""high""]",높을,탁,,,,,,0
+博,N1,"[""Dr."",""command"",""esteem"",""win acclaim"",""Ph.D."",""exposition"",""fair""]",넓을,박,,,,,,0
+卯,N1,"[""sign of the hare or rabbit"",""fourth sign of Chinese zodiac"",""5-7AM"",""east""]",토끼,묘,,,,,,0
+即,N1,"[""instant"",""namely"",""as is"",""conform"",""agree"",""adapt""]",곧,즉,,,,,,0
+却,N1,"[""instead"",""on the contrary"",""rather"",""step back"",""withdraw"",""retreat""]",물리칠,각,,,,,,0
+卸,N1,"[""wholesale""]",풀,사,,,,,,0
+厄,N1,"[""unlucky"",""misfortune"",""bad luck"",""disaster""]",재앙,액,,,,,,0
+厘,N1,"[""rin"",""1/10 sen"",""1/10 bu""]",티끌,리,,,,,,0
+厳,N1,"[""stern"",""strictness"",""severity"",""rigidity""]",엄할,엄,,,,,,0
+又,N1,"[""or again"",""furthermore"",""on the other hand""]",또,우,,,,,,0
+及,N1,"[""reach out"",""exert"",""exercise"",""cause""]",미칠,급,,,,,,0
+叔,N1,"[""uncle"",""youth""]",아재비,숙,,,,,,0
+叙,N1,"[""confer"",""relate"",""narrate"",""describe""]",차례,서,,,,,,0
+叡,N1,"[""intelligence"",""imperial""]",밝을,예,,,,,,0
+句,N1,"[""phrase"",""clause"",""sentence"",""passage"",""paragraph"",""counter for haiku""]",글귀절,구,,,,,,0
+只,N1,"[""only"",""free"",""in addition""]",다만,지,,,,,,0
+叶,N1,"[""grant"",""answer""]",화합할,협,,,,,,0
+司,N1,"[""director"",""official"",""govt office"",""rule"",""administer""]",맡을,사,,,,,,0
+吉,N1,"[""good luck"",""joy"",""congratulations""]",길할,길,,,,,,0
+后,N1,"[""empress"",""queen"",""after"",""behind"",""back"",""later""]",임금,후,,,,,,0
+吏,N1,"[""officer"",""an official""]",벼슬아치,리,,,,,,0
+吐,N1,"[""spit"",""vomit"",""belch"",""confess"",""tell (lies)""]",토할,토,,,,,,0
+吟,N1,"[""versify"",""singing"",""recital""]",읊을,음,,,,,,0
+呂,N1,"[""spine"",""backbone""]",음률,려,,,,,,0
+呈,N1,"[""display"",""offer"",""present"",""send"",""exhibit""]",보일,정,,,,,,0
+呉,N1,"[""give"",""do something for"",""kingdom of Wu""]",오나라,오,,,,,,0
+呪,N1,"[""spell"",""curse"",""charm"",""malediction""]",빌,주,,,,,,0
+咽,N1,"[""throat"",""choked"",""smothered"",""stuffy""]",목 멜,열,,,,,,0
+哀,N1,"[""pathetic"",""grief"",""sorrow"",""pathos"",""pity"",""sympathize""]",슬플,애,,,,,,0
+哉,N1,"[""how"",""what"",""alas"",""question mark"",""exclamation mark""]",어조사,재,,,,,,0
+哲,N1,"[""philosophy"",""clear""]",밝을,철,,,,,,0
+哺,N1,"[""nurse"",""suckle""]",씹어 먹을,포,,,,,,0
+唄,N1,"[""song"",""ballad""]",염불소리,패,,,,,,0
+唆,N1,"[""tempt"",""seduce"",""instigate"",""promote""]",부추길,사,,,,,,0
+唇,N1,"[""lips""]",입술,순,,,,,,0
+唐,N1,"[""T'ang"",""China"",""foreign""]",당나라,당,,,,,,0
+唯,N1,"[""solely"",""only"",""merely"",""simply""]",오직,유,,,,,,0
+唱,N1,"[""chant"",""recite"",""call upon"",""yell""]",노래,창,,,,,,0
+唾,N1,"[""saliva"",""sputum""]",침,타,,,,,,0
+啄,N1,"[""peck"",""pick up""]",쪼을,탁,,,,,,0
+啓,N1,"[""disclose"",""open"",""say""]",열,계,,,,,,0
+善,N1,"[""virtuous"",""good"",""goodness""]",착할,선,,,,,,0
+喉,N1,"[""throat"",""voice""]",목구멍,후,,,,,,0
+喚,N1,"[""yell"",""cry"",""call"",""scream"",""summon""]",부를,환,,,,,,0
+喝,N1,"[""hoarse"",""scold""]",꾸짖을,갈,,,,,,0
+喩,N1,"[""metaphor"",""compare""]",깨우쳐 줄,유,,,,,,0
+喪,N1,"[""miss"",""mourning""]",죽을,상,,,,,,0
+喬,N1,"[""high"",""boasting""]",높을,교,,,,,,0
+嗣,N1,"[""heir"",""succeed""]",이을,사,,,,,,0
+嘆,N1,"[""sigh"",""lament"",""moan"",""grieve"",""sigh of admiration""]",한숨쉴,탄,,,,,,0
+嘉,N1,"[""applaud"",""praise"",""esteem"",""happy"",""auspicious""]",아름다울,가,,,,,,0
+嘱,N1,"[""entrust"",""request"",""send a message""]",부탁할,촉,,,,,,0
+嘲,N1,"[""ridicule"",""insult""]",조롱할,조,,,,,,0
+器,N1,"[""utensil"",""vessel"",""receptacle"",""implement"",""instrument"",""ability"",""container"",""tool"",""set""]",그릇,기,,,,,,0
+噴,N1,"[""erupt"",""spout"",""emit"",""flush out""]",뿜을,분,,,,,,0
+嚇,N1,"[""menacing"",""dignity"",""majesty"",""threaten""]",놀라게 할,하,,,,,,0
+囚,N1,"[""captured"",""criminal"",""arrest"",""catch""]",가둘,수,,,,,,0
+圏,N1,"[""sphere"",""circle"",""radius"",""range""]",둥글,권,,,,,,0
+圭,N1,"[""square jewel"",""corner"",""angle"",""edge""]",서옥,규,,,,,,0
+坑,N1,"[""pit"",""hole""]",빠질,갱,,,,,,0
+坪,N1,"[""two-mat area"",""approx. thirty-six sq ft""]",벌판,평,,,,,,0
+垂,N1,"[""droop"",""suspend"",""hang"",""slouch""]",드리울,수,,,,,,0
+垣,N1,"[""hedge"",""fence"",""wall""]",낮은 담,원,,,,,,0
+執,N1,"[""tenacious"",""take hold"",""grasp"",""take to heart""]",잡을,집,,,,,,0
+培,N1,"[""cultivate"",""foster""]",북돋을,배,,,,,,0
+基,N1,"[""fundamentals"",""radical (chem)"",""counter for machines"",""foundation""]",터,기,,,,,,0
+埼,N1,"[""cape"",""spit"",""promontory""]",언덕머리,기,,,,,,0
+堀,N1,"[""ditch"",""moat"",""canal""]",굴,굴,,,,,,0
+堅,N1,"[""strict"",""hard"",""solid"",""tough"",""tight"",""reliable""]",굳을,견,,,,,,0
+堆,N1,"[""piled high""]",쌓을,퇴,,,,,,0
+堕,N1,"[""degenerate"",""descend to"",""lapse into""]",떨어질,타,,,,,,0
+堤,N1,"[""dike"",""bank"",""embankment""]",둑,제,,,,,,0
+堪,N1,"[""withstand"",""endure"",""support"",""resist""]",견딜,감,,,,,,0
+塀,N1,"[""fence"",""wall"",""(kokuji)""]",담,병,,,,,,0
+塁,N1,"[""bases"",""fort"",""rampart"",""walls"",""base(ball)""]",보루,루,,,,,,0
+塊,N1,"[""clod"",""lump"",""chunk"",""clot"",""mass""]",흙덩이,괴,,,,,,0
+塑,N1,"[""model"",""molding""]",허수아비,소,,,,,,0
+塚,N1,"[""hillock"",""mound""]",무덤,총,,,,,,0
+塡,N1,"[""fill in"",""fill up"",""make good""]",메일,전,,,,,,0
+塾,N1,"[""cram school"",""private school""]",사랑방,숙,,,,,,0
+墓,N1,"[""grave"",""tomb""]",무덤,묘,,,,,,0
+墜,N1,"[""crash"",""fall (down)""]",떨어질,추,,,,,,0
+墨,N1,"[""black ink"",""India ink"",""ink stick"",""Mexico""]",먹,묵,,,,,,0
+墳,N1,"[""tomb"",""mound""]",무덤,분,,,,,,0
+墾,N1,"[""ground-breaking"",""open up farmland""]",따비질할,간,,,,,,0
+壁,N1,"[""wall"",""lining (stomach)"",""fence""]",벽,벽,,,,,,0
+壇,N1,"[""podium"",""stage"",""rostrum"",""terrace""]",제터,단,,,,,,0
+壊,N1,"[""demolition"",""break"",""destroy""]",무너질,괴,,,,,,0
+壌,N1,"[""lot"",""earth"",""soil""]",흙,양,,,,,,0
+士,N1,"[""gentleman"",""scholar"",""samurai"",""samurai radical (no. 33)""]",선비,사,,,,,,0
+壮,N1,"[""robust"",""manhood"",""prosperity""]",씩씩할,장,,,,,,0
+壱,N1,"[""one (in documents)""]",한,일,,,,,,0
+奇,N1,"[""strange"",""strangeness"",""curiosity""]",기이할,기,,,,,,0
+奈,N1,"[""Nara"",""what?""]",어찌,내,,,,,,0
+奉,N1,"[""observance"",""offer"",""present"",""dedicate""]",받들,봉,,,,,,0
+奎,N1,"[""star"",""god of literature""]",별,규,,,,,,0
+奏,N1,"[""play music"",""speak to a ruler"",""complete""]",아뢸,주,,,,,,0
+契,N1,"[""pledge"",""promise"",""vow""]",맺을,계,,,,,,0
+奔,N1,"[""run"",""bustle""]",달릴,분,,,,,,0
+奨,N1,"[""exhort"",""urge"",""encourage""]",도울,장,,,,,,0
+奪,N1,"[""rob"",""take by force"",""snatch away"",""dispossess"",""plunder"",""usurp""]",빼앗을,탈,,,,,,0
+奮,N1,"[""stirred up"",""be invigorated"",""flourish""]",떨칠,분,,,,,,0
+奴,N1,"[""guy"",""slave"",""manservant"",""fellow""]",종,노,,,,,,0
+如,N1,"[""likeness"",""like"",""such as"",""as if"",""better"",""best"",""equal""]",같을,여,,,,,,0
+妃,N1,"[""queen"",""princess""]",왕비,비,,,,,,0
+妄,N1,"[""delusion"",""unnecessarily"",""without authority"",""reckless""]",허망할,망,,,,,,0
+妊,N1,"[""pregnancy""]",아이밸,임,,,,,,0
+妖,N1,"[""attractive"",""bewitching"",""calamity""]",요괴로울,요,,,,,,0
+妙,N1,"[""exquisite"",""strange"",""queer"",""mystery"",""miracle"",""excellent"",""delicate"",""charming""]",묘할,묘,,,,,,0
+妥,N1,"[""gentle"",""peace"",""satisfactory"",""appropriate""]",편안할,타,,,,,,0
+妨,N1,"[""disturb"",""prevent"",""hamper"",""obstruct""]",방해할,방,,,,,,0
+妬,N1,"[""jealous"",""envy""]",투기할,투,,,,,,0
+姫,N1,"[""princess""]",계집,희,,,,,,0
+姻,N1,"[""matrimony"",""marry""]",혼인,인,,,,,,0
+姿,N1,"[""figure"",""form"",""shape""]",맵시,자,,,,,,0
+威,N1,"[""intimidate"",""dignity"",""majesty"",""menace"",""threaten""]",위엄,위,,,,,,0
+娠,N1,"[""with child"",""pregnancy""]",아이밸,신,,,,,,0
+娯,N1,"[""recreation"",""pleasure""]",즐거울,오,,,,,,0
+婆,N1,"[""old woman"",""grandma"",""wet nurse""]",할머니,파,,,,,,0
+婿,N1,"[""bridegroom"",""son-in-law""]",사위,서,,,,,,0
+媒,N1,"[""mediator"",""go-between""]",중매,매,,,,,,0
+媛,N1,"[""beautiful woman"",""princess""]",아리따운 여자,원,,,,,,0
+嫁,N1,"[""marry into"",""bride""]",시집갈,가,,,,,,0
+嫉,N1,"[""jealous"",""envy""]",미워할,질,,,,,,0
+嫌,N1,"[""dislike"",""detest"",""hate""]",싫어할,혐,,,,,,0
+嫡,N1,"[""legitimate wife"",""direct descent (non-bastard)""]",정실,적,,,,,,0
+嬉,N1,"[""glad"",""pleased"",""rejoice""]",즐길,희,,,,,,0
+嬢,N1,"[""lass"",""girl"",""Miss"",""daughter""]",계집아이,양,,,,,,0
+孔,N1,"[""cavity"",""hole"",""slit"",""very"",""great"",""exceedingly""]",구멍,공,,,,,,0
+孟,N1,"[""chief"",""beginning""]",맏,맹,,,,,,0
+孤,N1,"[""orphan"",""alone""]",외로울,고,,,,,,0
+宏,N1,"[""wide"",""large""]",클,굉,,,,,,0
+宗,N1,"[""religion"",""sect"",""denomination"",""main point"",""origin"",""essence""]",마루,종,,,,,,0
+宙,N1,"[""mid-air"",""air"",""space"",""sky"",""memorization"",""interval of time""]",집,주,,,,,,0
+宜,N1,"[""best regards"",""good""]",옳을,의,,,,,,0
+宣,N1,"[""proclaim"",""say"",""announce""]",베풀,선,,,,,,0
+宥,N1,"[""soothe"",""calm"",""pacify""]",너그러울,유,,,,,,0
+宮,N1,"[""Shinto shrine"",""constellations"",""palace"",""princess""]",집,궁,,,,,,0
+宰,N1,"[""superintend"",""manager"",""rule""]",주관할,재,,,,,,0
+宴,N1,"[""banquet"",""feast"",""party""]",잔치할,연,,,,,,0
+宵,N1,"[""wee hours"",""evening"",""early night""]",밤,소,,,,,,0
+寂,N1,"[""loneliness"",""quietly"",""mellow"",""mature"",""death of a priest""]",고요할,적,,,,,,0
+寅,N1,"[""sign of the tiger"",""3-5AM"",""third sign of Chinese zodiac""]",셋째 지지,인,,,,,,0
+密,N1,"[""secrecy"",""density (pop)"",""minuteness"",""carefulness""]",빽빽할,밀,,,,,,0
+寛,N1,"[""tolerant"",""leniency"",""generosity"",""relax"",""feel at home"",""be at ease"",""broadminded""]",너그러울,관,,,,,,0
+寡,N1,"[""widow"",""minority"",""few""]",적을,과,,,,,,0
+寧,N1,"[""rather"",""preferably"",""peaceful"",""quiet"",""tranquility""]",편안할,녕,,,,,,0
+審,N1,"[""hearing"",""judge"",""trial""]",살필,심,,,,,,0
+寮,N1,"[""dormitory"",""hostel"",""villa"",""tea pavillion""]",동관,료,,,,,,0
+寸,N1,"[""measurement"",""tenth of a shaku"",""a little"",""small""]",치,촌,,,,,,0
+射,N1,"[""shoot"",""shine into"",""onto"",""archery""]",쏠,사,,,,,,0
+尉,N1,"[""military officer"",""jailer"",""old man"",""rank""]",벼슬이름,위,,,,,,0
+尋,N1,"[""inquire"",""fathom"",""look for""]",찾을,심,,,,,,0
+尚,N1,"[""esteem"",""furthermore"",""still"",""yet""]",오히려,상,,,,,,0
+尭,N1,"[""high"",""far""]",높을,요,,,,,,0
+就,N1,"[""concerning"",""settle"",""take position"",""depart"",""study"",""per""]",나아갈,취,,,,,,0
+尺,N1,"[""shaku"",""Japanese foot"",""measure"",""scale"",""rule""]",자,척,,,,,,0
+尼,N1,"[""nun""]",여승,니,,,,,,0
+尽,N1,"[""exhaust"",""use up"",""run out of"",""deplete"",""befriend"",""serve""]",다할,진,,,,,,0
+尾,N1,"[""tail"",""end"",""counter for fish"",""lower slope of mountain""]",꼬리,미,,,,,,0
+尿,N1,"[""urine""]",오줌,뇨,,,,,,0
+屈,N1,"[""yield"",""bend"",""flinch"",""submit""]",굽을,굴,,,,,,0
+展,N1,"[""unfold"",""expand""]",펼칠,전,,,,,,0
+属,N1,"[""belong"",""genus"",""subordinate official"",""affiliated""]",무리,속,,,,,,0
+履,N1,"[""perform"",""complete"",""footgear"",""shoes"",""boots"",""put on (the feet)""]",신,리,,,,,,0
+屯,N1,"[""barracks"",""police station"",""camp"",""ton""]",진칠,둔,,,,,,0
+岐,N1,"[""branch off"",""fork in road"",""scene"",""arena"",""theater""]",갈림길,기,,,,,,0
+岡,N1,"[""mount"",""hill"",""knoll""]",멧동,강,,,,,,0
+岬,N1,"[""headland"",""cape"",""spit"",""promontory""]",산 허구리,갑,,,,,,0
+岳,N1,"[""point"",""peak"",""mountain""]",큰 산,악,,,,,,0
+峠,N1,"[""mountain peak"",""mountain pass"",""climax"",""crest"",""(kokuji)""]",고개,상,,,,,,0
+峡,N1,"[""gorge"",""ravine""]",물 낀 두메,협,,,,,,0
+峰,N1,"[""summit"",""peak""]",봉우리,봉,,,,,,0
+峻,N1,"[""high"",""steep""]",높을,준,,,,,,0
+崇,N1,"[""adore"",""respect"",""revere"",""worship""]",높을,숭,,,,,,0
+崎,N1,"[""promontory"",""cape"",""spit""]",험할,기,,,,,,0
+崖,N1,"[""cliff"",""bluff"",""precipice""]",낭떠러지,애,,,,,,0
+崚,N1,"[""mountains towering in a row""]",험준할,릉,,,,,,0
+崩,N1,"[""crumble"",""die"",""demolish"",""level""]",무너질,붕,,,,,,0
+嵐,N1,"[""storm"",""tempest""]",남기,남,,,,,,0
+嵩,N1,"[""be aggravated"",""grow worse"",""grow bulky"",""swell""]",높을,숭,,,,,,0
+嵯,N1,"[""steep"",""craggy"",""rugged""]",우뚝 솟을,차,,,,,,0
+嶺,N1,"[""peak"",""summit""]",재,령,,,,,,0
+巌,N1,"[""rock"",""crag"",""boulder""]",바위,암,,,,,,0
+巡,N1,"[""patrol"",""go around"",""circumference""]",돌,순,,,,,,0
+巣,N1,"[""nest"",""rookery"",""hive"",""cobweb"",""den""]",새집,소,,,,,,0
+巧,N1,"[""adroit"",""skilled"",""ingenuity""]",공교할,교,,,,,,0
+己,N1,"[""self""]",자기,기,,,,,,0
+巳,N1,"[""sign of the snake or serpent"",""9-11AM"",""sixth sign of Chinese zodiac""]",여섯째 지지,사,,,,,,0
+巴,N1,"[""comma-design""]",꼬리,파,,,,,,0
+巽,N1,"[""southeast""]",사양할,손,,,,,,0
+帆,N1,"[""sail""]",돛,범,,,,,,0
+帝,N1,"[""sovereign"",""the emperor"",""god"",""creator""]",임금,제,,,,,,0
+帥,N1,"[""commander"",""leading troops"",""governor""]",주장할,수,,,,,,0
+帳,N1,"[""notebook"",""account book"",""album"",""curtain"",""veil"",""net"",""tent""]",휘장,장,,,,,,0
+幕,N1,"[""curtain"",""bunting"",""act of play""]",막,막,,,,,,0
+幣,N1,"[""cash"",""bad habit"",""humble prefix"",""gift"",""Shinto offerings of cloth"",""rope"",""cut paper""]",폐백,폐,,,,,,0
+幹,N1,"[""tree trunk"",""main part"",""talent"",""capability""]",줄기,간,,,,,,0
+幻,N1,"[""phantasm"",""vision"",""dream"",""illusion"",""apparition""]",변할,환,,,,,,0
+幽,N1,"[""seclude"",""confine to a room"",""deep"",""profound"",""secluded"",""faint"",""dark"",""tranquil"",""calm""]",숨을,유,,,,,,0
+庄,N1,"[""level"",""in the country"",""manor"",""village"",""hamlet""]",씩씩할,장,,,,,,0
+序,N1,"[""preface"",""beginning"",""order"",""precedence"",""occasion"",""chance"",""incidentally""]",차례,서,,,,,,0
+庶,N1,"[""commoner"",""all"",""bastard""]",여러,서,,,,,,0
+康,N1,"[""ease"",""peace""]",편안할,강,,,,,,0
+庸,N1,"[""commonplace"",""ordinary"",""employment""]",쓸,용,,,,,,0
+廃,N1,"[""abolish"",""obsolete"",""cessation"",""discarding"",""abandon""]",폐할,폐,,,,,,0
+廉,N1,"[""bargain"",""reason"",""charge"",""suspicion"",""point"",""account"",""purity"",""honest"",""low price"",""cheap"",""rested"",""contented"",""peaceful""]",청렴할,렴,,,,,,0
+廊,N1,"[""corridor"",""hall"",""tower""]",복도,랑,,,,,,0
+廷,N1,"[""courts"",""imperial court"",""government office""]",조정,정,,,,,,0
+弁,N1,"[""valve"",""petal"",""braid"",""speech"",""dialect"",""discrimination"",""dispose of"",""distinguish"",""conical cap""]",고깔,변,,,,,,0
+弄,N1,"[""play with"",""tamper"",""trifle with""]",희롱할,롱,,,,,,0
+弊,N1,"[""abuse"",""evil"",""vice"",""breakage""]",해질,폐,,,,,,0
+弐,N1,"[""II"",""two"",""second""]",두,이,,,,,,0
+弓,N1,"[""bow"",""bow (archery, violin)""]",활,궁,,,,,,0
+弔,N1,"[""condolences"",""mourning"",""funeral""]",위문할,조,,,,,,0
+弘,N1,"[""vast"",""broad"",""wide""]",넓을,홍,,,,,,0
+弥,N1,"[""all the more"",""increasingly""]",두루,미,,,,,,0
+弦,N1,"[""bowstring"",""chord"",""hypotenuse""]",시위,현,,,,,,0
+弧,N1,"[""arc"",""arch"",""bow""]",활,호,,,,,,0
+張,N1,"[""counter for bows & stringed instruments"",""stretch"",""spread"",""put up (tent)""]",베풀,장,,,,,,0
+弾,N1,"[""bullet"",""twang"",""flip"",""snap""]",쏠,탄,,,,,,0
+彗,N1,"[""comet"",""broom""]",비,혜,,,,,,0
+彙,N1,"[""same kind"",""collect"",""classify"",""category"",""hedgehog""]",무리,휘,,,,,,0
+彦,N1,"[""lad"",""boy"",""fine young man""]",선비,언,,,,,,0
+彩,N1,"[""coloring"",""paint"",""makeup""]",무늬,채,,,,,,0
+彪,N1,"[""spotted"",""mottled"",""patterned"",""small tiger""]",칡범,표,,,,,,0
+彫,N1,"[""carve"",""engrave"",""chisel""]",새길,조,,,,,,0
+彬,N1,"[""refined"",""gentle""]",빛날,빈,,,,,,0
+彰,N1,"[""patent"",""clear""]",밝을,창,,,,,,0
+影,N1,"[""shadow"",""silhouette"",""phantom""]",그림자,영,,,,,,0
+往,N1,"[""journey"",""travel"",""chase away"",""let go"",""going"",""before"",""formerly""]",갈,왕,,,,,,0
+征,N1,"[""subjugate"",""attack the rebellious"",""collect taxes""]",칠,정,,,,,,0
+径,N1,"[""diameter"",""path"",""method""]",지름길,경,,,,,,0
+徐,N1,"[""gradually"",""slowly"",""deliberately"",""gently""]",천천할,서,,,,,,0
+従,N1,"[""accompany"",""obey"",""submit to"",""comply"",""follow"",""secondary"",""incidental"",""subordinate""]",좇을,종,,,,,,0
+循,N1,"[""sequential"",""follow""]",좇을,순,,,,,,0
+微,N1,"[""delicate"",""minuteness"",""insignificance""]",작을,미,,,,,,0
+徳,N1,"[""benevolence"",""virtue"",""goodness"",""commanding respect""]",덕,덕,,,,,,0
+徴,N1,"[""indications"",""sign"",""omen"",""symptom"",""collect"",""seek"",""refer to"",""question""]",부를,징,,,,,,0
+徹,N1,"[""penetrate"",""clear"",""pierce"",""strike home"",""sit up (all night)""]",통할,철,,,,,,0
+忌,N1,"[""mourning"",""abhor"",""detestable"",""death anniversary""]",꺼릴,기,,,,,,0
+忍,N1,"[""endure"",""bear"",""put up with"",""conceal"",""secrete"",""spy"",""sneak""]",참을,인,,,,,,0
+志,N1,"[""intention"",""plan"",""resolve"",""aspire"",""motive"",""hopes"",""shilling""]",뜻,지,,,,,,0
+応,N1,"[""apply"",""answer"",""yes"",""OK"",""reply"",""accept""]",응당,응,,,,,,0
+忠,N1,"[""loyalty"",""fidelity"",""faithfulness""]",충성,충,,,,,,0
+怜,N1,"[""wise""]",영리할,령,,,,,,0
+怠,N1,"[""neglect"",""laziness""]",게으를,태,,,,,,0
+怨,N1,"[""grudge"",""show resentment"",""be jealous""]",원망할,원,,,,,,0
+怪,N1,"[""suspicious"",""mystery"",""apparition""]",기이할,괴,,,,,,0
+恒,N1,"[""constancy"",""always""]",늘,항,,,,,,0
+恕,N1,"[""excuse"",""tolerate"",""forgive""]",용서할,서,,,,,,0
+恣,N1,"[""selfish"",""arbitrary""]",방자할,자,,,,,,0
+恨,N1,"[""regret"",""bear a grudge"",""resentment"",""malice"",""hatred""]",한탄할,한,,,,,,0
+恩,N1,"[""grace"",""kindness"",""goodness"",""favor"",""mercy"",""blessing"",""benefit""]",은혜,은,,,,,,0
+恭,N1,"[""respect"",""reverent""]",공손할,공,,,,,,0
+恵,N1,"[""favor"",""blessing"",""grace"",""kindness""]",은혜,혜,,,,,,0
+悌,N1,"[""serving our elders""]",공경할,제,,,,,,0
+悔,N1,"[""repent"",""regret""]",뉘우칠,회,,,,,,0
+悟,N1,"[""enlightenment"",""perceive"",""discern"",""realize"",""understand""]",깨우칠,오,,,,,,0
+悠,N1,"[""permanence"",""distant"",""long time"",""leisure""]",멀,유,,,,,,0
+悦,N1,"[""ecstasy"",""joy"",""rapture""]",즐거울,열,,,,,,0
+悼,N1,"[""lament"",""grieve over""]",슬퍼할,도,,,,,,0
+惇,N1,"[""sincere"",""kind"",""considerate""]",두터울,돈,,,,,,0
+惑,N1,"[""beguile"",""delusion"",""perplexity""]",미혹할,혹,,,,,,0
+惜,N1,"[""pity"",""be sparing of"",""frugal"",""stingy"",""regret""]",아낄,석,,,,,,0
+惟,N1,"[""consider"",""reflect"",""think""]",꾀할,유,,,,,,0
+惣,N1,"[""all""]",꿰맬,총,,,,,,0
+惧,N1,"[""fear"",""be afraid of"",""dread""]",두려워할,구,,,,,,0
+惨,N1,"[""wretched"",""disaster"",""cruelty"",""harsh""]",참혹할,참,,,,,,0
+惰,N1,"[""lazy"",""laziness""]",게으를,타,,,,,,0
+愁,N1,"[""distress"",""grieve"",""lament"",""be anxious""]",근심,수,,,,,,0
+愉,N1,"[""pleasure"",""happy"",""rejoice""]",기뻐할,유,,,,,,0
+愚,N1,"[""foolish"",""folly"",""absurdity"",""stupid""]",어리석을,우,,,,,,0
+慄,N1,"[""fear""]",두려워할,률,,,,,,0
+慈,N1,"[""mercy""]",사랑할,자,,,,,,0
+態,N1,"[""attitude"",""condition"",""figure"",""appearance"",""voice (of verbs)""]",모양,태,,,,,,0
+慌,N1,"[""disconcerted"",""be confused"",""lose one's head""]",어렴풋할,황,,,,,,0
+慎,N1,"[""humility"",""be careful"",""discreet"",""prudent""]",삼갈,신,,,,,,0
+慕,N1,"[""pining"",""yearn for"",""love dearly"",""adore""]",그리워할,모,,,,,,0
+慢,N1,"[""ridicule"",""laziness""]",게으를,만,,,,,,0
+慧,N1,"[""wise""]",슬기로울,혜,,,,,,0
+慨,N1,"[""rue"",""be sad"",""sigh"",""lament""]",분할,개,,,,,,0
+慮,N1,"[""prudence"",""thought"",""concern"",""consider"",""deliberate"",""fear""]",생각할,려,,,,,,0
+慰,N1,"[""consolation"",""amusement"",""seduce"",""cheer"",""make sport of"",""comfort"",""console""]",위로할,위,,,,,,0
+慶,N1,"[""jubilation"",""congratulate"",""rejoice"",""be happy""]",경사,경,,,,,,0
+憂,N1,"[""melancholy"",""grieve"",""lament"",""be anxious"",""sad"",""unhappy""]",근심,우,,,,,,0
+憤,N1,"[""aroused"",""resent"",""be indignant"",""anger""]",분할,분,,,,,,0
+憧,N1,"[""yearn after"",""long for"",""aspire to"",""admire"",""adore""]",동경할,동,,,,,,0
+憩,N1,"[""recess"",""rest"",""relax"",""repose""]",쉴,게,,,,,,0
+憬,N1,"[""yearn for"",""aspire to"",""admire""]",깨달을,경,,,,,,0
+憲,N1,"[""constitution"",""law""]",법,헌,,,,,,0
+憶,N1,"[""recollection"",""think"",""remember""]",생각,억,,,,,,0
+憾,N1,"[""remorse"",""regret"",""be sorry""]",섭섭할,감,,,,,,0
+懇,N1,"[""sociable"",""kind"",""courteous"",""hospitable"",""cordial""]",정성,간,,,,,,0
+懐,N1,"[""feelings"",""heart"",""yearn"",""miss someone"",""become attached to"",""bosom"",""breast"",""pocket""]",품을,회,,,,,,0
+懲,N1,"[""penal"",""chastise"",""punish"",""discipline""]",혼날,징,,,,,,0
+懸,N1,"[""state of suspension"",""hang"",""depend"",""consult"",""distant"",""far apart""]",매달,현,,,,,,0
+我,N1,"[""ego"",""I"",""selfish"",""our"",""oneself""]",나,아,,,,,,0
+戒,N1,"[""commandment""]",경계할,계,,,,,,0
+戯,N1,"[""frolic"",""play"",""sport""]",희롱할,희,,,,,,0
+戴,N1,"[""be crowned with"",""live under (a ruler)"",""receive""]",받들,대,,,,,,0
+房,N1,"[""tassel"",""tuft"",""fringe"",""bunch"",""lock (hair)"",""segment (orange)"",""house"",""room""]",방,방,,,,,,0
+扇,N1,"[""fan"",""folding fan""]",사립문,선,,,,,,0
+扉,N1,"[""front door"",""title page"",""front page""]",문짝,비,,,,,,0
+扱,N1,"[""handle"",""entertain"",""thresh"",""strip""]",미칠,급,,,,,,0
+扶,N1,"[""aid"",""help"",""assist""]",도울,부,,,,,,0
+批,N1,"[""criticism"",""strike""]",칠,비,,,,,,0
+抄,N1,"[""extract"",""selection"",""summary"",""copy"",""spread thin""]",베낄,초,,,,,,0
+把,N1,"[""grasp"",""faggot"",""bunch"",""counter for bundles""]",잡을,파,,,,,,0
+抑,N1,"[""repress"",""well"",""now"",""in the first place"",""push"",""shove"",""press"",""seal"",""do in spite of""]",누를,억,,,,,,0
+抗,N1,"[""confront"",""resist"",""defy"",""oppose""]",막을,항,,,,,,0
+択,N1,"[""choose"",""select"",""elect"",""prefer""]",가릴,택,,,,,,0
+披,N1,"[""expose"",""open""]",헤칠,피,,,,,,0
+抵,N1,"[""resist"",""reach"",""touch""]",밀칠,저,,,,,,0
+抹,N1,"[""rub"",""paint"",""erase""]",지울,말,,,,,,0
+抽,N1,"[""pluck"",""pull"",""extract"",""excel""]",뺄,추,,,,,,0
+拉,N1,"[""Latin"",""kidnap"",""crush""]",꺾을,랍,,,,,,0
+拍,N1,"[""clap"",""beat (music)""]",칠,박,,,,,,0
+拐,N1,"[""kidnap"",""falsify""]",속일,괴,,,,,,0
+拒,N1,"[""repel"",""refuse"",""reject"",""decline""]",막을,거,,,,,,0
+拓,N1,"[""clear (the land)"",""open"",""break up (land)""]",넓힐,척,,,,,,0
+拘,N1,"[""arrest"",""seize"",""concerned"",""adhere to"",""despite""]",잡을,구,,,,,,0
+拙,N1,"[""bungling"",""clumsy"",""unskillful""]",서툴,졸,,,,,,0
+拠,N1,"[""foothold"",""based on"",""follow"",""therefore""]",의지할,거,,,,,,0
+拡,N1,"[""broaden"",""extend"",""expand"",""enlarge""]",넓힐,확,,,,,,0
+括,N1,"[""fasten"",""tie up"",""arrest"",""constrict""]",묶을,괄,,,,,,0
+拳,N1,"[""fist""]",주먹,권,,,,,,0
+拷,N1,"[""torture"",""beat""]",칠,고,,,,,,0
+挑,N1,"[""challenge"",""contend for"",""make love to""]",돋을,도,,,,,,0
+挙,N1,"[""raise"",""plan"",""project"",""behavior"",""actions""]",들,거,,,,,,0
+挫,N1,"[""crush"",""break"",""sprain"",""discourage""]",꺾을,좌,,,,,,0
+振,N1,"[""shake"",""wave"",""wag"",""swing""]",떨칠,진,,,,,,0
+挿,N1,"[""insert"",""put in"",""graft"",""wear (sword)""]",꽂을,삽,,,,,,0
+捉,N1,"[""catch"",""capture""]",잡을,착,,,,,,0
+捗,N1,"[""make progress""]",칠,척,,,,,,0
+据,N1,"[""set"",""lay a foundation"",""install"",""equip"",""squat down"",""sit down""]",가질,거,,,,,,0
+捷,N1,"[""victory"",""fast""]",이길,첩,,,,,,0
+捺,N1,"[""press"",""print"",""affix a seal"",""stamp""]",누를,날,,,,,,0
+授,N1,"[""impart"",""instruct"",""grant"",""confer""]",줄,수,,,,,,0
+掌,N1,"[""palm of hand"",""rule"",""administer"",""conduct""]",손바닥,장,,,,,,0
+排,N1,"[""repudiate"",""exclude"",""expel"",""reject"",""line up"",""arrange""]",밀칠,배,,,,,,0
+控,N1,"[""withdraw"",""draw in"",""hold back"",""refrain from"",""be moderate""]",당길,공,,,,,,0
+推,N1,"[""conjecture"",""infer"",""guess"",""suppose"",""support"",""push (for)""]",밀,추,,,,,,0
+措,N1,"[""set aside"",""give up"",""suspend"",""discontinue"",""lay aside"",""except""]",둘,조,,,,,,0
+掲,N1,"[""put up (a notice)"",""put up"",""hoist"",""display"",""hang out"",""publish"",""describe""]",높이 들,게,,,,,,0
+描,N1,"[""sketch"",""compose"",""write"",""draw"",""paint""]",그릴,묘,,,,,,0
+提,N1,"[""propose"",""take along"",""carry in hand""]",끌,제,,,,,,0
+揚,N1,"[""raise"",""elevate"",""hoist"",""praise"",""extol"",""fry in deep fat""]",드높일,양,,,,,,0
+握,N1,"[""grip"",""hold"",""mould sushi"",""bribe""]",잡을,악,,,,,,0
+揮,N1,"[""brandish"",""wave"",""wag"",""swing"",""shake""]",휘두를,휘,,,,,,0
+援,N1,"[""abet"",""help"",""save""]",도울,원,,,,,,0
+揺,N1,"[""swing"",""shake"",""sway"",""rock"",""tremble"",""vibrate""]",흔들,요,,,,,,0
+搬,N1,"[""conveyor"",""carry"",""transport""]",옮길,반,,,,,,0
+搭,N1,"[""board"",""load (a vehicle)"",""ride""]",탈,탑,,,,,,0
+携,N1,"[""portable"",""carry (in hand)"",""armed with"",""bring along""]",이끌,휴,,,,,,0
+搾,N1,"[""squeeze""]",짤,착,,,,,,0
+摂,N1,"[""vicarious"",""surrogate"",""act in addition to"",""take in"",""absorb""]",잡을,섭,,,,,,0
+摘,N1,"[""pinch"",""pick"",""pluck"",""trim"",""clip"",""summarize""]",딸,적,,,,,,0
+摩,N1,"[""chafe"",""rub"",""polish"",""grind"",""scrape""]",갈,마,,,,,,0
+摯,N1,"[""gift"",""seriousness""]",잡을,지,,,,,,0
+撃,N1,"[""beat"",""attack"",""defeat"",""conquer""]",칠,격,,,,,,0
+撤,N1,"[""remove"",""withdraw"",""disarm"",""dismantle"",""reject"",""exclude""]",거둘,철,,,,,,0
+撮,N1,"[""snapshot"",""take pictures""]",모을,촬,,,,,,0
+撲,N1,"[""slap"",""strike"",""hit"",""beat"",""tell"",""speak""]",칠,박,,,,,,0
+擁,N1,"[""hug"",""embrace"",""possess"",""protect"",""lead""]",안을,옹,,,,,,0
+操,N1,"[""maneuver"",""manipulate"",""operate"",""steer"",""chastity"",""virginity"",""fidelity""]",잡을,조,,,,,,0
+擦,N1,"[""grate"",""rub"",""scratch"",""scrape"",""chafe"",""scour""]",문지를,찰,,,,,,0
+擬,N1,"[""mimic"",""aim (a gun) at"",""nominate"",""imitate""]",의논할,의,,,,,,0
+攻,N1,"[""aggression"",""attack"",""criticize"",""polish""]",칠,공,,,,,,0
+故,N1,"[""happenstance"",""especially"",""intentionally"",""reason"",""cause"",""circumstances"",""the late"",""therefore"",""consequently""]",옛,고,,,,,,0
+敏,N1,"[""cleverness"",""agile"",""alert""]",민첩할,민,,,,,,0
+救,N1,"[""salvation"",""save"",""help"",""rescue"",""reclaim""]",구원할,구,,,,,,0
+敢,N1,"[""daring"",""brave"",""bold"",""sad"",""tragic"",""pitiful""]",감히,감,,,,,,0
+敦,N1,"[""industry"",""kindliness""]",도타울,돈,,,,,,0
+整,N1,"[""organize"",""arranging"",""tune"",""tone"",""meter"",""key (music)""]",가지런할,정,,,,,,0
+敵,N1,"[""enemy"",""foe"",""opponent""]",대적할,적,,,,,,0
+敷,N1,"[""spread"",""pave"",""sit"",""promulgate""]",펼,부,,,,,,0
+斉,N1,"[""adjusted"",""alike"",""equal"",""similar variety of""]",가지런할,제,,,,,,0
+斎,N1,"[""purification"",""Buddhist food"",""room"",""worship"",""avoid"",""alike""]",재계할,재,,,,,,0
+斐,N1,"[""beautiful"",""patterned""]",오락가락할,비,,,,,,0
+斑,N1,"[""spot"",""blemish"",""speck"",""patches""]",얼룩,반,,,,,,0
+斗,N1,"[""Big Dipper"",""ten sho (vol)"",""sake dipper"",""dots and cross radical (no. 68)""]",말,두,,,,,,0
+斜,N1,"[""diagonal"",""slanting"",""oblique""]",비낄,사,,,,,,0
+斤,N1,"[""axe"",""1.32 lb"",""catty"",""counter for loaves of bread"",""axe radical (no. 69)""]",근,근,,,,,,0
+斥,N1,"[""reject"",""retreat"",""recede"",""withdraw"",""repel"",""repulse""]",물리칠,척,,,,,,0
+於,N1,"[""at"",""in"",""on"",""as for""]",어조사,어,,,,,,0
+施,N1,"[""give"",""bestow"",""perform"",""alms""]",베풀,시,,,,,,0
+旋,N1,"[""rotation"",""go around""]",돌,선,,,,,,0
+旗,N1,"[""flag"",""banner"",""standard""]",기,기,,,,,,0
+既,N1,"[""previously"",""already"",""long ago""]",이미,기,,,,,,0
+旦,N1,"[""daybreak"",""dawn"",""morning""]",밝을,단,,,,,,0
+旨,N1,"[""delicious"",""relish"",""show a liking for"",""purport"",""will"",""clever"",""expert""]",맛있을,지,,,,,,0
+旬,N1,"[""decameron"",""ten-day period"",""season (for specific products)""]",열흘,순,,,,,,0
+旭,N1,"[""rising sun"",""morning sun""]",빛날,욱,,,,,,0
+旺,N1,"[""flourishing"",""successful"",""beautiful"",""vigorous""]",왕성할,왕,,,,,,0
+昂,N1,"[""rise""]",높을,앙,,,,,,0
+昆,N1,"[""descendants"",""elder brother"",""insect""]",형,곤,,,,,,0
+昌,N1,"[""prosperous"",""bright"",""clear""]",창성할,창,,,,,,0
+昧,N1,"[""dark"",""foolish""]",어두울,매,,,,,,0
+昭,N1,"[""shining"",""bright""]",밝을,소,,,,,,0
+是,N1,"[""just so"",""this"",""right"",""justice""]",옳을,시,,,,,,0
+昴,N1,"[""the Pleiades""]",별자리 이름,묘,,,,,,0
+晃,N1,"[""clear""]",밝을,황,,,,,,0
+晋,N1,"[""advance""]",나아갈,진,,,,,,0
+晏,N1,"[""late"",""quiet"",""sets (sun)""]",늦을,안,,,,,,0
+晟,N1,"[""clear""]",밝을,성,,,,,,0
+晨,N1,"[""morning"",""early""]",새벽,신,,,,,,0
+晶,N1,"[""sparkle"",""clear"",""crystal""]",수정,정,,,,,,0
+智,N1,"[""wisdom"",""intellect"",""reason""]",슬기,지,,,,,,0
+暁,N1,"[""daybreak"",""dawn"",""in the event""]",새벽,효,,,,,,0
+暇,N1,"[""spare time"",""rest"",""leisure"",""time"",""leave of absence""]",겨를,가,,,,,,0
+暉,N1,"[""shine"",""light""]",빛,휘,,,,,,0
+暑,N1,"[""sultry"",""hot"",""summer heat""]",더울,서,,,,,,0
+暖,N1,"[""warmth""]",따뜻할,난,,,,,,0
+暢,N1,"[""stretch""]",펼,창,,,,,,0
+暦,N1,"[""calendar"",""almanac""]",책력,력,,,,,,0
+暫,N1,"[""temporarily"",""a while"",""moment"",""long time""]",잠시,잠,,,,,,0
+曖,N1,"[""dark"",""not clear""]",희미할,애,,,,,,0
+曙,N1,"[""dawn"",""daybreak""]",새벽,서,,,,,,0
+曹,N1,"[""office"",""official"",""comrade"",""fellow""]",무리,조,,,,,,0
+曽,N1,"[""formerly"",""once"",""before"",""ever"",""never"",""ex-""]",일찍,증,,,,,,0
+朋,N1,"[""companion"",""friend""]",벗,붕,,,,,,0
+朔,N1,"[""conjunction (astronomy)"",""first day of month"",""north""]",초하루,삭,,,,,,0
+朕,N1,"[""majestic plural"",""imperial we""]",나,짐,,,,,,0
+朗,N1,"[""melodious"",""clear"",""bright"",""serene"",""cheerful""]",밝을,랑,,,,,,0
+朱,N1,"[""vermilion"",""cinnabar"",""scarlet"",""red"",""bloody""]",붉을,주,,,,,,0
+朴,N1,"[""crude"",""simple"",""plain"",""docile""]",나무껍질,박,,,,,,0
+朽,N1,"[""decay"",""rot"",""remain in seclusion""]",썩을,후,,,,,,0
+杉,N1,"[""cedar"",""cryptomeria""]",삼나무,삼,,,,,,0
+李,N1,"[""plum""]",오얏,리,,,,,,0
+杏,N1,"[""apricot""]",살구,행,,,,,,0
+杜,N1,"[""woods"",""grove""]",막을,두,,,,,,0
+条,N1,"[""article"",""clause"",""counter for articles, clauses, paragraphs, etc."",""twig"",""item"",""stripe"",""streak""]",가지,조,,,,,,0
+松,N1,"[""pine tree""]",소나무,송,,,,,,0
+析,N1,"[""chop"",""divide"",""tear"",""analyze""]",가를,석,,,,,,0
+枠,N1,"[""frame"",""framework"",""spindle"",""spool"",""bounding-box"",""(kokuji)""]",벚나무,화,,,,,,0
+枢,N1,"[""hinge"",""pivot"",""door"",""center of things""]",지도리,추,,,,,,0
+架,N1,"[""erect"",""frame"",""mount"",""support"",""shelf"",""construct""]",시렁,가,,,,,,0
+柄,N1,"[""design"",""pattern"",""build"",""nature"",""character"",""handle"",""crank"",""grip"",""knob"",""shaft""]",자루,병,,,,,,0
+柊,N1,"[""holly""]",방망이,종,,,,,,0
+某,N1,"[""so-and-so"",""one"",""a certain"",""that person""]",아무,모,,,,,,0
+染,N1,"[""dye"",""color"",""paint"",""stain"",""print""]",물들일,염,,,,,,0
+柚,N1,"[""citron""]",유자,유,,,,,,0
+柳,N1,"[""willow""]",버들,류,,,,,,0
+柵,N1,"[""stockade"",""fence"",""weir"",""entwine around""]",울짱,책,,,,,,0
+柾,N1,"[""straight grain"",""spindle tree"",""(kokuji)""]",나무결,정,,,,,,0
+柿,N1,"[""persimmon""]",감나무,시,,,,,,0
+栃,N1,"[""horse chestnut"",""(kokuji)""]",상수리나무,회,,,,,,0
+栓,N1,"[""plug"",""bolt"",""cork"",""bung"",""stopper""]",말뚝,전,,,,,,0
+栗,N1,"[""chestnut""]",밤나무,률,,,,,,0
+栞,N1,"[""bookmark"",""guidebook""]",도표,간,,,,,,0
+株,N1,"[""stocks"",""stump"",""shares"",""stock"",""counter for small plants""]",그루,주,,,,,,0
+核,N1,"[""nucleus"",""core"",""kernel""]",씨,핵,,,,,,0
+栽,N1,"[""plantation"",""planting""]",심을,재,,,,,,0
+桂,N1,"[""Japanese Judas-tree"",""cinnamon tree""]",계수나무,계,,,,,,0
+桃,N1,"[""peach""]",복숭아 나무,도,,,,,,0
+案,N1,"[""plan"",""suggestion"",""draft"",""ponder"",""fear"",""proposition"",""idea"",""expectation"",""worry"",""table"",""bench""]",책상,안,,,,,,0
+桐,N1,"[""paulownia""]",오동나무,동,,,,,,0
+桑,N1,"[""mulberry""]",뽕나무,상,,,,,,0
+桜,N1,"[""cherry""]",앵두나무,앵,,,,,,0
+桟,N1,"[""scaffold"",""cleat"",""frame"",""jetty"",""bolt (door)""]",잔교,잔,,,,,,0
+梅,N1,"[""plum""]",매화나무,매,,,,,,0
+梓,N1,"[""catalpa tree"",""woodblock printing""]",가래나무,재,,,,,,0
+梗,N1,"[""for the most part"",""close up"",""flower stem""]",대개,경,,,,,,0
+梢,N1,"[""treetops"",""twig""]",나무 끝,초,,,,,,0
+梧,N1,"[""Chinese parasol tree"",""phoenix tree""]",머귀나무,오,,,,,,0
+梨,N1,"[""pear tree""]",배나무,리,,,,,,0
+棄,N1,"[""abandon"",""throw away"",""discard"",""resign"",""reject"",""sacrifice""]",버릴,기,,,,,,0
+棋,N1,"[""chess piece"",""Japanese chess"",""shogi""]",바둑,기,,,,,,0
+棚,N1,"[""shelf"",""ledge"",""rack"",""mount"",""mantle"",""trellis""]",시렁,붕,,,,,,0
+棟,N1,"[""ridgepole"",""ridge""]",용마루,동,,,,,,0
+棺,N1,"[""coffin"",""casket""]",널,관,,,,,,0
+椅,N1,"[""chair""]",가래나무,의,,,,,,0
+椋,N1,"[""type of deciduous tree"",""grey starling""]",들보,량,,,,,,0
+椎,N1,"[""chinquapin"",""mallet"",""spine""]",쇠몽둥이,추,,,,,,0
+検,N1,"[""examination"",""investigate""]",검사할,검,,,,,,0
+椰,N1,"[""coconut tree""]",야자나무,야,,,,,,0
+椿,N1,"[""camellia""]",참죽나무,춘,,,,,,0
+楊,N1,"[""willow""]",갯버들,양,,,,,,0
+楓,N1,"[""maple""]",단풍나무,풍,,,,,,0
+楠,N1,"[""camphor tree""]",녹나무,남,,,,,,0
+楷,N1,"[""square character style"",""correctness""]",본보기,해,,,,,,0
+楼,N1,"[""watchtower"",""lookout"",""high building""]",다락,루,,,,,,0
+概,N1,"[""outline"",""condition"",""approximation"",""generally""]",대개,개,,,,,,0
+榛,N1,"[""hazelnut"",""filbert""]",개암나무,진,,,,,,0
+槙,N1,"[""twig"",""ornamental evergreen""]",나무 끝,전,,,,,,0
+槻,N1,"[""Zelkova tree""]",물푸레나무,규,,,,,,0
+槽,N1,"[""vat"",""tub"",""tank""]",구유,조,,,,,,0
+標,N1,"[""signpost"",""seal"",""mark"",""stamp"",""imprint"",""symbol"",""emblem"",""trademark"",""evidence"",""souvenir"",""target""]",표시할,표,,,,,,0
+模,N1,"[""imitation"",""copy"",""mock""]",법,모,,,,,,0
+樹,N1,"[""timber"",""trees"",""wood"",""establish"",""set up""]",나무,수,,,,,,0
+樺,N1,"[""birch"",""dark red""]",자작나무,화,,,,,,0
+橘,N1,"[""mandarin orange""]",귤나무,귤,,,,,,0
+檀,N1,"[""cedar"",""sandalwood"",""spindle tree""]",향나무,단,,,,,,0
+欄,N1,"[""column"",""handrail"",""blank"",""space""]",난간,란,,,,,,0
+欣,N1,"[""take pleasure in"",""rejoice""]",기뻐할,흔,,,,,,0
+欺,N1,"[""deceit"",""cheat"",""delude""]",속일,기,,,,,,0
+欽,N1,"[""respect"",""revere"",""long for""]",공경할,흠,,,,,,0
+款,N1,"[""goodwill"",""article"",""section"",""friendship"",""collusion""]",정성,관,,,,,,0
+歓,N1,"[""delight"",""joy""]",기뻐할,환,,,,,,0
+殉,N1,"[""martyrdom"",""follow by resigning""]",죽은 사람을 따라 죽을,순,,,,,,0
+殊,N1,"[""particularly"",""especially"",""exceptionally""]",다를,수,,,,,,0
+殖,N1,"[""augment"",""increase"",""multiply"",""raise""]",불릴,식,,,,,,0
+殴,N1,"[""assault"",""hit"",""beat"",""thrash""]",때릴,구,,,,,,0
+殻,N1,"[""husk"",""nut shell""]",껍질,각,,,,,,0
+毀,N1,"[""break"",""destroy"",""censure"",""be chipped"",""be scratched"",""be broken"",""be ruined""]",헐,훼,,,,,,0
+毅,N1,"[""strong""]",굳셀,의,,,,,,0
+毬,N1,"[""burr"",""ball""]",제기,구,,,,,,0
+氏,N1,"[""family name"",""surname"",""clan""]",성,씨,,,,,,0
+氾,N1,"[""spread out"",""wide""]",넘칠,범,,,,,,0
+汁,N1,"[""soup"",""juice"",""broth"",""sap"",""gravy"",""pus""]",즙,즙,,,,,,0
+汎,N1,"[""pan-""]",뜰,범,,,,,,0
+汐,N1,"[""eventide"",""tide"",""salt water"",""opportunity""]",조수,석,,,,,,0
+江,N1,"[""creek"",""inlet"",""bay""]",가람,강,,,,,,0
+汰,N1,"[""washing"",""sieving"",""filtering"",""weeding out"",""luxury""]",일,태,,,,,,0
+汽,N1,"[""vapor"",""steam""]",김,기,,,,,,0
+沃,N1,"[""fertility""]",기름질,옥,,,,,,0
+沖,N1,"[""open sea"",""offing"",""rise high into sky""]",깊을,충,,,,,,0
+沙,N1,"[""sand""]",모래,사,,,,,,0
+没,N1,"[""drown"",""sink"",""hide"",""fall into"",""disappear"",""die""]",가라 앉을,몰,,,,,,0
+沢,N1,"[""swamp"",""marsh"",""brilliance"",""grace""]",못,택,,,,,,0
+沼,N1,"[""marsh"",""lake"",""bog"",""swamp"",""pond""]",못,소,,,,,,0
+沿,N1,"[""run alongside"",""follow along"",""run along"",""lie along""]",따를,연,,,,,,0
+泌,N1,"[""ooze"",""flow"",""soak in"",""penetrate"",""secrete""]",샘물 흐르는 모양,비,,,,,,0
+泡,N1,"[""bubbles"",""foam"",""suds"",""froth""]",거품,포,,,,,,0
+泣,N1,"[""cry"",""weep"",""moan""]",울,읍,,,,,,0
+泰,N1,"[""peaceful"",""calm"",""peace"",""easy"",""Thailand"",""extreme"",""excessive"",""great""]",클,태,,,,,,0
+洞,N1,"[""den"",""cave"",""excavation""]",마을,동,,,,,,0
+津,N1,"[""haven"",""port"",""harbor"",""ferry""]",나루,진,,,,,,0
+洪,N1,"[""deluge"",""flood"",""vast""]",큰물,홍,,,,,,0
+洲,N1,"[""continent"",""sandbar"",""island"",""country""]",섬,주,,,,,,0
+洵,N1,"[""alike"",""truth""]",웅덩이물,순,,,,,,0
+洸,N1,"[""sparkling water""]",물 용솟음할,광,,,,,,0
+派,N1,"[""faction"",""group"",""party"",""clique"",""sect"",""school""]",물 갈래,파,,,,,,0
+浄,N1,"[""clean"",""purify"",""cleanse"",""exorcise"",""Manchu Dynasty""]",맑을,정,,,,,,0
+浜,N1,"[""seacoast"",""beach"",""seashore""]",물가,빈,,,,,,0
+浦,N1,"[""bay"",""creek"",""inlet"",""gulf"",""beach"",""seacoast""]",물가,포,,,,,,0
+浩,N1,"[""wide expanse"",""abundance"",""vigorous""]",클,호,,,,,,0
+浪,N1,"[""wandering"",""waves"",""billows"",""reckless"",""unrestrained""]",물결,랑,,,,,,0
+浸,N1,"[""immersed"",""soak"",""dip"",""steep"",""moisten"",""wet"",""dunk""]",적실,침,,,,,,0
+涯,N1,"[""horizon"",""shore"",""limit"",""bound""]",물가,애,,,,,,0
+淑,N1,"[""graceful"",""gentle"",""pure""]",맑을,숙,,,,,,0
+淡,N1,"[""thin"",""faint"",""pale"",""fleeting""]",맑을,담,,,,,,0
+淫,N1,"[""lewdness"",""licentiousness""]",방탕할,음,,,,,,0
+淳,N1,"[""pure""]",맑을,순,,,,,,0
+添,N1,"[""annexed"",""accompany"",""marry"",""suit"",""meet"",""satisfy"",""attach"",""append"",""garnish"",""imitate""]",더할,첨,,,,,,0
+渇,N1,"[""thirst"",""dry up"",""parch""]",목마를,갈,,,,,,0
+渉,N1,"[""ford"",""go cross"",""transit"",""ferry"",""import"",""involve""]",물 건널,섭,,,,,,0
+渋,N1,"[""astringent"",""hesitate"",""reluctant"",""have diarrhea""]",떫을,삽,,,,,,0
+渓,N1,"[""mountain stream"",""valley""]",시내,계,,,,,,0
+渚,N1,"[""strand"",""beach"",""shore""]",물가,저,,,,,,0
+渥,N1,"[""kindness"",""moisten""]",두터울,악,,,,,,0
+渦,N1,"[""whirlpool"",""eddy"",""vortex""]",소용돌이,와,,,,,,0
+湧,N1,"[""boil"",""ferment"",""seethe"",""uproar"",""breed""]",물솟을,용,,,,,,0
+源,N1,"[""source"",""origin""]",근원,원,,,,,,0
+溝,N1,"[""gutter"",""ditch"",""sewer"",""drain"",""10**32""]",개천,구,,,,,,0
+滅,N1,"[""destroy"",""ruin"",""overthrow"",""perish""]",멸망할,멸,,,,,,0
+滉,N1,"[""deep and broad (water)""]",물 깊고 넓을,황,,,,,,0
+滋,N1,"[""nourishing"",""more & more"",""be luxuriant"",""planting"",""turbidity""]",불을,자,,,,,,0
+滑,N1,"[""slippery"",""slide"",""slip"",""fail exam""]",미끄러울,활,,,,,,0
+滝,N1,"[""waterfall"",""rapids"",""cascade""]",여울,롱,,,,,,0
+滞,N1,"[""stagnate"",""be delayed"",""overdue"",""arrears""]",막힐,체,,,,,,0
+漂,N1,"[""drift"",""float (on liquid)""]",뜰,표,,,,,,0
+漆,N1,"[""lacquer"",""varnish"",""seven""]",옻나무,칠,,,,,,0
+漏,N1,"[""leak"",""escape"",""time""]",샐,루,,,,,,0
+漠,N1,"[""vague"",""obscure"",""desert"",""wide""]",사막,막,,,,,,0
+漫,N1,"[""cartoon"",""involuntarily"",""unrestrained"",""in spite of oneself"",""corrupt""]",질펀할,만,,,,,,0
+漬,N1,"[""pickling"",""soak"",""moisten"",""steep""]",담글,지,,,,,,0
+漱,N1,"[""gargle"",""rinse mouth""]",양치질할,수,,,,,,0
+漸,N1,"[""steadily"",""gradually advancing"",""finally"",""barely""]",번질,점,,,,,,0
+潔,N1,"[""undefiled"",""pure"",""clean"",""righteous"",""gallant""]",맑을,결,,,,,,0
+潜,N1,"[""submerge"",""conceal"",""hide"",""lower (voice)"",""hush""]",잠길,잠,,,,,,0
+潟,N1,"[""lagoon""]",개펄,석,,,,,,0
+潤,N1,"[""wet"",""be watered"",""profit by"",""receive benefits"",""favor"",""charm"",""steep""]",윤택할,윤,,,,,,0
+潮,N1,"[""tide"",""salt water"",""opportunity""]",조수,조,,,,,,0
+澄,N1,"[""lucidity"",""be clear"",""clear"",""clarify"",""settle"",""strain"",""look grave""]",맑을,징,,,,,,0
+澪,N1,"[""water route"",""shipping channel""]",물 이름,령,,,,,,0
+激,N1,"[""violent"",""get excited"",""enraged"",""chafe"",""incite""]",격할,격,,,,,,0
+濁,N1,"[""voiced"",""uncleanness"",""wrong"",""nigori"",""impurity""]",흐릴,탁,,,,,,0
+濫,N1,"[""excessive"",""overflow"",""spread out""]",넘칠,람,,,,,,0
+瀬,N1,"[""rapids"",""current"",""torrent"",""shallows"",""shoal""]",여울,뢰,,,,,,0
+災,N1,"[""disaster"",""calamity"",""woe"",""curse"",""evil""]",재앙,재,,,,,,0
+炉,N1,"[""hearth"",""furnace"",""kiln"",""reactor""]",화로,로,,,,,,0
+炊,N1,"[""cook"",""boil""]",불 지필,취,,,,,,0
+炎,N1,"[""inflammation"",""flame"",""blaze""]",불꽃,염,,,,,,0
+為,N1,"[""do"",""change"",""make"",""benefit"",""welfare"",""be of use"",""reach to"",""try"",""practice"",""cost"",""serve as"",""good"",""advantage"",""as a result of""]",할,위,,,,,,0
+烈,N1,"[""ardent"",""violent"",""vehement"",""furious"",""severe"",""extreme""]",세찰,렬,,,,,,0
+焦,N1,"[""char"",""hurry"",""impatient"",""irritate"",""burn"",""scorch"",""singe""]",그슬릴,초,,,,,,0
+煩,N1,"[""anxiety"",""trouble"",""worry"",""pain"",""ill"",""annoy"",""nuisance"",""irksome""]",괴로워할,번,,,,,,0
+煮,N1,"[""boil"",""cook""]",삶을,자,,,,,,0
+熊,N1,"[""bear""]",곰,웅,,,,,,0
+熙,N1,"[""bright"",""sunny"",""prosperous"",""merry""]",빛날,희,,,,,,0
+熟,N1,"[""mellow"",""ripen"",""mature"",""acquire skill""]",익힐,숙,,,,,,0
+燎,N1,"[""burn"",""bonfire""]",화톳불,료,,,,,,0
+燦,N1,"[""brilliant""]",빛날,찬,,,,,,0
+燿,N1,"[""shine""]",비칠,요,,,,,,0
+爵,N1,"[""baron"",""peerage"",""court rank""]",벼슬,작,,,,,,0
+爽,N1,"[""refreshing"",""bracing"",""resonant"",""sweet"",""clear""]",시원할,상,,,,,,0
+爾,N1,"[""you"",""thou"",""second person""]",너,이,,,,,,0
+牙,N1,"[""tusk"",""fang"",""tusk radical (no. 92)""]",어금니,아,,,,,,0
+牧,N1,"[""breed"",""care for"",""shepherd"",""feed"",""pasture""]",칠,목,,,,,,0
+牲,N1,"[""animal sacrifice"",""offering""]",희생,생,,,,,,0
+犠,N1,"[""sacrifice""]",희생,희,,,,,,0
+狂,N1,"[""lunatic"",""insane"",""crazy"",""confuse""]",미칠,광,,,,,,0
+狩,N1,"[""hunt"",""raid"",""gather""]",겨울사냥,수,,,,,,0
+独,N1,"[""single"",""alone"",""spontaneously"",""Germany""]",홀로,독,,,,,,0
+狭,N1,"[""cramped"",""narrow"",""contract"",""tight""]",좁을,협,,,,,,0
+猛,N1,"[""fierce"",""rave"",""rush"",""become furious"",""wildness"",""strength""]",사나울,맹,,,,,,0
+猟,N1,"[""game-hunting"",""shooting"",""game"",""bag""]",사냥,렵,,,,,,0
+猪,N1,"[""boar""]",돼지,저,,,,,,0
+献,N1,"[""offering"",""counter for drinks"",""present"",""offer""]",바칠,헌,,,,,,0
+猶,N1,"[""furthermore"",""still"",""yet""]",오히려,유,,,,,,0
+猿,N1,"[""monkey""]",원숭이,원,,,,,,0
+獄,N1,"[""prison"",""jail""]",감옥,옥,,,,,,0
+獣,N1,"[""animal"",""beast""]",짐승,수,,,,,,0
+獲,N1,"[""seize"",""get"",""find"",""earn"",""acquire"",""can"",""may"",""able to""]",얻을,획,,,,,,0
+玄,N1,"[""mysterious"",""occultness"",""black"",""deep"",""profound""]",검을,현,,,,,,0
+率,N1,"[""ratio"",""rate"",""proportion"",""%"",""factor"",""lead"",""spearhead"",""command""]",헤아릴,률,,,,,,0
+玖,N1,"[""beautiful black jewel"",""nine""]",옥 다음가는 돌,구,,,,,,0
+玩,N1,"[""play"",""take pleasure in"",""trifle with"",""make sport of""]",희롱할,완,,,,,,0
+玲,N1,"[""sound of jewels""]",옥소리,령,,,,,,0
+珠,N1,"[""pearl"",""gem"",""jewel""]",구슬,주,,,,,,0
+班,N1,"[""squad"",""corps"",""unit"",""group""]",나눌,반,,,,,,0
+琉,N1,"[""precious stone"",""gem"",""lapis lazuli""]",유리,류,,,,,,0
+琢,N1,"[""polish""]",옥 쪼을,탁,,,,,,0
+琳,N1,"[""jewel"",""tinkling of jewelry""]",아름다운 옥,림,,,,,,0
+琴,N1,"[""harp"",""koto""]",거문고,금,,,,,,0
+瑚,N1,"[""ancestral offering receptacle"",""coral""]",산호,호,,,,,,0
+瑛,N1,"[""sparkle of jewelry"",""crystal""]",옥빛,영,,,,,,0
+瑞,N1,"[""congratulations""]",상서,서,,,,,,0
+瑠,N1,"[""lapis lazuli""]",구슬이름,류,,,,,,0
+瑳,N1,"[""polish"",""brilliant white luster of a gem"",""artful smile""]",깨끗할,차,,,,,,0
+瑶,N1,"[""beautiful as a jewel""]",아름다운 옥,요,,,,,,0
+璃,N1,"[""glassy"",""lapis lazuli""]",유리,리,,,,,,0
+璧,N1,"[""sphere"",""ball""]",둥근 옥,벽,,,,,,0
+環,N1,"[""ring"",""circle"",""loop""]",고리,환,,,,,,0
+璽,N1,"[""emperor's seal""]",도장,새,,,,,,0
+甚,N1,"[""tremendously"",""very"",""great"",""exceedingly""]",심할,심,,,,,,0
+甫,N1,"[""for the first time"",""not until""]",클,보,,,,,,0
+甲,N1,"[""armor"",""high (voice)"",""A grade"",""first class"",""former"",""instep"",""carapace""]",갑옷,갑,,,,,,0
+畏,N1,"[""fear"",""majestic"",""graciously"",""be apprehensive""]",두려울,외,,,,,,0
+畔,N1,"[""paddy ridge"",""levee""]",지경,반,,,,,,0
+畝,N1,"[""furrow"",""thirty tsubo"",""ridge"",""rib""]",밭이랑,무,,,,,,0
+異,N1,"[""uncommon"",""different"",""queerness"",""strangeness"",""wonderful"",""curious"",""unusual""]",다를,이,,,,,,0
+畿,N1,"[""capital"",""suburbs of capital""]",경기,기,,,,,,0
+疎,N1,"[""alienate"",""rough"",""neglect"",""shun"",""sparse"",""penetrate""]",성길,소,,,,,,0
+疫,N1,"[""epidemic""]",염병,역,,,,,,0
+疾,N1,"[""rapidly""]",병,질,,,,,,0
+症,N1,"[""symptoms"",""illness""]",증세,증,,,,,,0
+痕,N1,"[""mark"",""foot print""]",흉터,흔,,,,,,0
+痘,N1,"[""pox"",""smallpox""]",마마,두,,,,,,0
+痢,N1,"[""diarrhea""]",설사,리,,,,,,0
+痴,N1,"[""stupid"",""foolish""]",어리석을,치,,,,,,0
+瘍,N1,"[""swelling"",""boil"",""tumor""]",머리헐,양,,,,,,0
+癒,N1,"[""healing"",""cure"",""quench (thirst)"",""wreak""]",병 나을,유,,,,,,0
+癖,N1,"[""mannerism"",""habit"",""vice"",""trait"",""fault"",""kink""]",버릇,벽,,,,,,0
+皇,N1,"[""emperor""]",임금,황,,,,,,0
+皐,N1,"[""swamp"",""shore"",""fifth month""]",부르는 소리,고,,,,,,0
+皓,N1,"[""white"",""clear""]",흴,호,,,,,,0
+盆,N1,"[""basin"",""lantern festival"",""tray""]",동이,분,,,,,,0
+益,N1,"[""benefit"",""gain"",""profit"",""advantage""]",더할,익,,,,,,0
+盛,N1,"[""boom"",""prosper"",""copulate""]",성할,성,,,,,,0
+盟,N1,"[""alliance"",""oath""]",맹세할,맹,,,,,,0
+監,N1,"[""oversee"",""official"",""govt office"",""rule"",""administer""]",거느릴,감,,,,,,0
+盤,N1,"[""tray"",""shallow bowl"",""platter"",""tub"",""board"",""phonograph record""]",소반,반,,,,,,0
+盲,N1,"[""blind"",""blind man"",""ignoramus""]",소경,맹,,,,,,0
+盾,N1,"[""shield"",""escutcheon"",""pretext""]",방패,순,,,,,,0
+眉,N1,"[""eyebrow""]",눈썹,미,,,,,,0
+看,N1,"[""watch over"",""see""]",볼,간,,,,,,0
+眸,N1,"[""pupil of the eye""]",눈동자,모,,,,,,0
+眺,N1,"[""stare"",""watch"",""look at"",""see"",""scrutinize""]",바라볼,조,,,,,,0
+眼,N1,"[""eyeball""]",눈,안,,,,,,0
+睡,N1,"[""drowsy"",""sleep"",""die""]",졸음,수,,,,,,0
+督,N1,"[""coach"",""command"",""urge"",""lead"",""supervise""]",감독할,독,,,,,,0
+睦,N1,"[""intimate"",""friendly"",""harmonious""]",화목할,목,,,,,,0
+瞬,N1,"[""wink"",""blink"",""twinkle""]",눈 깜짝일,순,,,,,,0
+瞭,N1,"[""clear""]",밝을,료,,,,,,0
+瞳,N1,"[""pupil (of eye)""]",눈동자,동,,,,,,0
+矛,N1,"[""halberd"",""arms"",""festival float""]",창,모,,,,,,0
+矢,N1,"[""dart"",""arrow""]",살,시,,,,,,0
+矯,N1,"[""rectify"",""straighten"",""correct"",""reform"",""cure"",""control"",""pretend"",""falsify""]",바로잡을,교,,,,,,0
+砕,N1,"[""smash"",""break"",""crush"",""familiar"",""popular""]",부술,쇄,,,,,,0
+砲,N1,"[""cannon"",""gun""]",큰 대포,포,,,,,,0
+硝,N1,"[""nitrate"",""saltpeter""]",초석,초,,,,,,0
+硫,N1,"[""sulphur""]",유황,류,,,,,,0
+碁,N1,"[""Go""]",바둑,기,,,,,,0
+碑,N1,"[""tombstone"",""monument""]",비석,비,,,,,,0
+碧,N1,"[""blue"",""green""]",푸를,벽,,,,,,0
+碩,N1,"[""large"",""great"",""eminent""]",클,석,,,,,,0
+磁,N1,"[""magnet"",""porcelain""]",자석,자,,,,,,0
+磯,N1,"[""seashore"",""beach""]",물가,기,,,,,,0
+礁,N1,"[""reef"",""sunken rock""]",암초,초,,,,,,0
+礎,N1,"[""cornerstone"",""foundation stone""]",주춧돌,초,,,,,,0
+祉,N1,"[""welfare"",""happiness""]",복,지,,,,,,0
+祐,N1,"[""help""]",도울,우,,,,,,0
+祥,N1,"[""auspicious"",""happiness"",""blessedness"",""good omen"",""good fortune""]",상서로울,상,,,,,,0
+票,N1,"[""ballot"",""label"",""ticket"",""sign""]",쪽지,표,,,,,,0
+禄,N1,"[""fief"",""allowance"",""pension"",""grant"",""happiness""]",녹,록,,,,,,0
+禅,N1,"[""Zen"",""silent meditation""]",봉선,선,,,,,,0
+禍,N1,"[""calamity"",""misfortune"",""evil"",""curse""]",재앙,화,,,,,,0
+禎,N1,"[""happiness"",""blessed"",""good fortune"",""auspicious""]",상서로울,정,,,,,,0
+秀,N1,"[""excel"",""excellence"",""beauty"",""surpass""]",빼어날,수,,,,,,0
+秘,N1,"[""secret"",""conceal""]",숨길,비,,,,,,0
+租,N1,"[""tariff"",""crop tax"",""borrowing""]",구실,조,,,,,,0
+秦,N1,"[""Qin dynasty"",""name given to naturalized foreigners""]",나라,진,,,,,,0
+秩,N1,"[""regularity"",""salary"",""order""]",차례,질,,,,,,0
+称,N1,"[""appellation"",""praise"",""admire"",""name"",""title"",""fame""]",저울질할,칭,,,,,,0
+稀,N1,"[""rare"",""phenomenal"",""dilute (acid)""]",드물,희,,,,,,0
+稔,N1,"[""harvest"",""ripen""]",곡식익을,임,,,,,,0
+稚,N1,"[""immature"",""young""]",어린 벼,치,,,,,,0
+稜,N1,"[""angle"",""edge"",""corner"",""power"",""majesty""]",모날,릉,,,,,,0
+稲,N1,"[""rice plant""]",벼,도,,,,,,0
+稼,N1,"[""earnings"",""work"",""earn money""]",심을,가,,,,,,0
+稿,N1,"[""draft"",""copy"",""manuscript"",""straw""]",볏짚,고,,,,,,0
+穀,N1,"[""cereals"",""grain""]",곡식,곡,,,,,,0
+穂,N1,"[""ear"",""ear (grain)"",""head"",""crest (wave)""]",이삭,수,,,,,,0
+穏,N1,"[""calm"",""quiet"",""moderation""]",편안할,온,,,,,,0
+穣,N1,"[""good crops"",""prosperity"",""10**28""]",풍년들,양,,,,,,0
+穫,N1,"[""harvest"",""reap""]",벼 벨,확,,,,,,0
+穴,N1,"[""hole"",""aperture"",""slit"",""cave"",""den""]",굴,혈,,,,,,0
+窃,N1,"[""stealth"",""steal"",""secret"",""private"",""hushed""]",좀도둑,절,,,,,,0
+窒,N1,"[""plug up"",""obstruct""]",막을,질,,,,,,0
+窟,N1,"[""cavern""]",구멍,굴,,,,,,0
+窮,N1,"[""hard up"",""destitute"",""suffer"",""perplexed"",""cornered""]",다할,궁,,,,,,0
+窯,N1,"[""kiln"",""oven"",""furnace""]",기와가마,요,,,,,,0
+竜,N1,"[""dragon"",""imperial""]",용,룡,,,,,,0
+竣,N1,"[""end"",""finish""]",마칠,준,,,,,,0
+端,N1,"[""edge"",""origin"",""end"",""point"",""border"",""verge"",""cape""]",끝,단,,,,,,0
+笙,N1,"[""a reed instrument""]",생황,생,,,,,,0
+笛,N1,"[""flute"",""clarinet"",""pipe"",""whistle"",""bagpipe"",""piccolo""]",피리,적,,,,,,0
+第,N1,"[""No."",""residence""]",차례,제,,,,,,0
+笹,N1,"[""bamboo grass"",""(kokuji)""]",가는 대,세,,,,,,0
+筋,N1,"[""muscle"",""sinew"",""tendon"",""fiber"",""plot"",""plan"",""descent""]",힘줄,근,,,,,,0
+策,N1,"[""scheme"",""plan"",""policy"",""step"",""means""]",채찍,책,,,,,,0
+箇,N1,"[""counter for articles""]",낱,개,,,,,,0
+箸,N1,"[""chopsticks""]",젓가락,저,,,,,,0
+節,N1,"[""node"",""season"",""period"",""occasion"",""verse"",""clause"",""stanza"",""honor"",""joint"",""knuckle"",""knob"",""knot"",""tune"",""melody""]",마디,절,,,,,,0
+範,N1,"[""pattern"",""example"",""model""]",법,범,,,,,,0
+篤,N1,"[""fervent"",""kind"",""cordial"",""serious"",""deliberate""]",도타울,독,,,,,,0
+簿,N1,"[""register"",""record book""]",장부,부,,,,,,0
+粋,N1,"[""chic"",""style"",""purity"",""essence"",""pith"",""cream"",""elite"",""choice""]",정할,수,,,,,,0
+粗,N1,"[""coarse"",""rough"",""rugged""]",거칠,조,,,,,,0
+粘,N1,"[""sticky"",""glutinous"",""greasy"",""persevere""]",붙일,점,,,,,,0
+粛,N1,"[""solemn"",""quietly"",""softly""]",공손할,숙,,,,,,0
+糖,N1,"[""sugar""]",엿,당,,,,,,0
+糧,N1,"[""provisions"",""food"",""bread""]",양식,량,,,,,,0
+系,N1,"[""lineage"",""system""]",이을,계,,,,,,0
+糾,N1,"[""twist"",""ask"",""investigate"",""verify""]",얽힐,규,,,,,,0
+紀,N1,"[""chronicle"",""account"",""narrative"",""history"",""annals"",""geologic period""]",벼리,기,,,,,,0
+紋,N1,"[""family crest"",""figures""]",무늬,문,,,,,,0
+納,N1,"[""settlement"",""obtain"",""reap"",""pay"",""supply"",""store""]",바칠,납,,,,,,0
+紗,N1,"[""gauze"",""gossamer""]",깁,사,,,,,,0
+紘,N1,"[""large""]",갓끈,굉,,,,,,0
+級,N1,"[""class"",""rank"",""grade""]",등급,급,,,,,,0
+紛,N1,"[""distract"",""be mistaken for"",""go astray"",""divert""]",어지러워질,분,,,,,,0
+素,N1,"[""elementary"",""principle"",""naked"",""uncovered""]",흴,소,,,,,,0
+紡,N1,"[""spinning""]",길쌈할,방,,,,,,0
+索,N1,"[""cord"",""rope"",""searching"",""inquiring""]",찾을,색,,,,,,0
+紫,N1,"[""purple"",""violet""]",자주빛,자,,,,,,0
+紬,N1,"[""pongee (a knotted silk cloth)""]",명주,주,,,,,,0
+累,N1,"[""accumulate"",""involvement"",""trouble"",""tie up"",""continually""]",묶을,루,,,,,,0
+紳,N1,"[""sire"",""good belt"",""gentleman""]",큰 띠,신,,,,,,0
+紺,N1,"[""dark blue"",""navy""]",아청,감,,,,,,0
+絃,N1,"[""string"",""cord"",""samisen music""]",줄풍류,현,,,,,,0
+結,N1,"[""tie"",""bind"",""contract"",""join"",""organize"",""do up hair"",""fasten""]",맺을,결,,,,,,0
+絞,N1,"[""strangle"",""constrict"",""wring""]",목맬,교,,,,,,0
+絢,N1,"[""brilliant fabric design""]",채색무늬,현,,,,,,0
+統,N1,"[""overall"",""relationship"",""ruling"",""governing""]",거느릴,통,,,,,,0
+絹,N1,"[""silk""]",비단,견,,,,,,0
+継,N1,"[""inherit"",""succeed"",""continue"",""patch"",""graft (tree)""]",이을,계,,,,,,0
+綜,N1,"[""rule"",""synthesize""]",모을,종,,,,,,0
+維,N1,"[""fiber"",""tie"",""rope""]",벼리,유,,,,,,0
+綱,N1,"[""hawser"",""class (genus)"",""rope"",""cord"",""cable""]",벼리,강,,,,,,0
+網,N1,"[""netting"",""network""]",그물,망,,,,,,0
+綸,N1,"[""thread"",""silk cloth""]",낚싯줄,륜,,,,,,0
+綺,N1,"[""figured cloth"",""beautiful""]",비단,기,,,,,,0
+綻,N1,"[""be rent"",""ripped"",""unravel"",""run"",""begin to open"",""smile""]",옷 터질,탄,,,,,,0
+綾,N1,"[""design"",""figured cloth"",""twill""]",무늬 놓은 비단,능,,,,,,0
+緊,N1,"[""tense"",""solid"",""hard"",""reliable"",""tight""]",굳게 얽힐,긴,,,,,,0
+緋,N1,"[""scarlet"",""cardinal""]",붉은 빛,비,,,,,,0
+締,N1,"[""tighten"",""tie"",""shut"",""lock"",""fasten""]",맺을,체,,,,,,0
+緩,N1,"[""slacken"",""loosen"",""relax"",""lessen"",""be moderate"",""ease""]",느릴,완,,,,,,0
+緯,N1,"[""horizontal"",""woof"",""left & right"",""(parallels of) latitude"",""prediction""]",씨줄,위,,,,,,0
+緻,N1,"[""fine (i.e. not coarse)""]",톡톡할,치,,,,,,0
+縁,N1,"[""affinity"",""relation"",""connection"",""edge"",""border"",""verge"",""brink""]",인연,연,,,,,,0
+縄,N1,"[""straw rope"",""cord""]",노끈,승,,,,,,0
+縛,N1,"[""truss"",""arrest"",""bind"",""tie"",""restrain""]",묶을,박,,,,,,0
+縦,N1,"[""vertical"",""length"",""height"",""self-indulgent"",""wayward""]",세로,종,,,,,,0
+縫,N1,"[""sew"",""stitch"",""embroider""]",꿰맬,봉,,,,,,0
+縮,N1,"[""shrink"",""contract"",""shrivel"",""wrinkle"",""reduce""]",줄어들,축,,,,,,0
+繁,N1,"[""luxuriant"",""thick"",""overgrown"",""frequency"",""complexity"",""trouble""]",많을,번,,,,,,0
+繊,N1,"[""slender"",""fine"",""thin kimono""]",가늘,섬,,,,,,0
+織,N1,"[""weave"",""fabric""]",짤,직,,,,,,0
+繕,N1,"[""darning"",""repair"",""mend"",""trim"",""tidy up"",""adjust""]",기울,선,,,,,,0
+繭,N1,"[""cocoon""]",고치,견,,,,,,0
+繰,N1,"[""winding"",""reel"",""spin"",""turn (pages)"",""look up"",""refer to""]",야청 통견,조,,,,,,0
+罰,N1,"[""penalty"",""punishment""]",벌할,벌,,,,,,0
+罵,N1,"[""abuse"",""insult""]",욕할,매,,,,,,0
+罷,N1,"[""quit"",""stop"",""leave"",""withdraw"",""go""]",파할,파,,,,,,0
+羅,N1,"[""gauze"",""thin silk"",""Rome"",""arrange"",""spread out""]",새그물,라,,,,,,0
+羊,N1,"[""sheep""]",양,양,,,,,,0
+羞,N1,"[""feel ashamed""]",부끄러울,수,,,,,,0
+義,N1,"[""righteousness"",""justice"",""morality"",""honor"",""loyalty"",""meaning""]",옳을,의,,,,,,0
+翁,N1,"[""venerable old man""]",늙은이,옹,,,,,,0
+翔,N1,"[""soar"",""fly""]",빙빙돌아날,상,,,,,,0
+翠,N1,"[""green"",""kingfisher""]",비취,취,,,,,,0
+翻,N1,"[""flip"",""turn over"",""wave"",""flutter"",""change (mind)""]",날,번,,,,,,0
+翼,N1,"[""wing"",""plane"",""flank""]",날개,익,,,,,,0
+耀,N1,"[""shine"",""sparkle"",""gleam"",""twinkle""]",빛날,요,,,,,,0
+耐,N1,"[""-proof"",""enduring""]",견딜,내,,,,,,0
+耗,N1,"[""decrease""]",줄,모,,,,,,0
+耶,N1,"[""question mark""]",어조사,야,,,,,,0
+聖,N1,"[""holy"",""saint"",""sage"",""master"",""priest""]",성인,성,,,,,,0
+聡,N1,"[""wise"",""fast learner""]",귀 밝을,총,,,,,,0
+聴,N1,"[""listen"",""headstrong"",""naughty"",""careful inquiry""]",들을,청,,,,,,0
+肇,N1,"[""beginning""]",비롯할,조,,,,,,0
+肖,N1,"[""resemblance""]",닮을,초,,,,,,0
+肝,N1,"[""liver"",""pluck"",""nerve"",""chutzpah""]",간,간,,,,,,0
+股,N1,"[""thigh"",""crotch""]",넓적다리,고,,,,,,0
+肢,N1,"[""limb"",""arms & legs""]",사지,지,,,,,,0
+肥,N1,"[""fertilizer"",""get fat"",""fertile"",""manure"",""pamper""]",살찔,비,,,,,,0
+肪,N1,"[""obese"",""fat""]",기름,방,,,,,,0
+肺,N1,"[""lungs""]",허파,폐,,,,,,0
+胆,N1,"[""gall bladder"",""courage"",""pluck"",""nerve""]",쓸개,담,,,,,,0
+胎,N1,"[""womb"",""uterus""]",아이 밸,태,,,,,,0
+胞,N1,"[""placenta"",""sac"",""sheath""]",태보,포,,,,,,0
+胡,N1,"[""barbarian"",""foreign""]",턱밑살,호,,,,,,0
+胤,N1,"[""descendent"",""issue"",""offspring""]",이을,윤,,,,,,0
+胴,N1,"[""trunk"",""torso"",""hull (ship)"",""hub of wheel""]",큰창자,동,,,,,,0
+脅,N1,"[""threaten"",""coerce""]",위협할,협,,,,,,0
+脈,N1,"[""vein"",""pulse"",""hope""]",맥,맥,,,,,,0
+脊,N1,"[""stature"",""height"",""spine""]",등성마루,척,,,,,,0
+脚,N1,"[""skids"",""leg"",""undercarriage"",""lower part"",""base""]",다리,각,,,,,,0
+脩,N1,"[""dried meat""]",포,수,,,,,,0
+脱,N1,"[""undress"",""removing"",""escape from"",""get rid of"",""be left out"",""take off""]",벗어날,탈,,,,,,0
+脹,N1,"[""dilate"",""distend"",""bulge"",""fill out"",""swell""]",부를,창,,,,,,0
+腎,N1,"[""kidney""]",콩팥,신,,,,,,0
+腐,N1,"[""rot"",""decay"",""sour""]",썩을,부,,,,,,0
+腫,N1,"[""tumor"",""swelling""]",부스럼,종,,,,,,0
+腸,N1,"[""intestines"",""guts"",""bowels"",""viscera""]",창자,장,,,,,,0
+腺,N1,"[""gland"",""(kokuji)""]",샘,선,,,,,,0
+膜,N1,"[""membrane""]",막,막,,,,,,0
+膨,N1,"[""swell"",""get fat"",""thick""]",배 불룩할,팽,,,,,,0
+膳,N1,"[""small low table"",""tray""]",반찬,선,,,,,,0
+臆,N1,"[""timidity"",""heart"",""mind"",""fear"",""cowardly""]",가슴,억,,,,,,0
+臨,N1,"[""look to"",""face"",""meet"",""confront"",""attend"",""call on""]",임할,림,,,,,,0
+臭,N1,"[""stinking"",""ill-smelling"",""suspicious looking"",""odor"",""savor"",""fragrance"",""be fragrant"",""stink"",""glow"",""be bright""]",냄새,취,,,,,,0
+至,N1,"[""climax"",""arrive"",""proceed"",""reach"",""attain"",""result in""]",이를,지,,,,,,0
+致,N1,"[""doth"",""do"",""send"",""forward"",""cause"",""exert"",""incur"",""engage""]",이를,치,,,,,,0
+臼,N1,"[""mortar""]",절구,구,,,,,,0
+興,N1,"[""entertain"",""revive"",""retrieve"",""interest"",""pleasure""]",일,흥,,,,,,0
+舌,N1,"[""tongue"",""reed"",""clapper""]",혀,설,,,,,,0
+舎,N1,"[""cottage"",""inn"",""hut"",""house"",""mansion""]",집,사,,,,,,0
+舗,N1,"[""shop"",""store"",""pave""]",전방,포,,,,,,0
+舜,N1,"[""type of morning glory"",""rose of Sharon"",""althea""]",순임금,순,,,,,,0
+舶,N1,"[""liner"",""ship""]",배,박,,,,,,0
+舷,N1,"[""gunwale""]",뱃전,현,,,,,,0
+艇,N1,"[""rowboat"",""small boat""]",거룻배,정,,,,,,0
+艦,N1,"[""warship""]",싸움배,함,,,,,,0
+艶,N1,"[""glossy"",""luster"",""glaze"",""polish"",""charm"",""colorful"",""captivating""]",고울,염,,,,,,0
+芋,N1,"[""taro"",""yam"",""tuber""]",토란,우,,,,,,0
+芙,N1,"[""lotus"",""Mt Fuji""]",부용,부,,,,,,0
+芝,N1,"[""turf"",""lawn""]",지초,지,,,,,,0
+芳,N1,"[""perfume"",""balmy"",""favorable"",""fragrant""]",꽃다울,방,,,,,,0
+芹,N1,"[""parsley""]",미나리,근,,,,,,0
+芽,N1,"[""bud"",""sprout"",""spear"",""germ""]",싹,아,,,,,,0
+苑,N1,"[""garden"",""farm"",""park""]",나랏동산,원,,,,,,0
+苗,N1,"[""seedling"",""sapling"",""shoot""]",모,묘,,,,,,0
+苛,N1,"[""torment"",""scold"",""chastise""]",가혹할,가,,,,,,0
+茂,N1,"[""overgrown"",""grow thick"",""be luxuriant""]",우거질,무,,,,,,0
+茄,N1,"[""eggplant""]",가지,가,,,,,,0
+茅,N1,"[""miscanthus reed""]",띠,모,,,,,,0
+茉,N1,"[""jasmine""]",말리,말,,,,,,0
+茎,N1,"[""stalk"",""stem""]",줄기,경,,,,,,0
+茜,N1,"[""madder"",""red dye"",""Turkey red""]",꼭두서니,천,,,,,,0
+茨,N1,"[""briar"",""thorn""]",가시나무,자,,,,,,0
+荘,N1,"[""villa"",""inn"",""cottage"",""feudal manor"",""solemn"",""dignified""]",엄할,장,,,,,,0
+莉,N1,"[""jasmine""]",말리,리,,,,,,0
+莞,N1,"[""smiling"",""reed used to cover tatami""]",왕골,완,,,,,,0
+菊,N1,"[""chrysanthemum""]",국화,국,,,,,,0
+菌,N1,"[""germ"",""fungus"",""bacteria""]",버섯,균,,,,,,0
+菖,N1,"[""iris""]",창포,창,,,,,,0
+菫,N1,"[""the violet""]",오랑캐 꽃,근,,,,,,0
+華,N1,"[""splendor"",""flower"",""petal"",""shine"",""luster"",""ostentatious"",""showy"",""gay"",""gorgeous""]",꽃,화,,,,,,0
+萌,N1,"[""show symptoms of"",""sprout"",""bud"",""malt""]",싹,맹,,,,,,0
+萎,N1,"[""wither"",""droop"",""lame""]",마를,위,,,,,,0
+萩,N1,"[""bush clover""]",맑은 대쑥,추,,,,,,0
+葛,N1,"[""arrowroot"",""kudzu""]",칡,갈,,,,,,0
+葬,N1,"[""interment"",""bury"",""shelve""]",장사 지낼,장,,,,,,0
+葵,N1,"[""hollyhock""]",해바라기,규,,,,,,0
+蒔,N1,"[""sow (seeds)""]",소회향,시,,,,,,0
+蒼,N1,"[""blue"",""pale""]",푸를,창,,,,,,0
+蓄,N1,"[""amass"",""raise"",""hoard"",""store""]",쌓을,축,,,,,,0
+蓉,N1,"[""lotus""]",연꽃,용,,,,,,0
+蓮,N1,"[""lotus""]",연꽃,련,,,,,,0
+蔑,N1,"[""ignore"",""despise"",""neglect"",""ridicule""]",업신여길,멸,,,,,,0
+蔦,N1,"[""vine"",""ivy""]",담쟁이,조,,,,,,0
+蔽,N1,"[""cover"",""shade"",""mantle"",""capsize"",""be ruined""]",가리울,폐,,,,,,0
+蕉,N1,"[""banana"",""plantain""]",파초,초,,,,,,0
+蕗,N1,"[""butterbur"",""bog rhubarb""]",감초,로,,,,,,0
+薦,N1,"[""recommend"",""mat"",""advise"",""encourage"",""offer""]",천거할,천,,,,,,0
+薪,N1,"[""fuel"",""firewood"",""kindling""]",섶,신,,,,,,0
+薫,N1,"[""send forth fragrance"",""fragrant"",""be scented"",""smoke (tobacco)""]",향불,훈,,,,,,0
+藍,N1,"[""indigo""]",쪽,남,,,,,,0
+藤,N1,"[""wisteria""]",등나무,등,,,,,,0
+藩,N1,"[""clan"",""enclosure""]",덮을,번,,,,,,0
+藻,N1,"[""seaweed"",""duckweed""]",조류,조,,,,,,0
+蘭,N1,"[""orchid"",""Holland""]",난초,란,,,,,,0
+虎,N1,"[""tiger"",""drunkard""]",범,호,,,,,,0
+虐,N1,"[""tyrannize"",""oppress""]",사나울,학,,,,,,0
+虚,N1,"[""void"",""emptiness"",""unpreparedness"",""crack"",""fissure"",""untruth""]",빌,허,,,,,,0
+虜,N1,"[""captive"",""barbarian"",""low epithet for the enemy""]",포로,노,,,,,,0
+虞,N1,"[""fear"",""uneasiness"",""anxiety"",""concern"",""expectation"",""consideration""]",염려할,우,,,,,,0
+虹,N1,"[""rainbow""]",무지개,홍,,,,,,0
+蚊,N1,"[""mosquito""]",모기,문,,,,,,0
+蚕,N1,"[""silkworm""]",누에,잠,,,,,,0
+蛇,N1,"[""snake"",""serpent"",""hard drinker""]",뱀,사,,,,,,0
+蛍,N1,"[""lightning-bug"",""firefly""]",개똥벌레,형,,,,,,0
+蛮,N1,"[""barbarian""]",오랑캐,만,,,,,,0
+蜂,N1,"[""bee"",""wasp"",""hornet""]",벌,봉,,,,,,0
+蜜,N1,"[""honey"",""nectar"",""molasses""]",꿀,밀,,,,,,0
+蝶,N1,"[""butterfly""]",들나비,접,,,,,,0
+融,N1,"[""dissolve"",""melt""]",부드러울,융,,,,,,0
+衆,N1,"[""masses"",""great numbers"",""multitude"",""populace""]",무리,중,,,,,,0
+街,N1,"[""boulevard"",""street"",""town""]",거리,가,,,,,,0
+衛,N1,"[""defense"",""protection""]",호위할,위,,,,,,0
+衝,N1,"[""collide"",""brunt"",""highway"",""opposition (astronomy)"",""thrust"",""pierce"",""stab"",""prick""]",충돌할,충,,,,,,0
+衡,N1,"[""equilibrium"",""measuring rod"",""scale""]",저울대,형,,,,,,0
+衰,N1,"[""decline"",""wane"",""weaken""]",쇠할,쇠,,,,,,0
+衷,N1,"[""inmost"",""heart"",""mind"",""inside""]",가운데,충,,,,,,0
+衿,N1,"[""neck"",""collar"",""lapel""]",옷깃,금,,,,,,0
+袈,N1,"[""a coarse camlet""]",가사,가,,,,,,0
+裁,N1,"[""tailor"",""judge"",""decision"",""cut out (pattern)""]",마름질할,재,,,,,,0
+裂,N1,"[""split"",""rend"",""tear""]",찢을,렬,,,,,,0
+裕,N1,"[""abundant"",""rich"",""fertile""]",넉넉할,유,,,,,,0
+裟,N1,"[""Buddhist surplice""]",가사,사,,,,,,0
+裸,N1,"[""naked"",""nude"",""uncovered"",""partially clothed""]",벗을,라,,,,,,0
+製,N1,"[""made in..."",""manufacture""]",만들,제,,,,,,0
+裾,N1,"[""cuff"",""hem"",""foot of mountain""]",옷 뒷자락,거,,,,,,0
+褐,N1,"[""brown"",""woollen kimono""]",털베,갈,,,,,,0
+褒,N1,"[""praise"",""extol""]",기릴,포,,,,,,0
+襟,N1,"[""collar"",""neck"",""lapel"",""one's inner feelings""]",옷깃,금,,,,,,0
+襲,N1,"[""attack"",""advance on"",""succeed to"",""pile"",""heap""]",옷 덧입을,습,,,,,,0
+覆,N1,"[""capsize"",""cover"",""shade"",""mantle"",""be ruined""]",뒤집힐,복,,,,,,0
+覇,N1,"[""hegemony"",""supremacy"",""leadership"",""champion""]",두목,패,,,,,,0
+視,N1,"[""inspection"",""regard as"",""see"",""look at""]",볼,시,,,,,,0
+覧,N1,"[""perusal"",""see""]",볼,람,,,,,,0
+訂,N1,"[""revise"",""correct"",""decide""]",바로잡을,정,,,,,,0
+訃,N1,"[""obituary""]",부고,부,,,,,,0
+討,N1,"[""chastise"",""attack"",""defeat"",""destroy"",""conquer""]",다스릴,토,,,,,,0
+託,N1,"[""consign"",""requesting"",""entrusting with"",""pretend"",""hint""]",맡길,탁,,,,,,0
+訟,N1,"[""sue"",""accuse""]",송사할,송,,,,,,0
+訳,N1,"[""translate"",""reason"",""circumstance"",""case""]",통변할,역,,,,,,0
+訴,N1,"[""accusation"",""sue"",""complain of pain"",""appeal to""]",하소연할,소,,,,,,0
+診,N1,"[""checkup"",""seeing"",""diagnose"",""examine""]",볼,진,,,,,,0
+証,N1,"[""evidence"",""proof"",""certificate""]",증거,증,,,,,,0
+詐,N1,"[""lie"",""falsehood"",""deceive"",""pretend""]",속일,사,,,,,,0
+詔,N1,"[""imperial edict""]",고할,조,,,,,,0
+評,N1,"[""evaluate"",""criticism"",""comment""]",평론할,평,,,,,,0
+詠,N1,"[""recitation"",""poem"",""song"",""composing""]",읊을,영,,,,,,0
+詢,N1,"[""consult with""]",꾀할,순,,,,,,0
+詣,N1,"[""visit a temple"",""arrive"",""attain""]",이를,예,,,,,,0
+詩,N1,"[""poem"",""poetry""]",귀글,시,,,,,,0
+詮,N1,"[""discussion"",""methods called for"",""selection"",""result""]",평론할,전,,,,,,0
+該,N1,"[""above-stated"",""the said"",""that specific""]",갖출,해,,,,,,0
+詳,N1,"[""detailed"",""full"",""minute"",""accurate"",""well-informed""]",자세할,상,,,,,,0
+誇,N1,"[""boast"",""be proud"",""pride"",""triumphantly""]",자랑할,과,,,,,,0
+誉,N1,"[""reputation"",""praise"",""honor"",""glory""]",칭찬할,예,,,,,,0
+誓,N1,"[""vow"",""swear"",""pledge""]",맹세할,서,,,,,,0
+誕,N1,"[""nativity"",""be born"",""declension"",""lie"",""be arbitrary""]",태어날,탄,,,,,,0
+誘,N1,"[""entice"",""lead"",""tempt"",""invite"",""ask"",""call for"",""seduce"",""allure""]",꾀일,유,,,,,,0
+誠,N1,"[""sincerity"",""admonish"",""warn"",""prohibit"",""truth"",""fidelity""]",미쁠,성,,,,,,0
+誼,N1,"[""friendship"",""intimacy""]",옳을,의,,,,,,0
+諄,N1,"[""tedious""]",거듭 일러줄,순,,,,,,0
+請,N1,"[""solicit"",""invite"",""ask""]",청할,청,,,,,,0
+諒,N1,"[""fact"",""reality"",""understand"",""appreciate""]",믿을,량,,,,,,0
+諧,N1,"[""harmony""]",조화할,해,,,,,,0
+諭,N1,"[""rebuke"",""admonish"",""charge"",""warn"",""persuade""]",고할,유,,,,,,0
+諮,N1,"[""consult with""]",물을,자,,,,,,0
+諾,N1,"[""consent"",""assent"",""agreement""]",대답할,낙,,,,,,0
+謀,N1,"[""conspire"",""cheat"",""impose on"",""plan"",""devise"",""scheme"",""have in mind"",""deceive""]",꾀할,모,,,,,,0
+謁,N1,"[""audience"",""audience (with king)""]",아뢸,알,,,,,,0
+謄,N1,"[""mimeograph"",""copy""]",베낄,등,,,,,,0
+謙,N1,"[""self-effacing"",""humble oneself"",""condescend"",""be modest""]",사양할,겸,,,,,,0
+謝,N1,"[""apologize"",""thank"",""refuse""]",사례할,사,,,,,,0
+謡,N1,"[""song"",""sing"",""ballad"",""noh chanting""]",노래,요,,,,,,0
+謹,N1,"[""discreet"",""reverently"",""humbly""]",삼갈,근,,,,,,0
+譜,N1,"[""musical score"",""music"",""note"",""staff"",""table"",""genealogy""]",계보,보,,,,,,0
+譲,N1,"[""defer"",""turnover"",""transfer"",""convey""]",사양할,양,,,,,,0
+護,N1,"[""safeguard"",""protect""]",보호할,호,,,,,,0
+豆,N1,"[""beans"",""pea"",""midget""]",콩,두,,,,,,0
+豚,N1,"[""pork"",""pig""]",돼지,돈,,,,,,0
+豪,N1,"[""overpowering"",""great"",""powerful"",""excelling"",""Australia""]",호걸,호,,,,,,0
+貌,N1,"[""form"",""appearance"",""countenance""]",얼굴,모,,,,,,0
+貞,N1,"[""upright"",""chastity"",""constancy"",""righteousness""]",곧을,정,,,,,,0
+貢,N1,"[""tribute"",""support"",""finance""]",바칠,공,,,,,,0
+貪,N1,"[""covet"",""indulge in""]",탐할,탐,,,,,,0
+貫,N1,"[""pierce"",""8 1/3lbs"",""penetrate"",""brace""]",꿸,관,,,,,,0
+貴,N1,"[""precious"",""value"",""prize"",""esteem"",""honor""]",높을,귀,,,,,,0
+賀,N1,"[""congratulations"",""joy""]",축하할,하,,,,,,0
+賂,N1,"[""bribe""]",뇌물,뇌,,,,,,0
+賃,N1,"[""fare"",""fee"",""hire"",""rent"",""wages"",""charge""]",품팔이,임,,,,,,0
+賄,N1,"[""bribe"",""board"",""supply"",""finance""]",뇌물,회,,,,,,0
+賊,N1,"[""burglar"",""rebel"",""traitor"",""robber""]",도적,적,,,,,,0
+賓,N1,"[""V.I.P."",""guest""]",손,빈,,,,,,0
+賜,N1,"[""grant"",""gift"",""boon"",""results""]",줄,사,,,,,,0
+賠,N1,"[""compensation"",""indemnify""]",물어줄,배,,,,,,0
+賦,N1,"[""levy"",""ode"",""prose"",""poem"",""tribute"",""installment""]",구실,부,,,,,,0
+賭,N1,"[""gamble"",""wager"",""bet""]",노름,도,,,,,,0
+購,N1,"[""subscription"",""buy""]",살(구입할),구,,,,,,0
+赦,N1,"[""pardon"",""forgiveness""]",용서할,사,,,,,,0
+赳,N1,"[""strong and brave""]",헌걸찰,규,,,,,,0
+赴,N1,"[""proceed"",""get"",""become"",""tend""]",나아갈,부,,,,,,0
+趣,N1,"[""purport"",""gist"",""elegance"",""interest"",""proceed to"",""tend"",""become""]",뜻,취,,,,,,0
+距,N1,"[""long-distance"",""spur"",""fetlock""]",떨어질,거,,,,,,0
+跳,N1,"[""hop"",""leap up"",""spring"",""jerk"",""prance"",""buck"",""splash"",""sputter"",""snap""]",뛸,도,,,,,,0
+践,N1,"[""tread"",""step on"",""trample"",""practice"",""carry through""]",밟을,천,,,,,,0
+踏,N1,"[""step"",""trample"",""carry through"",""appraise"",""evade payment""]",밟을,답,,,,,,0
+踪,N1,"[""remains"",""clue"",""footprint""]",자취,종,,,,,,0
+躍,N1,"[""leap"",""dance"",""skip""]",뛸,약,,,,,,0
+軌,N1,"[""rut"",""wheel"",""track"",""model"",""way of doing""]",수레바퀴 사이,궤,,,,,,0
+軸,N1,"[""axis"",""pivot"",""stem"",""stalk"",""counter for book scrolls""]",굴대,축,,,,,,0
+較,N1,"[""contrast"",""compare""]",견줄,교,,,,,,0
+載,N1,"[""ride"",""board"",""get on"",""place"",""spread"",""10**44"",""record"",""publish""]",실을,재,,,,,,0
+輔,N1,"[""help""]",덧방나무,보,,,,,,0
+輝,N1,"[""radiance"",""shine"",""sparkle"",""gleam"",""twinkle""]",빛날,휘,,,,,,0
+輩,N1,"[""comrade"",""fellow"",""people"",""companions""]",무리,배,,,,,,0
+轄,N1,"[""control"",""wedge""]",다스릴,할,,,,,,0
+辣,N1,"[""pungent"",""spicy"",""harsh"",""cruel"",""severe""]",매울,랄,,,,,,0
+辰,N1,"[""sign of the dragon"",""7-9AM"",""fifth sign of Chinese zodiac"",""shin dragon radical (no. 161)""]",다섯째지지,진,,,,,,0
+辱,N1,"[""embarrass"",""humiliate"",""shame""]",욕될,욕,,,,,,0
+迅,N1,"[""swift"",""fast""]",빠를,신,,,,,,0
+迪,N1,"[""edify"",""way"",""path""]",나아갈,적,,,,,,0
+迫,N1,"[""urge"",""force"",""imminent"",""spur on""]",닥칠,박,,,,,,0
+迭,N1,"[""transfer"",""alternation""]",갈마들,질,,,,,,0
+透,N1,"[""transparent"",""permeate"",""filter"",""penetrate""]",통할,투,,,,,,0
+逐,N1,"[""pursue"",""drive away"",""chase"",""accomplish"",""attain"",""commit""]",쫓을,축,,,,,,0
+逓,N1,"[""relay"",""in turn"",""sending""]",갈마들,체,,,,,,0
+逝,N1,"[""departed"",""die""]",갈,서,,,,,,0
+逮,N1,"[""apprehend"",""chase""]",미칠,체,,,,,,0
+逸,N1,"[""deviate"",""idleness"",""leisure"",""miss the mark"",""evade"",""elude"",""parry"",""diverge""]",달아날,일,,,,,,0
+遂,N1,"[""consummate"",""accomplish"",""attain"",""commit (suicide)""]",사무칠,수,,,,,,0
+遇,N1,"[""meet"",""encounter"",""interview"",""treat"",""entertain"",""receive"",""deal with""]",만날,우,,,,,,0
+遍,N1,"[""everywhere"",""times"",""widely"",""generally""]",두루,편,,,,,,0
+遣,N1,"[""dispatch"",""despatch"",""send"",""give"",""donate"",""do"",""undertake""]",보낼,견,,,,,,0
+遥,N1,"[""far off"",""distant"",""long ago""]",멀,요,,,,,,0
+遭,N1,"[""encounter"",""meet"",""party"",""association"",""interview"",""join""]",만날,조,,,,,,0
+遮,N1,"[""intercept"",""interrupt"",""obstruct""]",막을,차,,,,,,0
+遵,N1,"[""abide by"",""follow"",""obey"",""learn""]",좇을,준,,,,,,0
+遷,N1,"[""transition"",""move"",""change""]",옮길,천,,,,,,0
+遺,N1,"[""bequeath"",""leave behind"",""reserve""]",잃어버릴,유,,,,,,0
+遼,N1,"[""distant""]",멀,료,,,,,,0
+避,N1,"[""evade"",""avoid"",""avert"",""ward off"",""shirk"",""shun""]",숨을,피,,,,,,0
+還,N1,"[""send back"",""return""]",돌아올,환,,,,,,0
+邑,N1,"[""village"",""rural community"",""right village radical (no. 163)""]",고을,읍,,,,,,0
+那,N1,"[""what?""]",어찌,나,,,,,,0
+邦,N1,"[""home country"",""country"",""Japan""]",나라,방,,,,,,0
+邪,N1,"[""wicked"",""injustice"",""wrong""]",간사할,사,,,,,,0
+邸,N1,"[""residence"",""mansion""]",사처,저,,,,,,0
+郁,N1,"[""cultural progress"",""perfume""]",문채날,욱,,,,,,0
+郎,N1,"[""son"",""counter for sons""]",사내,랑,,,,,,0
+郡,N1,"[""county"",""district""]",고을,군,,,,,,0
+郭,N1,"[""enclosure"",""quarters"",""fortification"",""red-light district""]",성곽,곽,,,,,,0
+郷,N1,"[""home town"",""village"",""native place"",""district""]",시골,향,,,,,,0
+酉,N1,"[""west"",""bird"",""sign of the bird"",""5-7PM"",""tenth sign of Chinese zodiac"",""sake radical (no. 164)""]",닭,유,,,,,,0
+酌,N1,"[""bar-tending"",""serving sake"",""the host"",""draw (water)"",""ladle"",""scoop"",""pump""]",따를,작,,,,,,0
+酎,N1,"[""sake""]",세 번 빚은 술,주,,,,,,0
+酔,N1,"[""drunk"",""feel sick"",""poisoned"",""elated"",""spellbound""]",술취할,취,,,,,,0
+酢,N1,"[""vinegar"",""sour"",""acid"",""tart""]",초,초,,,,,,0
+酪,N1,"[""dairy products"",""whey"",""broth"",""fruit juice""]",쇠젖,락,,,,,,0
+酬,N1,"[""repay"",""reward"",""retribution""]",술 권할,수,,,,,,0
+酵,N1,"[""fermentation""]",삭일,효,,,,,,0
+酷,N1,"[""cruel"",""severe"",""atrocious"",""unjust""]",독할,혹,,,,,,0
+酸,N1,"[""acid"",""bitterness"",""sour"",""tart""]",초,산,,,,,,0
+醒,N1,"[""awake"",""be disillusioned"",""sober up""]",술 깰,성,,,,,,0
+醜,N1,"[""ugly"",""unclean"",""shame"",""bad looking""]",추할,추,,,,,,0
+醸,N1,"[""brew"",""cause""]",술 빚을,양,,,,,,0
+采,N1,"[""dice"",""form"",""appearance"",""take"",""gather"",""coloring""]",캘,채,,,,,,0
+釈,N1,"[""explanation""]",풀,석,,,,,,0
+里,N1,"[""ri"",""village"",""parent's home"",""league""]",마을,리,,,,,,0
+釣,N1,"[""angling"",""fish"",""catch"",""allure"",""ensnare""]",낚시,조,,,,,,0
+鈴,N1,"[""small bell"",""buzzer""]",방울,령,,,,,,0
+鉛,N1,"[""lead""]",납,연,,,,,,0
+鉢,N1,"[""bowl"",""rice tub"",""pot"",""crown""]",바리때,발,,,,,,0
+銃,N1,"[""gun"",""arms""]",총,총,,,,,,0
+銑,N1,"[""pig iron""]",무쇠,선,,,,,,0
+銘,N1,"[""inscription"",""signature (of artisan)""]",새길,명,,,,,,0
+銭,N1,"[""coin"","".01 yen"",""money""]",돈,전,,,,,,0
+鋳,N1,"[""casting"",""mint""]",쇠 부어 만들,주,,,,,,0
+鋼,N1,"[""steel""]",쇠,강,,,,,,0
+錘,N1,"[""weight"",""plumb bob"",""sinker"",""spindle""]",저울눈,추,,,,,,0
+錠,N1,"[""lock"",""fetters"",""shackles""]",촛대,정,,,,,,0
+錦,N1,"[""brocade"",""fine dress"",""honors""]",비단,금,,,,,,0
+錬,N1,"[""tempering"",""refine"",""drill"",""train"",""polish""]",단련할,련,,,,,,0
+錮,N1,"[""confinement"",""to tie""]",땜질할,고,,,,,,0
+錯,N1,"[""confused"",""mix"",""be in disorder""]",섞일,착,,,,,,0
+鍛,N1,"[""forge"",""discipline"",""train""]",쇠불릴,단,,,,,,0
+鍵,N1,"[""key""]",열쇠,건,,,,,,0
+鎌,N1,"[""sickle"",""scythe"",""trick""]",낫,겸,,,,,,0
+鎖,N1,"[""chain"",""irons"",""connection""]",자물쇠,쇄,,,,,,0
+鎮,N1,"[""tranquilize"",""ancient peace-preservation centers""]",누를,진,,,,,,0
+鏡,N1,"[""mirror"",""speculum"",""barrel-head"",""round rice-cake offering""]",거울,경,,,,,,0
+鐘,N1,"[""bell"",""gong"",""chimes""]",쇠북,종,,,,,,0
+鑑,N1,"[""specimen"",""take warning from"",""learn from""]",거울,감,,,,,,0
+閑,N1,"[""leisure""]",한가할,한,,,,,,0
+閣,N1,"[""tower"",""tall building"",""palace""]",문설주,각,,,,,,0
+閥,N1,"[""clique"",""lineage"",""pedigree"",""faction"",""clan""]",공훈,벌,,,,,,0
+閲,N1,"[""review"",""inspection"",""revision""]",겪을,열,,,,,,0
+闇,N1,"[""get dark"",""gloom"",""disorder""]",어두울,암,,,,,,0
+闘,N1,"[""fight"",""war""]",싸움,투,,,,,,0
+阜,N1,"[""hill"",""mound"",""left village radical (no. 170)""]",언덕,부,,,,,,0
+阪,N1,"[""heights"",""slope""]",산비탈,판,,,,,,0
+阻,N1,"[""thwart"",""separate from"",""prevent"",""obstruct"",""deter"",""impede""]",험할,조,,,,,,0
+阿,N1,"[""Africa"",""flatter"",""fawn upon"",""corner"",""nook"",""recess""]",언덕,아,,,,,,0
+附,N1,"[""affixed"",""attach"",""refer to"",""append""]",붙을,부,,,,,,0
+陛,N1,"[""highness"",""steps (of throne)""]",대궐 섬돌,폐,,,,,,0
+陣,N1,"[""camp"",""battle array"",""ranks"",""position"",""sudden"",""brief time""]",줄,진,,,,,,0
+陥,N1,"[""collapse"",""fall into"",""cave in"",""fall (castle)"",""slide into""]",빠질,함,,,,,,0
+陪,N1,"[""obeisance"",""follow"",""accompany"",""attend on""]",쌓아올릴,배,,,,,,0
+陰,N1,"[""shade"",""yin"",""negative"",""sex organs"",""secret"",""shadow""]",음기,음,,,,,,0
+陳,N1,"[""exhibit"",""state"",""relate"",""explain""]",늘어놓을,진,,,,,,0
+陵,N1,"[""mausoleum"",""imperial tomb"",""mound"",""hill""]",큰 언덕,릉,,,,,,0
+陶,N1,"[""pottery"",""porcelain""]",질그릇,도,,,,,,0
+隆,N1,"[""hump"",""high"",""noble"",""prosperity""]",클,륭,,,,,,0
+隊,N1,"[""regiment"",""party"",""company"",""squad""]",군대,대,,,,,,0
+随,N1,"[""follow"",""though"",""notwithstanding"",""while"",""during"",""both"",""all"",""obey"",""submit to"",""comply"",""at the mercy of (the waves)""]",따를,수,,,,,,0
+隔,N1,"[""isolate"",""alternate"",""distance"",""separate"",""gulf""]",막을,격,,,,,,0
+障,N1,"[""hinder"",""hurt"",""harm""]",막을,장,,,,,,0
+隠,N1,"[""conceal"",""hide"",""cover""]",숨을,은,,,,,,0
+隣,N1,"[""neighboring""]",이웃,린,,,,,,0
+隷,N1,"[""slave"",""servant"",""prisoner"",""criminal"",""follower""]",붙을,례,,,,,,0
+隼,N1,"[""falcon""]",새매,준,,,,,,0
+雄,N1,"[""masculine"",""male"",""hero"",""leader"",""superiority"",""excellence""]",수컷,웅,,,,,,0
+雅,N1,"[""gracious"",""elegant"",""graceful"",""refined""]",아담할,아,,,,,,0
+雌,N1,"[""feminine"",""female""]",암컷,자,,,,,,0
+雛,N1,"[""chick"",""squab"",""duckling"",""doll""]",새 새끼,추,,,,,,0
+離,N1,"[""detach"",""separation"",""disjoin"",""digress""]",떼 놓을,리,,,,,,0
+雰,N1,"[""atmosphere"",""fog""]",안개,분,,,,,,0
+雷,N1,"[""thunder"",""lightning bolt""]",우뢰,뢰,,,,,,0
+需,N1,"[""demand"",""request"",""need""]",쓰일,수,,,,,,0
+霊,N1,"[""spirits"",""soul""]",신령,령,,,,,,0
+霜,N1,"[""frost""]",서리,상,,,,,,0
+霞,N1,"[""be hazy"",""grow dim"",""blurred""]",놀,하,,,,,,0
+霧,N1,"[""fog"",""mist""]",안개,무,,,,,,0
+露,N1,"[""dew"",""tears"",""expose"",""Russia""]",이슬,로,,,,,,0
+靖,N1,"[""peaceful""]",다스릴,정,,,,,,0
+鞠,N1,"[""ball""]",기를,국,,,,,,0
+韓,N1,"[""Korea""]",나라 이름,한,,,,,,0
+韻,N1,"[""rhyme"",""elegance"",""tone""]",울림,운,,,,,,0
+響,N1,"[""echo"",""sound"",""resound"",""ring"",""vibrate""]",소리 울릴,향,,,,,,0
+項,N1,"[""paragraph"",""nape of neck"",""clause"",""item"",""term (expression)""]",목덜미,항,,,,,,0
+須,N1,"[""ought"",""by all means"",""necessarily""]",수염,수,,,,,,0
+頌,N1,"[""eulogy""]",기릴,송,,,,,,0
+頑,N1,"[""stubborn"",""foolish"",""firmly""]",완고할,완,,,,,,0
+頒,N1,"[""distribute"",""disseminate"",""partition"",""understand""]",나눌,반,,,,,,0
+頓,N1,"[""suddenly"",""immediately"",""in a hurry"",""arrange"",""stay in place"",""bow"",""kowtow""]",조아릴,돈,,,,,,0
+頰,N1,"[""cheeks"",""jaw""]",뺨,협,,,,,,0
+頻,N1,"[""repeatedly"",""recur""]",자주,빈,,,,,,0
+顎,N1,"[""jaw"",""chin"",""gill""]",턱,악,,,,,,0
+顕,N1,"[""appear"",""existing""]",나타날,현,,,,,,0
+顧,N1,"[""look back"",""review"",""examine oneself"",""turn around""]",돌아볼,고,,,,,,0
+颯,N1,"[""sudden"",""quick"",""sound of the wind""]",바람소리,삽,,,,,,0
+飢,N1,"[""hungry"",""starve""]",주릴,기,,,,,,0
+飼,N1,"[""domesticate"",""raise"",""keep"",""feed""]",먹일,사,,,,,,0
+飽,N1,"[""sated"",""tired of"",""bored"",""satiate""]",배부를,포,,,,,,0
+飾,N1,"[""decorate"",""ornament"",""adorn"",""embellish""]",꾸밀,식,,,,,,0
+養,N1,"[""foster"",""bring up"",""rear"",""develop"",""nurture""]",기를,양,,,,,,0
+餓,N1,"[""starve"",""hungry"",""thirst""]",주릴,아,,,,,,0
+馨,N1,"[""fragrant"",""balmy"",""favourable""]",향기,형,,,,,,0
+駄,N1,"[""burdensome"",""pack horse"",""horse load"",""send by horse"",""trivial"",""worthless""]",탈,타,,,,,,0
+駆,N1,"[""drive"",""run"",""gallop"",""advance"",""inspire"",""impel""]",몰,구,,,,,,0
+駒,N1,"[""pony"",""horse"",""colt""]",망아지,구,,,,,,0
+駿,N1,"[""a good horse"",""speed"",""a fast person""]",준마,준,,,,,,0
+騎,N1,"[""equestrian"",""riding on horses"",""counter for equestrians""]",말탈,기,,,,,,0
+騒,N1,"[""boisterous"",""make noise"",""clamor"",""disturb"",""excite""]",떠들,소,,,,,,0
+騰,N1,"[""leaping up"",""jumping up"",""rising"",""advancing"",""going""]",오를,등,,,,,,0
+驚,N1,"[""wonder"",""be surprised"",""frightened"",""amazed""]",놀랄,경,,,,,,0
+骸,N1,"[""bone"",""body"",""corpse""]",뼈,해,,,,,,0
+髄,N1,"[""marrow"",""pith"",""essence""]",골수,수,,,,,,0
+鬱,N1,"[""gloom"",""depression"",""melancholy"",""luxuriant""]",향기로운 풀,울,,,,,,0
+鬼,N1,"[""ghost"",""devil""]",귀신,귀,,,,,,0
+魁,N1,"[""charging ahead of others""]",으뜸,괴,,,,,,0
+魂,N1,"[""soul"",""spirit""]",넋,혼,,,,,,0
+魅,N1,"[""fascination"",""charm"",""bewitch""]",도깨비,매,,,,,,0
+魔,N1,"[""witch"",""demon"",""evil spirit""]",마귀,마,,,,,,0
+鮎,N1,"[""freshwater trout"",""smelt""]",메기,점,,,,,,0
+鮮,N1,"[""fresh"",""vivid"",""clear"",""brilliant"",""Korea""]",고울,선,,,,,,0
+鯉,N1,"[""carp""]",잉어,리,,,,,,0
+鯛,N1,"[""sea bream"",""red snapper""]",도미,조,,,,,,0
+鯨,N1,"[""whale""]",고래,경,,,,,,0
+鳩,N1,"[""pigeon"",""dove""]",비둘기,구,,,,,,0
+鳳,N1,"[""male mythical bird""]",봉새,봉,,,,,,0
+鴻,N1,"[""large bird"",""wild goose"",""large"",""great"",""powerful"",""prosperous""]",큰 기러기,홍,,,,,,0
+鵬,N1,"[""phoenix""]",대붕새,붕,,,,,,0
+鶏,N1,"[""chicken""]",닭,계,,,,,,0
+鶴,N1,"[""crane"",""stork""]",두루미,학,,,,,,0
+鷹,N1,"[""hawk""]",매,응,,,,,,0
+鹿,N1,"[""deer""]",사슴,록,,,,,,0
+麗,N1,"[""lovely"",""beautiful"",""graceful"",""resplendent""]",고울,려,,,,,,0
+麟,N1,"[""Chinese unicorn"",""genius"",""giraffe"",""bright"",""shining""]",기린,린,,,,,,0
+麺,N1,"[""noodles"",""wheat flour""]",밀가루,면,,,,,,0
+麻,N1,"[""hemp"",""flax"",""numb""]",삼,마,,,,,,0
+麿,N1,"[""I"",""you"",""(kokuji)""]",갈,마,,,,,,0
+黎,N1,"[""dark"",""black"",""many""]",검을,려,,,,,,0
+黙,N1,"[""silence"",""become silent"",""stop speaking"",""leave as is""]",묵묵할,묵,,,,,,0
+黛,N1,"[""blackened eyebrows""]",눈썹 그릴,대,,,,,,0
+鼓,N1,"[""drum"",""beat"",""rouse"",""muster""]",북,고,,,,,,0
+𠮟,N1,"[""scold"",""reprove""]",꾸짖을,질,,,,,,0
+云,,[],이를,운,,,,,,0
+些,,[],적을,사,,,,,,0
+伜,,[],백 사람,졸,,,,,,0
+佚,,[],편안할,일,,,,,,0
+俄,,[],갑자기,아,,,,,,0
+儲,,[],쌓을,저,,,,,,0
+兎,,[],토끼,토,,,,,,0
+其,,[],그,기,,,,,,0
+几,,[],안석,궤,,,,,,0
+剃,,[],머리 깎을,체,,,,,,0
+剥,,[],벗길,박,,,,,,0
+匙,,[],숟가락,시,,,,,,0
+叩,,[],두드릴,고,,,,,,0
+叱,,[],꾸짖을,질,,,,,,0
+吊,,[],슬퍼할,적,,,,,,0
+吠,,[],짖을,폐,,,,,,0
+呆,,[],어리석을,매,,,,,,0
+呑,,[],삼킬,탄,,,,,,0
+呟,,[],소리,현,,,,,,0
+咄,,[],꾸짖을,돌,,,,,,0
+咎,,[],허물,구,,,,,,0
+咥,,[],허허 웃을,희,,,,,,0
+咳,,[],기침,해,,,,,,0
+喧,,[],지껄일,훤,,,,,,0
+嗚,,[],탄식할,오,,,,,,0
+嗜,,[],즐길,기,,,,,,0
+嗟,,[],탄식할,차,,,,,,0
+嗽,,[],기침할,수,,,,,,0
+嘘,,[],불,허,,,,,,0
+嘩,,[],시끄러울,화,,,,,,0
+嘴,,[],부리,취,,,,,,0
+噂,,[],수군거릴,준,,,,,,0
+噌,,[],시끄러울,증,,,,,,0
+噛,,[],깨물,교,,,,,,0
+囀,,[],새 지저귈,전,,,,,,0
+囁,,[],소곤거릴,섭,,,,,,0
+垢,,[],때,구,,,,,,0
+埃,,[],티끌,애,,,,,,0
+塵,,[],티끌,진,,,,,,0
+壷,,[],병,호,,,,,,0
+夥,,[],많을,과,,,,,,0
+奢,,[],사치할,사,,,,,,0
+姪,,[],조카,질,,,,,,0
+婉,,[],순할,완,,,,,,0
+嫋,,[],가냘플,뇨,,,,,,0
+尖,,[],뾰족할,첨,,,,,,0
+尤,,[],가장,우,,,,,,0
+屎,,[],똥,시,,,,,,0
+屑,,[],가루,설,,,,,,0
+庖,,[],푸줏간,포,,,,,,0
+弛,,[],늦출,이,,,,,,0
+怯,,[],무서워할,겁,,,,,,0
+悉,,[],모두,실,,,,,,0
+惚,,[],황홀할,홀,,,,,,0
+憫,,[],불쌍히 여길,민,,,,,,0
+或,,[],혹,혹,,,,,,0
+抓,,[],긁을,조,,,,,,0
+拗,,[],고집스러울,요,,,,,,0
+捧,,[],받들,봉,,,,,,0
+捩,,[],비틀,렬,,,,,,0
+捲,,[],거둘,권,,,,,,0
+掬,,[],두 손으로 움킬,국,,,,,,0
+掴,,[],칠,괵,,,,,,0
+掻,,[],긁을,소,,,,,,0
+揃,,[],가를,전,,,,,,0
+揉,,[],비빌,유,,,,,,0
+撒,,[],뿌릴,살,,,,,,0
+撫,,[],어루만질,무,,,,,,0
+杖,,[],지팡이,장,,,,,,0
+梯,,[],사다리,제,,,,,,0
+椀,,[],주발,완,,,,,,0
+椒,,[],산초나무,초,,,,,,0
+楕,,[],나무그릇,타,,,,,,0
+槌,,[],몽둥이,퇴,,,,,,0
+檻,,[],우리,함,,,,,,0
+櫛,,[],빗,즐,,,,,,0
+歎,,[],탄식할,탄,,,,,,0
+歪,,[],비뚤,왜,,,,,,0
+毟,,[],뜯을,모,,,,,,0
+汲,,[],길을,급,,,,,,0
+洒,,[],씻을,세,,,,,,0
+涸,,[],마를,학,,,,,,0
+溜,,[],방울져 떨어질,류,,,,,,0
+滲,,[],샐,삼,,,,,,0
+漕,,[],배로 실어 나를,조,,,,,,0
+濠,,[],해자,호,,,,,,0
+濡,,[],적실,유,,,,,,0
+炒,,[],볶을,초,,,,,,0
+焚,,[],불사를,분,,,,,,0
+煉,,[],불릴,련,,,,,,0
+煌,,[],빛날,황,,,,,,0
+煽,,[],부칠,선,,,,,,0
+燭,,[],촛불,촉,,,,,,0
+甥,,[],생질,생,,,,,,0
+痺,,[],저릴,비,,,,,,0
+癌,,[],암,암,,,,,,0
+皺,,[],주름,추,,,,,,0
+睨,,[],흘겨볼,예,,,,,,0
+瞑,,[],눈 감을,명,,,,,,0
+碌,,[],푸른 빛,녹,,,,,,0
+碗,,[],그릇,완,,,,,,0
+秤,,[],저울,칭,,,,,,0
+竿,,[],장대,간,,,,,,0
+筈,,[],오늬,괄,,,,,,0
+箒,,[],비,추,,,,,,0
+籤,,[],제비,첨,,,,,,0
+粥,,[],죽,죽,,,,,,0
+糊,,[],풀,호,,,,,,0
+紐,,[],맺을,뉴,,,,,,0
+綴,,[],꿰맬,철,,,,,,0
+縞,,[],명주,호,,,,,,0
+繋,,[],맬,계,,,,,,0
+繍,,[],수놓을,수,,,,,,0
+纏,,[],둘릴,전,,,,,,0
+罹,,[],근심,리,,,,,,0
+聳,,[],솟을,용,,,,,,0
+脆,,[],연할,취,,,,,,0
+腿,,[],넓적다리,퇴,,,,,,0
+莫,,[],없을,막,,,,,,0
+董,,[],바로잡을,동,,,,,,0
+葦,,[],갈대,위,,,,,,0
+蕎,,[],메밀,교,,,,,,0
+蕾,,[],꽃봉오리,뢰,,,,,,0
+藁,,[],짚,고,,,,,,0
+蘇,,[],차조기,소,,,,,,0
+蛋,,[],새알,단,,,,,,0
+蝋,,[],밀,납,,,,,,0
+蝿,,[],파리,승,,,,,,0
+褄,,[],깃의 가,처,,,,,,0
+襖,,[],도포,오,,,,,,0
+覗,,[],엿볼,사,,,,,,0
+詫,,[],자랑할,타,,,,,,0
+誂,,[],꾈,조,,,,,,0
+諺,,[],언문,언,,,,,,0
+貶,,[],낮출,폄,,,,,,0
+賑,,[],구휼할,진,,,,,,0
+贅,,[],붙일,췌,,,,,,0
+贋,,[],가짜,안,,,,,,0
+踵,,[],발꿈치,종,,,,,,0
+躾,,[],예절 가르칠,미,,,,,,0
+軋,,[],수레 삐걱거릴,알,,,,,,0
+轢,,[],삐걱거릴,력,,,,,,0
+辟,,[],임금,벽,,,,,,0
+辻,,[],네거리,십,,,,,,0
+辿,,[],천천히 걸을,천,,,,,,0
+這,,[],맞을,저,,,,,,0
+逞,,[],굳셀,령,,,,,,0
+釘,,[],못,정,,,,,,0
+錆,,[],자세할,창,,,,,,0
+雫,,[],물방울,하,,,,,,0
+頬,,[],뺨,협,,,,,,0
+飴,,[],엿,이,,,,,,0
+饉,,[],주릴,근,,,,,,0
+馴,,[],길들일,순,,,,,,0
+鱈,,[],대구,설,,,,,,0
+鹸,,[],소금기,감,,,,,,0
+黴,,[],곰팡이,미,,,,,,0
+鼠,,[],쥐,서,,,,,,0
+鼾,,[],코골,한,,,,,,0

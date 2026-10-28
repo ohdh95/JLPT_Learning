@@ -1,0 +1,2384 @@
+﻿character,jlpt_level,meanings_en_json,korean_hun,korean_eum,reference_url,cross_reference_url,reviewer,reviewed_at,evidence_note,reviewed
+一,N5,"[""one"",""one radical (no.1)""]",,,,,,,,0
+七,N5,"[""seven""]",,,,,,,,0
+万,N5,"[""ten thousand"",""10,000""]",,,,,,,,0
+丈,N5,"[""length"",""ten shaku"",""measure"",""Mr."",""Ms."",""height"",""stature"",""all (one has)"",""only"",""that's all"",""merely""]",,,,,,,,0
+三,N5,"[""three""]",,,,,,,,0
+上,N5,"[""above"",""up""]",위,상,,,,,,0
+下,N5,"[""below"",""down"",""descend"",""give"",""low"",""inferior""]",,,,,,,,0
+中,N5,"[""in"",""inside"",""middle"",""mean"",""center""]",,,,,,,,0
+九,N5,"[""nine""]",,,,,,,,0
+二,N5,"[""two"",""two radical (no. 7)""]",,,,,,,,0
+五,N5,"[""five""]",,,,,,,,0
+人,N5,"[""person""]",,,,,,,,0
+今,N5,"[""now""]",,,,,,,,0
+休,N5,"[""rest"",""day off"",""retire"",""sleep""]",,,,,,,,0
+何,N5,"[""what""]",,,,,,,,0
+先,N5,"[""before"",""ahead"",""previous"",""future"",""precedence""]",,,,,,,,0
+入,N5,"[""enter"",""insert""]",,,,,,,,0
+八,N5,"[""eight"",""eight radical (no. 12)""]",,,,,,,,0
+六,N5,"[""six""]",,,,,,,,0
+円,N5,"[""circle"",""yen"",""round""]",,,,,,,,0
+出,N5,"[""exit"",""leave"",""go out"",""come out"",""put out"",""protrude""]",,,,,,,,0
+分,N5,"[""part"",""minute of time"",""segment"",""share"",""degree"",""one's lot"",""duty"",""understand"",""know"",""rate"",""1%"",""chances"",""shaku/100""]",,,,,,,,0
+前,N5,"[""in front"",""before""]",,,,,,,,0
+北,N5,"[""north""]",,,,,,,,0
+十,N5,"[""ten""]",,,,,,,,0
+千,N5,"[""thousand""]",,,,,,,,0
+午,N5,"[""noon"",""sign of the horse"",""11AM-1PM"",""seventh sign of Chinese zodiac""]",,,,,,,,0
+半,N5,"[""half"",""middle"",""odd number"",""semi-"",""part-""]",,,,,,,,0
+南,N5,"[""south""]",,,,,,,,0
+友,N5,"[""friend""]",,,,,,,,0
+右,N5,"[""right""]",,,,,,,,0
+名,N5,"[""name"",""noted"",""distinguished"",""reputation""]",,,,,,,,0
+四,N5,"[""four""]",,,,,,,,0
+国,N5,"[""country""]",,,,,,,,0
+土,N5,"[""soil"",""earth"",""ground"",""Turkey""]",,,,,,,,0
+外,N5,"[""outside""]",,,,,,,,0
+大,N5,"[""large"",""big""]",,,,,,,,0
+天,N5,"[""heavens"",""sky"",""imperial""]",,,,,,,,0
+女,N5,"[""woman"",""female""]",,,,,,,,0
+子,N5,"[""child"",""sign of the rat"",""11PM-1AM"",""first sign of Chinese zodiac""]",,,,,,,,0
+学,N5,"[""study"",""learning"",""science""]",,,,,,,,0
+小,N5,"[""little"",""small""]",,,,,,,,0
+山,N5,"[""mountain""]",,,,,,,,0
+川,N5,"[""stream"",""river"",""river or three-stroke river radical (no. 47)""]",,,,,,,,0
+左,N5,"[""left""]",,,,,,,,0
+年,N5,"[""year"",""counter for years""]",,,,,,,,0
+後,N5,"[""behind"",""back"",""later""]",뒤,후,,,,,,0
+日,N5,"[""day"",""sun"",""Japan"",""counter for days""]",날,일,,,,,,0
+時,N5,"[""time"",""hour""]",,,,,,,,0
+書,N5,"[""write""]",,,,,,,,0
+月,N5,"[""month"",""moon""]",,,,,,,,0
+木,N5,"[""tree"",""wood""]",,,,,,,,0
+本,N5,"[""book"",""present"",""main"",""origin"",""true"",""real"",""counter for long cylindrical things""]",,,,,,,,0
+来,N5,"[""come"",""due"",""next"",""cause"",""become""]",,,,,,,,0
+東,N5,"[""east""]",,,,,,,,0
+校,N5,"[""exam"",""school"",""printing"",""proof"",""correction""]",,,,,,,,0
+母,N5,"[""mother""]",,,,,,,,0
+毎,N5,"[""every""]",,,,,,,,0
+気,N5,"[""spirit"",""mind"",""air"",""atmosphere"",""mood""]",,,,,,,,0
+水,N5,"[""water""]",,,,,,,,0
+火,N5,"[""fire""]",,,,,,,,0
+無,N5,"[""nothingness"",""none"",""ain't"",""nothing"",""nil"",""not""]",,,,,,,,0
+父,N5,"[""father""]",,,,,,,,0
+生,N5,"[""life"",""genuine"",""birth""]",,,,,,,,0
+男,N5,"[""male""]",,,,,,,,0
+白,N5,"[""white""]",,,,,,,,0
+百,N5,"[""hundred""]",,,,,,,,0
+聞,N5,"[""hear"",""ask"",""listen""]",,,,,,,,0
+行,N5,"[""going"",""journey"",""carry out"",""conduct"",""act"",""line"",""row"",""bank""]",,,,,,,,0
+西,N5,"[""west"",""Spain""]",,,,,,,,0
+見,N5,"[""see"",""hopes"",""chances"",""idea"",""opinion"",""look at"",""visible""]",,,,,,,,0
+話,N5,"[""tale"",""talk""]",,,,,,,,0
+語,N5,"[""word"",""speech"",""language""]",,,,,,,,0
+読,N5,"[""read""]",,,,,,,,0
+誰,N5,"[""who"",""someone"",""somebody""]",,,,,,,,0
+貼,N5,"[""stick"",""paste"",""apply""]",,,,,,,,0
+車,N5,"[""car""]",,,,,,,,0
+金,N5,"[""gold""]",,,,,,,,0
+長,N5,"[""long"",""leader"",""superior"",""senior""]",,,,,,,,0
+間,N5,"[""interval"",""space""]",,,,,,,,0
+雨,N5,"[""rain""]",,,,,,,,0
+電,N5,"[""electricity""]",,,,,,,,0
+食,N5,"[""eat"",""food""]",,,,,,,,0
+高,N5,"[""tall"",""high"",""expensive""]",,,,,,,,0
+不,N4,"[""negative"",""non-"",""bad"",""ugly"",""clumsy""]",,,,,,,,0
+世,N4,"[""generation"",""world"",""society"",""public""]",,,,,,,,0
+主,N4,"[""lord"",""chief"",""master"",""main thing"",""principal""]",,,,,,,,0
+事,N4,"[""matter"",""thing"",""fact"",""business"",""reason"",""possibly""]",,,,,,,,0
+京,N4,"[""capital"",""10**16""]",,,,,,,,0
+仕,N4,"[""attend"",""doing"",""official"",""serve""]",,,,,,,,0
+代,N4,"[""substitute"",""change"",""convert"",""replace"",""period"",""age"",""counter for decades of ages, eras, etc."",""generation"",""charge"",""rate"",""fee""]",,,,,,,,0
+以,N4,"[""by means of"",""because"",""in view of"",""compared with""]",,,,,,,,0
+会,N4,"[""meeting"",""meet"",""party"",""association"",""interview"",""join""]",모일,회,,,,,,0
+住,N4,"[""dwell"",""reside"",""live"",""inhabit""]",,,,,,,,0
+体,N4,"[""body"",""substance"",""object"",""reality"",""counter for images""]",,,,,,,,0
+作,N4,"[""make"",""production"",""prepare"",""build""]",,,,,,,,0
+使,N4,"[""use"",""send on a mission"",""order"",""messenger"",""envoy"",""ambassador"",""cause""]",,,,,,,,0
+借,N4,"[""borrow"",""rent""]",,,,,,,,0
+元,N4,"[""beginning"",""former time"",""origin""]",,,,,,,,0
+兄,N4,"[""elder brother"",""big brother""]",,,,,,,,0
+公,N4,"[""public"",""prince"",""official"",""governmental""]",,,,,,,,0
+写,N4,"[""copy"",""be photographed"",""describe""]",,,,,,,,0
+冬,N4,"[""winter""]",,,,,,,,0
+凄,N4,"[""uncanny"",""weird"",""threatening"",""horrible""]",,,,,,,,0
+切,N4,"[""cut"",""cutoff"",""be sharp""]",,,,,,,,0
+別,N4,"[""separate"",""branch off"",""diverge"",""fork"",""another"",""extra"",""specially""]",,,,,,,,0
+力,N4,"[""power"",""strength"",""strong"",""strain"",""bear up"",""exert""]",,,,,,,,0
+勉,N4,"[""exertion"",""endeavour"",""encourage"",""strive"",""make effort"",""diligent""]",,,,,,,,0
+動,N4,"[""move"",""motion"",""change"",""confusion"",""shift"",""shake""]",,,,,,,,0
+医,N4,"[""doctor"",""medicine""]",,,,,,,,0
+去,N4,"[""gone"",""past"",""quit"",""leave"",""elapse"",""eliminate"",""divorce""]",,,,,,,,0
+口,N4,"[""mouth""]",,,,,,,,0
+古,N4,"[""old""]",,,,,,,,0
+台,N4,"[""pedestal"",""a stand"",""counter for machines and vehicles""]",,,,,,,,0
+同,N4,"[""same"",""agree"",""equal""]",,,,,,,,0
+味,N4,"[""flavor"",""taste""]",,,,,,,,0
+品,N4,"[""goods"",""refinement"",""dignity"",""article"",""counter for meal courses""]",,,,,,,,0
+員,N4,"[""employee"",""member"",""number"",""the one in charge""]",,,,,,,,0
+問,N4,"[""question"",""ask"",""problem""]",,,,,,,,0
+図,N4,"[""map"",""drawing"",""plan"",""extraordinary"",""audacious""]",,,,,,,,0
+地,N4,"[""ground"",""earth""]",,,,,,,,0
+坊,N4,"[""boy"",""priest's residence"",""priest""]",,,,,,,,0
+堂,N4,"[""public chamber"",""hall""]",,,,,,,,0
+場,N4,"[""location"",""place""]",,,,,,,,0
+売,N4,"[""sell""]",,,,,,,,0
+夏,N4,"[""summer""]",,,,,,,,0
+夕,N4,"[""evening""]",,,,,,,,0
+多,N4,"[""many"",""frequent"",""much""]",,,,,,,,0
+夜,N4,"[""night"",""evening""]",,,,,,,,0
+妹,N4,"[""younger sister""]",,,,,,,,0
+姉,N4,"[""elder sister""]",,,,,,,,0
+始,N4,"[""commence"",""begin""]",,,,,,,,0
+字,N4,"[""character"",""letter"",""word"",""section of village""]",,,,,,,,0
+安,N4,"[""relax"",""cheap"",""low"",""quiet"",""rested"",""contented"",""peaceful""]",,,,,,,,0
+室,N4,"[""room"",""apartment"",""chamber"",""greenhouse"",""cellar""]",,,,,,,,0
+家,N4,"[""house"",""home"",""family"",""professional"",""expert"",""performer""]",,,,,,,,0
+少,N4,"[""few"",""little""]",,,,,,,,0
+屋,N4,"[""roof"",""house"",""shop"",""dealer"",""seller""]",,,,,,,,0
+工,N4,"[""craft"",""construction"",""katakana e radical (no. 48)""]",,,,,,,,0
+帰,N4,"[""homecoming"",""arrive at"",""lead to"",""result in""]",,,,,,,,0
+広,N4,"[""wide"",""broad"",""spacious""]",,,,,,,,0
+店,N4,"[""store"",""shop""]",,,,,,,,0
+度,N4,"[""degrees"",""occurrence"",""time"",""counter for occurrences"",""consider"",""attitude""]",,,,,,,,0
+建,N4,"[""build""]",,,,,,,,0
+弟,N4,"[""younger brother"",""faithful service to elders""]",,,,,,,,0
+強,N4,"[""strong""]",,,,,,,,0
+待,N4,"[""wait"",""depend on""]",,,,,,,,0
+心,N4,"[""heart"",""mind"",""spirit"",""heart radical (no. 61)""]",,,,,,,,0
+思,N4,"[""think""]",,,,,,,,0
+急,N4,"[""hurry"",""emergency"",""sudden"",""steep""]",,,,,,,,0
+悪,N4,"[""bad"",""vice"",""rascal"",""false"",""evil"",""wrong""]",,,,,,,,0
+意,N4,"[""idea"",""mind"",""heart"",""taste"",""thought"",""desire"",""care"",""liking""]",,,,,,,,0
+手,N4,"[""hand""]",,,,,,,,0
+持,N4,"[""hold"",""have""]",,,,,,,,0
+教,N4,"[""teach"",""faith"",""doctrine""]",,,,,,,,0
+文,N4,"[""sentence"",""literature"",""style"",""art"",""decoration"",""figures"",""plan"",""literary radical (no. 67)""]",,,,,,,,0
+料,N4,"[""fee"",""materials""]",,,,,,,,0
+新,N4,"[""new""]",새,신,,,,,,0
+方,N4,"[""direction"",""person"",""alternative""]",,,,,,,,0
+旅,N4,"[""trip"",""travel""]",,,,,,,,0
+族,N4,"[""tribe"",""family""]",,,,,,,,0
+早,N4,"[""early"",""fast""]",,,,,,,,0
+明,N4,"[""bright"",""light""]",밝을,명,,,,,,0
+映,N4,"[""reflect"",""reflection"",""projection""]",,,,,,,,0
+春,N4,"[""springtime"",""spring (season)""]",,,,,,,,0
+昼,N4,"[""daytime"",""noon""]",,,,,,,,0
+曜,N4,"[""weekday""]",,,,,,,,0
+有,N4,"[""possess"",""have"",""exist"",""happen"",""occur"",""approx""]",,,,,,,,0
+服,N4,"[""clothing"",""admit"",""obey"",""discharge""]",,,,,,,,0
+朝,N4,"[""morning"",""dynasty"",""regime"",""epoch"",""period"",""(North) Korea""]",아침,조,,,,,,0
+業,N4,"[""business"",""vocation"",""arts"",""performance""]",,,,,,,,0
+楽,N4,"[""music"",""comfort"",""ease""]",,,,,,,,0
+歌,N4,"[""song"",""sing""]",,,,,,,,0
+止,N4,"[""stop"",""halt""]",,,,,,,,0
+正,N4,"[""correct"",""justice"",""righteous"",""10**40""]",,,,,,,,0
+歩,N4,"[""walk"",""counter for steps""]",,,,,,,,0
+死,N4,"[""death"",""die""]",,,,,,,,0
+注,N4,"[""pour"",""irrigate"",""shed (tears)"",""flow into"",""concentrate on"",""notes"",""comment"",""annotate""]",,,,,,,,0
+洋,N4,"[""ocean"",""sea"",""foreign"",""Western style""]",,,,,,,,0
+海,N4,"[""sea"",""ocean""]",,,,,,,,0
+漢,N4,"[""Sino-"",""China""]",,,,,,,,0
+牛,N4,"[""cow""]",,,,,,,,0
+物,N4,"[""thing"",""object"",""matter""]",,,,,,,,0
+特,N4,"[""special""]",,,,,,,,0
+犬,N4,"[""dog""]",,,,,,,,0
+理,N4,"[""logic"",""arrangement"",""reason"",""justice"",""truth""]",,,,,,,,0
+用,N4,"[""utilize"",""business"",""service"",""use"",""employ""]",,,,,,,,0
+田,N4,"[""rice field"",""rice paddy""]",,,,,,,,0
+町,N4,"[""town"",""village"",""block"",""street""]",,,,,,,,0
+画,N4,"[""brush-stroke"",""picture""]",,,,,,,,0
+界,N4,"[""world"",""boundary""]",,,,,,,,0
+病,N4,"[""ill"",""sick""]",,,,,,,,0
+痩,N4,"[""get thin""]",,,,,,,,0
+発,N4,"[""departure"",""discharge"",""publish"",""emit"",""start from"",""disclose"",""counter for gunshots""]",,,,,,,,0
+目,N4,"[""eye"",""class"",""look"",""insight"",""experience"",""care"",""favor""]",,,,,,,,0
+真,N4,"[""true"",""reality"",""Buddhist sect""]",,,,,,,,0
+着,N4,"[""don"",""arrive"",""wear"",""counter for suits of clothing""]",,,,,,,,0
+知,N4,"[""know"",""wisdom""]",,,,,,,,0
+研,N4,"[""polish"",""study of"",""sharpen""]",,,,,,,,0
+社,N4,"[""company"",""firm"",""office"",""association"",""shrine""]",,,,,,,,0
+私,N4,"[""private"",""I"",""me""]",,,,,,,,0
+秋,N4,"[""autumn""]",가을,추,,,,,,0
+究,N4,"[""research"",""study""]",,,,,,,,0
+空,N4,"[""empty"",""sky"",""void"",""vacant"",""vacuum""]",,,,,,,,0
+立,N4,"[""stand up"",""rise"",""set up"",""erect""]",,,,,,,,0
+答,N4,"[""solution"",""answer""]",,,,,,,,0
+紙,N4,"[""paper""]",,,,,,,,0
+終,N4,"[""end"",""finish""]",,,,,,,,0
+習,N4,"[""learn""]",,,,,,,,0
+考,N4,"[""consider"",""think over""]",,,,,,,,0
+者,N4,"[""someone"",""person""]",,,,,,,,0
+肉,N4,"[""meat""]",,,,,,,,0
+自,N4,"[""oneself""]",,,,,,,,0
+色,N4,"[""color""]",,,,,,,,0
+花,N4,"[""flower""]",,,,,,,,0
+英,N4,"[""England"",""English"",""hero"",""outstanding"",""calyx""]",,,,,,,,0
+茶,N4,"[""tea""]",,,,,,,,0
+親,N4,"[""parent"",""intimacy"",""relative"",""familiarity"",""dealer (cards)""]",,,,,,,,0
+言,N4,"[""say"",""word""]",,,,,,,,0
+計,N4,"[""plot"",""plan"",""scheme"",""measure""]",,,,,,,,0
+試,N4,"[""test"",""try"",""attempt"",""experiment"",""ordeal""]",,,,,,,,0
+買,N4,"[""buy""]",,,,,,,,0
+貸,N4,"[""lend""]",,,,,,,,0
+質,N4,"[""substance"",""quality"",""matter"",""temperament""]",,,,,,,,0
+赤,N4,"[""red""]",붉을,적,,,,,,0
+走,N4,"[""run""]",,,,,,,,0
+起,N4,"[""rouse"",""wake up"",""get up""]",,,,,,,,0
+足,N4,"[""leg"",""foot"",""be sufficient"",""counter for pairs of footwear""]",발,족,,,,,,0
+転,N4,"[""revolve"",""turn around"",""change""]",,,,,,,,0
+近,N4,"[""near"",""early"",""akin"",""tantamount""]",,,,,,,,0
+送,N4,"[""escort"",""send""]",,,,,,,,0
+通,N4,"[""traffic"",""pass through"",""avenue"",""commute"",""counter for letters, notes, documents, etc.""]",,,,,,,,0
+週,N4,"[""week""]",,,,,,,,0
+運,N4,"[""carry"",""luck"",""destiny"",""fate"",""lot"",""transport"",""progress"",""advance""]",,,,,,,,0
+道,N4,"[""road-way"",""street"",""district"",""journey"",""course"",""moral"",""teachings""]",,,,,,,,0
+重,N4,"[""heavy"",""important"",""esteem"",""respect"",""heap up"",""pile up"",""nest of boxes"",""-fold""]",,,,,,,,0
+野,N4,"[""plains"",""field"",""rustic"",""civilian life""]",,,,,,,,0
+銀,N4,"[""silver""]",,,,,,,,0
+開,N4,"[""open"",""unfold"",""unseal""]",열,개,,,,,,0
+院,N4,"[""Inst."",""institution"",""temple"",""mansion"",""school""]",,,,,,,,0
+集,N4,"[""gather"",""meet"",""congregate"",""swarm"",""flock""]",,,,,,,,0
+青,N4,"[""blue"",""green""]",푸를,청,,,,,,0
+音,N4,"[""sound"",""noise""]",,,,,,,,0
+題,N4,"[""topic"",""subject""]",,,,,,,,0
+風,N4,"[""wind"",""air"",""style"",""manner""]",,,,,,,,0
+飯,N4,"[""meal"",""boiled rice""]",밥,반,,,,,,0
+飲,N4,"[""drink"",""smoke"",""take""]",,,,,,,,0
+館,N4,"[""building"",""mansion"",""large building"",""palace""]",,,,,,,,0
+駅,N4,"[""station""]",,,,,,,,0
+験,N4,"[""verification"",""effect"",""testing""]",,,,,,,,0
+魚,N4,"[""fish""]",,,,,,,,0
+鳥,N4,"[""bird"",""chicken""]",,,,,,,,0
+黒,N4,"[""black""]",,,,,,,,0
+与,N3,"[""bestow"",""participate in"",""give"",""award"",""impart"",""provide"",""cause"",""gift"",""godsend""]",,,,,,,,0
+両,N3,"[""both"",""old Japanese coin"",""counter for carriages (e.g., in a train)"",""two""]",,,,,,,,0
+乗,N3,"[""ride"",""power"",""multiplication"",""record"",""counter for vehicles"",""board"",""mount"",""join""]",,,,,,,,0
+予,N3,"[""beforehand"",""previous"",""myself"",""I""]",,,,,,,,0
+争,N3,"[""contend"",""dispute"",""argue""]",,,,,,,,0
+互,N3,"[""mutually"",""reciprocally"",""together""]",,,,,,,,0
+亡,N3,"[""deceased"",""the late"",""dying"",""perish""]",,,,,,,,0
+交,N3,"[""mingle"",""mixing"",""association"",""coming & going""]",,,,,,,,0
+他,N3,"[""other"",""another"",""the others""]",,,,,,,,0
+付,N3,"[""adhere"",""attach"",""refer to"",""append""]",,,,,,,,0
+件,N3,"[""affair"",""case"",""matter"",""item""]",,,,,,,,0
+任,N3,"[""responsibility"",""duty"",""term"",""entrust to"",""appoint""]",,,,,,,,0
+伝,N3,"[""transmit"",""go along"",""walk along"",""follow"",""report"",""communicate"",""legend"",""tradition""]",,,,,,,,0
+似,N3,"[""becoming"",""resemble"",""counterfeit"",""imitate"",""suitable""]",,,,,,,,0
+位,N3,"[""rank"",""grade"",""throne"",""crown"",""about"",""some""]",,,,,,,,0
+余,N3,"[""too much"",""myself"",""surplus"",""other"",""remainder""]",,,,,,,,0
+例,N3,"[""example"",""custom"",""usage"",""precedent""]",,,,,,,,0
+供,N3,"[""submit"",""offer"",""present"",""serve (meal)"",""accompany""]",,,,,,,,0
+便,N3,"[""convenience"",""facility"",""excrement"",""feces"",""letter"",""chance""]",,,,,,,,0
+係,N3,"[""person in charge"",""connection"",""duty"",""concern oneself""]",,,,,,,,0
+信,N3,"[""faith"",""truth"",""fidelity"",""trust""]",,,,,,,,0
+倒,N3,"[""overthrow"",""fall"",""collapse"",""drop"",""break down""]",,,,,,,,0
+候,N3,"[""climate"",""season"",""weather"",""wait for"",""expect""]",,,,,,,,0
+値,N3,"[""price"",""cost"",""value""]",,,,,,,,0
+偉,N3,"[""admirable"",""greatness"",""remarkable"",""conceited"",""famous"",""excellent""]",,,,,,,,0
+側,N3,"[""side"",""lean"",""oppose"",""regret""]",,,,,,,,0
+偶,N3,"[""accidentally"",""even number"",""couple"",""man & wife"",""same kind""]",,,,,,,,0
+備,N3,"[""equip"",""provision"",""preparation""]",,,,,,,,0
+僅,N3,"[""a wee bit""]",,,,,,,,0
+働,N3,"[""work"",""(kokuji)""]",,,,,,,,0
+優,N3,"[""tenderness"",""excel"",""surpass"",""actor"",""superiority"",""gentleness""]",,,,,,,,0
+光,N3,"[""ray"",""light""]",,,,,,,,0
+全,N3,"[""whole"",""entire"",""all"",""complete"",""fulfill""]",,,,,,,,0
+共,N3,"[""together"",""both"",""neither"",""all"",""and"",""alike"",""with""]",,,,,,,,0
+具,N3,"[""tool"",""utensil"",""means"",""possess"",""ingredients"",""counter for armor, suits, sets of furniture""]",,,,,,,,0
+内,N3,"[""inside"",""within"",""between"",""among"",""house"",""home""]",,,,,,,,0
+冷,N3,"[""cool"",""cold (beer, person)"",""chill""]",,,,,,,,0
+処,N3,"[""dispose"",""manage"",""deal with"",""sentence"",""condemn"",""act"",""behave"",""place""]",,,,,,,,0
+列,N3,"[""file"",""row"",""rank"",""tier"",""column""]",,,,,,,,0
+初,N3,"[""first time"",""beginning""]",,,,,,,,0
+判,N3,"[""judgement"",""judgment"",""signature"",""stamp"",""seal""]",,,,,,,,0
+利,N3,"[""profit"",""advantage"",""benefit""]",,,,,,,,0
+到,N3,"[""arrival"",""proceed"",""reach"",""attain"",""result in""]",,,,,,,,0
+制,N3,"[""system"",""law"",""rule""]",,,,,,,,0
+刻,N3,"[""engrave"",""cut fine"",""chop"",""hash"",""mince"",""time"",""carving""]",,,,,,,,0
+割,N3,"[""proportion"",""comparatively"",""divide"",""cut"",""separate"",""split""]",,,,,,,,0
+加,N3,"[""add"",""addition"",""increase"",""join"",""include"",""Canada""]",,,,,,,,0
+助,N3,"[""help"",""rescue"",""assist""]",,,,,,,,0
+努,N3,"[""toil"",""diligent"",""as much as possible""]",,,,,,,,0
+労,N3,"[""labor"",""thank for"",""reward for"",""toil"",""trouble""]",,,,,,,,0
+務,N3,"[""task"",""duties""]",,,,,,,,0
+勝,N3,"[""victory"",""win"",""prevail"",""excel""]",,,,,,,,0
+勤,N3,"[""diligence"",""become employed"",""serve""]",,,,,,,,0
+化,N3,"[""change"",""take the form of"",""influence"",""enchant"",""delude"",""-ization""]",,,,,,,,0
+単,N3,"[""simple"",""one"",""single"",""merely""]",,,,,,,,0
+危,N3,"[""dangerous"",""fear"",""uneasy""]",,,,,,,,0
+原,N3,"[""meadow"",""original"",""primitive"",""field"",""plain"",""prairie"",""tundra"",""wilderness""]",,,,,,,,0
+参,N3,"[""nonplussed"",""three (in documents)"",""going"",""coming"",""visiting"",""visit"",""be defeated"",""die"",""be madly in love"",""participate"",""take part in""]",,,,,,,,0
+反,N3,"[""anti-""]",,,,,,,,0
+収,N3,"[""income"",""obtain"",""reap"",""pay"",""supply"",""store""]",,,,,,,,0
+取,N3,"[""take"",""fetch"",""take up""]",,,,,,,,0
+受,N3,"[""accept"",""undergo"",""answer (phone)"",""take"",""get"",""catch"",""receive""]",,,,,,,,0
+可,N3,"[""can"",""passable"",""approval""]",,,,,,,,0
+号,N3,"[""nickname"",""number"",""item"",""title"",""pseudonym"",""name"",""call""]",,,,,,,,0
+合,N3,"[""fit"",""suit"",""join"",""0.1""]",,,,,,,,0
+向,N3,"[""yonder"",""facing"",""beyond"",""confront"",""defy"",""tend toward"",""approach""]",,,,,,,,0
+君,N3,"[""mister"",""you"",""ruler"",""male name suffix""]",,,,,,,,0
+否,N3,"[""negate"",""no"",""noes"",""refuse"",""decline"",""deny""]",,,,,,,,0
+吸,N3,"[""suck"",""imbibe"",""inhale"",""sip""]",,,,,,,,0
+吹,N3,"[""blow"",""breathe"",""puff"",""emit"",""smoke""]",,,,,,,,0
+告,N3,"[""revelation"",""tell"",""inform"",""announce""]",,,,,,,,0
+呼,N3,"[""call"",""call out to"",""invite""]",,,,,,,,0
+命,N3,"[""fate"",""command"",""decree"",""destiny"",""life"",""appoint""]",,,,,,,,0
+和,N3,"[""harmony"",""Japanese style"",""peace"",""soften"",""Japan""]",,,,,,,,0
+商,N3,"[""make a deal"",""selling"",""dealing in"",""merchant""]",,,,,,,,0
+喜,N3,"[""rejoice"",""take pleasure in""]",,,,,,,,0
+回,N3,"[""-times"",""round"",""game"",""revolve"",""counter for occurrences""]",,,,,,,,0
+因,N3,"[""cause"",""factor"",""be associated with"",""depend on"",""be limited to""]",,,,,,,,0
+困,N3,"[""quandary"",""become distressed"",""annoyed""]",,,,,,,,0
+園,N3,"[""park"",""garden"",""yard"",""farm""]",,,,,,,,0
+在,N3,"[""exist"",""outskirts"",""suburbs"",""located in""]",,,,,,,,0
+報,N3,"[""report"",""news"",""reward"",""retribution""]",,,,,,,,0
+増,N3,"[""increase"",""add"",""augment"",""gain"",""promote""]",,,,,,,,0
+声,N3,"[""voice""]",,,,,,,,0
+変,N3,"[""unusual"",""change"",""strange""]",,,,,,,,0
+夢,N3,"[""dream"",""vision"",""illusion""]",,,,,,,,0
+太,N3,"[""plump"",""thick"",""big around""]",,,,,,,,0
+夫,N3,"[""husband"",""man""]",,,,,,,,0
+失,N3,"[""lose"",""error"",""fault"",""disadvantage"",""loss""]",,,,,,,,0
+好,N3,"[""fond"",""pleasing"",""like something""]",,,,,,,,0
+妻,N3,"[""wife"",""spouse""]",,,,,,,,0
+娘,N3,"[""daughter"",""girl""]",,,,,,,,0
+婚,N3,"[""marriage""]",,,,,,,,0
+婦,N3,"[""lady"",""woman"",""wife"",""bride""]",,,,,,,,0
+存,N3,"[""exist"",""suppose"",""be aware of"",""believe"",""feel""]",,,,,,,,0
+宅,N3,"[""home"",""house"",""residence"",""our house"",""my husband""]",,,,,,,,0
+守,N3,"[""guard"",""protect"",""defend"",""obey""]",,,,,,,,0
+完,N3,"[""perfect"",""completion"",""end""]",,,,,,,,0
+官,N3,"[""bureaucrat"",""the government"",""organ""]",,,,,,,,0
+定,N3,"[""determine"",""fix"",""establish"",""decide""]",,,,,,,,0
+実,N3,"[""reality"",""truth"",""seed"",""fruit"",""nut""]",,,,,,,,0
+客,N3,"[""guest"",""visitor"",""customer"",""client""]",,,,,,,,0
+害,N3,"[""harm"",""injury""]",,,,,,,,0
+容,N3,"[""contain"",""form"",""looks""]",,,,,,,,0
+宿,N3,"[""inn"",""lodging"",""relay station"",""dwell"",""lodge"",""be pregnant"",""home"",""dwelling""]",,,,,,,,0
+寄,N3,"[""draw near"",""stop in"",""bring near"",""gather"",""collect"",""send"",""forward""]",,,,,,,,0
+富,N3,"[""wealth"",""enrich"",""abundant""]",,,,,,,,0
+寒,N3,"[""cold""]",,,,,,,,0
+寝,N3,"[""lie down"",""sleep"",""rest"",""bed"",""remain unsold""]",,,,,,,,0
+察,N3,"[""guess"",""presume"",""surmise"",""judge"",""understand""]",,,,,,,,0
+対,N3,"[""vis-a-vis"",""opposite"",""even"",""equal"",""versus"",""anti-"",""compare""]",,,,,,,,0
+尻,N3,"[""buttocks"",""hips"",""butt"",""rear""]",,,,,,,,0
+局,N3,"[""bureau"",""board"",""office"",""affair"",""conclusion"",""court lady"",""lady-in-waiting"",""her apartment""]",,,,,,,,0
+居,N3,"[""reside"",""to be"",""exist"",""live with""]",,,,,,,,0
+差,N3,"[""distinction"",""difference"",""variation"",""discrepancy"",""margin"",""balance""]",,,,,,,,0
+市,N3,"[""market"",""city"",""town""]",,,,,,,,0
+師,N3,"[""expert"",""teacher"",""master"",""model"",""exemplar"",""army (incl. counter)"",""war""]",,,,,,,,0
+席,N3,"[""seat"",""mat"",""occasion"",""place""]",,,,,,,,0
+常,N3,"[""usual"",""ordinary"",""normal"",""common"",""regular"",""continually"",""always"",""long-lasting""]",,,,,,,,0
+平,N3,"[""even"",""flat"",""peace""]",,,,,,,,0
+幸,N3,"[""happiness"",""blessing"",""fortune""]",,,,,,,,0
+幾,N3,"[""how many"",""how much"",""how far"",""how long"",""some"",""several""]",,,,,,,,0
+座,N3,"[""squat"",""seat"",""cushion"",""gathering"",""sit""]",,,,,,,,0
+庭,N3,"[""courtyard"",""garden"",""yard""]",,,,,,,,0
+式,N3,"[""style"",""ceremony"",""rite"",""function"",""method"",""system"",""form"",""expression""]",,,,,,,,0
+引,N3,"[""pull"",""tug"",""jerk"",""admit"",""install"",""quote"",""refer to""]",,,,,,,,0
+当,N3,"[""hit"",""right"",""appropriate"",""himself""]",,,,,,,,0
+形,N3,"[""shape"",""form"",""style""]",,,,,,,,0
+役,N3,"[""duty"",""war"",""campaign"",""drafted labor"",""office"",""service"",""role""]",,,,,,,,0
+彼,N3,"[""he"",""that"",""the""]",,,,,,,,0
+徒,N3,"[""on foot"",""junior"",""emptiness"",""vanity"",""futility"",""uselessness"",""ephemeral thing"",""gang"",""set"",""party"",""people""]",,,,,,,,0
+得,N3,"[""gain"",""get"",""find"",""earn"",""acquire"",""can"",""may"",""able to"",""profit"",""advantage"",""benefit""]",,,,,,,,0
+御,N3,"[""honorable"",""manipulate"",""govern""]",,,,,,,,0
+必,N3,"[""invariably"",""certain"",""inevitable""]",,,,,,,,0
+忘,N3,"[""forget""]",,,,,,,,0
+忙,N3,"[""busy"",""occupied"",""restless""]",,,,,,,,0
+念,N3,"[""wish"",""sense"",""idea"",""thought"",""feeling"",""desire"",""attention""]",,,,,,,,0
+怒,N3,"[""angry"",""be offended""]",,,,,,,,0
+怖,N3,"[""dreadful"",""be frightened"",""fearful""]",,,,,,,,0
+性,N3,"[""sex"",""gender"",""nature""]",,,,,,,,0
+恐,N3,"[""fear"",""dread"",""awe""]",,,,,,,,0
+恥,N3,"[""shame"",""dishonor""]",,,,,,,,0
+息,N3,"[""breath"",""respiration"",""son"",""interest (on money)"",""rest"",""coming to an end""]",,,,,,,,0
+悲,N3,"[""grieve"",""sad"",""deplore"",""regret""]",,,,,,,,0
+情,N3,"[""feelings"",""emotion"",""passion"",""sympathy"",""circumstances"",""facts""]",,,,,,,,0
+想,N3,"[""idea"",""thought"",""conception"",""think""]",,,,,,,,0
+愛,N3,"[""love"",""affection"",""favourite""]",,,,,,,,0
+感,N3,"[""emotion"",""feeling"",""sensation""]",,,,,,,,0
+慣,N3,"[""accustomed"",""get used to"",""become experienced""]",,,,,,,,0
+成,N3,"[""turn into"",""become"",""get"",""grow"",""elapse"",""reach""]",,,,,,,,0
+戚,N3,"[""grieve"",""relatives""]",,,,,,,,0
+戦,N3,"[""war"",""battle"",""match""]",,,,,,,,0
+戻,N3,"[""re-"",""return"",""revert"",""resume"",""restore"",""go backwards""]",,,,,,,,0
+所,N3,"[""place"",""extent""]",,,,,,,,0
+才,N3,"[""genius"",""years old"",""cubic shaku""]",,,,,,,,0
+打,N3,"[""strike"",""hit"",""knock"",""pound"",""dozen""]",,,,,,,,0
+払,N3,"[""pay"",""clear out"",""prune"",""banish"",""dispose of""]",,,,,,,,0
+投,N3,"[""throw"",""discard"",""abandon"",""launch into"",""join"",""invest in"",""hurl"",""give up"",""sell at a loss""]",,,,,,,,0
+折,N3,"[""fold"",""break"",""fracture"",""bend"",""yield"",""submit""]",,,,,,,,0
+抜,N3,"[""slip out"",""extract"",""pull out"",""pilfer"",""quote"",""remove"",""omit""]",,,,,,,,0
+抱,N3,"[""embrace"",""hug"",""hold in arms""]",,,,,,,,0
+押,N3,"[""push"",""stop"",""check"",""subdue"",""attach"",""seize"",""weight"",""shove"",""press"",""seal"",""do in spite of""]",,,,,,,,0
+招,N3,"[""beckon"",""invite"",""summon"",""engage""]",,,,,,,,0
+拶,N3,"[""be imminent"",""draw close""]",,,,,,,,0
+指,N3,"[""finger"",""point to"",""indicate"",""put into"",""play (chess)"",""measure (ruler)""]",,,,,,,,0
+挨,N3,"[""approach"",""draw near"",""push open""]",,,,,,,,0
+捕,N3,"[""catch"",""capture""]",,,,,,,,0
+掛,N3,"[""hang"",""suspend"",""depend"",""arrive at"",""tax"",""pour""]",,,,,,,,0
+探,N3,"[""grope"",""search"",""look for""]",,,,,,,,0
+支,N3,"[""branch"",""support"",""sustain"",""branch radical (no. 65)""]",,,,,,,,0
+放,N3,"[""set free"",""release"",""fire"",""shoot"",""emit"",""banish"",""liberate""]",,,,,,,,0
+政,N3,"[""politics"",""government""]",,,,,,,,0
+敗,N3,"[""failure"",""defeat"",""reversal""]",,,,,,,,0
+散,N3,"[""scatter"",""disperse"",""spend"",""squander""]",,,,,,,,0
+数,N3,"[""number"",""strength"",""fate"",""law"",""figures""]",,,,,,,,0
+断,N3,"[""severance"",""decline"",""refuse"",""apologize"",""warn"",""dismiss"",""prohibit"",""decision"",""judgement"",""cutting""]",,,,,,,,0
+易,N3,"[""easy"",""ready to"",""simple"",""fortune-telling"",""divination""]",,,,,,,,0
+昔,N3,"[""once upon a time"",""antiquity"",""old times""]",,,,,,,,0
+昨,N3,"[""yesterday"",""previous""]",,,,,,,,0
+晩,N3,"[""nightfall"",""night""]",,,,,,,,0
+景,N3,"[""scenery"",""view""]",,,,,,,,0
+晴,N3,"[""clear up""]",,,,,,,,0
+暗,N3,"[""darkness"",""disappear"",""shade"",""informal"",""grow dark"",""be blinded""]",,,,,,,,0
+暮,N3,"[""evening"",""twilight"",""season's end"",""livelihood"",""make a living"",""spend time""]",,,,,,,,0
+曲,N3,"[""bend"",""music"",""melody"",""composition"",""pleasure"",""injustice"",""fault"",""curve"",""crooked"",""perverse"",""lean""]",,,,,,,,0
+更,N3,"[""grow late"",""night watch"",""sit up late"",""of course"",""renew"",""renovate"",""again"",""more and more"",""further""]",,,,,,,,0
+最,N3,"[""utmost"",""most"",""extreme""]",,,,,,,,0
+望,N3,"[""ambition"",""full moon"",""hope"",""desire"",""aspire to"",""expect""]",,,,,,,,0
+期,N3,"[""period"",""time"",""date"",""term""]",,,,,,,,0
+未,N3,"[""un-"",""not yet"",""hitherto"",""still"",""even now"",""sign of the ram"",""1-3PM"",""eighth sign of Chinese zodiac""]",,,,,,,,0
+末,N3,"[""end"",""close"",""tip"",""powder"",""posterity""]",,,,,,,,0
+束,N3,"[""bundle"",""sheaf"",""ream"",""tie in bundles"",""govern"",""manage"",""control""]",,,,,,,,0
+杯,N3,"[""counter for cupfuls"",""wine glass"",""glass"",""toast""]",,,,,,,,0
+果,N3,"[""fruit"",""reward"",""carry out"",""achieve"",""complete"",""end"",""finish"",""succeed""]",,,,,,,,0
+格,N3,"[""status"",""rank"",""capacity"",""character"",""case (law, grammar)""]",,,,,,,,0
+構,N3,"[""posture"",""stance"",""appearance"",""build"",""set up""]",,,,,,,,0
+様,N3,"[""Esq."",""way"",""manner"",""situation"",""polite suffix""]",,,,,,,,0
+権,N3,"[""authority"",""power"",""rights""]",,,,,,,,0
+横,N3,"[""sideways"",""side"",""horizontal"",""width"",""woof"",""unreasonable"",""perverse""]",,,,,,,,0
+機,N3,"[""loom"",""mechanism"",""machine"",""airplane"",""opportunity"",""potency"",""efficacy"",""occasion""]",,,,,,,,0
+欠,N3,"[""lack"",""gap"",""fail"",""yawning radical (no. 76)""]",,,,,,,,0
+次,N3,"[""next"",""order"",""sequence""]",,,,,,,,0
+欲,N3,"[""longing"",""covetousness"",""greed"",""passion"",""desire"",""craving""]",,,,,,,,0
+歯,N3,"[""tooth"",""cog""]",,,,,,,,0
+歳,N3,"[""year-end"",""age"",""occasion"",""opportunity""]",,,,,,,,0
+残,N3,"[""remainder"",""leftover"",""balance""]",,,,,,,,0
+段,N3,"[""grade"",""steps"",""stairs""]",,,,,,,,0
+殺,N3,"[""kill"",""murder"",""butcher"",""slice off"",""split"",""diminish"",""reduce"",""spoil""]",,,,,,,,0
+民,N3,"[""people"",""nation"",""subjects""]",,,,,,,,0
+求,N3,"[""request"",""want"",""wish for"",""require"",""demand""]",,,,,,,,0
+決,N3,"[""decide"",""fix"",""agree upon"",""appoint""]",,,,,,,,0
+治,N3,"[""reign"",""be at peace"",""calm down"",""subdue"",""quell"",""govt"",""cure"",""heal"",""rule"",""conserve""]",,,,,,,,0
+法,N3,"[""method"",""law"",""rule"",""principle"",""model"",""system""]",,,,,,,,0
+泳,N3,"[""swim""]",,,,,,,,0
+洗,N3,"[""wash"",""inquire into"",""probe""]",,,,,,,,0
+活,N3,"[""lively"",""resuscitation"",""being helped"",""living""]",,,,,,,,0
+流,N3,"[""current"",""a sink"",""flow"",""forfeit""]",,,,,,,,0
+浮,N3,"[""floating"",""float"",""rise to surface""]",,,,,,,,0
+消,N3,"[""extinguish"",""blow out"",""turn off"",""neutralize"",""cancel""]",,,,,,,,0
+深,N3,"[""deep"",""heighten"",""intensify"",""strengthen""]",,,,,,,,0
+済,N3,"[""settle (debt, etc.)"",""relieve (burden)"",""finish"",""come to an end"",""excusable"",""need not""]",,,,,,,,0
+渡,N3,"[""transit"",""ford"",""ferry"",""cross"",""import"",""deliver"",""diameter"",""migrate""]",,,,,,,,0
+港,N3,"[""harbor""]",,,,,,,,0
+満,N3,"[""full"",""fullness"",""enough"",""satisfy""]",,,,,,,,0
+溺,N3,"[""drown"",""indulge""]",,,,,,,,0
+演,N3,"[""performance"",""act"",""play"",""render"",""stage""]",,,,,,,,0
+点,N3,"[""spot"",""point"",""mark"",""speck"",""decimal point""]",,,,,,,,0
+然,N3,"[""sort of thing"",""so"",""if so"",""in that case"",""well""]",,,,,,,,0
+煙,N3,"[""smoke""]",,,,,,,,0
+熱,N3,"[""heat"",""temperature"",""fever"",""mania"",""passion""]",,,,,,,,0
+犯,N3,"[""crime"",""sin"",""offense""]",,,,,,,,0
+状,N3,"[""status quo"",""conditions"",""circumstances"",""form"",""appearance""]",,,,,,,,0
+猫,N3,"[""cat""]",,,,,,,,0
+王,N3,"[""king"",""rule"",""magnate""]",,,,,,,,0
+現,N3,"[""present"",""existing"",""actual""]",,,,,,,,0
+球,N3,"[""ball"",""sphere""]",,,,,,,,0
+産,N3,"[""products"",""bear"",""give birth"",""yield"",""childbirth"",""native"",""property""]",,,,,,,,0
+由,N3,"[""wherefore"",""a reason""]",,,,,,,,0
+申,N3,"[""have the honor to"",""sign of the monkey"",""3-5PM"",""ninth sign of Chinese zodiac""]",,,,,,,,0
+畑,N3,"[""farm"",""field"",""garden"",""one's specialty"",""(kokuji)""]",,,,,,,,0
+留,N3,"[""detain"",""fasten"",""halt"",""stop""]",,,,,,,,0
+番,N3,"[""turn"",""number in a series""]",,,,,,,,0
+疑,N3,"[""doubt"",""distrust"",""be suspicious"",""question""]",,,,,,,,0
+疲,N3,"[""exhausted"",""tire"",""weary""]",,,,,,,,0
+痛,N3,"[""pain"",""hurt"",""damage"",""bruise""]",,,,,,,,0
+登,N3,"[""ascend"",""climb up""]",,,,,,,,0
+的,N3,"[""bull's eye"",""mark"",""target"",""object"",""adjective ending""]",,,,,,,,0
+皆,N3,"[""all"",""everything""]",,,,,,,,0
+盗,N3,"[""steal"",""rob"",""pilfer""]",,,,,,,,0
+直,N3,"[""straightaway"",""honesty"",""frankness"",""fix"",""repair""]",,,,,,,,0
+相,N3,"[""inter-"",""mutual"",""together"",""each other"",""minister of state"",""councillor"",""aspect"",""phase"",""physiognomy""]",,,,,,,,0
+眠,N3,"[""sleep"",""die"",""sleepy""]",,,,,,,,0
+石,N3,"[""stone""]",,,,,,,,0
+破,N3,"[""rend"",""rip"",""tear"",""break"",""destroy"",""defeat"",""frustrate""]",,,,,,,,0
+確,N3,"[""assurance"",""firm"",""tight"",""hard"",""solid"",""confirm"",""clear"",""evident""]",,,,,,,,0
+示,N3,"[""show"",""indicate"",""point out"",""express"",""display""]",,,,,,,,0
+礼,N3,"[""salute"",""bow"",""ceremony"",""thanks"",""remuneration""]",,,,,,,,0
+祖,N3,"[""ancestor"",""pioneer"",""founder""]",,,,,,,,0
+神,N3,"[""gods"",""mind"",""soul""]",,,,,,,,0
+福,N3,"[""blessing"",""fortune"",""luck"",""wealth""]",,,,,,,,0
+科,N3,"[""department"",""course"",""section""]",,,,,,,,0
+程,N3,"[""extent"",""degree"",""law"",""formula"",""distance"",""limits"",""amount""]",,,,,,,,0
+種,N3,"[""species"",""kind"",""class"",""variety"",""seed""]",,,,,,,,0
+積,N3,"[""volume"",""product (x*y)"",""acreage"",""contents"",""pile up"",""stack"",""load"",""amass""]",,,,,,,,0
+突,N3,"[""stab"",""protruding"",""thrust"",""pierce"",""prick"",""collision"",""sudden""]",,,,,,,,0
+窓,N3,"[""window"",""pane""]",,,,,,,,0
+笑,N3,"[""laugh""]",,,,,,,,0
+等,N3,"[""etc."",""and so forth"",""class (first)"",""quality"",""equal"",""similar""]",,,,,,,,0
+箱,N3,"[""box"",""chest"",""case"",""bin"",""railway car""]",,,,,,,,0
+籠,N3,"[""basket"",""devote oneself"",""seclude oneself"",""cage"",""coop"",""implied""]",,,,,,,,0
+米,N3,"[""rice"",""USA"",""metre""]",,,,,,,,0
+粧,N3,"[""cosmetics"",""adorn (one's person)""]",,,,,,,,0
+精,N3,"[""refined"",""ghost"",""fairy"",""energy"",""vitality"",""semen"",""excellence"",""purity"",""skill""]",,,,,,,,0
+約,N3,"[""promise"",""approximately"",""shrink""]",,,,,,,,0
+組,N3,"[""association"",""braid"",""plait"",""construct"",""assemble"",""unite"",""cooperate"",""grapple""]",,,,,,,,0
+経,N3,"[""sutra"",""longitude"",""pass thru"",""expire"",""warp""]",,,,,,,,0
+給,N3,"[""salary"",""wage"",""gift"",""allow"",""grant"",""bestow on""]",,,,,,,,0
+絵,N3,"[""picture"",""drawing"",""painting"",""sketch""]",,,,,,,,0
+絶,N3,"[""discontinue"",""sever"",""cut off"",""abstain"",""interrupt"",""suppress"",""be beyond"",""without match"",""peerless"",""unparalleled""]",,,,,,,,0
+続,N3,"[""continue"",""series"",""sequel""]",,,,,,,,0
+緒,N3,"[""thong"",""beginning"",""inception"",""end"",""cord"",""strap"",""mental or emotional state""]",,,,,,,,0
+罪,N3,"[""guilt"",""sin"",""crime"",""fault"",""blame"",""offense""]",,,,,,,,0
+置,N3,"[""placement"",""put"",""set"",""deposit"",""leave behind"",""keep"",""employ"",""pawn""]",,,,,,,,0
+美,N3,"[""beauty"",""beautiful""]",,,,,,,,0
+老,N3,"[""old man"",""old age"",""grow old""]",,,,,,,,0
+耳,N3,"[""ear""]",,,,,,,,0
+職,N3,"[""post"",""employment"",""work""]",,,,,,,,0
+育,N3,"[""bring up"",""grow up"",""raise"",""rear""]",,,,,,,,0
+背,N3,"[""stature"",""height"",""back"",""behind"",""disobey"",""defy"",""go back on"",""rebel""]",,,,,,,,0
+能,N3,"[""ability"",""talent"",""skill"",""capacity""]",,,,,,,,0
+脇,N3,"[""armpit"",""the other way"",""another place"",""flank"",""supporting role""]",,,,,,,,0
+腹,N3,"[""abdomen"",""belly"",""stomach""]",,,,,,,,0
+膝,N3,"[""knee"",""lap""]",,,,,,,,0
+舞,N3,"[""dance"",""flit"",""circle"",""wheel""]",,,,,,,,0
+船,N3,"[""ship"",""boat""]",,,,,,,,0
+良,N3,"[""good"",""pleasing"",""skilled""]",,,,,,,,0
+若,N3,"[""young"",""if"",""perhaps"",""possibly"",""low number"",""immature""]",,,,,,,,0
+苦,N3,"[""suffering"",""trial"",""worry"",""hardship"",""feel bitter"",""scowl""]",,,,,,,,0
+草,N3,"[""grass"",""weeds"",""herbs"",""pasture"",""write"",""draft""]",,,,,,,,0
+落,N3,"[""fall"",""drop"",""come down"",""village"",""hamlet""]",,,,,,,,0
+葉,N3,"[""leaf"",""plane"",""lobe"",""needle"",""blade"",""spear"",""counter for flat things"",""fragment"",""piece""]",,,,,,,,0
+薬,N3,"[""medicine"",""chemical"",""enamel"",""gunpowder"",""benefit""]",,,,,,,,0
+術,N3,"[""art"",""technique"",""skill"",""means"",""trick"",""resources"",""magic""]",,,,,,,,0
+表,N3,"[""surface"",""table"",""chart"",""diagram""]",,,,,,,,0
+袖,N3,"[""sleeve"",""wing (building)"",""extension"",""give cold shoulder""]",,,,,,,,0
+要,N3,"[""need"",""main point"",""essence"",""pivot"",""key to""]",,,,,,,,0
+規,N3,"[""standard"",""measure""]",,,,,,,,0
+覚,N3,"[""memorize"",""learn"",""remember"",""awake"",""sober up""]",,,,,,,,0
+観,N3,"[""outlook"",""look"",""appearance"",""condition"",""view""]",,,,,,,,0
+解,N3,"[""unravel"",""notes"",""key"",""explanation"",""understanding"",""untie"",""undo"",""solve"",""answer"",""cancel"",""absolve"",""explain"",""minute""]",,,,,,,,0
+記,N3,"[""scribe"",""account"",""narrative""]",,,,,,,,0
+訪,N3,"[""call on"",""visit"",""look up"",""offer sympathy""]",,,,,,,,0
+許,N3,"[""permit"",""approve""]",,,,,,,,0
+認,N3,"[""acknowledge"",""witness"",""discern"",""recognize"",""appreciate"",""believe""]",,,,,,,,0
+誤,N3,"[""mistake"",""err"",""do wrong"",""mislead""]",,,,,,,,0
+説,N3,"[""opinion"",""theory"",""explanation"",""rumor""]",,,,,,,,0
+調,N3,"[""tune"",""tone"",""meter"",""key (music)"",""writing style"",""prepare"",""exorcise"",""investigate"",""harmonize"",""mediate""]",,,,,,,,0
+談,N3,"[""discuss"",""talk""]",,,,,,,,0
+論,N3,"[""argument"",""discourse""]",,,,,,,,0
+諦,N3,"[""truth"",""clarity"",""abandon"",""give up""]",,,,,,,,0
+謎,N3,"[""riddle"",""puzzle"",""enigma"",""hint"",""tip""]",,,,,,,,0
+識,N3,"[""discriminating"",""know"",""write""]",,,,,,,,0
+警,N3,"[""admonish"",""commandment""]",,,,,,,,0
+議,N3,"[""deliberation"",""consultation"",""debate"",""consideration""]",,,,,,,,0
+負,N3,"[""defeat"",""negative"",""-"",""minus"",""bear"",""owe"",""assume a responsibility""]",,,,,,,,0
+財,N3,"[""property"",""money"",""wealth"",""assets""]",,,,,,,,0
+貧,N3,"[""poverty"",""poor""]",,,,,,,,0
+責,N3,"[""blame"",""condemn"",""censure""]",,,,,,,,0
+費,N3,"[""expense"",""cost"",""spend"",""consume"",""waste""]",,,,,,,,0
+資,N3,"[""assets"",""resources"",""capital"",""funds"",""data"",""be conducive to"",""contribute to""]",,,,,,,,0
+賛,N3,"[""approve"",""praise"",""title or inscription on picture"",""assist"",""agree with""]",,,,,,,,0
+越,N3,"[""surpass"",""cross over"",""move to"",""exceed"",""Vietnam""]",,,,,,,,0
+路,N3,"[""path"",""route"",""road"",""distance""]",,,,,,,,0
+身,N3,"[""somebody"",""person"",""one's station in life""]",,,,,,,,0
+辞,N3,"[""resign"",""word"",""term"",""expression""]",,,,,,,,0
+込,N3,"[""crowded"",""mixture"",""in bulk"",""included"",""(kokuji)""]",,,,,,,,0
+迎,N3,"[""welcome"",""meet"",""greet""]",,,,,,,,0
+返,N3,"[""return"",""answer"",""fade"",""repay""]",,,,,,,,0
+迷,N3,"[""astray"",""be perplexed"",""in doubt"",""lost"",""err"",""illusion""]",,,,,,,,0
+追,N3,"[""chase"",""drive away"",""follow"",""pursue"",""meanwhile""]",,,,,,,,0
+退,N3,"[""retreat"",""withdraw"",""retire"",""resign"",""repel"",""expel"",""reject""]",,,,,,,,0
+逃,N3,"[""escape"",""flee"",""shirk"",""evade"",""set free""]",,,,,,,,0
+途,N3,"[""route"",""way"",""road""]",,,,,,,,0
+速,N3,"[""quick"",""fast""]",,,,,,,,0
+連,N3,"[""take along"",""lead"",""join"",""connect"",""party"",""gang"",""clique""]",,,,,,,,0
+進,N3,"[""advance"",""proceed"",""progress"",""promote""]",,,,,,,,0
+遅,N3,"[""slow"",""late"",""back"",""later""]",,,,,,,,0
+遊,N3,"[""play""]",놀,유,,,,,,0
+過,N3,"[""overdo"",""exceed"",""go beyond"",""error""]",,,,,,,,0
+達,N3,"[""accomplished"",""reach"",""arrive"",""attain""]",,,,,,,,0
+違,N3,"[""difference"",""differ""]",,,,,,,,0
+遠,N3,"[""distant"",""far""]",,,,,,,,0
+適,N3,"[""suitable"",""occasional"",""rare"",""qualified"",""capable""]",,,,,,,,0
+選,N3,"[""elect"",""select"",""choose"",""prefer""]",,,,,,,,0
+部,N3,"[""section"",""bureau"",""dept"",""class"",""copy"",""part"",""portion"",""counter for copies of a newspaper or magazine""]",,,,,,,,0
+都,N3,"[""metropolis"",""capital"",""all"",""everything""]",,,,,,,,0
+配,N3,"[""distribute"",""spouse"",""exile"",""rationing""]",,,,,,,,0
+酒,N3,"[""sake"",""alcohol""]",,,,,,,,0
+鍋,N3,"[""pot"",""pan"",""kettle""]",,,,,,,,0
+閉,N3,"[""closed"",""shut""]",,,,,,,,0
+関,N3,"[""connection"",""barrier"",""gateway"",""involve"",""concerning""]",,,,,,,,0
+降,N3,"[""descend"",""precipitate"",""fall"",""surrender""]",,,,,,,,0
+限,N3,"[""limit"",""restrict"",""to best of ability""]",,,,,,,,0
+除,N3,"[""exclude"",""division (x/3)"",""remove"",""abolish"",""cancel"",""except""]",,,,,,,,0
+険,N3,"[""precipitous"",""inaccessible place"",""impregnable position"",""steep place"",""sharp eyes""]",,,,,,,,0
+陽,N3,"[""sunshine"",""yang principle"",""positive"",""male"",""heaven"",""daytime""]",,,,,,,,0
+際,N3,"[""occasion"",""side"",""edge"",""verge"",""dangerous"",""adventurous"",""indecent"",""time"",""when""]",,,,,,,,0
+雑,N3,"[""miscellaneous""]",,,,,,,,0
+難,N3,"[""difficult"",""impossible"",""trouble"",""accident"",""defect""]",,,,,,,,0
+雪,N3,"[""snow""]",,,,,,,,0
+静,N3,"[""quiet""]",,,,,,,,0
+非,N3,"[""un-"",""mistake"",""negative"",""injustice"",""non-""]",,,,,,,,0
+面,N3,"[""mask"",""face"",""features"",""surface""]",,,,,,,,0
+靴,N3,"[""shoes""]",,,,,,,,0
+頂,N3,"[""place on the head"",""receive"",""top of head"",""top"",""summit"",""peak""]",,,,,,,,0
+頃,N3,"[""time"",""about"",""toward""]",,,,,,,,0
+頭,N3,"[""head"",""counter for large animals""]",머리,두,,,,,,0
+頼,N3,"[""trust"",""request""]",,,,,,,,0
+顔,N3,"[""face"",""expression""]",,,,,,,,0
+願,N3,"[""petition"",""request"",""vow"",""wish"",""hope""]",,,,,,,,0
+類,N3,"[""sort"",""kind"",""variety"",""class"",""genus""]",,,,,,,,0
+飛,N3,"[""fly"",""skip (pages)"",""scatter""]",,,,,,,,0
+餌,N3,"[""food"",""bait"",""prey"",""tempting profit""]",,,,,,,,0
+首,N3,"[""neck"",""counter for songs and poems""]",,,,,,,,0
+馬,N3,"[""horse""]",,,,,,,,0
+髪,N3,"[""hair of the head""]",,,,,,,,0
+鳴,N3,"[""chirp"",""cry"",""bark"",""sound"",""ring"",""echo"",""honk""]",,,,,,,,0
+並,N2,"[""row"",""and"",""besides"",""as well as"",""line up"",""rank with"",""rival"",""equal""]",,,,,,,,0
+丸,N2,"[""round"",""full (month)"",""perfection"",""-ship"",""pills"",""make round"",""roll up"",""curl up"",""seduce"",""explain away""]",,,,,,,,0
+丼,N2,"[""bowl"",""bowl of food""]",,,,,,,,0
+久,N2,"[""long time"",""old story""]",,,,,,,,0
+乱,N2,"[""riot"",""war"",""disorder"",""disturb""]",,,,,,,,0
+乳,N2,"[""milk"",""breasts""]",,,,,,,,0
+乾,N2,"[""drought"",""dry"",""desiccate"",""drink up"",""heaven"",""emperor""]",,,,,,,,0
+了,N2,"[""complete"",""finish""]",,,,,,,,0
+介,N2,"[""jammed in"",""shellfish"",""mediate"",""concern oneself with""]",,,,,,,,0
+仏,N2,"[""Buddha"",""the dead"",""France""]",,,,,,,,0
+令,N2,"[""orders"",""laws"",""command"",""decree"",""good""]",,,,,,,,0
+仲,N2,"[""go-between"",""relationship""]",,,,,,,,0
+伸,N2,"[""expand"",""stretch"",""extend"",""lengthen"",""increase""]",,,,,,,,0
+伺,N2,"[""pay respects"",""visit"",""ask"",""inquire"",""question"",""implore""]",,,,,,,,0
+低,N2,"[""lower"",""short"",""humble""]",,,,,,,,0
+依,N2,"[""reliant"",""depend on"",""consequently"",""therefore"",""due to""]",,,,,,,,0
+個,N2,"[""individual"",""counter for articles""]",,,,,,,,0
+倍,N2,"[""double"",""twice"",""times"",""fold""]",,,,,,,,0
+停,N2,"[""halt"",""stopping""]",,,,,,,,0
+傾,N2,"[""lean"",""incline"",""tilt"",""trend"",""wane"",""sink"",""ruin"",""bias""]",,,,,,,,0
+像,N2,"[""statue"",""picture"",""image"",""figure"",""portrait""]",,,,,,,,0
+億,N2,"[""hundred million"",""10**8""]",,,,,,,,0
+兆,N2,"[""portent"",""10**12"",""trillion"",""sign"",""omen"",""symptoms""]",,,,,,,,0
+児,N2,"[""newborn babe"",""child"",""young of animals""]",,,,,,,,0
+党,N2,"[""party"",""faction"",""clique""]",,,,,,,,0
+兵,N2,"[""soldier"",""private"",""troops"",""army"",""warfare"",""strategy"",""tactics""]",,,,,,,,0
+冊,N2,"[""tome"",""counter for books"",""volume""]",,,,,,,,0
+再,N2,"[""again"",""twice"",""second time""]",,,,,,,,0
+凍,N2,"[""frozen"",""congeal"",""refrigerate""]",,,,,,,,0
+刊,N2,"[""publish"",""carve"",""engrave""]",,,,,,,,0
+刷,N2,"[""printing"",""print"",""brush""]",,,,,,,,0
+券,N2,"[""ticket""]",,,,,,,,0
+刺,N2,"[""thorn"",""pierce"",""stab"",""prick"",""sting"",""calling card""]",,,,,,,,0
+則,N2,"[""rule"",""law"",""follow"",""based on"",""model after""]",,,,,,,,0
+副,N2,"[""vice-"",""assistant"",""aide"",""duplicate"",""copy""]",,,,,,,,0
+劇,N2,"[""drama"",""play""]",,,,,,,,0
+効,N2,"[""merit"",""efficacy"",""efficiency"",""benefit""]",,,,,,,,0
+勇,N2,"[""courage"",""cheer up"",""be in high spirits"",""bravery"",""heroism""]",,,,,,,,0
+募,N2,"[""recruit"",""campaign"",""gather (contributions)"",""enlist"",""grow violent""]",,,,,,,,0
+勢,N2,"[""forces"",""energy"",""military strength""]",,,,,,,,0
+匂,N2,"[""fragrant"",""stink"",""glow"",""insinuate"",""(kokuji)""]",,,,,,,,0
+包,N2,"[""wrap"",""pack up"",""cover"",""conceal""]",,,,,,,,0
+匹,N2,"[""equal"",""head"",""counter for small animals"",""roll of cloth""]",,,,,,,,0
+区,N2,"[""ward"",""district""]",,,,,,,,0
+卒,N2,"[""graduate"",""soldier"",""private"",""die""]",,,,,,,,0
+協,N2,"[""co-"",""cooperation""]",,,,,,,,0
+占,N2,"[""fortune-telling"",""divining"",""forecasting"",""occupy"",""hold"",""have"",""get"",""take""]",,,,,,,,0
+印,N2,"[""stamp"",""seal"",""mark"",""imprint"",""symbol"",""emblem"",""trademark"",""evidence"",""souvenir"",""India""]",,,,,,,,0
+卵,N2,"[""egg"",""ovum"",""spawn"",""roe""]",,,,,,,,0
+厚,N2,"[""thick"",""heavy"",""rich"",""kind"",""cordial"",""brazen"",""shameless""]",,,,,,,,0
+双,N2,"[""pair"",""set"",""comparison"",""counter for pairs""]",,,,,,,,0
+叫,N2,"[""shout"",""exclaim"",""yell""]",,,,,,,,0
+召,N2,"[""seduce"",""call"",""send for"",""wear"",""put on"",""ride in"",""buy"",""eat"",""drink"",""catch (cold)""]",,,,,,,,0
+史,N2,"[""history"",""chronicle""]",,,,,,,,0
+各,N2,"[""each"",""every"",""either""]",,,,,,,,0
+含,N2,"[""contain"",""include"",""hold in the mouth"",""bear in mind"",""understand"",""cherish""]",,,,,,,,0
+周,N2,"[""circumference"",""circuit"",""lap""]",,,,,,,,0
+咲,N2,"[""blossom"",""bloom""]",,,,,,,,0
+喫,N2,"[""consume"",""eat"",""drink"",""smoke"",""receive (a blow)""]",,,,,,,,0
+営,N2,"[""camp"",""perform"",""build"",""conduct (business)""]",,,,,,,,0
+嗅,N2,"[""smell"",""sniff"",""scent""]",,,,,,,,0
+団,N2,"[""group"",""association""]",,,,,,,,0
+囲,N2,"[""surround"",""besiege"",""store"",""paling"",""enclosure"",""encircle"",""preserve"",""keep""]",,,,,,,,0
+固,N2,"[""harden"",""set"",""clot"",""curdle""]",,,,,,,,0
+圧,N2,"[""pressure"",""push"",""overwhelm"",""oppress"",""dominate""]",,,,,,,,0
+坂,N2,"[""slope"",""incline"",""hill""]",,,,,,,,0
+均,N2,"[""level"",""average""]",,,,,,,,0
+型,N2,"[""mould"",""type"",""model""]",,,,,,,,0
+埋,N2,"[""bury"",""be filled up"",""embedded""]",,,,,,,,0
+城,N2,"[""castle""]",,,,,,,,0
+域,N2,"[""range"",""region"",""limits"",""stage"",""level""]",,,,,,,,0
+塔,N2,"[""pagoda"",""tower"",""steeple""]",,,,,,,,0
+塗,N2,"[""paint"",""plaster"",""daub"",""smear"",""coating""]",,,,,,,,0
+塞,N2,"[""close"",""shut"",""cover"",""block"",""obstruct""]",,,,,,,,0
+塩,N2,"[""salt""]",,,,,,,,0
+境,N2,"[""boundary"",""border"",""region""]",,,,,,,,0
+央,N2,"[""center"",""middle""]",,,,,,,,0
+奥,N2,"[""heart"",""interior""]",,,,,,,,0
+姓,N2,"[""surname""]",,,,,,,,0
+委,N2,"[""committee"",""entrust to"",""leave to"",""devote"",""discard""]",,,,,,,,0
+孝,N2,"[""filial piety"",""child's respect""]",,,,,,,,0
+季,N2,"[""seasons""]",,,,,,,,0
+孫,N2,"[""grandchild"",""descendants""]",,,,,,,,0
+宇,N2,"[""eaves"",""roof"",""house"",""heaven""]",,,,,,,,0
+宛,N2,"[""address"",""just like"",""fortunately""]",,,,,,,,0
+宝,N2,"[""treasure"",""wealth"",""valuables""]",,,,,,,,0
+寺,N2,"[""Buddhist temple""]",,,,,,,,0
+寿,N2,"[""longevity"",""congratulations"",""one's natural life""]",,,,,,,,0
+封,N2,"[""seal"",""closing""]",,,,,,,,0
+専,N2,"[""specialty"",""exclusive"",""mainly"",""solely""]",,,,,,,,0
+将,N2,"[""leader"",""commander"",""general"",""admiral"",""or"",""and again"",""soon"",""from now on"",""just about""]",,,,,,,,0
+尊,N2,"[""revered"",""valuable"",""precious"",""noble"",""exalted""]",,,,,,,,0
+導,N2,"[""guidance"",""leading"",""conduct"",""usher""]",,,,,,,,0
+届,N2,"[""deliver"",""reach"",""arrive"",""report"",""notify"",""forward""]",,,,,,,,0
+層,N2,"[""stratum"",""social class"",""layer"",""story"",""floor""]",,,,,,,,0
+岩,N2,"[""boulder"",""rock"",""cliff""]",,,,,,,,0
+岸,N2,"[""beach""]",,,,,,,,0
+島,N2,"[""island""]",,,,,,,,0
+州,N2,"[""state"",""province""]",,,,,,,,0
+巨,N2,"[""gigantic"",""big"",""large"",""great""]",,,,,,,,0
+巻,N2,"[""scroll"",""volume"",""book"",""part"",""roll up"",""wind up"",""tie"",""coil"",""counter for texts (or book scrolls)""]",,,,,,,,0
+巾,N2,"[""towel"",""hanging scroll"",""width"",""cloth radical (no. 50)""]",,,,,,,,0
+布,N2,"[""linen"",""cloth"",""spread"",""distribute""]",,,,,,,,0
+希,N2,"[""hope"",""beg"",""request"",""pray"",""beseech"",""Greece"",""dilute (acid)"",""rare"",""few"",""phenomenal""]",,,,,,,,0
+帯,N2,"[""sash"",""belt"",""obi"",""zone"",""region""]",,,,,,,,0
+帽,N2,"[""cap"",""headgear""]",,,,,,,,0
+幅,N2,"[""hanging scroll"",""width""]",,,,,,,,0
+干,N2,"[""dry"",""parch"",""ebb"",""recede"",""interfere"",""intercede""]",,,,,,,,0
+幼,N2,"[""infancy"",""childhood""]",,,,,,,,0
+庁,N2,"[""government office""]",,,,,,,,0
+床,N2,"[""bed"",""counter for beds"",""floor"",""padding"",""tatami""]",,,,,,,,0
+底,N2,"[""bottom"",""sole"",""depth"",""bottom price"",""base"",""kind"",""sort""]",,,,,,,,0
+府,N2,"[""borough"",""urban prefecture"",""govt office"",""representative body"",""storehouse""]",,,,,,,,0
+庫,N2,"[""warehouse"",""storehouse""]",,,,,,,,0
+延,N2,"[""prolong"",""stretching""]",,,,,,,,0
+弱,N2,"[""weak"",""frail""]",,,,,,,,0
+律,N2,"[""rhythm"",""law"",""regulation"",""gauge"",""control""]",,,,,,,,0
+復,N2,"[""restore"",""return to"",""revert"",""resume""]",,,,,,,,0
+快,N2,"[""cheerful"",""pleasant"",""agreeable"",""comfortable""]",,,,,,,,0
+恋,N2,"[""romance"",""in love"",""yearn for"",""miss"",""darling""]",,,,,,,,0
+患,N2,"[""afflicted"",""disease"",""suffer from"",""be ill""]",,,,,,,,0
+悩,N2,"[""trouble"",""worry"",""in pain"",""distress"",""illness""]",,,,,,,,0
+憎,N2,"[""hate"",""detest""]",,,,,,,,0
+戸,N2,"[""door"",""counter for houses"",""door radical (no. 63)""]",,,,,,,,0
+承,N2,"[""acquiesce"",""hear"",""listen to"",""be informed"",""receive""]",,,,,,,,0
+技,N2,"[""skill"",""art"",""craft"",""ability"",""feat"",""performance"",""vocation"",""arts""]",,,,,,,,0
+担,N2,"[""shouldering"",""carry"",""raise"",""bear""]",,,,,,,,0
+拝,N2,"[""worship"",""adore"",""pray to""]",,,,,,,,0
+拭,N2,"[""wipe"",""mop"",""swab""]",,,,,,,,0
+拾,N2,"[""pick up"",""gather"",""find"",""go on foot"",""ten""]",,,,,,,,0
+挟,N2,"[""pinch"",""between""]",,,,,,,,0
+捜,N2,"[""search"",""look for"",""locate""]",,,,,,,,0
+捨,N2,"[""discard"",""throw away"",""abandon"",""resign"",""reject"",""sacrifice""]",,,,,,,,0
+捻,N2,"[""twirl"",""twist"",""play with""]",,,,,,,,0
+掃,N2,"[""sweep"",""brush""]",,,,,,,,0
+掘,N2,"[""dig"",""delve"",""excavate""]",,,,,,,,0
+採,N2,"[""pick"",""take"",""fetch"",""take up""]",,,,,,,,0
+接,N2,"[""touch"",""contact"",""adjoin"",""piece together""]",,,,,,,,0
+換,N2,"[""interchange"",""period"",""change"",""convert"",""replace"",""renew""]",,,,,,,,0
+損,N2,"[""damage"",""loss"",""disadvantage"",""hurt"",""injure""]",,,,,,,,0
+改,N2,"[""reformation"",""change"",""modify"",""mend"",""renew"",""examine"",""inspect"",""search""]",,,,,,,,0
+敬,N2,"[""awe"",""respect"",""honor"",""revere""]",,,,,,,,0
+斬,N2,"[""beheading"",""kill"",""murder""]",,,,,,,,0
+旧,N2,"[""old times"",""old things"",""old friend"",""former"",""ex-""]",,,,,,,,0
+昇,N2,"[""rise up""]",,,,,,,,0
+星,N2,"[""star"",""spot"",""dot"",""mark""]",,,,,,,,0
+普,N2,"[""universal"",""wide(ly)"",""generally"",""Prussia""]",,,,,,,,0
+暴,N2,"[""outburst"",""rave"",""fret"",""force"",""violence"",""cruelty"",""outrage""]",,,,,,,,0
+曇,N2,"[""cloudy weather"",""cloud up""]",,,,,,,,0
+替,N2,"[""exchange"",""spare"",""substitute"",""per-""]",,,,,,,,0
+札,N2,"[""tag"",""paper money"",""counter for bonds"",""placard"",""bid""]",,,,,,,,0
+机,N2,"[""desk"",""table""]",,,,,,,,0
+材,N2,"[""lumber"",""log"",""timber"",""wood"",""materials"",""ingredients"",""talent""]",,,,,,,,0
+村,N2,"[""village"",""town""]",,,,,,,,0
+板,N2,"[""plank"",""board"",""plate"",""stage""]",,,,,,,,0
+枕,N2,"[""pillow""]",,,,,,,,0
+林,N2,"[""grove"",""forest""]",,,,,,,,0
+枚,N2,"[""sheet of..."",""counter for flat thin objects or sheets""]",,,,,,,,0
+枝,N2,"[""bough"",""branch"",""twig"",""limb"",""counter for branches""]",,,,,,,,0
+枯,N2,"[""wither"",""die"",""dry up"",""be seasoned""]",,,,,,,,0
+柔,N2,"[""tender"",""weakness"",""gentleness"",""softness""]",,,,,,,,0
+柱,N2,"[""pillar"",""post"",""cylinder"",""support""]",,,,,,,,0
+査,N2,"[""investigate""]",,,,,,,,0
+栄,N2,"[""flourish"",""prosperity"",""honor"",""glory"",""splendor""]",,,,,,,,0
+根,N2,"[""root"",""radical"",""head (pimple)""]",,,,,,,,0
+桁,N2,"[""beam"",""girder"",""spar"",""unit or column (accounting)""]",,,,,,,,0
+械,N2,"[""contraption"",""fetter"",""machine"",""instrument""]",,,,,,,,0
+棒,N2,"[""rod"",""stick"",""cane"",""pole"",""club"",""line""]",,,,,,,,0
+森,N2,"[""forest"",""woods""]",,,,,,,,0
+植,N2,"[""plant""]",,,,,,,,0
+極,N2,"[""extreme"",""pole"",""extremely"",""very"",""highly"",""most"",""end"",""settlement"",""conclusion"",""highest rank""]",,,,,,,,0
+橋,N2,"[""bridge""]",,,,,,,,0
+欧,N2,"[""Europe""]",,,,,,,,0
+武,N2,"[""warrior"",""military"",""chivalry"",""arms""]",,,,,,,,0
+歴,N2,"[""curriculum"",""continuation"",""passage of time""]",,,,,,,,0
+殿,N2,"[""Mr."",""hall"",""mansion"",""palace"",""temple"",""lord""]",,,,,,,,0
+毒,N2,"[""poison"",""virus"",""venom"",""germ"",""harm"",""injury"",""spite""]",,,,,,,,0
+比,N2,"[""compare"",""race"",""ratio"",""Philippines""]",,,,,,,,0
+毛,N2,"[""fur"",""hair"",""feather"",""down""]",,,,,,,,0
+氷,N2,"[""icicle"",""ice"",""hail"",""freeze"",""congeal""]",,,,,,,,0
+永,N2,"[""eternity"",""long"",""lengthy""]",,,,,,,,0
+汗,N2,"[""sweat"",""perspire""]",,,,,,,,0
+汚,N2,"[""dirty"",""pollute"",""disgrace"",""rape"",""defile""]",,,,,,,,0
+池,N2,"[""pond"",""cistern"",""pool"",""reservoir""]",,,,,,,,0
+沈,N2,"[""sink"",""be submerged"",""subside"",""be depressed"",""aloes""]",,,,,,,,0
+河,N2,"[""river""]",,,,,,,,0
+沸,N2,"[""seethe"",""boil"",""ferment"",""uproar"",""breed""]",,,,,,,,0
+油,N2,"[""oil"",""fat""]",,,,,,,,0
+況,N2,"[""condition"",""situation""]",,,,,,,,0
+泉,N2,"[""spring"",""fountain""]",,,,,,,,0
+泊,N2,"[""overnight stay"",""put up at"",""ride at anchor""]",,,,,,,,0
+波,N2,"[""waves"",""billows"",""Poland""]",,,,,,,,0
+泥,N2,"[""mud"",""mire"",""adhere to"",""be attached to""]",,,,,,,,0
+浅,N2,"[""shallow"",""superficial"",""frivolous"",""wretched"",""shameful""]",,,,,,,,0
+浴,N2,"[""bathe"",""be favored with"",""bask in""]",,,,,,,,0
+涙,N2,"[""tears"",""sympathy""]",,,,,,,,0
+液,N2,"[""fluid"",""liquid"",""juice"",""sap"",""secretion""]",,,,,,,,0
+涼,N2,"[""refreshing"",""nice and cool""]",,,,,,,,0
+混,N2,"[""mix"",""blend"",""confuse""]",,,,,,,,0
+清,N2,"[""pure"",""purify"",""cleanse"",""exorcise"",""Manchu dynasty""]",,,,,,,,0
+減,N2,"[""dwindle"",""decrease"",""reduce"",""decline"",""curtail"",""get hungry""]",,,,,,,,0
+温,N2,"[""warm""]",,,,,,,,0
+測,N2,"[""fathom"",""plan"",""scheme"",""measure""]",,,,,,,,0
+湖,N2,"[""lake""]",,,,,,,,0
+湯,N2,"[""hot water"",""bath"",""hot spring""]",,,,,,,,0
+湾,N2,"[""gulf"",""bay"",""inlet""]",,,,,,,,0
+湿,N2,"[""damp"",""wet"",""moist""]",,,,,,,,0
+準,N2,"[""semi-"",""correspond to"",""proportionate to"",""conform"",""imitate""]",,,,,,,,0
+溶,N2,"[""melt"",""dissolve"",""thaw""]",,,,,,,,0
+滴,N2,"[""drip"",""drop""]",,,,,,,,0
+漁,N2,"[""fishing"",""fishery""]",,,,,,,,0
+潰,N2,"[""crush"",""smash"",""break"",""dissipate""]",,,,,,,,0
+濃,N2,"[""concentrated"",""thick"",""dark"",""undiluted""]",,,,,,,,0
+濯,N2,"[""laundry"",""wash"",""pour on"",""rinse""]",,,,,,,,0
+灯,N2,"[""lamp"",""a light"",""light"",""counter for lights""]",,,,,,,,0
+灰,N2,"[""ashes"",""puckery juice"",""cremate""]",,,,,,,,0
+炭,N2,"[""charcoal"",""coal""]",,,,,,,,0
+焼,N2,"[""bake"",""burning""]",,,,,,,,0
+煎,N2,"[""broil"",""parch"",""roast"",""boil""]",,,,,,,,0
+照,N2,"[""illuminate"",""shine"",""compare"",""bashful""]",,,,,,,,0
+燃,N2,"[""burn"",""blaze"",""glow""]",,,,,,,,0
+燥,N2,"[""parch"",""dry up""]",,,,,,,,0
+爆,N2,"[""bomb"",""burst open"",""pop"",""split""]",,,,,,,,0
+爪,N2,"[""claw"",""nail"",""talon""]",,,,,,,,0
+片,N2,"[""one-sided"",""leaf"",""sheet"",""right-side kata radical (no. 91)""]",,,,,,,,0
+版,N2,"[""printing block"",""printing plate"",""edition"",""impression"",""label""]",,,,,,,,0
+狙,N2,"[""aim at"",""sight"",""shadow"",""stalk""]",,,,,,,,0
+玉,N2,"[""jewel"",""ball""]",,,,,,,,0
+珍,N2,"[""rare"",""curious"",""strange""]",,,,,,,,0
+瓦,N2,"[""tile"",""gram""]",,,,,,,,0
+瓶,N2,"[""bottle"",""vial"",""jar"",""jug"",""vat"",""urn""]",,,,,,,,0
+甘,N2,"[""sweet"",""coax"",""pamper"",""be content"",""sugary""]",,,,,,,,0
+畜,N2,"[""livestock"",""domestic fowl and animals""]",,,,,,,,0
+略,N2,"[""abbreviation"",""omission"",""outline"",""shorten"",""capture"",""plunder""]",,,,,,,,0
+畳,N2,"[""tatami mat"",""counter for tatami mats"",""fold"",""shut up"",""do away with""]",,,,,,,,0
+療,N2,"[""heal"",""cure""]",,,,,,,,0
+皮,N2,"[""pelt"",""skin"",""hide"",""leather"",""skin radical (no. 107)""]",,,,,,,,0
+皿,N2,"[""dish"",""a helping"",""plate""]",,,,,,,,0
+省,N2,"[""government ministry"",""conserve"",""omit""]",,,,,,,,0
+県,N2,"[""prefecture""]",,,,,,,,0
+短,N2,"[""short"",""brevity"",""fault"",""defect"",""weak point""]",,,,,,,,0
+砂,N2,"[""sand""]",,,,,,,,0
+硬,N2,"[""stiff"",""hard""]",,,,,,,,0
+磨,N2,"[""grind"",""polish"",""scour"",""improve"",""brush (teeth)""]",,,,,,,,0
+祈,N2,"[""pray"",""wish""]",,,,,,,,0
+祝,N2,"[""celebrate"",""congratulate""]",,,,,,,,0
+祭,N2,"[""ritual"",""offer prayers"",""celebrate"",""deify"",""enshrine"",""worship""]",,,,,,,,0
+禁,N2,"[""prohibition"",""ban"",""forbid""]",,,,,,,,0
+秒,N2,"[""second (1/60 minute)""]",,,,,,,,0
+移,N2,"[""shift"",""move"",""change"",""drift"",""catch (cold, fire)"",""pass into""]",,,,,,,,0
+税,N2,"[""tax"",""duty""]",,,,,,,,0
+稽,N2,"[""think"",""consider""]",,,,,,,,0
+章,N2,"[""badge"",""chapter"",""composition"",""poem"",""design""]",,,,,,,,0
+童,N2,"[""juvenile"",""child""]",,,,,,,,0
+競,N2,"[""emulate"",""compete with"",""bid"",""sell at auction"",""bout"",""contest"",""race""]",,,,,,,,0
+竹,N2,"[""bamboo""]",,,,,,,,0
+符,N2,"[""token"",""sign"",""mark"",""tally"",""charm""]",,,,,,,,0
+筆,N2,"[""writing brush"",""writing"",""painting brush"",""handwriting""]",,,,,,,,0
+筒,N2,"[""cylinder"",""pipe"",""tube"",""gun barrel"",""sleeve""]",,,,,,,,0
+箋,N2,"[""paper"",""label"",""letter"",""composition""]",,,,,,,,0
+算,N2,"[""calculate"",""divining"",""number"",""abacus"",""probability""]",,,,,,,,0
+管,N2,"[""pipe"",""tube"",""wind instrument"",""drunken talk"",""control"",""jurisdiction""]",,,,,,,,0
+築,N2,"[""fabricate"",""build"",""construct""]",,,,,,,,0
+簡,N2,"[""simplicity"",""brevity""]",,,,,,,,0
+籍,N2,"[""enroll"",""domiciliary register"",""membership""]",,,,,,,,0
+粉,N2,"[""flour"",""powder"",""dust""]",,,,,,,,0
+粒,N2,"[""grains"",""drop"",""counter for tiny particles""]",,,,,,,,0
+糸,N2,"[""thread""]",,,,,,,,0
+紅,N2,"[""crimson"",""deep red""]",,,,,,,,0
+純,N2,"[""genuine"",""purity"",""innocence"",""net (profit)""]",,,,,,,,0
+細,N2,"[""dainty"",""get thin"",""taper"",""slender"",""narrow"",""detailed"",""precise""]",,,,,,,,0
+紹,N2,"[""introduce"",""inherit"",""help""]",,,,,,,,0
+絡,N2,"[""entwine"",""coil around"",""get caught in""]",,,,,,,,0
+綿,N2,"[""cotton""]",,,,,,,,0
+総,N2,"[""general"",""whole"",""all"",""full"",""total""]",,,,,,,,0
+緑,N2,"[""green""]",,,,,,,,0
+線,N2,"[""line"",""track""]",,,,,,,,0
+編,N2,"[""compilation"",""knit"",""plait"",""braid"",""twist"",""editing"",""completed poem"",""part of a book""]",,,,,,,,0
+練,N2,"[""practice"",""gloss"",""train"",""drill"",""polish"",""refine""]",,,,,,,,0
+績,N2,"[""exploits"",""achievements"",""unreeling cocoons""]",,,,,,,,0
+缶,N2,"[""tin can"",""container"",""jar radical (no. 121)""]",,,,,,,,0
+署,N2,"[""signature"",""govt office"",""police station""]",,,,,,,,0
+群,N2,"[""flock"",""group"",""crowd"",""herd"",""swarm"",""cluster""]",,,,,,,,0
+羨,N2,"[""envious"",""be jealous"",""covet""]",,,,,,,,0
+羽,N2,"[""feathers"",""counter for birds, rabbits""]",,,,,,,,0
+翌,N2,"[""the following"",""next""]",,,,,,,,0
+耕,N2,"[""till"",""plow"",""cultivate""]",,,,,,,,0
+肌,N2,"[""texture"",""skin"",""body"",""grain""]",,,,,,,,0
+肘,N2,"[""elbow"",""arm""]",,,,,,,,0
+肩,N2,"[""shoulder""]",,,,,,,,0
+肯,N2,"[""agreement"",""consent"",""comply with""]",,,,,,,,0
+胃,N2,"[""stomach"",""paunch"",""crop"",""craw""]",,,,,,,,0
+胸,N2,"[""bosom"",""breast"",""chest"",""heart"",""feelings""]",,,,,,,,0
+脂,N2,"[""fat"",""grease"",""tallow"",""lard"",""rosin"",""gum"",""tar""]",,,,,,,,0
+脳,N2,"[""brain"",""memory""]",,,,,,,,0
+腕,N2,"[""arm"",""ability"",""talent""]",,,,,,,,0
+腰,N2,"[""loins"",""hips"",""waist"",""low wainscoting""]",,,,,,,,0
+膚,N2,"[""skin"",""body"",""grain"",""texture"",""disposition""]",,,,,,,,0
+臓,N2,"[""entrails"",""viscera"",""bowels""]",,,,,,,,0
+臣,N2,"[""retainer"",""subject""]",,,,,,,,0
+舟,N2,"[""boat"",""ship""]",,,,,,,,0
+航,N2,"[""navigate"",""sail"",""cruise"",""fly""]",,,,,,,,0
+般,N2,"[""carrier"",""carry"",""all"",""general"",""sort"",""kind""]",,,,,,,,0
+芯,N2,"[""wick""]",,,,,,,,0
+芸,N2,"[""technique"",""art"",""craft"",""performance"",""acting"",""trick"",""stunt""]",,,,,,,,0
+荒,N2,"[""laid waste"",""rough"",""rude"",""wild""]",,,,,,,,0
+荷,N2,"[""baggage"",""shoulder-pole load"",""bear (a burden)"",""shoulder (a gun)"",""load"",""cargo"",""freight""]",,,,,,,,0
+菓,N2,"[""candy"",""cakes"",""fruit""]",,,,,,,,0
+菜,N2,"[""vegetable"",""side dish"",""greens""]",,,,,,,,0
+著,N2,"[""renowned"",""publish"",""write"",""remarkable"",""phenomenal"",""put on"",""don"",""wear"",""arrival"",""finish (race)"",""counter for suits of clothing"",""literary work""]",,,,,,,,0
+蒸,N2,"[""steam"",""heat"",""sultry"",""foment"",""get musty""]",,,,,,,,0
+蓋,N2,"[""cover"",""lid"",""flap""]",,,,,,,,0
+蔵,N2,"[""storehouse"",""hide"",""own"",""have"",""possess""]",,,,,,,,0
+薄,N2,"[""dilute"",""thin"",""weak (tea)"",""pampas grass""]",,,,,,,,0
+虫,N2,"[""insect"",""bug"",""temper""]",,,,,,,,0
+血,N2,"[""blood""]",,,,,,,,0
+衣,N2,"[""garment"",""clothes"",""dressing""]",,,,,,,,0
+袋,N2,"[""sack"",""bag"",""pouch""]",,,,,,,,0
+被,N2,"[""incur"",""cover"",""veil"",""brood over"",""shelter"",""wear"",""put on"",""be exposed (film)"",""receiving""]",,,,,,,,0
+装,N2,"[""attire"",""dress"",""pretend"",""disguise"",""profess""]",,,,,,,,0
+裏,N2,"[""back"",""amidst"",""in"",""reverse"",""inside"",""palm"",""sole"",""rear"",""lining"",""wrong side""]",,,,,,,,0
+補,N2,"[""supplement"",""supply"",""make good"",""offset"",""compensate"",""assistant"",""learner""]",,,,,,,,0
+複,N2,"[""duplicate"",""double"",""compound"",""multiple""]",,,,,,,,0
+角,N2,"[""angle"",""corner"",""square"",""horn"",""antlers""]",,,,,,,,0
+触,N2,"[""contact"",""touch"",""feel"",""hit"",""proclaim"",""announce"",""conflict""]",,,,,,,,0
+訓,N2,"[""instruction"",""Japanese character reading"",""explanation"",""read""]",,,,,,,,0
+設,N2,"[""establishment"",""provision"",""prepare""]",,,,,,,,0
+詞,N2,"[""part of speech"",""words"",""poetry""]",,,,,,,,0
+詰,N2,"[""packed"",""close"",""pressed"",""reprove"",""rebuke"",""blame""]",,,,,,,,0
+誌,N2,"[""document"",""records""]",,,,,,,,0
+課,N2,"[""chapter"",""lesson"",""section"",""department"",""division"",""counter for chapters (of a book)""]",,,,,,,,0
+諸,N2,"[""various"",""many"",""several"",""together""]",,,,,,,,0
+講,N2,"[""lecture"",""club"",""association""]",,,,,,,,0
+谷,N2,"[""valley""]",,,,,,,,0
+豊,N2,"[""bountiful"",""excellent"",""rich""]",,,,,,,,0
+象,N2,"[""elephant"",""pattern after"",""imitate"",""image"",""shape"",""sign (of the times)""]",,,,,,,,0
+貝,N2,"[""shellfish""]",,,,,,,,0
+貨,N2,"[""freight"",""goods"",""property""]",,,,,,,,0
+販,N2,"[""marketing"",""sell"",""trade""]",,,,,,,,0
+貯,N2,"[""savings"",""store"",""lay in"",""keep"",""wear mustache""]",,,,,,,,0
+貿,N2,"[""trade"",""exchange""]",,,,,,,,0
+賞,N2,"[""prize"",""reward"",""praise""]",,,,,,,,0
+賢,N2,"[""intelligent"",""wise"",""wisdom"",""cleverness""]",,,,,,,,0
+贈,N2,"[""presents"",""send"",""give to"",""award to"",""confer on"",""presenting something""]",,,,,,,,0
+超,N2,"[""transcend"",""super-"",""ultra-""]",,,,,,,,0
+跡,N2,"[""tracks"",""mark"",""print"",""impression""]",,,,,,,,0
+踊,N2,"[""jump"",""dance"",""leap"",""skip""]",,,,,,,,0
+蹴,N2,"[""kick""]",,,,,,,,0
+軍,N2,"[""army"",""force"",""troops"",""war"",""battle""]",,,,,,,,0
+軒,N2,"[""flats"",""counter for houses"",""eaves""]",,,,,,,,0
+軟,N2,"[""soft""]",,,,,,,,0
+軽,N2,"[""lightly"",""trifling"",""unimportant""]",,,,,,,,0
+輪,N2,"[""wheel"",""ring"",""circle"",""link"",""loop"",""counter for wheels and flowers""]",,,,,,,,0
+輸,N2,"[""transport"",""send"",""be inferior""]",,,,,,,,0
+辛,N2,"[""spicy"",""bitter"",""hot"",""acrid""]",,,,,,,,0
+農,N2,"[""agriculture"",""farmers""]",,,,,,,,0
+辺,N2,"[""environs"",""boundary"",""border"",""vicinity""]",,,,,,,,0
+述,N2,"[""mention"",""state"",""speak"",""relate""]",,,,,,,,0
+逆,N2,"[""inverted"",""reverse"",""opposite"",""wicked""]",,,,,,,,0
+造,N2,"[""create"",""make"",""structure"",""physique""]",,,,,,,,0
+遜,N2,"[""humble"",""modest""]",,,,,,,,0
+遡,N2,"[""go upstream"",""retrace the past""]",,,,,,,,0
+郊,N2,"[""outskirts"",""suburbs"",""rural area""]",,,,,,,,0
+郵,N2,"[""mail"",""stagecoach stop""]",,,,,,,,0
+量,N2,"[""quantity"",""measure"",""weight"",""amount"",""consider"",""estimate"",""surmise""]",,,,,,,,0
+釜,N2,"[""kettle"",""cauldron"",""iron pot""]",,,,,,,,0
+針,N2,"[""needle"",""pin"",""staple"",""stinger""]",,,,,,,,0
+鈍,N2,"[""dull"",""slow"",""foolish"",""blunt""]",,,,,,,,0
+鉄,N2,"[""iron""]",,,,,,,,0
+鉱,N2,"[""mineral"",""ore""]",,,,,,,,0
+銅,N2,"[""copper""]",,,,,,,,0
+鋭,N2,"[""pointed"",""sharpness"",""edge"",""weapon"",""sharp"",""violent""]",,,,,,,,0
+録,N2,"[""record""]",,,,,,,,0
+門,N2,"[""gate"",""counter for cannons""]",,,,,,,,0
+防,N2,"[""ward off"",""defend"",""protect"",""resist""]",,,,,,,,0
+陸,N2,"[""land"",""six""]",,,,,,,,0
+隅,N2,"[""corner"",""nook""]",,,,,,,,0
+階,N2,"[""storey"",""stair"",""counter for storeys of a building""]",,,,,,,,0
+隙,N2,"[""crevice"",""fissure"",""discord"",""opportunity"",""leisure""]",,,,,,,,0
+隻,N2,"[""vessels"",""counter for ships"",""fish"",""birds"",""arrows"",""one of a pair""]",,,,,,,,0
+雇,N2,"[""employ"",""hire""]",,,,,,,,0
+雲,N2,"[""cloud""]",,,,,,,,0
+零,N2,"[""zero"",""spill"",""overflow"",""nothing"",""cipher""]",,,,,,,,0
+震,N2,"[""quake"",""shake"",""tremble"",""quiver"",""shiver""]",,,,,,,,0
+革,N2,"[""leather"",""skin"",""reform"",""become serious""]",,,,,,,,0
+順,N2,"[""obey"",""order"",""turn"",""right"",""docility"",""occasion""]",,,,,,,,0
+預,N2,"[""deposit"",""custody"",""leave with"",""entrust to""]",,,,,,,,0
+領,N2,"[""jurisdiction"",""dominion"",""territory"",""fief"",""reign""]",,,,,,,,0
+額,N2,"[""forehead"",""tablet"",""plaque"",""framed picture"",""sum"",""amount"",""volume""]",,,,,,,,0
+餅,N2,"[""mochi rice cake""]",,,,,,,,0
+香,N2,"[""incense"",""smell"",""perfume""]",,,,,,,,0
+駐,N2,"[""stop-over"",""reside in"",""resident""]",,,,,,,,0
+骨,N2,"[""skeleton"",""bone"",""remains"",""frame""]",,,,,,,,0
+麓,N2,"[""foot of a mountain""]",,,,,,,,0
+麦,N2,"[""barley"",""wheat""]",,,,,,,,0
+黄,N2,"[""yellow""]",,,,,,,,0
+鼻,N2,"[""nose"",""snout""]",,,,,,,,0
+齢,N2,"[""age""]",,,,,,,,0
+丁,N1,"[""street"",""ward"",""town"",""counter for guns, tools, leaves or cakes of something"",""even number"",""4th calendar sign""]",,,,,,,,0
+丑,N1,"[""sign of the ox or cow"",""1-3AM"",""second sign of Chinese zodiac""]",,,,,,,,0
+且,N1,"[""moreover"",""also"",""furthermore""]",,,,,,,,0
+丘,N1,"[""hill"",""knoll""]",,,,,,,,0
+丙,N1,"[""third class"",""3rd"",""3rd calendar sign""]",,,,,,,,0
+丞,N1,"[""help""]",,,,,,,,0
+串,N1,"[""spit"",""skewer""]",,,,,,,,0
+丹,N1,"[""rust-colored"",""red"",""red lead"",""pills"",""sincerity""]",,,,,,,,0
+乃,N1,"[""from"",""possessive particle"",""whereupon"",""accordingly""]",,,,,,,,0
+之,N1,"[""of"",""this""]",,,,,,,,0
+乏,N1,"[""destitution"",""scarce"",""limited""]",,,,,,,,0
+乙,N1,"[""the latter"",""duplicate"",""strange"",""witty"",""fishhook radical (no. 5)""]",,,,,,,,0
+乞,N1,"[""beg"",""invite"",""ask""]",,,,,,,,0
+也,N1,"[""to be (classical)""]",,,,,,,,0
+亀,N1,"[""tortoise"",""turtle""]",,,,,,,,0
+井,N1,"[""well"",""well crib"",""town"",""community""]",,,,,,,,0
+亘,N1,"[""span"",""range"",""extend over""]",,,,,,,,0
+亜,N1,"[""Asia"",""rank next"",""come after"",""-ous""]",,,,,,,,0
+亥,N1,"[""sign of the hog"",""9-11PM"",""twelfth sign of the Chinese zodiac""]",,,,,,,,0
+亦,N1,"[""also"",""again""]",,,,,,,,0
+亨,N1,"[""pass through"",""go smoothly""]",,,,,,,,0
+享,N1,"[""enjoy"",""receive"",""undergo"",""answer (phone)"",""take"",""get"",""catch""]",,,,,,,,0
+亭,N1,"[""pavilion"",""restaurant"",""mansion"",""arbor"",""cottage"",""vaudeville"",""music hall"",""stage name""]",,,,,,,,0
+亮,N1,"[""clear"",""help""]",,,,,,,,0
+仁,N1,"[""humanity"",""virtue"",""benevolence"",""charity"",""man"",""kernel""]",,,,,,,,0
+仙,N1,"[""hermit"",""wizard"",""cent""]",,,,,,,,0
+仮,N1,"[""sham"",""temporary"",""interim"",""assumed (name)"",""informal""]",,,,,,,,0
+仰,N1,"[""face-up"",""look up"",""depend"",""seek"",""respect"",""revere"",""drink"",""take""]",,,,,,,,0
+企,N1,"[""undertake"",""scheme"",""design"",""attempt"",""plan""]",,,,,,,,0
+伊,N1,"[""Italy"",""that one""]",,,,,,,,0
+伍,N1,"[""five"",""five-man squad"",""file"",""line""]",,,,,,,,0
+伎,N1,"[""deed"",""skill""]",,,,,,,,0
+伏,N1,"[""prostrated"",""bend down"",""bow"",""cover"",""lay (pipes)""]",,,,,,,,0
+伐,N1,"[""fell"",""strike"",""attack"",""punish""]",,,,,,,,0
+伯,N1,"[""chief"",""count"",""earl"",""uncle"",""Brazil""]",,,,,,,,0
+伴,N1,"[""consort"",""accompany"",""bring with"",""companion""]",,,,,,,,0
+伶,N1,"[""actor""]",,,,,,,,0
+伽,N1,"[""nursing"",""attending"",""entertainer""]",,,,,,,,0
+但,N1,"[""however"",""but""]",,,,,,,,0
+佐,N1,"[""assistant"",""help""]",,,,,,,,0
+佑,N1,"[""help"",""assist""]",,,,,,,,0
+佳,N1,"[""excellent"",""beautiful"",""good"",""pleasing"",""skilled""]",,,,,,,,0
+併,N1,"[""join"",""get together"",""unite"",""collective""]",,,,,,,,0
+侃,N1,"[""strong"",""just"",""righteous"",""peace-loving""]",,,,,,,,0
+侍,N1,"[""waiter"",""samurai"",""wait upon"",""serve""]",,,,,,,,0
+侑,N1,"[""urge to eat""]",,,,,,,,0
+価,N1,"[""value"",""price""]",,,,,,,,0
+侮,N1,"[""scorn"",""despise"",""make light of"",""contempt""]",,,,,,,,0
+侯,N1,"[""marquis"",""lord"",""daimyo""]",,,,,,,,0
+侵,N1,"[""encroach"",""invade"",""raid"",""trespass"",""violate""]",,,,,,,,0
+侶,N1,"[""companion"",""follower""]",,,,,,,,0
+促,N1,"[""stimulate"",""urge"",""press"",""demand"",""incite""]",,,,,,,,0
+俊,N1,"[""sagacious"",""genius"",""excellence""]",,,,,,,,0
+俗,N1,"[""vulgar"",""customs"",""manners"",""worldliness"",""mundane things""]",,,,,,,,0
+保,N1,"[""protect"",""guarantee"",""keep"",""preserve"",""sustain"",""support""]",,,,,,,,0
+修,N1,"[""discipline"",""conduct oneself well"",""study"",""master""]",,,,,,,,0
+俳,N1,"[""haiku"",""actor""]",,,,,,,,0
+俵,N1,"[""bag"",""bale"",""sack"",""counter for bags""]",,,,,,,,0
+俸,N1,"[""stipend"",""salary""]",,,,,,,,0
+俺,N1,"[""I"",""myself""]",,,,,,,,0
+倉,N1,"[""godown"",""warehouse"",""storehouse"",""cellar"",""treasury""]",,,,,,,,0
+倖,N1,"[""happiness"",""luck""]",,,,,,,,0
+倣,N1,"[""emulate"",""imitate""]",,,,,,,,0
+倫,N1,"[""ethics"",""companion""]",,,,,,,,0
+倭,N1,"[""Yamato"",""ancient Japan""]",,,,,,,,0
+倹,N1,"[""frugal"",""economy"",""thrifty""]",,,,,,,,0
+偏,N1,"[""partial"",""side"",""left-side radical"",""inclining"",""biased""]",,,,,,,,0
+健,N1,"[""healthy"",""health"",""strength"",""persistence""]",,,,,,,,0
+偲,N1,"[""recollect"",""remember""]",,,,,,,,0
+偵,N1,"[""spy""]",,,,,,,,0
+偽,N1,"[""falsehood"",""lie"",""deceive"",""pretend"",""counterfeit"",""forgery""]",,,,,,,,0
+傍,N1,"[""bystander"",""side"",""besides"",""while"",""nearby"",""third person""]",,,,,,,,0
+傑,N1,"[""greatness"",""excellence""]",,,,,,,,0
+傘,N1,"[""umbrella""]",,,,,,,,0
+催,N1,"[""sponsor"",""hold (a meeting)"",""give (a dinner)""]",,,,,,,,0
+傲,N1,"[""be proud""]",,,,,,,,0
+債,N1,"[""bond"",""loan"",""debt""]",,,,,,,,0
+傷,N1,"[""wound"",""hurt"",""injure"",""impair"",""pain"",""injury"",""cut"",""gash"",""scar"",""weak point""]",,,,,,,,0
+僕,N1,"[""me"",""I (male)"",""servant"",""manservant""]",,,,,,,,0
+僚,N1,"[""colleague"",""official"",""companion""]",,,,,,,,0
+僧,N1,"[""Buddhist priest"",""monk""]",,,,,,,,0
+儀,N1,"[""ceremony"",""rule"",""affair"",""case"",""a matter""]",,,,,,,,0
+儒,N1,"[""Confucian""]",,,,,,,,0
+償,N1,"[""reparation"",""make up for"",""recompense"",""redeem""]",,,,,,,,0
+允,N1,"[""license"",""sincerity"",""permit""]",,,,,,,,0
+充,N1,"[""allot"",""fill""]",,,,,,,,0
+克,N1,"[""overcome"",""kindly"",""skillfully""]",,,,,,,,0
+免,N1,"[""excuse"",""dismissal""]",,,,,,,,0
+典,N1,"[""code"",""ceremony"",""law"",""rule""]",,,,,,,,0
+兼,N1,"[""concurrently"",""and"",""beforehand"",""in advance""]",,,,,,,,0
+冒,N1,"[""risk"",""face"",""defy"",""dare"",""damage"",""assume (a name)""]",,,,,,,,0
+冗,N1,"[""superfluous"",""uselessness""]",,,,,,,,0
+冠,N1,"[""crown"",""best"",""peerless""]",,,,,,,,0
+冥,N1,"[""dark""]",,,,,,,,0
+冴,N1,"[""be clear"",""serene"",""cold"",""skilful""]",,,,,,,,0
+冶,N1,"[""melting"",""smelting""]",,,,,,,,0
+准,N1,"[""quasi-"",""semi-"",""associate""]",,,,,,,,0
+凌,N1,"[""endure"",""keep (rain)out"",""stave off"",""tide over"",""defy"",""slight"",""surpass""]",,,,,,,,0
+凜,N1,"[""cold"",""strict"",""severe""]",,,,,,,,0
+凝,N1,"[""congeal"",""freeze"",""stiff"",""be absorbed in""]",,,,,,,,0
+凡,N1,"[""commonplace"",""ordinary"",""mediocre""]",,,,,,,,0
+凪,N1,"[""lull"",""calm"",""(kokuji)""]",,,,,,,,0
+凱,N1,"[""victory song""]",,,,,,,,0
+凶,N1,"[""villain"",""evil"",""bad luck"",""disaster""]",,,,,,,,0
+凸,N1,"[""convex"",""beetle brow"",""uneven""]",,,,,,,,0
+凹,N1,"[""concave"",""hollow"",""sunken""]",,,,,,,,0
+刀,N1,"[""sword"",""saber"",""knife""]",,,,,,,,0
+刃,N1,"[""blade"",""sword"",""edge""]",,,,,,,,0
+刈,N1,"[""reap"",""cut"",""clip"",""trim"",""prune""]",,,,,,,,0
+刑,N1,"[""punish"",""penalty"",""sentence"",""punishment""]",,,,,,,,0
+刹,N1,"[""temple""]",,,,,,,,0
+削,N1,"[""plane"",""sharpen"",""whittle"",""pare"",""shave""]",,,,,,,,0
+剖,N1,"[""divide""]",,,,,,,,0
+剛,N1,"[""sturdy"",""strength""]",,,,,,,,0
+剝,N1,"[""come off"",""peel"",""fade"",""discolor""]",,,,,,,,0
+剣,N1,"[""sabre"",""sword"",""blade"",""clock hand""]",,,,,,,,0
+剤,N1,"[""dose"",""medicine"",""drug""]",,,,,,,,0
+剰,N1,"[""surplus"",""besides""]",,,,,,,,0
+創,N1,"[""genesis"",""wound"",""injury"",""hurt"",""start"",""originate""]",,,,,,,,0
+功,N1,"[""achievement"",""merits"",""success"",""honor"",""credit""]",,,,,,,,0
+劣,N1,"[""inferiority"",""be inferior to"",""be worse""]",,,,,,,,0
+励,N1,"[""encourage"",""be diligent"",""inspire""]",,,,,,,,0
+劾,N1,"[""censure"",""criminal investigation""]",,,,,,,,0
+勁,N1,"[""strong""]",,,,,,,,0
+勃,N1,"[""suddenness"",""rise""]",,,,,,,,0
+勅,N1,"[""imperial order""]",,,,,,,,0
+勘,N1,"[""intuition"",""perception"",""check"",""compare"",""sixth sense""]",,,,,,,,0
+勧,N1,"[""persuade"",""recommend"",""advise"",""encourage"",""offer""]",,,,,,,,0
+勲,N1,"[""meritorious deed"",""merit""]",,,,,,,,0
+勺,N1,"[""ladle"",""one tenth of a go"",""dip""]",,,,,,,,0
+勾,N1,"[""be bent"",""slope"",""capture""]",,,,,,,,0
+匁,N1,"[""monme"",""3.75 grams"",""(kokuji)""]",,,,,,,,0
+匠,N1,"[""artisan"",""workman"",""carpenter""]",,,,,,,,0
+匡,N1,"[""correct"",""save"",""assist""]",,,,,,,,0
+匿,N1,"[""hide"",""shelter"",""shield""]",,,,,,,,0
+升,N1,"[""measuring box"",""1.8 liter""]",,,,,,,,0
+卑,N1,"[""lowly"",""base"",""vile"",""vulgar"",""despise""]",,,,,,,,0
+卓,N1,"[""eminent"",""table"",""desk"",""high""]",,,,,,,,0
+博,N1,"[""Dr."",""command"",""esteem"",""win acclaim"",""Ph.D."",""exposition"",""fair""]",,,,,,,,0
+卯,N1,"[""sign of the hare or rabbit"",""fourth sign of Chinese zodiac"",""5-7AM"",""east""]",,,,,,,,0
+即,N1,"[""instant"",""namely"",""as is"",""conform"",""agree"",""adapt""]",,,,,,,,0
+却,N1,"[""instead"",""on the contrary"",""rather"",""step back"",""withdraw"",""retreat""]",,,,,,,,0
+卸,N1,"[""wholesale""]",,,,,,,,0
+厄,N1,"[""unlucky"",""misfortune"",""bad luck"",""disaster""]",,,,,,,,0
+厘,N1,"[""rin"",""1/10 sen"",""1/10 bu""]",,,,,,,,0
+厳,N1,"[""stern"",""strictness"",""severity"",""rigidity""]",,,,,,,,0
+又,N1,"[""or again"",""furthermore"",""on the other hand""]",,,,,,,,0
+及,N1,"[""reach out"",""exert"",""exercise"",""cause""]",,,,,,,,0
+叔,N1,"[""uncle"",""youth""]",,,,,,,,0
+叙,N1,"[""confer"",""relate"",""narrate"",""describe""]",,,,,,,,0
+叡,N1,"[""intelligence"",""imperial""]",,,,,,,,0
+句,N1,"[""phrase"",""clause"",""sentence"",""passage"",""paragraph"",""counter for haiku""]",,,,,,,,0
+只,N1,"[""only"",""free"",""in addition""]",,,,,,,,0
+叶,N1,"[""grant"",""answer""]",,,,,,,,0
+司,N1,"[""director"",""official"",""govt office"",""rule"",""administer""]",,,,,,,,0
+吉,N1,"[""good luck"",""joy"",""congratulations""]",,,,,,,,0
+后,N1,"[""empress"",""queen"",""after"",""behind"",""back"",""later""]",,,,,,,,0
+吏,N1,"[""officer"",""an official""]",,,,,,,,0
+吐,N1,"[""spit"",""vomit"",""belch"",""confess"",""tell (lies)""]",,,,,,,,0
+吟,N1,"[""versify"",""singing"",""recital""]",,,,,,,,0
+呂,N1,"[""spine"",""backbone""]",,,,,,,,0
+呈,N1,"[""display"",""offer"",""present"",""send"",""exhibit""]",,,,,,,,0
+呉,N1,"[""give"",""do something for"",""kingdom of Wu""]",,,,,,,,0
+呪,N1,"[""spell"",""curse"",""charm"",""malediction""]",,,,,,,,0
+咽,N1,"[""throat"",""choked"",""smothered"",""stuffy""]",,,,,,,,0
+哀,N1,"[""pathetic"",""grief"",""sorrow"",""pathos"",""pity"",""sympathize""]",,,,,,,,0
+哉,N1,"[""how"",""what"",""alas"",""question mark"",""exclamation mark""]",,,,,,,,0
+哲,N1,"[""philosophy"",""clear""]",,,,,,,,0
+哺,N1,"[""nurse"",""suckle""]",,,,,,,,0
+唄,N1,"[""song"",""ballad""]",,,,,,,,0
+唆,N1,"[""tempt"",""seduce"",""instigate"",""promote""]",,,,,,,,0
+唇,N1,"[""lips""]",,,,,,,,0
+唐,N1,"[""T'ang"",""China"",""foreign""]",,,,,,,,0
+唯,N1,"[""solely"",""only"",""merely"",""simply""]",,,,,,,,0
+唱,N1,"[""chant"",""recite"",""call upon"",""yell""]",,,,,,,,0
+唾,N1,"[""saliva"",""sputum""]",,,,,,,,0
+啄,N1,"[""peck"",""pick up""]",,,,,,,,0
+啓,N1,"[""disclose"",""open"",""say""]",,,,,,,,0
+善,N1,"[""virtuous"",""good"",""goodness""]",,,,,,,,0
+喉,N1,"[""throat"",""voice""]",,,,,,,,0
+喚,N1,"[""yell"",""cry"",""call"",""scream"",""summon""]",,,,,,,,0
+喝,N1,"[""hoarse"",""scold""]",,,,,,,,0
+喩,N1,"[""metaphor"",""compare""]",,,,,,,,0
+喪,N1,"[""miss"",""mourning""]",,,,,,,,0
+喬,N1,"[""high"",""boasting""]",,,,,,,,0
+嗣,N1,"[""heir"",""succeed""]",,,,,,,,0
+嘆,N1,"[""sigh"",""lament"",""moan"",""grieve"",""sigh of admiration""]",,,,,,,,0
+嘉,N1,"[""applaud"",""praise"",""esteem"",""happy"",""auspicious""]",,,,,,,,0
+嘱,N1,"[""entrust"",""request"",""send a message""]",,,,,,,,0
+嘲,N1,"[""ridicule"",""insult""]",,,,,,,,0
+器,N1,"[""utensil"",""vessel"",""receptacle"",""implement"",""instrument"",""ability"",""container"",""tool"",""set""]",,,,,,,,0
+噴,N1,"[""erupt"",""spout"",""emit"",""flush out""]",,,,,,,,0
+嚇,N1,"[""menacing"",""dignity"",""majesty"",""threaten""]",,,,,,,,0
+囚,N1,"[""captured"",""criminal"",""arrest"",""catch""]",,,,,,,,0
+圏,N1,"[""sphere"",""circle"",""radius"",""range""]",,,,,,,,0
+圭,N1,"[""square jewel"",""corner"",""angle"",""edge""]",,,,,,,,0
+坑,N1,"[""pit"",""hole""]",,,,,,,,0
+坪,N1,"[""two-mat area"",""approx. thirty-six sq ft""]",,,,,,,,0
+垂,N1,"[""droop"",""suspend"",""hang"",""slouch""]",,,,,,,,0
+垣,N1,"[""hedge"",""fence"",""wall""]",,,,,,,,0
+執,N1,"[""tenacious"",""take hold"",""grasp"",""take to heart""]",,,,,,,,0
+培,N1,"[""cultivate"",""foster""]",,,,,,,,0
+基,N1,"[""fundamentals"",""radical (chem)"",""counter for machines"",""foundation""]",,,,,,,,0
+埼,N1,"[""cape"",""spit"",""promontory""]",,,,,,,,0
+堀,N1,"[""ditch"",""moat"",""canal""]",,,,,,,,0
+堅,N1,"[""strict"",""hard"",""solid"",""tough"",""tight"",""reliable""]",,,,,,,,0
+堆,N1,"[""piled high""]",,,,,,,,0
+堕,N1,"[""degenerate"",""descend to"",""lapse into""]",,,,,,,,0
+堤,N1,"[""dike"",""bank"",""embankment""]",,,,,,,,0
+堪,N1,"[""withstand"",""endure"",""support"",""resist""]",,,,,,,,0
+塀,N1,"[""fence"",""wall"",""(kokuji)""]",,,,,,,,0
+塁,N1,"[""bases"",""fort"",""rampart"",""walls"",""base(ball)""]",,,,,,,,0
+塊,N1,"[""clod"",""lump"",""chunk"",""clot"",""mass""]",,,,,,,,0
+塑,N1,"[""model"",""molding""]",,,,,,,,0
+塚,N1,"[""hillock"",""mound""]",,,,,,,,0
+塡,N1,"[""fill in"",""fill up"",""make good""]",,,,,,,,0
+塾,N1,"[""cram school"",""private school""]",,,,,,,,0
+墓,N1,"[""grave"",""tomb""]",,,,,,,,0
+墜,N1,"[""crash"",""fall (down)""]",,,,,,,,0
+墨,N1,"[""black ink"",""India ink"",""ink stick"",""Mexico""]",,,,,,,,0
+墳,N1,"[""tomb"",""mound""]",,,,,,,,0
+墾,N1,"[""ground-breaking"",""open up farmland""]",,,,,,,,0
+壁,N1,"[""wall"",""lining (stomach)"",""fence""]",,,,,,,,0
+壇,N1,"[""podium"",""stage"",""rostrum"",""terrace""]",,,,,,,,0
+壊,N1,"[""demolition"",""break"",""destroy""]",,,,,,,,0
+壌,N1,"[""lot"",""earth"",""soil""]",,,,,,,,0
+士,N1,"[""gentleman"",""scholar"",""samurai"",""samurai radical (no. 33)""]",,,,,,,,0
+壮,N1,"[""robust"",""manhood"",""prosperity""]",,,,,,,,0
+壱,N1,"[""one (in documents)""]",,,,,,,,0
+奇,N1,"[""strange"",""strangeness"",""curiosity""]",,,,,,,,0
+奈,N1,"[""Nara"",""what?""]",,,,,,,,0
+奉,N1,"[""observance"",""offer"",""present"",""dedicate""]",,,,,,,,0
+奎,N1,"[""star"",""god of literature""]",,,,,,,,0
+奏,N1,"[""play music"",""speak to a ruler"",""complete""]",,,,,,,,0
+契,N1,"[""pledge"",""promise"",""vow""]",,,,,,,,0
+奔,N1,"[""run"",""bustle""]",,,,,,,,0
+奨,N1,"[""exhort"",""urge"",""encourage""]",,,,,,,,0
+奪,N1,"[""rob"",""take by force"",""snatch away"",""dispossess"",""plunder"",""usurp""]",,,,,,,,0
+奮,N1,"[""stirred up"",""be invigorated"",""flourish""]",,,,,,,,0
+奴,N1,"[""guy"",""slave"",""manservant"",""fellow""]",,,,,,,,0
+如,N1,"[""likeness"",""like"",""such as"",""as if"",""better"",""best"",""equal""]",,,,,,,,0
+妃,N1,"[""queen"",""princess""]",,,,,,,,0
+妄,N1,"[""delusion"",""unnecessarily"",""without authority"",""reckless""]",,,,,,,,0
+妊,N1,"[""pregnancy""]",,,,,,,,0
+妖,N1,"[""attractive"",""bewitching"",""calamity""]",,,,,,,,0
+妙,N1,"[""exquisite"",""strange"",""queer"",""mystery"",""miracle"",""excellent"",""delicate"",""charming""]",,,,,,,,0
+妥,N1,"[""gentle"",""peace"",""satisfactory"",""appropriate""]",,,,,,,,0
+妨,N1,"[""disturb"",""prevent"",""hamper"",""obstruct""]",,,,,,,,0
+妬,N1,"[""jealous"",""envy""]",,,,,,,,0
+姫,N1,"[""princess""]",,,,,,,,0
+姻,N1,"[""matrimony"",""marry""]",,,,,,,,0
+姿,N1,"[""figure"",""form"",""shape""]",,,,,,,,0
+威,N1,"[""intimidate"",""dignity"",""majesty"",""menace"",""threaten""]",,,,,,,,0
+娠,N1,"[""with child"",""pregnancy""]",,,,,,,,0
+娯,N1,"[""recreation"",""pleasure""]",,,,,,,,0
+婆,N1,"[""old woman"",""grandma"",""wet nurse""]",,,,,,,,0
+婿,N1,"[""bridegroom"",""son-in-law""]",,,,,,,,0
+媒,N1,"[""mediator"",""go-between""]",,,,,,,,0
+媛,N1,"[""beautiful woman"",""princess""]",,,,,,,,0
+嫁,N1,"[""marry into"",""bride""]",,,,,,,,0
+嫉,N1,"[""jealous"",""envy""]",,,,,,,,0
+嫌,N1,"[""dislike"",""detest"",""hate""]",,,,,,,,0
+嫡,N1,"[""legitimate wife"",""direct descent (non-bastard)""]",,,,,,,,0
+嬉,N1,"[""glad"",""pleased"",""rejoice""]",,,,,,,,0
+嬢,N1,"[""lass"",""girl"",""Miss"",""daughter""]",,,,,,,,0
+孔,N1,"[""cavity"",""hole"",""slit"",""very"",""great"",""exceedingly""]",,,,,,,,0
+孟,N1,"[""chief"",""beginning""]",,,,,,,,0
+孤,N1,"[""orphan"",""alone""]",,,,,,,,0
+宏,N1,"[""wide"",""large""]",,,,,,,,0
+宗,N1,"[""religion"",""sect"",""denomination"",""main point"",""origin"",""essence""]",,,,,,,,0
+宙,N1,"[""mid-air"",""air"",""space"",""sky"",""memorization"",""interval of time""]",,,,,,,,0
+宜,N1,"[""best regards"",""good""]",,,,,,,,0
+宣,N1,"[""proclaim"",""say"",""announce""]",,,,,,,,0
+宥,N1,"[""soothe"",""calm"",""pacify""]",,,,,,,,0
+宮,N1,"[""Shinto shrine"",""constellations"",""palace"",""princess""]",,,,,,,,0
+宰,N1,"[""superintend"",""manager"",""rule""]",,,,,,,,0
+宴,N1,"[""banquet"",""feast"",""party""]",,,,,,,,0
+宵,N1,"[""wee hours"",""evening"",""early night""]",,,,,,,,0
+寂,N1,"[""loneliness"",""quietly"",""mellow"",""mature"",""death of a priest""]",,,,,,,,0
+寅,N1,"[""sign of the tiger"",""3-5AM"",""third sign of Chinese zodiac""]",,,,,,,,0
+密,N1,"[""secrecy"",""density (pop)"",""minuteness"",""carefulness""]",,,,,,,,0
+寛,N1,"[""tolerant"",""leniency"",""generosity"",""relax"",""feel at home"",""be at ease"",""broadminded""]",,,,,,,,0
+寡,N1,"[""widow"",""minority"",""few""]",,,,,,,,0
+寧,N1,"[""rather"",""preferably"",""peaceful"",""quiet"",""tranquility""]",,,,,,,,0
+審,N1,"[""hearing"",""judge"",""trial""]",,,,,,,,0
+寮,N1,"[""dormitory"",""hostel"",""villa"",""tea pavillion""]",,,,,,,,0
+寸,N1,"[""measurement"",""tenth of a shaku"",""a little"",""small""]",,,,,,,,0
+射,N1,"[""shoot"",""shine into"",""onto"",""archery""]",,,,,,,,0
+尉,N1,"[""military officer"",""jailer"",""old man"",""rank""]",,,,,,,,0
+尋,N1,"[""inquire"",""fathom"",""look for""]",,,,,,,,0
+尚,N1,"[""esteem"",""furthermore"",""still"",""yet""]",,,,,,,,0
+尭,N1,"[""high"",""far""]",,,,,,,,0
+就,N1,"[""concerning"",""settle"",""take position"",""depart"",""study"",""per""]",,,,,,,,0
+尺,N1,"[""shaku"",""Japanese foot"",""measure"",""scale"",""rule""]",,,,,,,,0
+尼,N1,"[""nun""]",,,,,,,,0
+尽,N1,"[""exhaust"",""use up"",""run out of"",""deplete"",""befriend"",""serve""]",,,,,,,,0
+尾,N1,"[""tail"",""end"",""counter for fish"",""lower slope of mountain""]",,,,,,,,0
+尿,N1,"[""urine""]",,,,,,,,0
+屈,N1,"[""yield"",""bend"",""flinch"",""submit""]",,,,,,,,0
+展,N1,"[""unfold"",""expand""]",,,,,,,,0
+属,N1,"[""belong"",""genus"",""subordinate official"",""affiliated""]",,,,,,,,0
+履,N1,"[""perform"",""complete"",""footgear"",""shoes"",""boots"",""put on (the feet)""]",,,,,,,,0
+屯,N1,"[""barracks"",""police station"",""camp"",""ton""]",,,,,,,,0
+岐,N1,"[""branch off"",""fork in road"",""scene"",""arena"",""theater""]",,,,,,,,0
+岡,N1,"[""mount"",""hill"",""knoll""]",,,,,,,,0
+岬,N1,"[""headland"",""cape"",""spit"",""promontory""]",,,,,,,,0
+岳,N1,"[""point"",""peak"",""mountain""]",,,,,,,,0
+峠,N1,"[""mountain peak"",""mountain pass"",""climax"",""crest"",""(kokuji)""]",,,,,,,,0
+峡,N1,"[""gorge"",""ravine""]",,,,,,,,0
+峰,N1,"[""summit"",""peak""]",,,,,,,,0
+峻,N1,"[""high"",""steep""]",,,,,,,,0
+崇,N1,"[""adore"",""respect"",""revere"",""worship""]",,,,,,,,0
+崎,N1,"[""promontory"",""cape"",""spit""]",,,,,,,,0
+崖,N1,"[""cliff"",""bluff"",""precipice""]",,,,,,,,0
+崚,N1,"[""mountains towering in a row""]",,,,,,,,0
+崩,N1,"[""crumble"",""die"",""demolish"",""level""]",,,,,,,,0
+嵐,N1,"[""storm"",""tempest""]",,,,,,,,0
+嵩,N1,"[""be aggravated"",""grow worse"",""grow bulky"",""swell""]",,,,,,,,0
+嵯,N1,"[""steep"",""craggy"",""rugged""]",,,,,,,,0
+嶺,N1,"[""peak"",""summit""]",,,,,,,,0
+巌,N1,"[""rock"",""crag"",""boulder""]",,,,,,,,0
+巡,N1,"[""patrol"",""go around"",""circumference""]",,,,,,,,0
+巣,N1,"[""nest"",""rookery"",""hive"",""cobweb"",""den""]",,,,,,,,0
+巧,N1,"[""adroit"",""skilled"",""ingenuity""]",,,,,,,,0
+己,N1,"[""self""]",,,,,,,,0
+巳,N1,"[""sign of the snake or serpent"",""9-11AM"",""sixth sign of Chinese zodiac""]",,,,,,,,0
+巴,N1,"[""comma-design""]",,,,,,,,0
+巽,N1,"[""southeast""]",,,,,,,,0
+帆,N1,"[""sail""]",,,,,,,,0
+帝,N1,"[""sovereign"",""the emperor"",""god"",""creator""]",,,,,,,,0
+帥,N1,"[""commander"",""leading troops"",""governor""]",,,,,,,,0
+帳,N1,"[""notebook"",""account book"",""album"",""curtain"",""veil"",""net"",""tent""]",,,,,,,,0
+幕,N1,"[""curtain"",""bunting"",""act of play""]",,,,,,,,0
+幣,N1,"[""cash"",""bad habit"",""humble prefix"",""gift"",""Shinto offerings of cloth"",""rope"",""cut paper""]",,,,,,,,0
+幹,N1,"[""tree trunk"",""main part"",""talent"",""capability""]",,,,,,,,0
+幻,N1,"[""phantasm"",""vision"",""dream"",""illusion"",""apparition""]",,,,,,,,0
+幽,N1,"[""seclude"",""confine to a room"",""deep"",""profound"",""secluded"",""faint"",""dark"",""tranquil"",""calm""]",,,,,,,,0
+庄,N1,"[""level"",""in the country"",""manor"",""village"",""hamlet""]",,,,,,,,0
+序,N1,"[""preface"",""beginning"",""order"",""precedence"",""occasion"",""chance"",""incidentally""]",,,,,,,,0
+庶,N1,"[""commoner"",""all"",""bastard""]",,,,,,,,0
+康,N1,"[""ease"",""peace""]",,,,,,,,0
+庸,N1,"[""commonplace"",""ordinary"",""employment""]",,,,,,,,0
+廃,N1,"[""abolish"",""obsolete"",""cessation"",""discarding"",""abandon""]",,,,,,,,0
+廉,N1,"[""bargain"",""reason"",""charge"",""suspicion"",""point"",""account"",""purity"",""honest"",""low price"",""cheap"",""rested"",""contented"",""peaceful""]",,,,,,,,0
+廊,N1,"[""corridor"",""hall"",""tower""]",,,,,,,,0
+廷,N1,"[""courts"",""imperial court"",""government office""]",,,,,,,,0
+弁,N1,"[""valve"",""petal"",""braid"",""speech"",""dialect"",""discrimination"",""dispose of"",""distinguish"",""conical cap""]",,,,,,,,0
+弄,N1,"[""play with"",""tamper"",""trifle with""]",,,,,,,,0
+弊,N1,"[""abuse"",""evil"",""vice"",""breakage""]",,,,,,,,0
+弐,N1,"[""II"",""two"",""second""]",,,,,,,,0
+弓,N1,"[""bow"",""bow (archery, violin)""]",,,,,,,,0
+弔,N1,"[""condolences"",""mourning"",""funeral""]",,,,,,,,0
+弘,N1,"[""vast"",""broad"",""wide""]",,,,,,,,0
+弥,N1,"[""all the more"",""increasingly""]",,,,,,,,0
+弦,N1,"[""bowstring"",""chord"",""hypotenuse""]",,,,,,,,0
+弧,N1,"[""arc"",""arch"",""bow""]",,,,,,,,0
+張,N1,"[""counter for bows & stringed instruments"",""stretch"",""spread"",""put up (tent)""]",,,,,,,,0
+弾,N1,"[""bullet"",""twang"",""flip"",""snap""]",,,,,,,,0
+彗,N1,"[""comet"",""broom""]",,,,,,,,0
+彙,N1,"[""same kind"",""collect"",""classify"",""category"",""hedgehog""]",,,,,,,,0
+彦,N1,"[""lad"",""boy"",""fine young man""]",,,,,,,,0
+彩,N1,"[""coloring"",""paint"",""makeup""]",,,,,,,,0
+彪,N1,"[""spotted"",""mottled"",""patterned"",""small tiger""]",,,,,,,,0
+彫,N1,"[""carve"",""engrave"",""chisel""]",,,,,,,,0
+彬,N1,"[""refined"",""gentle""]",,,,,,,,0
+彰,N1,"[""patent"",""clear""]",,,,,,,,0
+影,N1,"[""shadow"",""silhouette"",""phantom""]",,,,,,,,0
+往,N1,"[""journey"",""travel"",""chase away"",""let go"",""going"",""before"",""formerly""]",,,,,,,,0
+征,N1,"[""subjugate"",""attack the rebellious"",""collect taxes""]",,,,,,,,0
+径,N1,"[""diameter"",""path"",""method""]",,,,,,,,0
+徐,N1,"[""gradually"",""slowly"",""deliberately"",""gently""]",,,,,,,,0
+従,N1,"[""accompany"",""obey"",""submit to"",""comply"",""follow"",""secondary"",""incidental"",""subordinate""]",,,,,,,,0
+循,N1,"[""sequential"",""follow""]",,,,,,,,0
+微,N1,"[""delicate"",""minuteness"",""insignificance""]",,,,,,,,0
+徳,N1,"[""benevolence"",""virtue"",""goodness"",""commanding respect""]",,,,,,,,0
+徴,N1,"[""indications"",""sign"",""omen"",""symptom"",""collect"",""seek"",""refer to"",""question""]",,,,,,,,0
+徹,N1,"[""penetrate"",""clear"",""pierce"",""strike home"",""sit up (all night)""]",,,,,,,,0
+忌,N1,"[""mourning"",""abhor"",""detestable"",""death anniversary""]",,,,,,,,0
+忍,N1,"[""endure"",""bear"",""put up with"",""conceal"",""secrete"",""spy"",""sneak""]",,,,,,,,0
+志,N1,"[""intention"",""plan"",""resolve"",""aspire"",""motive"",""hopes"",""shilling""]",,,,,,,,0
+応,N1,"[""apply"",""answer"",""yes"",""OK"",""reply"",""accept""]",,,,,,,,0
+忠,N1,"[""loyalty"",""fidelity"",""faithfulness""]",,,,,,,,0
+怜,N1,"[""wise""]",,,,,,,,0
+怠,N1,"[""neglect"",""laziness""]",,,,,,,,0
+怨,N1,"[""grudge"",""show resentment"",""be jealous""]",,,,,,,,0
+怪,N1,"[""suspicious"",""mystery"",""apparition""]",,,,,,,,0
+恒,N1,"[""constancy"",""always""]",,,,,,,,0
+恕,N1,"[""excuse"",""tolerate"",""forgive""]",,,,,,,,0
+恣,N1,"[""selfish"",""arbitrary""]",,,,,,,,0
+恨,N1,"[""regret"",""bear a grudge"",""resentment"",""malice"",""hatred""]",,,,,,,,0
+恩,N1,"[""grace"",""kindness"",""goodness"",""favor"",""mercy"",""blessing"",""benefit""]",,,,,,,,0
+恭,N1,"[""respect"",""reverent""]",,,,,,,,0
+恵,N1,"[""favor"",""blessing"",""grace"",""kindness""]",,,,,,,,0
+悌,N1,"[""serving our elders""]",,,,,,,,0
+悔,N1,"[""repent"",""regret""]",,,,,,,,0
+悟,N1,"[""enlightenment"",""perceive"",""discern"",""realize"",""understand""]",,,,,,,,0
+悠,N1,"[""permanence"",""distant"",""long time"",""leisure""]",,,,,,,,0
+悦,N1,"[""ecstasy"",""joy"",""rapture""]",,,,,,,,0
+悼,N1,"[""lament"",""grieve over""]",,,,,,,,0
+惇,N1,"[""sincere"",""kind"",""considerate""]",,,,,,,,0
+惑,N1,"[""beguile"",""delusion"",""perplexity""]",,,,,,,,0
+惜,N1,"[""pity"",""be sparing of"",""frugal"",""stingy"",""regret""]",,,,,,,,0
+惟,N1,"[""consider"",""reflect"",""think""]",,,,,,,,0
+惣,N1,"[""all""]",,,,,,,,0
+惧,N1,"[""fear"",""be afraid of"",""dread""]",,,,,,,,0
+惨,N1,"[""wretched"",""disaster"",""cruelty"",""harsh""]",,,,,,,,0
+惰,N1,"[""lazy"",""laziness""]",,,,,,,,0
+愁,N1,"[""distress"",""grieve"",""lament"",""be anxious""]",,,,,,,,0
+愉,N1,"[""pleasure"",""happy"",""rejoice""]",,,,,,,,0
+愚,N1,"[""foolish"",""folly"",""absurdity"",""stupid""]",,,,,,,,0
+慄,N1,"[""fear""]",,,,,,,,0
+慈,N1,"[""mercy""]",,,,,,,,0
+態,N1,"[""attitude"",""condition"",""figure"",""appearance"",""voice (of verbs)""]",,,,,,,,0
+慌,N1,"[""disconcerted"",""be confused"",""lose one's head""]",,,,,,,,0
+慎,N1,"[""humility"",""be careful"",""discreet"",""prudent""]",,,,,,,,0
+慕,N1,"[""pining"",""yearn for"",""love dearly"",""adore""]",,,,,,,,0
+慢,N1,"[""ridicule"",""laziness""]",,,,,,,,0
+慧,N1,"[""wise""]",,,,,,,,0
+慨,N1,"[""rue"",""be sad"",""sigh"",""lament""]",,,,,,,,0
+慮,N1,"[""prudence"",""thought"",""concern"",""consider"",""deliberate"",""fear""]",,,,,,,,0
+慰,N1,"[""consolation"",""amusement"",""seduce"",""cheer"",""make sport of"",""comfort"",""console""]",,,,,,,,0
+慶,N1,"[""jubilation"",""congratulate"",""rejoice"",""be happy""]",,,,,,,,0
+憂,N1,"[""melancholy"",""grieve"",""lament"",""be anxious"",""sad"",""unhappy""]",,,,,,,,0
+憤,N1,"[""aroused"",""resent"",""be indignant"",""anger""]",,,,,,,,0
+憧,N1,"[""yearn after"",""long for"",""aspire to"",""admire"",""adore""]",,,,,,,,0
+憩,N1,"[""recess"",""rest"",""relax"",""repose""]",,,,,,,,0
+憬,N1,"[""yearn for"",""aspire to"",""admire""]",,,,,,,,0
+憲,N1,"[""constitution"",""law""]",,,,,,,,0
+憶,N1,"[""recollection"",""think"",""remember""]",,,,,,,,0
+憾,N1,"[""remorse"",""regret"",""be sorry""]",,,,,,,,0
+懇,N1,"[""sociable"",""kind"",""courteous"",""hospitable"",""cordial""]",,,,,,,,0
+懐,N1,"[""feelings"",""heart"",""yearn"",""miss someone"",""become attached to"",""bosom"",""breast"",""pocket""]",,,,,,,,0
+懲,N1,"[""penal"",""chastise"",""punish"",""discipline""]",,,,,,,,0
+懸,N1,"[""state of suspension"",""hang"",""depend"",""consult"",""distant"",""far apart""]",,,,,,,,0
+我,N1,"[""ego"",""I"",""selfish"",""our"",""oneself""]",,,,,,,,0
+戒,N1,"[""commandment""]",,,,,,,,0
+戯,N1,"[""frolic"",""play"",""sport""]",,,,,,,,0
+戴,N1,"[""be crowned with"",""live under (a ruler)"",""receive""]",,,,,,,,0
+房,N1,"[""tassel"",""tuft"",""fringe"",""bunch"",""lock (hair)"",""segment (orange)"",""house"",""room""]",,,,,,,,0
+扇,N1,"[""fan"",""folding fan""]",,,,,,,,0
+扉,N1,"[""front door"",""title page"",""front page""]",,,,,,,,0
+扱,N1,"[""handle"",""entertain"",""thresh"",""strip""]",,,,,,,,0
+扶,N1,"[""aid"",""help"",""assist""]",,,,,,,,0
+批,N1,"[""criticism"",""strike""]",,,,,,,,0
+抄,N1,"[""extract"",""selection"",""summary"",""copy"",""spread thin""]",,,,,,,,0
+把,N1,"[""grasp"",""faggot"",""bunch"",""counter for bundles""]",,,,,,,,0
+抑,N1,"[""repress"",""well"",""now"",""in the first place"",""push"",""shove"",""press"",""seal"",""do in spite of""]",,,,,,,,0
+抗,N1,"[""confront"",""resist"",""defy"",""oppose""]",,,,,,,,0
+択,N1,"[""choose"",""select"",""elect"",""prefer""]",,,,,,,,0
+披,N1,"[""expose"",""open""]",,,,,,,,0
+抵,N1,"[""resist"",""reach"",""touch""]",,,,,,,,0
+抹,N1,"[""rub"",""paint"",""erase""]",,,,,,,,0
+抽,N1,"[""pluck"",""pull"",""extract"",""excel""]",,,,,,,,0
+拉,N1,"[""Latin"",""kidnap"",""crush""]",,,,,,,,0
+拍,N1,"[""clap"",""beat (music)""]",,,,,,,,0
+拐,N1,"[""kidnap"",""falsify""]",,,,,,,,0
+拒,N1,"[""repel"",""refuse"",""reject"",""decline""]",,,,,,,,0
+拓,N1,"[""clear (the land)"",""open"",""break up (land)""]",,,,,,,,0
+拘,N1,"[""arrest"",""seize"",""concerned"",""adhere to"",""despite""]",,,,,,,,0
+拙,N1,"[""bungling"",""clumsy"",""unskillful""]",,,,,,,,0
+拠,N1,"[""foothold"",""based on"",""follow"",""therefore""]",,,,,,,,0
+拡,N1,"[""broaden"",""extend"",""expand"",""enlarge""]",,,,,,,,0
+括,N1,"[""fasten"",""tie up"",""arrest"",""constrict""]",,,,,,,,0
+拳,N1,"[""fist""]",,,,,,,,0
+拷,N1,"[""torture"",""beat""]",,,,,,,,0
+挑,N1,"[""challenge"",""contend for"",""make love to""]",,,,,,,,0
+挙,N1,"[""raise"",""plan"",""project"",""behavior"",""actions""]",,,,,,,,0
+挫,N1,"[""crush"",""break"",""sprain"",""discourage""]",,,,,,,,0
+振,N1,"[""shake"",""wave"",""wag"",""swing""]",,,,,,,,0
+挿,N1,"[""insert"",""put in"",""graft"",""wear (sword)""]",,,,,,,,0
+捉,N1,"[""catch"",""capture""]",,,,,,,,0
+捗,N1,"[""make progress""]",,,,,,,,0
+据,N1,"[""set"",""lay a foundation"",""install"",""equip"",""squat down"",""sit down""]",,,,,,,,0
+捷,N1,"[""victory"",""fast""]",,,,,,,,0
+捺,N1,"[""press"",""print"",""affix a seal"",""stamp""]",,,,,,,,0
+授,N1,"[""impart"",""instruct"",""grant"",""confer""]",,,,,,,,0
+掌,N1,"[""palm of hand"",""rule"",""administer"",""conduct""]",,,,,,,,0
+排,N1,"[""repudiate"",""exclude"",""expel"",""reject"",""line up"",""arrange""]",,,,,,,,0
+控,N1,"[""withdraw"",""draw in"",""hold back"",""refrain from"",""be moderate""]",,,,,,,,0
+推,N1,"[""conjecture"",""infer"",""guess"",""suppose"",""support"",""push (for)""]",,,,,,,,0
+措,N1,"[""set aside"",""give up"",""suspend"",""discontinue"",""lay aside"",""except""]",,,,,,,,0
+掲,N1,"[""put up (a notice)"",""put up"",""hoist"",""display"",""hang out"",""publish"",""describe""]",,,,,,,,0
+描,N1,"[""sketch"",""compose"",""write"",""draw"",""paint""]",,,,,,,,0
+提,N1,"[""propose"",""take along"",""carry in hand""]",,,,,,,,0
+揚,N1,"[""raise"",""elevate"",""hoist"",""praise"",""extol"",""fry in deep fat""]",,,,,,,,0
+握,N1,"[""grip"",""hold"",""mould sushi"",""bribe""]",,,,,,,,0
+揮,N1,"[""brandish"",""wave"",""wag"",""swing"",""shake""]",,,,,,,,0
+援,N1,"[""abet"",""help"",""save""]",,,,,,,,0
+揺,N1,"[""swing"",""shake"",""sway"",""rock"",""tremble"",""vibrate""]",,,,,,,,0
+搬,N1,"[""conveyor"",""carry"",""transport""]",,,,,,,,0
+搭,N1,"[""board"",""load (a vehicle)"",""ride""]",,,,,,,,0
+携,N1,"[""portable"",""carry (in hand)"",""armed with"",""bring along""]",,,,,,,,0
+搾,N1,"[""squeeze""]",,,,,,,,0
+摂,N1,"[""vicarious"",""surrogate"",""act in addition to"",""take in"",""absorb""]",,,,,,,,0
+摘,N1,"[""pinch"",""pick"",""pluck"",""trim"",""clip"",""summarize""]",,,,,,,,0
+摩,N1,"[""chafe"",""rub"",""polish"",""grind"",""scrape""]",,,,,,,,0
+摯,N1,"[""gift"",""seriousness""]",,,,,,,,0
+撃,N1,"[""beat"",""attack"",""defeat"",""conquer""]",,,,,,,,0
+撤,N1,"[""remove"",""withdraw"",""disarm"",""dismantle"",""reject"",""exclude""]",,,,,,,,0
+撮,N1,"[""snapshot"",""take pictures""]",,,,,,,,0
+撲,N1,"[""slap"",""strike"",""hit"",""beat"",""tell"",""speak""]",,,,,,,,0
+擁,N1,"[""hug"",""embrace"",""possess"",""protect"",""lead""]",,,,,,,,0
+操,N1,"[""maneuver"",""manipulate"",""operate"",""steer"",""chastity"",""virginity"",""fidelity""]",,,,,,,,0
+擦,N1,"[""grate"",""rub"",""scratch"",""scrape"",""chafe"",""scour""]",,,,,,,,0
+擬,N1,"[""mimic"",""aim (a gun) at"",""nominate"",""imitate""]",,,,,,,,0
+攻,N1,"[""aggression"",""attack"",""criticize"",""polish""]",,,,,,,,0
+故,N1,"[""happenstance"",""especially"",""intentionally"",""reason"",""cause"",""circumstances"",""the late"",""therefore"",""consequently""]",,,,,,,,0
+敏,N1,"[""cleverness"",""agile"",""alert""]",,,,,,,,0
+救,N1,"[""salvation"",""save"",""help"",""rescue"",""reclaim""]",,,,,,,,0
+敢,N1,"[""daring"",""brave"",""bold"",""sad"",""tragic"",""pitiful""]",,,,,,,,0
+敦,N1,"[""industry"",""kindliness""]",,,,,,,,0
+整,N1,"[""organize"",""arranging"",""tune"",""tone"",""meter"",""key (music)""]",,,,,,,,0
+敵,N1,"[""enemy"",""foe"",""opponent""]",,,,,,,,0
+敷,N1,"[""spread"",""pave"",""sit"",""promulgate""]",,,,,,,,0
+斉,N1,"[""adjusted"",""alike"",""equal"",""similar variety of""]",,,,,,,,0
+斎,N1,"[""purification"",""Buddhist food"",""room"",""worship"",""avoid"",""alike""]",,,,,,,,0
+斐,N1,"[""beautiful"",""patterned""]",,,,,,,,0
+斑,N1,"[""spot"",""blemish"",""speck"",""patches""]",,,,,,,,0
+斗,N1,"[""Big Dipper"",""ten sho (vol)"",""sake dipper"",""dots and cross radical (no. 68)""]",,,,,,,,0
+斜,N1,"[""diagonal"",""slanting"",""oblique""]",,,,,,,,0
+斤,N1,"[""axe"",""1.32 lb"",""catty"",""counter for loaves of bread"",""axe radical (no. 69)""]",,,,,,,,0
+斥,N1,"[""reject"",""retreat"",""recede"",""withdraw"",""repel"",""repulse""]",,,,,,,,0
+於,N1,"[""at"",""in"",""on"",""as for""]",,,,,,,,0
+施,N1,"[""give"",""bestow"",""perform"",""alms""]",,,,,,,,0
+旋,N1,"[""rotation"",""go around""]",,,,,,,,0
+旗,N1,"[""flag"",""banner"",""standard""]",,,,,,,,0
+既,N1,"[""previously"",""already"",""long ago""]",,,,,,,,0
+旦,N1,"[""daybreak"",""dawn"",""morning""]",,,,,,,,0
+旨,N1,"[""delicious"",""relish"",""show a liking for"",""purport"",""will"",""clever"",""expert""]",,,,,,,,0
+旬,N1,"[""decameron"",""ten-day period"",""season (for specific products)""]",,,,,,,,0
+旭,N1,"[""rising sun"",""morning sun""]",,,,,,,,0
+旺,N1,"[""flourishing"",""successful"",""beautiful"",""vigorous""]",,,,,,,,0
+昂,N1,"[""rise""]",,,,,,,,0
+昆,N1,"[""descendants"",""elder brother"",""insect""]",,,,,,,,0
+昌,N1,"[""prosperous"",""bright"",""clear""]",,,,,,,,0
+昧,N1,"[""dark"",""foolish""]",,,,,,,,0
+昭,N1,"[""shining"",""bright""]",,,,,,,,0
+是,N1,"[""just so"",""this"",""right"",""justice""]",,,,,,,,0
+昴,N1,"[""the Pleiades""]",,,,,,,,0
+晃,N1,"[""clear""]",,,,,,,,0
+晋,N1,"[""advance""]",,,,,,,,0
+晏,N1,"[""late"",""quiet"",""sets (sun)""]",,,,,,,,0
+晟,N1,"[""clear""]",,,,,,,,0
+晨,N1,"[""morning"",""early""]",,,,,,,,0
+晶,N1,"[""sparkle"",""clear"",""crystal""]",,,,,,,,0
+智,N1,"[""wisdom"",""intellect"",""reason""]",,,,,,,,0
+暁,N1,"[""daybreak"",""dawn"",""in the event""]",,,,,,,,0
+暇,N1,"[""spare time"",""rest"",""leisure"",""time"",""leave of absence""]",,,,,,,,0
+暉,N1,"[""shine"",""light""]",,,,,,,,0
+暑,N1,"[""sultry"",""hot"",""summer heat""]",,,,,,,,0
+暖,N1,"[""warmth""]",,,,,,,,0
+暢,N1,"[""stretch""]",,,,,,,,0
+暦,N1,"[""calendar"",""almanac""]",,,,,,,,0
+暫,N1,"[""temporarily"",""a while"",""moment"",""long time""]",,,,,,,,0
+曖,N1,"[""dark"",""not clear""]",,,,,,,,0
+曙,N1,"[""dawn"",""daybreak""]",,,,,,,,0
+曹,N1,"[""office"",""official"",""comrade"",""fellow""]",,,,,,,,0
+曽,N1,"[""formerly"",""once"",""before"",""ever"",""never"",""ex-""]",,,,,,,,0
+朋,N1,"[""companion"",""friend""]",,,,,,,,0
+朔,N1,"[""conjunction (astronomy)"",""first day of month"",""north""]",,,,,,,,0
+朕,N1,"[""majestic plural"",""imperial we""]",,,,,,,,0
+朗,N1,"[""melodious"",""clear"",""bright"",""serene"",""cheerful""]",,,,,,,,0
+朱,N1,"[""vermilion"",""cinnabar"",""scarlet"",""red"",""bloody""]",,,,,,,,0
+朴,N1,"[""crude"",""simple"",""plain"",""docile""]",,,,,,,,0
+朽,N1,"[""decay"",""rot"",""remain in seclusion""]",,,,,,,,0
+杉,N1,"[""cedar"",""cryptomeria""]",,,,,,,,0
+李,N1,"[""plum""]",,,,,,,,0
+杏,N1,"[""apricot""]",,,,,,,,0
+杜,N1,"[""woods"",""grove""]",,,,,,,,0
+条,N1,"[""article"",""clause"",""counter for articles, clauses, paragraphs, etc."",""twig"",""item"",""stripe"",""streak""]",,,,,,,,0
+松,N1,"[""pine tree""]",,,,,,,,0
+析,N1,"[""chop"",""divide"",""tear"",""analyze""]",,,,,,,,0
+枠,N1,"[""frame"",""framework"",""spindle"",""spool"",""bounding-box"",""(kokuji)""]",,,,,,,,0
+枢,N1,"[""hinge"",""pivot"",""door"",""center of things""]",,,,,,,,0
+架,N1,"[""erect"",""frame"",""mount"",""support"",""shelf"",""construct""]",,,,,,,,0
+柄,N1,"[""design"",""pattern"",""build"",""nature"",""character"",""handle"",""crank"",""grip"",""knob"",""shaft""]",,,,,,,,0
+柊,N1,"[""holly""]",,,,,,,,0
+某,N1,"[""so-and-so"",""one"",""a certain"",""that person""]",,,,,,,,0
+染,N1,"[""dye"",""color"",""paint"",""stain"",""print""]",,,,,,,,0
+柚,N1,"[""citron""]",,,,,,,,0
+柳,N1,"[""willow""]",,,,,,,,0
+柵,N1,"[""stockade"",""fence"",""weir"",""entwine around""]",,,,,,,,0
+柾,N1,"[""straight grain"",""spindle tree"",""(kokuji)""]",,,,,,,,0
+柿,N1,"[""persimmon""]",,,,,,,,0
+栃,N1,"[""horse chestnut"",""(kokuji)""]",,,,,,,,0
+栓,N1,"[""plug"",""bolt"",""cork"",""bung"",""stopper""]",,,,,,,,0
+栗,N1,"[""chestnut""]",,,,,,,,0
+栞,N1,"[""bookmark"",""guidebook""]",,,,,,,,0
+株,N1,"[""stocks"",""stump"",""shares"",""stock"",""counter for small plants""]",,,,,,,,0
+核,N1,"[""nucleus"",""core"",""kernel""]",,,,,,,,0
+栽,N1,"[""plantation"",""planting""]",,,,,,,,0
+桂,N1,"[""Japanese Judas-tree"",""cinnamon tree""]",,,,,,,,0
+桃,N1,"[""peach""]",,,,,,,,0
+案,N1,"[""plan"",""suggestion"",""draft"",""ponder"",""fear"",""proposition"",""idea"",""expectation"",""worry"",""table"",""bench""]",,,,,,,,0
+桐,N1,"[""paulownia""]",,,,,,,,0
+桑,N1,"[""mulberry""]",,,,,,,,0
+桜,N1,"[""cherry""]",,,,,,,,0
+桟,N1,"[""scaffold"",""cleat"",""frame"",""jetty"",""bolt (door)""]",,,,,,,,0
+梅,N1,"[""plum""]",,,,,,,,0
+梓,N1,"[""catalpa tree"",""woodblock printing""]",,,,,,,,0
+梗,N1,"[""for the most part"",""close up"",""flower stem""]",,,,,,,,0
+梢,N1,"[""treetops"",""twig""]",,,,,,,,0
+梧,N1,"[""Chinese parasol tree"",""phoenix tree""]",,,,,,,,0
+梨,N1,"[""pear tree""]",,,,,,,,0
+棄,N1,"[""abandon"",""throw away"",""discard"",""resign"",""reject"",""sacrifice""]",,,,,,,,0
+棋,N1,"[""chess piece"",""Japanese chess"",""shogi""]",,,,,,,,0
+棚,N1,"[""shelf"",""ledge"",""rack"",""mount"",""mantle"",""trellis""]",,,,,,,,0
+棟,N1,"[""ridgepole"",""ridge""]",,,,,,,,0
+棺,N1,"[""coffin"",""casket""]",,,,,,,,0
+椅,N1,"[""chair""]",,,,,,,,0
+椋,N1,"[""type of deciduous tree"",""grey starling""]",,,,,,,,0
+椎,N1,"[""chinquapin"",""mallet"",""spine""]",,,,,,,,0
+検,N1,"[""examination"",""investigate""]",,,,,,,,0
+椰,N1,"[""coconut tree""]",,,,,,,,0
+椿,N1,"[""camellia""]",,,,,,,,0
+楊,N1,"[""willow""]",,,,,,,,0
+楓,N1,"[""maple""]",,,,,,,,0
+楠,N1,"[""camphor tree""]",,,,,,,,0
+楷,N1,"[""square character style"",""correctness""]",,,,,,,,0
+楼,N1,"[""watchtower"",""lookout"",""high building""]",,,,,,,,0
+概,N1,"[""outline"",""condition"",""approximation"",""generally""]",,,,,,,,0
+榛,N1,"[""hazelnut"",""filbert""]",,,,,,,,0
+槙,N1,"[""twig"",""ornamental evergreen""]",,,,,,,,0
+槻,N1,"[""Zelkova tree""]",,,,,,,,0
+槽,N1,"[""vat"",""tub"",""tank""]",,,,,,,,0
+標,N1,"[""signpost"",""seal"",""mark"",""stamp"",""imprint"",""symbol"",""emblem"",""trademark"",""evidence"",""souvenir"",""target""]",,,,,,,,0
+模,N1,"[""imitation"",""copy"",""mock""]",,,,,,,,0
+樹,N1,"[""timber"",""trees"",""wood"",""establish"",""set up""]",,,,,,,,0
+樺,N1,"[""birch"",""dark red""]",,,,,,,,0
+橘,N1,"[""mandarin orange""]",,,,,,,,0
+檀,N1,"[""cedar"",""sandalwood"",""spindle tree""]",,,,,,,,0
+欄,N1,"[""column"",""handrail"",""blank"",""space""]",,,,,,,,0
+欣,N1,"[""take pleasure in"",""rejoice""]",,,,,,,,0
+欺,N1,"[""deceit"",""cheat"",""delude""]",,,,,,,,0
+欽,N1,"[""respect"",""revere"",""long for""]",,,,,,,,0
+款,N1,"[""goodwill"",""article"",""section"",""friendship"",""collusion""]",,,,,,,,0
+歓,N1,"[""delight"",""joy""]",,,,,,,,0
+殉,N1,"[""martyrdom"",""follow by resigning""]",,,,,,,,0
+殊,N1,"[""particularly"",""especially"",""exceptionally""]",,,,,,,,0
+殖,N1,"[""augment"",""increase"",""multiply"",""raise""]",,,,,,,,0
+殴,N1,"[""assault"",""hit"",""beat"",""thrash""]",,,,,,,,0
+殻,N1,"[""husk"",""nut shell""]",,,,,,,,0
+毀,N1,"[""break"",""destroy"",""censure"",""be chipped"",""be scratched"",""be broken"",""be ruined""]",,,,,,,,0
+毅,N1,"[""strong""]",,,,,,,,0
+毬,N1,"[""burr"",""ball""]",,,,,,,,0
+氏,N1,"[""family name"",""surname"",""clan""]",,,,,,,,0
+氾,N1,"[""spread out"",""wide""]",,,,,,,,0
+汁,N1,"[""soup"",""juice"",""broth"",""sap"",""gravy"",""pus""]",,,,,,,,0
+汎,N1,"[""pan-""]",,,,,,,,0
+汐,N1,"[""eventide"",""tide"",""salt water"",""opportunity""]",,,,,,,,0
+江,N1,"[""creek"",""inlet"",""bay""]",,,,,,,,0
+汰,N1,"[""washing"",""sieving"",""filtering"",""weeding out"",""luxury""]",,,,,,,,0
+汽,N1,"[""vapor"",""steam""]",,,,,,,,0
+沃,N1,"[""fertility""]",,,,,,,,0
+沖,N1,"[""open sea"",""offing"",""rise high into sky""]",,,,,,,,0
+沙,N1,"[""sand""]",,,,,,,,0
+没,N1,"[""drown"",""sink"",""hide"",""fall into"",""disappear"",""die""]",,,,,,,,0
+沢,N1,"[""swamp"",""marsh"",""brilliance"",""grace""]",,,,,,,,0
+沼,N1,"[""marsh"",""lake"",""bog"",""swamp"",""pond""]",,,,,,,,0
+沿,N1,"[""run alongside"",""follow along"",""run along"",""lie along""]",,,,,,,,0
+泌,N1,"[""ooze"",""flow"",""soak in"",""penetrate"",""secrete""]",,,,,,,,0
+泡,N1,"[""bubbles"",""foam"",""suds"",""froth""]",,,,,,,,0
+泣,N1,"[""cry"",""weep"",""moan""]",,,,,,,,0
+泰,N1,"[""peaceful"",""calm"",""peace"",""easy"",""Thailand"",""extreme"",""excessive"",""great""]",,,,,,,,0
+洞,N1,"[""den"",""cave"",""excavation""]",,,,,,,,0
+津,N1,"[""haven"",""port"",""harbor"",""ferry""]",,,,,,,,0
+洪,N1,"[""deluge"",""flood"",""vast""]",,,,,,,,0
+洲,N1,"[""continent"",""sandbar"",""island"",""country""]",,,,,,,,0
+洵,N1,"[""alike"",""truth""]",,,,,,,,0
+洸,N1,"[""sparkling water""]",,,,,,,,0
+派,N1,"[""faction"",""group"",""party"",""clique"",""sect"",""school""]",,,,,,,,0
+浄,N1,"[""clean"",""purify"",""cleanse"",""exorcise"",""Manchu Dynasty""]",,,,,,,,0
+浜,N1,"[""seacoast"",""beach"",""seashore""]",,,,,,,,0
+浦,N1,"[""bay"",""creek"",""inlet"",""gulf"",""beach"",""seacoast""]",,,,,,,,0
+浩,N1,"[""wide expanse"",""abundance"",""vigorous""]",,,,,,,,0
+浪,N1,"[""wandering"",""waves"",""billows"",""reckless"",""unrestrained""]",,,,,,,,0
+浸,N1,"[""immersed"",""soak"",""dip"",""steep"",""moisten"",""wet"",""dunk""]",,,,,,,,0
+涯,N1,"[""horizon"",""shore"",""limit"",""bound""]",,,,,,,,0
+淑,N1,"[""graceful"",""gentle"",""pure""]",,,,,,,,0
+淡,N1,"[""thin"",""faint"",""pale"",""fleeting""]",,,,,,,,0
+淫,N1,"[""lewdness"",""licentiousness""]",,,,,,,,0
+淳,N1,"[""pure""]",,,,,,,,0
+添,N1,"[""annexed"",""accompany"",""marry"",""suit"",""meet"",""satisfy"",""attach"",""append"",""garnish"",""imitate""]",,,,,,,,0
+渇,N1,"[""thirst"",""dry up"",""parch""]",,,,,,,,0
+渉,N1,"[""ford"",""go cross"",""transit"",""ferry"",""import"",""involve""]",,,,,,,,0
+渋,N1,"[""astringent"",""hesitate"",""reluctant"",""have diarrhea""]",,,,,,,,0
+渓,N1,"[""mountain stream"",""valley""]",,,,,,,,0
+渚,N1,"[""strand"",""beach"",""shore""]",,,,,,,,0
+渥,N1,"[""kindness"",""moisten""]",,,,,,,,0
+渦,N1,"[""whirlpool"",""eddy"",""vortex""]",,,,,,,,0
+湧,N1,"[""boil"",""ferment"",""seethe"",""uproar"",""breed""]",,,,,,,,0
+源,N1,"[""source"",""origin""]",,,,,,,,0
+溝,N1,"[""gutter"",""ditch"",""sewer"",""drain"",""10**32""]",,,,,,,,0
+滅,N1,"[""destroy"",""ruin"",""overthrow"",""perish""]",,,,,,,,0
+滉,N1,"[""deep and broad (water)""]",,,,,,,,0
+滋,N1,"[""nourishing"",""more & more"",""be luxuriant"",""planting"",""turbidity""]",,,,,,,,0
+滑,N1,"[""slippery"",""slide"",""slip"",""fail exam""]",,,,,,,,0
+滝,N1,"[""waterfall"",""rapids"",""cascade""]",,,,,,,,0
+滞,N1,"[""stagnate"",""be delayed"",""overdue"",""arrears""]",,,,,,,,0
+漂,N1,"[""drift"",""float (on liquid)""]",,,,,,,,0
+漆,N1,"[""lacquer"",""varnish"",""seven""]",,,,,,,,0
+漏,N1,"[""leak"",""escape"",""time""]",,,,,,,,0
+漠,N1,"[""vague"",""obscure"",""desert"",""wide""]",,,,,,,,0
+漫,N1,"[""cartoon"",""involuntarily"",""unrestrained"",""in spite of oneself"",""corrupt""]",,,,,,,,0
+漬,N1,"[""pickling"",""soak"",""moisten"",""steep""]",,,,,,,,0
+漱,N1,"[""gargle"",""rinse mouth""]",,,,,,,,0
+漸,N1,"[""steadily"",""gradually advancing"",""finally"",""barely""]",,,,,,,,0
+潔,N1,"[""undefiled"",""pure"",""clean"",""righteous"",""gallant""]",,,,,,,,0
+潜,N1,"[""submerge"",""conceal"",""hide"",""lower (voice)"",""hush""]",,,,,,,,0
+潟,N1,"[""lagoon""]",,,,,,,,0
+潤,N1,"[""wet"",""be watered"",""profit by"",""receive benefits"",""favor"",""charm"",""steep""]",,,,,,,,0
+潮,N1,"[""tide"",""salt water"",""opportunity""]",,,,,,,,0
+澄,N1,"[""lucidity"",""be clear"",""clear"",""clarify"",""settle"",""strain"",""look grave""]",,,,,,,,0
+澪,N1,"[""water route"",""shipping channel""]",,,,,,,,0
+激,N1,"[""violent"",""get excited"",""enraged"",""chafe"",""incite""]",,,,,,,,0
+濁,N1,"[""voiced"",""uncleanness"",""wrong"",""nigori"",""impurity""]",,,,,,,,0
+濫,N1,"[""excessive"",""overflow"",""spread out""]",,,,,,,,0
+瀬,N1,"[""rapids"",""current"",""torrent"",""shallows"",""shoal""]",,,,,,,,0
+災,N1,"[""disaster"",""calamity"",""woe"",""curse"",""evil""]",,,,,,,,0
+炉,N1,"[""hearth"",""furnace"",""kiln"",""reactor""]",,,,,,,,0
+炊,N1,"[""cook"",""boil""]",,,,,,,,0
+炎,N1,"[""inflammation"",""flame"",""blaze""]",,,,,,,,0
+為,N1,"[""do"",""change"",""make"",""benefit"",""welfare"",""be of use"",""reach to"",""try"",""practice"",""cost"",""serve as"",""good"",""advantage"",""as a result of""]",,,,,,,,0
+烈,N1,"[""ardent"",""violent"",""vehement"",""furious"",""severe"",""extreme""]",,,,,,,,0
+焦,N1,"[""char"",""hurry"",""impatient"",""irritate"",""burn"",""scorch"",""singe""]",,,,,,,,0
+煩,N1,"[""anxiety"",""trouble"",""worry"",""pain"",""ill"",""annoy"",""nuisance"",""irksome""]",,,,,,,,0
+煮,N1,"[""boil"",""cook""]",,,,,,,,0
+熊,N1,"[""bear""]",,,,,,,,0
+熙,N1,"[""bright"",""sunny"",""prosperous"",""merry""]",,,,,,,,0
+熟,N1,"[""mellow"",""ripen"",""mature"",""acquire skill""]",,,,,,,,0
+燎,N1,"[""burn"",""bonfire""]",,,,,,,,0
+燦,N1,"[""brilliant""]",,,,,,,,0
+燿,N1,"[""shine""]",,,,,,,,0
+爵,N1,"[""baron"",""peerage"",""court rank""]",,,,,,,,0
+爽,N1,"[""refreshing"",""bracing"",""resonant"",""sweet"",""clear""]",,,,,,,,0
+爾,N1,"[""you"",""thou"",""second person""]",,,,,,,,0
+牙,N1,"[""tusk"",""fang"",""tusk radical (no. 92)""]",,,,,,,,0
+牧,N1,"[""breed"",""care for"",""shepherd"",""feed"",""pasture""]",,,,,,,,0
+牲,N1,"[""animal sacrifice"",""offering""]",,,,,,,,0
+犠,N1,"[""sacrifice""]",,,,,,,,0
+狂,N1,"[""lunatic"",""insane"",""crazy"",""confuse""]",,,,,,,,0
+狩,N1,"[""hunt"",""raid"",""gather""]",,,,,,,,0
+独,N1,"[""single"",""alone"",""spontaneously"",""Germany""]",,,,,,,,0
+狭,N1,"[""cramped"",""narrow"",""contract"",""tight""]",,,,,,,,0
+猛,N1,"[""fierce"",""rave"",""rush"",""become furious"",""wildness"",""strength""]",,,,,,,,0
+猟,N1,"[""game-hunting"",""shooting"",""game"",""bag""]",,,,,,,,0
+猪,N1,"[""boar""]",,,,,,,,0
+献,N1,"[""offering"",""counter for drinks"",""present"",""offer""]",,,,,,,,0
+猶,N1,"[""furthermore"",""still"",""yet""]",,,,,,,,0
+猿,N1,"[""monkey""]",,,,,,,,0
+獄,N1,"[""prison"",""jail""]",,,,,,,,0
+獣,N1,"[""animal"",""beast""]",,,,,,,,0
+獲,N1,"[""seize"",""get"",""find"",""earn"",""acquire"",""can"",""may"",""able to""]",,,,,,,,0
+玄,N1,"[""mysterious"",""occultness"",""black"",""deep"",""profound""]",,,,,,,,0
+率,N1,"[""ratio"",""rate"",""proportion"",""%"",""factor"",""lead"",""spearhead"",""command""]",,,,,,,,0
+玖,N1,"[""beautiful black jewel"",""nine""]",,,,,,,,0
+玩,N1,"[""play"",""take pleasure in"",""trifle with"",""make sport of""]",,,,,,,,0
+玲,N1,"[""sound of jewels""]",,,,,,,,0
+珠,N1,"[""pearl"",""gem"",""jewel""]",,,,,,,,0
+班,N1,"[""squad"",""corps"",""unit"",""group""]",,,,,,,,0
+琉,N1,"[""precious stone"",""gem"",""lapis lazuli""]",,,,,,,,0
+琢,N1,"[""polish""]",,,,,,,,0
+琳,N1,"[""jewel"",""tinkling of jewelry""]",,,,,,,,0
+琴,N1,"[""harp"",""koto""]",,,,,,,,0
+瑚,N1,"[""ancestral offering receptacle"",""coral""]",,,,,,,,0
+瑛,N1,"[""sparkle of jewelry"",""crystal""]",,,,,,,,0
+瑞,N1,"[""congratulations""]",,,,,,,,0
+瑠,N1,"[""lapis lazuli""]",,,,,,,,0
+瑳,N1,"[""polish"",""brilliant white luster of a gem"",""artful smile""]",,,,,,,,0
+瑶,N1,"[""beautiful as a jewel""]",,,,,,,,0
+璃,N1,"[""glassy"",""lapis lazuli""]",,,,,,,,0
+璧,N1,"[""sphere"",""ball""]",,,,,,,,0
+環,N1,"[""ring"",""circle"",""loop""]",,,,,,,,0
+璽,N1,"[""emperor's seal""]",,,,,,,,0
+甚,N1,"[""tremendously"",""very"",""great"",""exceedingly""]",,,,,,,,0
+甫,N1,"[""for the first time"",""not until""]",,,,,,,,0
+甲,N1,"[""armor"",""high (voice)"",""A grade"",""first class"",""former"",""instep"",""carapace""]",,,,,,,,0
+畏,N1,"[""fear"",""majestic"",""graciously"",""be apprehensive""]",,,,,,,,0
+畔,N1,"[""paddy ridge"",""levee""]",,,,,,,,0
+畝,N1,"[""furrow"",""thirty tsubo"",""ridge"",""rib""]",,,,,,,,0
+異,N1,"[""uncommon"",""different"",""queerness"",""strangeness"",""wonderful"",""curious"",""unusual""]",,,,,,,,0
+畿,N1,"[""capital"",""suburbs of capital""]",,,,,,,,0
+疎,N1,"[""alienate"",""rough"",""neglect"",""shun"",""sparse"",""penetrate""]",,,,,,,,0
+疫,N1,"[""epidemic""]",,,,,,,,0
+疾,N1,"[""rapidly""]",,,,,,,,0
+症,N1,"[""symptoms"",""illness""]",,,,,,,,0
+痕,N1,"[""mark"",""foot print""]",,,,,,,,0
+痘,N1,"[""pox"",""smallpox""]",,,,,,,,0
+痢,N1,"[""diarrhea""]",,,,,,,,0
+痴,N1,"[""stupid"",""foolish""]",,,,,,,,0
+瘍,N1,"[""swelling"",""boil"",""tumor""]",,,,,,,,0
+癒,N1,"[""healing"",""cure"",""quench (thirst)"",""wreak""]",,,,,,,,0
+癖,N1,"[""mannerism"",""habit"",""vice"",""trait"",""fault"",""kink""]",,,,,,,,0
+皇,N1,"[""emperor""]",,,,,,,,0
+皐,N1,"[""swamp"",""shore"",""fifth month""]",,,,,,,,0
+皓,N1,"[""white"",""clear""]",,,,,,,,0
+盆,N1,"[""basin"",""lantern festival"",""tray""]",,,,,,,,0
+益,N1,"[""benefit"",""gain"",""profit"",""advantage""]",,,,,,,,0
+盛,N1,"[""boom"",""prosper"",""copulate""]",,,,,,,,0
+盟,N1,"[""alliance"",""oath""]",,,,,,,,0
+監,N1,"[""oversee"",""official"",""govt office"",""rule"",""administer""]",,,,,,,,0
+盤,N1,"[""tray"",""shallow bowl"",""platter"",""tub"",""board"",""phonograph record""]",,,,,,,,0
+盲,N1,"[""blind"",""blind man"",""ignoramus""]",,,,,,,,0
+盾,N1,"[""shield"",""escutcheon"",""pretext""]",,,,,,,,0
+眉,N1,"[""eyebrow""]",,,,,,,,0
+看,N1,"[""watch over"",""see""]",,,,,,,,0
+眸,N1,"[""pupil of the eye""]",,,,,,,,0
+眺,N1,"[""stare"",""watch"",""look at"",""see"",""scrutinize""]",,,,,,,,0
+眼,N1,"[""eyeball""]",,,,,,,,0
+睡,N1,"[""drowsy"",""sleep"",""die""]",,,,,,,,0
+督,N1,"[""coach"",""command"",""urge"",""lead"",""supervise""]",,,,,,,,0
+睦,N1,"[""intimate"",""friendly"",""harmonious""]",,,,,,,,0
+瞬,N1,"[""wink"",""blink"",""twinkle""]",,,,,,,,0
+瞭,N1,"[""clear""]",,,,,,,,0
+瞳,N1,"[""pupil (of eye)""]",,,,,,,,0
+矛,N1,"[""halberd"",""arms"",""festival float""]",,,,,,,,0
+矢,N1,"[""dart"",""arrow""]",,,,,,,,0
+矯,N1,"[""rectify"",""straighten"",""correct"",""reform"",""cure"",""control"",""pretend"",""falsify""]",,,,,,,,0
+砕,N1,"[""smash"",""break"",""crush"",""familiar"",""popular""]",,,,,,,,0
+砲,N1,"[""cannon"",""gun""]",,,,,,,,0
+硝,N1,"[""nitrate"",""saltpeter""]",,,,,,,,0
+硫,N1,"[""sulphur""]",,,,,,,,0
+碁,N1,"[""Go""]",,,,,,,,0
+碑,N1,"[""tombstone"",""monument""]",,,,,,,,0
+碧,N1,"[""blue"",""green""]",,,,,,,,0
+碩,N1,"[""large"",""great"",""eminent""]",,,,,,,,0
+磁,N1,"[""magnet"",""porcelain""]",,,,,,,,0
+磯,N1,"[""seashore"",""beach""]",,,,,,,,0
+礁,N1,"[""reef"",""sunken rock""]",,,,,,,,0
+礎,N1,"[""cornerstone"",""foundation stone""]",,,,,,,,0
+祉,N1,"[""welfare"",""happiness""]",,,,,,,,0
+祐,N1,"[""help""]",,,,,,,,0
+祥,N1,"[""auspicious"",""happiness"",""blessedness"",""good omen"",""good fortune""]",,,,,,,,0
+票,N1,"[""ballot"",""label"",""ticket"",""sign""]",,,,,,,,0
+禄,N1,"[""fief"",""allowance"",""pension"",""grant"",""happiness""]",,,,,,,,0
+禅,N1,"[""Zen"",""silent meditation""]",,,,,,,,0
+禍,N1,"[""calamity"",""misfortune"",""evil"",""curse""]",,,,,,,,0
+禎,N1,"[""happiness"",""blessed"",""good fortune"",""auspicious""]",,,,,,,,0
+秀,N1,"[""excel"",""excellence"",""beauty"",""surpass""]",,,,,,,,0
+秘,N1,"[""secret"",""conceal""]",,,,,,,,0
+租,N1,"[""tariff"",""crop tax"",""borrowing""]",,,,,,,,0
+秦,N1,"[""Qin dynasty"",""name given to naturalized foreigners""]",,,,,,,,0
+秩,N1,"[""regularity"",""salary"",""order""]",,,,,,,,0
+称,N1,"[""appellation"",""praise"",""admire"",""name"",""title"",""fame""]",,,,,,,,0
+稀,N1,"[""rare"",""phenomenal"",""dilute (acid)""]",,,,,,,,0
+稔,N1,"[""harvest"",""ripen""]",,,,,,,,0
+稚,N1,"[""immature"",""young""]",,,,,,,,0
+稜,N1,"[""angle"",""edge"",""corner"",""power"",""majesty""]",,,,,,,,0
+稲,N1,"[""rice plant""]",,,,,,,,0
+稼,N1,"[""earnings"",""work"",""earn money""]",,,,,,,,0
+稿,N1,"[""draft"",""copy"",""manuscript"",""straw""]",,,,,,,,0
+穀,N1,"[""cereals"",""grain""]",,,,,,,,0
+穂,N1,"[""ear"",""ear (grain)"",""head"",""crest (wave)""]",,,,,,,,0
+穏,N1,"[""calm"",""quiet"",""moderation""]",,,,,,,,0
+穣,N1,"[""good crops"",""prosperity"",""10**28""]",,,,,,,,0
+穫,N1,"[""harvest"",""reap""]",,,,,,,,0
+穴,N1,"[""hole"",""aperture"",""slit"",""cave"",""den""]",,,,,,,,0
+窃,N1,"[""stealth"",""steal"",""secret"",""private"",""hushed""]",,,,,,,,0
+窒,N1,"[""plug up"",""obstruct""]",,,,,,,,0
+窟,N1,"[""cavern""]",,,,,,,,0
+窮,N1,"[""hard up"",""destitute"",""suffer"",""perplexed"",""cornered""]",,,,,,,,0
+窯,N1,"[""kiln"",""oven"",""furnace""]",,,,,,,,0
+竜,N1,"[""dragon"",""imperial""]",,,,,,,,0
+竣,N1,"[""end"",""finish""]",,,,,,,,0
+端,N1,"[""edge"",""origin"",""end"",""point"",""border"",""verge"",""cape""]",,,,,,,,0
+笙,N1,"[""a reed instrument""]",,,,,,,,0
+笛,N1,"[""flute"",""clarinet"",""pipe"",""whistle"",""bagpipe"",""piccolo""]",,,,,,,,0
+第,N1,"[""No."",""residence""]",,,,,,,,0
+笹,N1,"[""bamboo grass"",""(kokuji)""]",,,,,,,,0
+筋,N1,"[""muscle"",""sinew"",""tendon"",""fiber"",""plot"",""plan"",""descent""]",,,,,,,,0
+策,N1,"[""scheme"",""plan"",""policy"",""step"",""means""]",,,,,,,,0
+箇,N1,"[""counter for articles""]",,,,,,,,0
+箸,N1,"[""chopsticks""]",,,,,,,,0
+節,N1,"[""node"",""season"",""period"",""occasion"",""verse"",""clause"",""stanza"",""honor"",""joint"",""knuckle"",""knob"",""knot"",""tune"",""melody""]",,,,,,,,0
+範,N1,"[""pattern"",""example"",""model""]",,,,,,,,0
+篤,N1,"[""fervent"",""kind"",""cordial"",""serious"",""deliberate""]",,,,,,,,0
+簿,N1,"[""register"",""record book""]",,,,,,,,0
+粋,N1,"[""chic"",""style"",""purity"",""essence"",""pith"",""cream"",""elite"",""choice""]",,,,,,,,0
+粗,N1,"[""coarse"",""rough"",""rugged""]",,,,,,,,0
+粘,N1,"[""sticky"",""glutinous"",""greasy"",""persevere""]",,,,,,,,0
+粛,N1,"[""solemn"",""quietly"",""softly""]",,,,,,,,0
+糖,N1,"[""sugar""]",,,,,,,,0
+糧,N1,"[""provisions"",""food"",""bread""]",,,,,,,,0
+系,N1,"[""lineage"",""system""]",,,,,,,,0
+糾,N1,"[""twist"",""ask"",""investigate"",""verify""]",,,,,,,,0
+紀,N1,"[""chronicle"",""account"",""narrative"",""history"",""annals"",""geologic period""]",,,,,,,,0
+紋,N1,"[""family crest"",""figures""]",,,,,,,,0
+納,N1,"[""settlement"",""obtain"",""reap"",""pay"",""supply"",""store""]",,,,,,,,0
+紗,N1,"[""gauze"",""gossamer""]",,,,,,,,0
+紘,N1,"[""large""]",,,,,,,,0
+級,N1,"[""class"",""rank"",""grade""]",,,,,,,,0
+紛,N1,"[""distract"",""be mistaken for"",""go astray"",""divert""]",,,,,,,,0
+素,N1,"[""elementary"",""principle"",""naked"",""uncovered""]",,,,,,,,0
+紡,N1,"[""spinning""]",,,,,,,,0
+索,N1,"[""cord"",""rope"",""searching"",""inquiring""]",,,,,,,,0
+紫,N1,"[""purple"",""violet""]",,,,,,,,0
+紬,N1,"[""pongee (a knotted silk cloth)""]",,,,,,,,0
+累,N1,"[""accumulate"",""involvement"",""trouble"",""tie up"",""continually""]",,,,,,,,0
+紳,N1,"[""sire"",""good belt"",""gentleman""]",,,,,,,,0
+紺,N1,"[""dark blue"",""navy""]",,,,,,,,0
+絃,N1,"[""string"",""cord"",""samisen music""]",,,,,,,,0
+結,N1,"[""tie"",""bind"",""contract"",""join"",""organize"",""do up hair"",""fasten""]",,,,,,,,0
+絞,N1,"[""strangle"",""constrict"",""wring""]",,,,,,,,0
+絢,N1,"[""brilliant fabric design""]",,,,,,,,0
+統,N1,"[""overall"",""relationship"",""ruling"",""governing""]",,,,,,,,0
+絹,N1,"[""silk""]",,,,,,,,0
+継,N1,"[""inherit"",""succeed"",""continue"",""patch"",""graft (tree)""]",,,,,,,,0
+綜,N1,"[""rule"",""synthesize""]",,,,,,,,0
+維,N1,"[""fiber"",""tie"",""rope""]",,,,,,,,0
+綱,N1,"[""hawser"",""class (genus)"",""rope"",""cord"",""cable""]",,,,,,,,0
+網,N1,"[""netting"",""network""]",,,,,,,,0
+綸,N1,"[""thread"",""silk cloth""]",,,,,,,,0
+綺,N1,"[""figured cloth"",""beautiful""]",,,,,,,,0
+綻,N1,"[""be rent"",""ripped"",""unravel"",""run"",""begin to open"",""smile""]",,,,,,,,0
+綾,N1,"[""design"",""figured cloth"",""twill""]",,,,,,,,0
+緊,N1,"[""tense"",""solid"",""hard"",""reliable"",""tight""]",,,,,,,,0
+緋,N1,"[""scarlet"",""cardinal""]",,,,,,,,0
+締,N1,"[""tighten"",""tie"",""shut"",""lock"",""fasten""]",,,,,,,,0
+緩,N1,"[""slacken"",""loosen"",""relax"",""lessen"",""be moderate"",""ease""]",,,,,,,,0
+緯,N1,"[""horizontal"",""woof"",""left & right"",""(parallels of) latitude"",""prediction""]",,,,,,,,0
+緻,N1,"[""fine (i.e. not coarse)""]",,,,,,,,0
+縁,N1,"[""affinity"",""relation"",""connection"",""edge"",""border"",""verge"",""brink""]",,,,,,,,0
+縄,N1,"[""straw rope"",""cord""]",,,,,,,,0
+縛,N1,"[""truss"",""arrest"",""bind"",""tie"",""restrain""]",,,,,,,,0
+縦,N1,"[""vertical"",""length"",""height"",""self-indulgent"",""wayward""]",,,,,,,,0
+縫,N1,"[""sew"",""stitch"",""embroider""]",,,,,,,,0
+縮,N1,"[""shrink"",""contract"",""shrivel"",""wrinkle"",""reduce""]",,,,,,,,0
+繁,N1,"[""luxuriant"",""thick"",""overgrown"",""frequency"",""complexity"",""trouble""]",,,,,,,,0
+繊,N1,"[""slender"",""fine"",""thin kimono""]",,,,,,,,0
+織,N1,"[""weave"",""fabric""]",,,,,,,,0
+繕,N1,"[""darning"",""repair"",""mend"",""trim"",""tidy up"",""adjust""]",,,,,,,,0
+繭,N1,"[""cocoon""]",,,,,,,,0
+繰,N1,"[""winding"",""reel"",""spin"",""turn (pages)"",""look up"",""refer to""]",,,,,,,,0
+罰,N1,"[""penalty"",""punishment""]",,,,,,,,0
+罵,N1,"[""abuse"",""insult""]",,,,,,,,0
+罷,N1,"[""quit"",""stop"",""leave"",""withdraw"",""go""]",,,,,,,,0
+羅,N1,"[""gauze"",""thin silk"",""Rome"",""arrange"",""spread out""]",,,,,,,,0
+羊,N1,"[""sheep""]",,,,,,,,0
+羞,N1,"[""feel ashamed""]",,,,,,,,0
+義,N1,"[""righteousness"",""justice"",""morality"",""honor"",""loyalty"",""meaning""]",,,,,,,,0
+翁,N1,"[""venerable old man""]",,,,,,,,0
+翔,N1,"[""soar"",""fly""]",,,,,,,,0
+翠,N1,"[""green"",""kingfisher""]",,,,,,,,0
+翻,N1,"[""flip"",""turn over"",""wave"",""flutter"",""change (mind)""]",,,,,,,,0
+翼,N1,"[""wing"",""plane"",""flank""]",,,,,,,,0
+耀,N1,"[""shine"",""sparkle"",""gleam"",""twinkle""]",,,,,,,,0
+耐,N1,"[""-proof"",""enduring""]",,,,,,,,0
+耗,N1,"[""decrease""]",,,,,,,,0
+耶,N1,"[""question mark""]",,,,,,,,0
+聖,N1,"[""holy"",""saint"",""sage"",""master"",""priest""]",,,,,,,,0
+聡,N1,"[""wise"",""fast learner""]",,,,,,,,0
+聴,N1,"[""listen"",""headstrong"",""naughty"",""careful inquiry""]",,,,,,,,0
+肇,N1,"[""beginning""]",,,,,,,,0
+肖,N1,"[""resemblance""]",,,,,,,,0
+肝,N1,"[""liver"",""pluck"",""nerve"",""chutzpah""]",,,,,,,,0
+股,N1,"[""thigh"",""crotch""]",,,,,,,,0
+肢,N1,"[""limb"",""arms & legs""]",,,,,,,,0
+肥,N1,"[""fertilizer"",""get fat"",""fertile"",""manure"",""pamper""]",,,,,,,,0
+肪,N1,"[""obese"",""fat""]",,,,,,,,0
+肺,N1,"[""lungs""]",,,,,,,,0
+胆,N1,"[""gall bladder"",""courage"",""pluck"",""nerve""]",,,,,,,,0
+胎,N1,"[""womb"",""uterus""]",,,,,,,,0
+胞,N1,"[""placenta"",""sac"",""sheath""]",,,,,,,,0
+胡,N1,"[""barbarian"",""foreign""]",,,,,,,,0
+胤,N1,"[""descendent"",""issue"",""offspring""]",,,,,,,,0
+胴,N1,"[""trunk"",""torso"",""hull (ship)"",""hub of wheel""]",,,,,,,,0
+脅,N1,"[""threaten"",""coerce""]",,,,,,,,0
+脈,N1,"[""vein"",""pulse"",""hope""]",,,,,,,,0
+脊,N1,"[""stature"",""height"",""spine""]",,,,,,,,0
+脚,N1,"[""skids"",""leg"",""undercarriage"",""lower part"",""base""]",,,,,,,,0
+脩,N1,"[""dried meat""]",,,,,,,,0
+脱,N1,"[""undress"",""removing"",""escape from"",""get rid of"",""be left out"",""take off""]",,,,,,,,0
+脹,N1,"[""dilate"",""distend"",""bulge"",""fill out"",""swell""]",,,,,,,,0
+腎,N1,"[""kidney""]",,,,,,,,0
+腐,N1,"[""rot"",""decay"",""sour""]",,,,,,,,0
+腫,N1,"[""tumor"",""swelling""]",,,,,,,,0
+腸,N1,"[""intestines"",""guts"",""bowels"",""viscera""]",,,,,,,,0
+腺,N1,"[""gland"",""(kokuji)""]",,,,,,,,0
+膜,N1,"[""membrane""]",,,,,,,,0
+膨,N1,"[""swell"",""get fat"",""thick""]",,,,,,,,0
+膳,N1,"[""small low table"",""tray""]",,,,,,,,0
+臆,N1,"[""timidity"",""heart"",""mind"",""fear"",""cowardly""]",,,,,,,,0
+臨,N1,"[""look to"",""face"",""meet"",""confront"",""attend"",""call on""]",,,,,,,,0
+臭,N1,"[""stinking"",""ill-smelling"",""suspicious looking"",""odor"",""savor"",""fragrance"",""be fragrant"",""stink"",""glow"",""be bright""]",,,,,,,,0
+至,N1,"[""climax"",""arrive"",""proceed"",""reach"",""attain"",""result in""]",,,,,,,,0
+致,N1,"[""doth"",""do"",""send"",""forward"",""cause"",""exert"",""incur"",""engage""]",,,,,,,,0
+臼,N1,"[""mortar""]",,,,,,,,0
+興,N1,"[""entertain"",""revive"",""retrieve"",""interest"",""pleasure""]",,,,,,,,0
+舌,N1,"[""tongue"",""reed"",""clapper""]",,,,,,,,0
+舎,N1,"[""cottage"",""inn"",""hut"",""house"",""mansion""]",,,,,,,,0
+舗,N1,"[""shop"",""store"",""pave""]",,,,,,,,0
+舜,N1,"[""type of morning glory"",""rose of Sharon"",""althea""]",,,,,,,,0
+舶,N1,"[""liner"",""ship""]",,,,,,,,0
+舷,N1,"[""gunwale""]",,,,,,,,0
+艇,N1,"[""rowboat"",""small boat""]",,,,,,,,0
+艦,N1,"[""warship""]",,,,,,,,0
+艶,N1,"[""glossy"",""luster"",""glaze"",""polish"",""charm"",""colorful"",""captivating""]",,,,,,,,0
+芋,N1,"[""taro"",""yam"",""tuber""]",,,,,,,,0
+芙,N1,"[""lotus"",""Mt Fuji""]",,,,,,,,0
+芝,N1,"[""turf"",""lawn""]",,,,,,,,0
+芳,N1,"[""perfume"",""balmy"",""favorable"",""fragrant""]",,,,,,,,0
+芹,N1,"[""parsley""]",,,,,,,,0
+芽,N1,"[""bud"",""sprout"",""spear"",""germ""]",,,,,,,,0
+苑,N1,"[""garden"",""farm"",""park""]",,,,,,,,0
+苗,N1,"[""seedling"",""sapling"",""shoot""]",,,,,,,,0
+苛,N1,"[""torment"",""scold"",""chastise""]",,,,,,,,0
+茂,N1,"[""overgrown"",""grow thick"",""be luxuriant""]",,,,,,,,0
+茄,N1,"[""eggplant""]",,,,,,,,0
+茅,N1,"[""miscanthus reed""]",,,,,,,,0
+茉,N1,"[""jasmine""]",,,,,,,,0
+茎,N1,"[""stalk"",""stem""]",,,,,,,,0
+茜,N1,"[""madder"",""red dye"",""Turkey red""]",,,,,,,,0
+茨,N1,"[""briar"",""thorn""]",,,,,,,,0
+荘,N1,"[""villa"",""inn"",""cottage"",""feudal manor"",""solemn"",""dignified""]",,,,,,,,0
+莉,N1,"[""jasmine""]",,,,,,,,0
+莞,N1,"[""smiling"",""reed used to cover tatami""]",,,,,,,,0
+菊,N1,"[""chrysanthemum""]",,,,,,,,0
+菌,N1,"[""germ"",""fungus"",""bacteria""]",,,,,,,,0
+菖,N1,"[""iris""]",,,,,,,,0
+菫,N1,"[""the violet""]",,,,,,,,0
+華,N1,"[""splendor"",""flower"",""petal"",""shine"",""luster"",""ostentatious"",""showy"",""gay"",""gorgeous""]",,,,,,,,0
+萌,N1,"[""show symptoms of"",""sprout"",""bud"",""malt""]",,,,,,,,0
+萎,N1,"[""wither"",""droop"",""lame""]",,,,,,,,0
+萩,N1,"[""bush clover""]",,,,,,,,0
+葛,N1,"[""arrowroot"",""kudzu""]",,,,,,,,0
+葬,N1,"[""interment"",""bury"",""shelve""]",,,,,,,,0
+葵,N1,"[""hollyhock""]",,,,,,,,0
+蒔,N1,"[""sow (seeds)""]",,,,,,,,0
+蒼,N1,"[""blue"",""pale""]",,,,,,,,0
+蓄,N1,"[""amass"",""raise"",""hoard"",""store""]",,,,,,,,0
+蓉,N1,"[""lotus""]",,,,,,,,0
+蓮,N1,"[""lotus""]",,,,,,,,0
+蔑,N1,"[""ignore"",""despise"",""neglect"",""ridicule""]",,,,,,,,0
+蔦,N1,"[""vine"",""ivy""]",,,,,,,,0
+蔽,N1,"[""cover"",""shade"",""mantle"",""capsize"",""be ruined""]",,,,,,,,0
+蕉,N1,"[""banana"",""plantain""]",,,,,,,,0
+蕗,N1,"[""butterbur"",""bog rhubarb""]",,,,,,,,0
+薦,N1,"[""recommend"",""mat"",""advise"",""encourage"",""offer""]",,,,,,,,0
+薪,N1,"[""fuel"",""firewood"",""kindling""]",,,,,,,,0
+薫,N1,"[""send forth fragrance"",""fragrant"",""be scented"",""smoke (tobacco)""]",,,,,,,,0
+藍,N1,"[""indigo""]",,,,,,,,0
+藤,N1,"[""wisteria""]",,,,,,,,0
+藩,N1,"[""clan"",""enclosure""]",,,,,,,,0
+藻,N1,"[""seaweed"",""duckweed""]",,,,,,,,0
+蘭,N1,"[""orchid"",""Holland""]",,,,,,,,0
+虎,N1,"[""tiger"",""drunkard""]",,,,,,,,0
+虐,N1,"[""tyrannize"",""oppress""]",,,,,,,,0
+虚,N1,"[""void"",""emptiness"",""unpreparedness"",""crack"",""fissure"",""untruth""]",,,,,,,,0
+虜,N1,"[""captive"",""barbarian"",""low epithet for the enemy""]",,,,,,,,0
+虞,N1,"[""fear"",""uneasiness"",""anxiety"",""concern"",""expectation"",""consideration""]",,,,,,,,0
+虹,N1,"[""rainbow""]",,,,,,,,0
+蚊,N1,"[""mosquito""]",,,,,,,,0
+蚕,N1,"[""silkworm""]",,,,,,,,0
+蛇,N1,"[""snake"",""serpent"",""hard drinker""]",,,,,,,,0
+蛍,N1,"[""lightning-bug"",""firefly""]",,,,,,,,0
+蛮,N1,"[""barbarian""]",,,,,,,,0
+蜂,N1,"[""bee"",""wasp"",""hornet""]",,,,,,,,0
+蜜,N1,"[""honey"",""nectar"",""molasses""]",,,,,,,,0
+蝶,N1,"[""butterfly""]",,,,,,,,0
+融,N1,"[""dissolve"",""melt""]",,,,,,,,0
+衆,N1,"[""masses"",""great numbers"",""multitude"",""populace""]",,,,,,,,0
+街,N1,"[""boulevard"",""street"",""town""]",,,,,,,,0
+衛,N1,"[""defense"",""protection""]",,,,,,,,0
+衝,N1,"[""collide"",""brunt"",""highway"",""opposition (astronomy)"",""thrust"",""pierce"",""stab"",""prick""]",,,,,,,,0
+衡,N1,"[""equilibrium"",""measuring rod"",""scale""]",,,,,,,,0
+衰,N1,"[""decline"",""wane"",""weaken""]",,,,,,,,0
+衷,N1,"[""inmost"",""heart"",""mind"",""inside""]",,,,,,,,0
+衿,N1,"[""neck"",""collar"",""lapel""]",,,,,,,,0
+袈,N1,"[""a coarse camlet""]",,,,,,,,0
+裁,N1,"[""tailor"",""judge"",""decision"",""cut out (pattern)""]",,,,,,,,0
+裂,N1,"[""split"",""rend"",""tear""]",,,,,,,,0
+裕,N1,"[""abundant"",""rich"",""fertile""]",,,,,,,,0
+裟,N1,"[""Buddhist surplice""]",,,,,,,,0
+裸,N1,"[""naked"",""nude"",""uncovered"",""partially clothed""]",,,,,,,,0
+製,N1,"[""made in..."",""manufacture""]",,,,,,,,0
+裾,N1,"[""cuff"",""hem"",""foot of mountain""]",,,,,,,,0
+褐,N1,"[""brown"",""woollen kimono""]",,,,,,,,0
+褒,N1,"[""praise"",""extol""]",,,,,,,,0
+襟,N1,"[""collar"",""neck"",""lapel"",""one's inner feelings""]",,,,,,,,0
+襲,N1,"[""attack"",""advance on"",""succeed to"",""pile"",""heap""]",,,,,,,,0
+覆,N1,"[""capsize"",""cover"",""shade"",""mantle"",""be ruined""]",,,,,,,,0
+覇,N1,"[""hegemony"",""supremacy"",""leadership"",""champion""]",,,,,,,,0
+視,N1,"[""inspection"",""regard as"",""see"",""look at""]",,,,,,,,0
+覧,N1,"[""perusal"",""see""]",,,,,,,,0
+訂,N1,"[""revise"",""correct"",""decide""]",,,,,,,,0
+訃,N1,"[""obituary""]",,,,,,,,0
+討,N1,"[""chastise"",""attack"",""defeat"",""destroy"",""conquer""]",,,,,,,,0
+託,N1,"[""consign"",""requesting"",""entrusting with"",""pretend"",""hint""]",,,,,,,,0
+訟,N1,"[""sue"",""accuse""]",,,,,,,,0
+訳,N1,"[""translate"",""reason"",""circumstance"",""case""]",,,,,,,,0
+訴,N1,"[""accusation"",""sue"",""complain of pain"",""appeal to""]",,,,,,,,0
+診,N1,"[""checkup"",""seeing"",""diagnose"",""examine""]",,,,,,,,0
+証,N1,"[""evidence"",""proof"",""certificate""]",,,,,,,,0
+詐,N1,"[""lie"",""falsehood"",""deceive"",""pretend""]",,,,,,,,0
+詔,N1,"[""imperial edict""]",,,,,,,,0
+評,N1,"[""evaluate"",""criticism"",""comment""]",,,,,,,,0
+詠,N1,"[""recitation"",""poem"",""song"",""composing""]",,,,,,,,0
+詢,N1,"[""consult with""]",,,,,,,,0
+詣,N1,"[""visit a temple"",""arrive"",""attain""]",,,,,,,,0
+詩,N1,"[""poem"",""poetry""]",,,,,,,,0
+詮,N1,"[""discussion"",""methods called for"",""selection"",""result""]",,,,,,,,0
+該,N1,"[""above-stated"",""the said"",""that specific""]",,,,,,,,0
+詳,N1,"[""detailed"",""full"",""minute"",""accurate"",""well-informed""]",,,,,,,,0
+誇,N1,"[""boast"",""be proud"",""pride"",""triumphantly""]",,,,,,,,0
+誉,N1,"[""reputation"",""praise"",""honor"",""glory""]",,,,,,,,0
+誓,N1,"[""vow"",""swear"",""pledge""]",,,,,,,,0
+誕,N1,"[""nativity"",""be born"",""declension"",""lie"",""be arbitrary""]",,,,,,,,0
+誘,N1,"[""entice"",""lead"",""tempt"",""invite"",""ask"",""call for"",""seduce"",""allure""]",,,,,,,,0
+誠,N1,"[""sincerity"",""admonish"",""warn"",""prohibit"",""truth"",""fidelity""]",,,,,,,,0
+誼,N1,"[""friendship"",""intimacy""]",,,,,,,,0
+諄,N1,"[""tedious""]",,,,,,,,0
+請,N1,"[""solicit"",""invite"",""ask""]",,,,,,,,0
+諒,N1,"[""fact"",""reality"",""understand"",""appreciate""]",,,,,,,,0
+諧,N1,"[""harmony""]",,,,,,,,0
+諭,N1,"[""rebuke"",""admonish"",""charge"",""warn"",""persuade""]",,,,,,,,0
+諮,N1,"[""consult with""]",,,,,,,,0
+諾,N1,"[""consent"",""assent"",""agreement""]",,,,,,,,0
+謀,N1,"[""conspire"",""cheat"",""impose on"",""plan"",""devise"",""scheme"",""have in mind"",""deceive""]",,,,,,,,0
+謁,N1,"[""audience"",""audience (with king)""]",,,,,,,,0
+謄,N1,"[""mimeograph"",""copy""]",,,,,,,,0
+謙,N1,"[""self-effacing"",""humble oneself"",""condescend"",""be modest""]",,,,,,,,0
+謝,N1,"[""apologize"",""thank"",""refuse""]",,,,,,,,0
+謡,N1,"[""song"",""sing"",""ballad"",""noh chanting""]",,,,,,,,0
+謹,N1,"[""discreet"",""reverently"",""humbly""]",,,,,,,,0
+譜,N1,"[""musical score"",""music"",""note"",""staff"",""table"",""genealogy""]",,,,,,,,0
+譲,N1,"[""defer"",""turnover"",""transfer"",""convey""]",,,,,,,,0
+護,N1,"[""safeguard"",""protect""]",,,,,,,,0
+豆,N1,"[""beans"",""pea"",""midget""]",,,,,,,,0
+豚,N1,"[""pork"",""pig""]",,,,,,,,0
+豪,N1,"[""overpowering"",""great"",""powerful"",""excelling"",""Australia""]",,,,,,,,0
+貌,N1,"[""form"",""appearance"",""countenance""]",,,,,,,,0
+貞,N1,"[""upright"",""chastity"",""constancy"",""righteousness""]",,,,,,,,0
+貢,N1,"[""tribute"",""support"",""finance""]",,,,,,,,0
+貪,N1,"[""covet"",""indulge in""]",,,,,,,,0
+貫,N1,"[""pierce"",""8 1/3lbs"",""penetrate"",""brace""]",,,,,,,,0
+貴,N1,"[""precious"",""value"",""prize"",""esteem"",""honor""]",,,,,,,,0
+賀,N1,"[""congratulations"",""joy""]",,,,,,,,0
+賂,N1,"[""bribe""]",,,,,,,,0
+賃,N1,"[""fare"",""fee"",""hire"",""rent"",""wages"",""charge""]",,,,,,,,0
+賄,N1,"[""bribe"",""board"",""supply"",""finance""]",,,,,,,,0
+賊,N1,"[""burglar"",""rebel"",""traitor"",""robber""]",,,,,,,,0
+賓,N1,"[""V.I.P."",""guest""]",,,,,,,,0
+賜,N1,"[""grant"",""gift"",""boon"",""results""]",,,,,,,,0
+賠,N1,"[""compensation"",""indemnify""]",,,,,,,,0
+賦,N1,"[""levy"",""ode"",""prose"",""poem"",""tribute"",""installment""]",,,,,,,,0
+賭,N1,"[""gamble"",""wager"",""bet""]",,,,,,,,0
+購,N1,"[""subscription"",""buy""]",,,,,,,,0
+赦,N1,"[""pardon"",""forgiveness""]",,,,,,,,0
+赳,N1,"[""strong and brave""]",,,,,,,,0
+赴,N1,"[""proceed"",""get"",""become"",""tend""]",,,,,,,,0
+趣,N1,"[""purport"",""gist"",""elegance"",""interest"",""proceed to"",""tend"",""become""]",,,,,,,,0
+距,N1,"[""long-distance"",""spur"",""fetlock""]",,,,,,,,0
+跳,N1,"[""hop"",""leap up"",""spring"",""jerk"",""prance"",""buck"",""splash"",""sputter"",""snap""]",,,,,,,,0
+践,N1,"[""tread"",""step on"",""trample"",""practice"",""carry through""]",,,,,,,,0
+踏,N1,"[""step"",""trample"",""carry through"",""appraise"",""evade payment""]",,,,,,,,0
+踪,N1,"[""remains"",""clue"",""footprint""]",,,,,,,,0
+躍,N1,"[""leap"",""dance"",""skip""]",,,,,,,,0
+軌,N1,"[""rut"",""wheel"",""track"",""model"",""way of doing""]",,,,,,,,0
+軸,N1,"[""axis"",""pivot"",""stem"",""stalk"",""counter for book scrolls""]",,,,,,,,0
+較,N1,"[""contrast"",""compare""]",,,,,,,,0
+載,N1,"[""ride"",""board"",""get on"",""place"",""spread"",""10**44"",""record"",""publish""]",,,,,,,,0
+輔,N1,"[""help""]",,,,,,,,0
+輝,N1,"[""radiance"",""shine"",""sparkle"",""gleam"",""twinkle""]",,,,,,,,0
+輩,N1,"[""comrade"",""fellow"",""people"",""companions""]",,,,,,,,0
+轄,N1,"[""control"",""wedge""]",,,,,,,,0
+辣,N1,"[""pungent"",""spicy"",""harsh"",""cruel"",""severe""]",,,,,,,,0
+辰,N1,"[""sign of the dragon"",""7-9AM"",""fifth sign of Chinese zodiac"",""shin dragon radical (no. 161)""]",,,,,,,,0
+辱,N1,"[""embarrass"",""humiliate"",""shame""]",,,,,,,,0
+迅,N1,"[""swift"",""fast""]",,,,,,,,0
+迪,N1,"[""edify"",""way"",""path""]",,,,,,,,0
+迫,N1,"[""urge"",""force"",""imminent"",""spur on""]",,,,,,,,0
+迭,N1,"[""transfer"",""alternation""]",,,,,,,,0
+透,N1,"[""transparent"",""permeate"",""filter"",""penetrate""]",,,,,,,,0
+逐,N1,"[""pursue"",""drive away"",""chase"",""accomplish"",""attain"",""commit""]",,,,,,,,0
+逓,N1,"[""relay"",""in turn"",""sending""]",,,,,,,,0
+逝,N1,"[""departed"",""die""]",,,,,,,,0
+逮,N1,"[""apprehend"",""chase""]",,,,,,,,0
+逸,N1,"[""deviate"",""idleness"",""leisure"",""miss the mark"",""evade"",""elude"",""parry"",""diverge""]",,,,,,,,0
+遂,N1,"[""consummate"",""accomplish"",""attain"",""commit (suicide)""]",,,,,,,,0
+遇,N1,"[""meet"",""encounter"",""interview"",""treat"",""entertain"",""receive"",""deal with""]",,,,,,,,0
+遍,N1,"[""everywhere"",""times"",""widely"",""generally""]",,,,,,,,0
+遣,N1,"[""dispatch"",""despatch"",""send"",""give"",""donate"",""do"",""undertake""]",,,,,,,,0
+遥,N1,"[""far off"",""distant"",""long ago""]",,,,,,,,0
+遭,N1,"[""encounter"",""meet"",""party"",""association"",""interview"",""join""]",,,,,,,,0
+遮,N1,"[""intercept"",""interrupt"",""obstruct""]",,,,,,,,0
+遵,N1,"[""abide by"",""follow"",""obey"",""learn""]",,,,,,,,0
+遷,N1,"[""transition"",""move"",""change""]",,,,,,,,0
+遺,N1,"[""bequeath"",""leave behind"",""reserve""]",,,,,,,,0
+遼,N1,"[""distant""]",,,,,,,,0
+避,N1,"[""evade"",""avoid"",""avert"",""ward off"",""shirk"",""shun""]",,,,,,,,0
+還,N1,"[""send back"",""return""]",,,,,,,,0
+邑,N1,"[""village"",""rural community"",""right village radical (no. 163)""]",,,,,,,,0
+那,N1,"[""what?""]",,,,,,,,0
+邦,N1,"[""home country"",""country"",""Japan""]",,,,,,,,0
+邪,N1,"[""wicked"",""injustice"",""wrong""]",,,,,,,,0
+邸,N1,"[""residence"",""mansion""]",,,,,,,,0
+郁,N1,"[""cultural progress"",""perfume""]",,,,,,,,0
+郎,N1,"[""son"",""counter for sons""]",,,,,,,,0
+郡,N1,"[""county"",""district""]",,,,,,,,0
+郭,N1,"[""enclosure"",""quarters"",""fortification"",""red-light district""]",,,,,,,,0
+郷,N1,"[""home town"",""village"",""native place"",""district""]",,,,,,,,0
+酉,N1,"[""west"",""bird"",""sign of the bird"",""5-7PM"",""tenth sign of Chinese zodiac"",""sake radical (no. 164)""]",,,,,,,,0
+酌,N1,"[""bar-tending"",""serving sake"",""the host"",""draw (water)"",""ladle"",""scoop"",""pump""]",,,,,,,,0
+酎,N1,"[""sake""]",,,,,,,,0
+酔,N1,"[""drunk"",""feel sick"",""poisoned"",""elated"",""spellbound""]",,,,,,,,0
+酢,N1,"[""vinegar"",""sour"",""acid"",""tart""]",,,,,,,,0
+酪,N1,"[""dairy products"",""whey"",""broth"",""fruit juice""]",,,,,,,,0
+酬,N1,"[""repay"",""reward"",""retribution""]",,,,,,,,0
+酵,N1,"[""fermentation""]",,,,,,,,0
+酷,N1,"[""cruel"",""severe"",""atrocious"",""unjust""]",,,,,,,,0
+酸,N1,"[""acid"",""bitterness"",""sour"",""tart""]",,,,,,,,0
+醒,N1,"[""awake"",""be disillusioned"",""sober up""]",,,,,,,,0
+醜,N1,"[""ugly"",""unclean"",""shame"",""bad looking""]",,,,,,,,0
+醸,N1,"[""brew"",""cause""]",,,,,,,,0
+采,N1,"[""dice"",""form"",""appearance"",""take"",""gather"",""coloring""]",,,,,,,,0
+釈,N1,"[""explanation""]",,,,,,,,0
+里,N1,"[""ri"",""village"",""parent's home"",""league""]",,,,,,,,0
+釣,N1,"[""angling"",""fish"",""catch"",""allure"",""ensnare""]",,,,,,,,0
+鈴,N1,"[""small bell"",""buzzer""]",,,,,,,,0
+鉛,N1,"[""lead""]",,,,,,,,0
+鉢,N1,"[""bowl"",""rice tub"",""pot"",""crown""]",,,,,,,,0
+銃,N1,"[""gun"",""arms""]",,,,,,,,0
+銑,N1,"[""pig iron""]",,,,,,,,0
+銘,N1,"[""inscription"",""signature (of artisan)""]",,,,,,,,0
+銭,N1,"[""coin"","".01 yen"",""money""]",,,,,,,,0
+鋳,N1,"[""casting"",""mint""]",,,,,,,,0
+鋼,N1,"[""steel""]",,,,,,,,0
+錘,N1,"[""weight"",""plumb bob"",""sinker"",""spindle""]",,,,,,,,0
+錠,N1,"[""lock"",""fetters"",""shackles""]",,,,,,,,0
+錦,N1,"[""brocade"",""fine dress"",""honors""]",,,,,,,,0
+錬,N1,"[""tempering"",""refine"",""drill"",""train"",""polish""]",,,,,,,,0
+錮,N1,"[""confinement"",""to tie""]",,,,,,,,0
+錯,N1,"[""confused"",""mix"",""be in disorder""]",,,,,,,,0
+鍛,N1,"[""forge"",""discipline"",""train""]",,,,,,,,0
+鍵,N1,"[""key""]",,,,,,,,0
+鎌,N1,"[""sickle"",""scythe"",""trick""]",,,,,,,,0
+鎖,N1,"[""chain"",""irons"",""connection""]",,,,,,,,0
+鎮,N1,"[""tranquilize"",""ancient peace-preservation centers""]",,,,,,,,0
+鏡,N1,"[""mirror"",""speculum"",""barrel-head"",""round rice-cake offering""]",,,,,,,,0
+鐘,N1,"[""bell"",""gong"",""chimes""]",,,,,,,,0
+鑑,N1,"[""specimen"",""take warning from"",""learn from""]",,,,,,,,0
+閑,N1,"[""leisure""]",,,,,,,,0
+閣,N1,"[""tower"",""tall building"",""palace""]",,,,,,,,0
+閥,N1,"[""clique"",""lineage"",""pedigree"",""faction"",""clan""]",,,,,,,,0
+閲,N1,"[""review"",""inspection"",""revision""]",,,,,,,,0
+闇,N1,"[""get dark"",""gloom"",""disorder""]",,,,,,,,0
+闘,N1,"[""fight"",""war""]",,,,,,,,0
+阜,N1,"[""hill"",""mound"",""left village radical (no. 170)""]",,,,,,,,0
+阪,N1,"[""heights"",""slope""]",,,,,,,,0
+阻,N1,"[""thwart"",""separate from"",""prevent"",""obstruct"",""deter"",""impede""]",,,,,,,,0
+阿,N1,"[""Africa"",""flatter"",""fawn upon"",""corner"",""nook"",""recess""]",,,,,,,,0
+附,N1,"[""affixed"",""attach"",""refer to"",""append""]",,,,,,,,0
+陛,N1,"[""highness"",""steps (of throne)""]",,,,,,,,0
+陣,N1,"[""camp"",""battle array"",""ranks"",""position"",""sudden"",""brief time""]",,,,,,,,0
+陥,N1,"[""collapse"",""fall into"",""cave in"",""fall (castle)"",""slide into""]",,,,,,,,0
+陪,N1,"[""obeisance"",""follow"",""accompany"",""attend on""]",,,,,,,,0
+陰,N1,"[""shade"",""yin"",""negative"",""sex organs"",""secret"",""shadow""]",,,,,,,,0
+陳,N1,"[""exhibit"",""state"",""relate"",""explain""]",,,,,,,,0
+陵,N1,"[""mausoleum"",""imperial tomb"",""mound"",""hill""]",,,,,,,,0
+陶,N1,"[""pottery"",""porcelain""]",,,,,,,,0
+隆,N1,"[""hump"",""high"",""noble"",""prosperity""]",,,,,,,,0
+隊,N1,"[""regiment"",""party"",""company"",""squad""]",,,,,,,,0
+随,N1,"[""follow"",""though"",""notwithstanding"",""while"",""during"",""both"",""all"",""obey"",""submit to"",""comply"",""at the mercy of (the waves)""]",,,,,,,,0
+隔,N1,"[""isolate"",""alternate"",""distance"",""separate"",""gulf""]",,,,,,,,0
+障,N1,"[""hinder"",""hurt"",""harm""]",,,,,,,,0
+隠,N1,"[""conceal"",""hide"",""cover""]",,,,,,,,0
+隣,N1,"[""neighboring""]",,,,,,,,0
+隷,N1,"[""slave"",""servant"",""prisoner"",""criminal"",""follower""]",,,,,,,,0
+隼,N1,"[""falcon""]",,,,,,,,0
+雄,N1,"[""masculine"",""male"",""hero"",""leader"",""superiority"",""excellence""]",,,,,,,,0
+雅,N1,"[""gracious"",""elegant"",""graceful"",""refined""]",,,,,,,,0
+雌,N1,"[""feminine"",""female""]",,,,,,,,0
+雛,N1,"[""chick"",""squab"",""duckling"",""doll""]",,,,,,,,0
+離,N1,"[""detach"",""separation"",""disjoin"",""digress""]",,,,,,,,0
+雰,N1,"[""atmosphere"",""fog""]",,,,,,,,0
+雷,N1,"[""thunder"",""lightning bolt""]",,,,,,,,0
+需,N1,"[""demand"",""request"",""need""]",,,,,,,,0
+霊,N1,"[""spirits"",""soul""]",,,,,,,,0
+霜,N1,"[""frost""]",,,,,,,,0
+霞,N1,"[""be hazy"",""grow dim"",""blurred""]",,,,,,,,0
+霧,N1,"[""fog"",""mist""]",,,,,,,,0
+露,N1,"[""dew"",""tears"",""expose"",""Russia""]",,,,,,,,0
+靖,N1,"[""peaceful""]",,,,,,,,0
+鞠,N1,"[""ball""]",,,,,,,,0
+韓,N1,"[""Korea""]",,,,,,,,0
+韻,N1,"[""rhyme"",""elegance"",""tone""]",,,,,,,,0
+響,N1,"[""echo"",""sound"",""resound"",""ring"",""vibrate""]",,,,,,,,0
+項,N1,"[""paragraph"",""nape of neck"",""clause"",""item"",""term (expression)""]",,,,,,,,0
+須,N1,"[""ought"",""by all means"",""necessarily""]",,,,,,,,0
+頌,N1,"[""eulogy""]",,,,,,,,0
+頑,N1,"[""stubborn"",""foolish"",""firmly""]",,,,,,,,0
+頒,N1,"[""distribute"",""disseminate"",""partition"",""understand""]",,,,,,,,0
+頓,N1,"[""suddenly"",""immediately"",""in a hurry"",""arrange"",""stay in place"",""bow"",""kowtow""]",,,,,,,,0
+頰,N1,"[""cheeks"",""jaw""]",,,,,,,,0
+頻,N1,"[""repeatedly"",""recur""]",,,,,,,,0
+顎,N1,"[""jaw"",""chin"",""gill""]",,,,,,,,0
+顕,N1,"[""appear"",""existing""]",,,,,,,,0
+顧,N1,"[""look back"",""review"",""examine oneself"",""turn around""]",,,,,,,,0
+颯,N1,"[""sudden"",""quick"",""sound of the wind""]",,,,,,,,0
+飢,N1,"[""hungry"",""starve""]",,,,,,,,0
+飼,N1,"[""domesticate"",""raise"",""keep"",""feed""]",,,,,,,,0
+飽,N1,"[""sated"",""tired of"",""bored"",""satiate""]",,,,,,,,0
+飾,N1,"[""decorate"",""ornament"",""adorn"",""embellish""]",,,,,,,,0
+養,N1,"[""foster"",""bring up"",""rear"",""develop"",""nurture""]",,,,,,,,0
+餓,N1,"[""starve"",""hungry"",""thirst""]",,,,,,,,0
+馨,N1,"[""fragrant"",""balmy"",""favourable""]",,,,,,,,0
+駄,N1,"[""burdensome"",""pack horse"",""horse load"",""send by horse"",""trivial"",""worthless""]",,,,,,,,0
+駆,N1,"[""drive"",""run"",""gallop"",""advance"",""inspire"",""impel""]",,,,,,,,0
+駒,N1,"[""pony"",""horse"",""colt""]",,,,,,,,0
+駿,N1,"[""a good horse"",""speed"",""a fast person""]",,,,,,,,0
+騎,N1,"[""equestrian"",""riding on horses"",""counter for equestrians""]",,,,,,,,0
+騒,N1,"[""boisterous"",""make noise"",""clamor"",""disturb"",""excite""]",,,,,,,,0
+騰,N1,"[""leaping up"",""jumping up"",""rising"",""advancing"",""going""]",,,,,,,,0
+驚,N1,"[""wonder"",""be surprised"",""frightened"",""amazed""]",,,,,,,,0
+骸,N1,"[""bone"",""body"",""corpse""]",,,,,,,,0
+髄,N1,"[""marrow"",""pith"",""essence""]",,,,,,,,0
+鬱,N1,"[""gloom"",""depression"",""melancholy"",""luxuriant""]",,,,,,,,0
+鬼,N1,"[""ghost"",""devil""]",,,,,,,,0
+魁,N1,"[""charging ahead of others""]",,,,,,,,0
+魂,N1,"[""soul"",""spirit""]",,,,,,,,0
+魅,N1,"[""fascination"",""charm"",""bewitch""]",,,,,,,,0
+魔,N1,"[""witch"",""demon"",""evil spirit""]",,,,,,,,0
+鮎,N1,"[""freshwater trout"",""smelt""]",,,,,,,,0
+鮮,N1,"[""fresh"",""vivid"",""clear"",""brilliant"",""Korea""]",,,,,,,,0
+鯉,N1,"[""carp""]",,,,,,,,0
+鯛,N1,"[""sea bream"",""red snapper""]",,,,,,,,0
+鯨,N1,"[""whale""]",,,,,,,,0
+鳩,N1,"[""pigeon"",""dove""]",,,,,,,,0
+鳳,N1,"[""male mythical bird""]",,,,,,,,0
+鴻,N1,"[""large bird"",""wild goose"",""large"",""great"",""powerful"",""prosperous""]",,,,,,,,0
+鵬,N1,"[""phoenix""]",,,,,,,,0
+鶏,N1,"[""chicken""]",,,,,,,,0
+鶴,N1,"[""crane"",""stork""]",,,,,,,,0
+鷹,N1,"[""hawk""]",,,,,,,,0
+鹿,N1,"[""deer""]",,,,,,,,0
+麗,N1,"[""lovely"",""beautiful"",""graceful"",""resplendent""]",,,,,,,,0
+麟,N1,"[""Chinese unicorn"",""genius"",""giraffe"",""bright"",""shining""]",,,,,,,,0
+麺,N1,"[""noodles"",""wheat flour""]",,,,,,,,0
+麻,N1,"[""hemp"",""flax"",""numb""]",,,,,,,,0
+麿,N1,"[""I"",""you"",""(kokuji)""]",,,,,,,,0
+黎,N1,"[""dark"",""black"",""many""]",,,,,,,,0
+黙,N1,"[""silence"",""become silent"",""stop speaking"",""leave as is""]",,,,,,,,0
+黛,N1,"[""blackened eyebrows""]",,,,,,,,0
+鼓,N1,"[""drum"",""beat"",""rouse"",""muster""]",,,,,,,,0
+𠮟,N1,"[""scold"",""reprove""]",,,,,,,,0

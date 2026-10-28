@@ -1,0 +1,29 @@
+{
+  "version": "1.0.4+5",
+  "content_sha256": "89567839a965caa45fcd08320647434001ce8c3f4b79e93a19b4cd9a0ad50ba7",
+  "original_fields": {
+    "vocab": "unchanged original fields",
+    "kanji": "unchanged original fields",
+    "word_kanji": "unchanged original fields",
+    "examples": "unchanged original fields"
+  },
+  "examples": 13718,
+  "translated": 13718,
+  "methods": {
+    "assistant_ja_ko_review": 506,
+    "google_en_ko_translation": 13212
+  },
+  "additional_correction_entries": 185,
+  "automatic_format_flags": 0,
+  "human_reviewed": 0,
+  "integrity": "ok",
+  "fk_errors": [],
+  "examples_by_level": {
+    "N1": 4848,
+    "N2": 3094,
+    "N3": 3218,
+    "N4": 1238,
+    "N5": 1320
+  },
+  "review_limit": "Automatic formatting and selected Japanese/English semantic checks only. Not a complete semantic or independent human review."
+}

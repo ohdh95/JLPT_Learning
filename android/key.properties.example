@@ -1,0 +1,6 @@
+# Copy to key.properties (ignored by Git). Keep the real keystore outside this repo.
+# Windows example: C:/Users/YOUR_NAME/.jlpt-signing/release.jks
+storeFile=/absolute/private/path/release.jks
+storePassword=REPLACE_WITH_YOUR_PASSWORD
+keyAlias=jlpt-release
+keyPassword=REPLACE_WITH_YOUR_PASSWORD

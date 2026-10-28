@@ -1,0 +1,538 @@
+{
+  "vocab_source_fields_unchanged": true,
+  "examples_source_fields_unchanged": true,
+  "word_kanji_source_fields_unchanged": true,
+  "kanji_source_fields_unchanged": true,
+  "human_reviewed": 0,
+  "component_links": 11182,
+  "content_sha256": "2c3b11e4072106b1cd82487ff14be838e2410e6a27310116e049f10c06e4e989",
+  "before_sha256": "d8dddd3f327b957d69f1cb1c71730748858c9e0af7b1029ab39b5f16ac5be0a5",
+  "ai_priority_gloss_rechecks": 234,
+  "ai_targeted_entry_rechecks": 52,
+  "machine_examples_for_review_only": 13713,
+  "editorial_example_candidate_ids": 242,
+  "korean_examples_pending": 13434,
+  "hanja_unihan_without_match": [
+    {
+      "entity_type": "kanji",
+      "entity_id": "丼",
+      "value": {
+        "hun": "우물",
+        "eum": "정"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://hanjadict.com/hanja/丼"
+      ],
+      "source_character": "丼",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "한국식 훈음 우물 정. 일본어에서는 덮밥·그릇의 뜻으로도 사용."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "伜",
+      "value": {
+        "hun": "백 사람",
+        "eum": "졸"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://klumina.tistory.com/861"
+      ],
+      "source_character": "伜",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "일본에서는 아들의 뜻. 한국 훈음과 일본어 의미를 구별함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "働",
+      "value": {
+        "hun": "일할",
+        "eum": "동"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://www.pagodabook.com/resources/pupload/qrcode/skusku_event/skusku_character_booklet.pdf"
+      ],
+      "source_character": "働",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "일본 국자. 출판사 학습자료의 훈음과 Unihan 한국음 비교."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "凪",
+      "value": {
+        "hun": "그칠",
+        "eum": "지"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://ko.wiktionary.org/wiki/凪"
+      ],
+      "source_character": "凪",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "일본 국자의 한국식 사전 독음. 전통 한국어 상용 한자음으로 오해하지 않도록 주의."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "参",
+      "value": {
+        "hun": "참여할",
+        "eum": "참"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+      ],
+      "source_character": "参",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "噌",
+      "value": {
+        "hun": "시끄러울",
+        "eum": "증"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://hanjadict.com/hanja/%E5%99%8C"
+      ],
+      "source_character": "噌",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "쟁/증의 복수 한국음. 시끄러울 증을 대표로 채택. AI 자료 대조 초안, 독립 사람 검수 미완료."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "崚",
+      "value": {
+        "hun": "험준할",
+        "eum": "릉"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://klumina.tistory.com/595",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+      ],
+      "source_character": "崚",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "libhangul 독음 릉 및 한국어 한자사전의 훈 비교. Unihan에 한국음 없어 교차 대조 미완료."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "抓",
+      "value": {
+        "hun": "긁을",
+        "eum": "조"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://koreanhanja.app/%E6%8A%93"
+      ],
+      "source_character": "抓",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "긁을 조를 대조함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "掴",
+      "value": {
+        "hun": "칠",
+        "eum": "괵"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://ko.wiktionary.org/wiki/%E6%91%91"
+      ],
+      "source_character": "摑",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "摑의 일본 표기. 한국 훈음과 일본어 잡다의 의미를 구별. AI 자료 대조 초안, 독립 사람 검수 미완료.",
+        "일본 표기 掴의 대응 한자 摑를 참조"
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "枠",
+      "value": {
+        "hun": "벚나무",
+        "eum": "화"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://ko.wiktionary.org/wiki/枠"
+      ],
+      "source_character": "枠",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "한국 사전에 제시되는 훈음. 일본어 わく의 틀·테두리라는 뜻과 다름; 국자·자형 충돌 주의."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "枢",
+      "value": {
+        "hun": "지도리",
+        "eum": "추"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+      ],
+      "source_character": "枢",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "残",
+      "value": {
+        "hun": "남을",
+        "eum": "잔"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+      ],
+      "source_character": "残",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "毟",
+      "value": {
+        "hun": "뜯을",
+        "eum": "모"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://klumina.tistory.com/623"
+      ],
+      "source_character": "毟",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "일본 국자의 한국식 자전 표기. 일반 교육한자음으로 인증하지 않음. AI 자료 대조 초안, 독립 사람 검수 미완료."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "涸",
+      "value": {
+        "hun": "마를",
+        "eum": "학"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://zetawiki.com/wiki/%E6%B6%B8"
+      ],
+      "source_character": "涸",
+      "alternatives": [
+        [
+          "마를",
+          "학"
+        ]
+      ],
+      "reading_crosscheck": "mismatch",
+      "notes": [
+        "마를 후/학의 복수 한국음. libhangul 학과 kHangul 후가 다름; 학은 kKorean HAK에도 있으나 불일치 상태를 유지. AI 자료 대조 초안, 독립 사람 검수 미완료."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "瓶",
+      "value": {
+        "hun": "병",
+        "eum": "병"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+      ],
+      "source_character": "瓶",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "禄",
+      "value": {
+        "hun": "녹",
+        "eum": "록"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+      ],
+      "source_character": "禄",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "税",
+      "value": {
+        "hun": "세금",
+        "eum": "세"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+      ],
+      "source_character": "税",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "触",
+      "value": {
+        "hun": "닿을",
+        "eum": "촉"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+      ],
+      "source_character": "触",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "込",
+      "value": {
+        "hun": "담을",
+        "eum": "입"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://zetawiki.com/wiki/담을_입_込"
+      ],
+      "source_character": "込",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "일본 국자의 한국식 사전 독음. 일본어 단어 뜻과 구분."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "雫",
+      "value": {
+        "hun": "물방울",
+        "eum": "하"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://ko.wiktionary.org/wiki/%E9%9B%AB"
+      ],
+      "source_character": "雫",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "일본 국자의 자전식 한국 독음. 놔/하 등 이음 존재; Unicode kHangul 부재. AI 자료 대조 초안, 독립 사람 검수 미완료."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "鱈",
+      "value": {
+        "hun": "대구",
+        "eum": "설"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://www.busan.kr.emb-japan.go.jp/itpr_ko/11_000001_00299.html"
+      ],
+      "source_character": "鱈",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "주부산 일본총영사관의 대구 및 설 독음 설명을 대조함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    },
+    {
+      "entity_type": "kanji",
+      "entity_id": "鹸",
+      "value": {
+        "hun": "소금기",
+        "eum": "감"
+      },
+      "method": "assistant_source_comparison",
+      "sources": [
+        "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+        "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+        "https://krlai.com/255"
+      ],
+      "source_character": "鹼",
+      "alternatives": [],
+      "reading_crosscheck": "not_available",
+      "notes": [
+        "鹼의 일본 표기. 소금기 감을 대조함; Unicode kHangul 부재. AI 자료 대조 초안, 독립 사람 검수 미완료.",
+        "일본 표기 鹸의 대응 한자 鹼를 참조"
+      ],
+      "reviewed": false,
+      "reviewer_type": "automated",
+      "human_review_required": true
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+[
+  {
+    "ja": "危ない！トラックが来るぞ！",
+    "en": "Look out! There's a truck coming!",
+    "ko": "조심해, 트럭이 오고 있어!",
+    "example_id": "0509cb3b27_2",
+    "ko_direct": "트럭이 온다!"
+  },
+  {
+    "ja": "バターが要るんだけど、いくらかありますか。",
+    "en": "I need some butter. Do you have any?",
+    "ko": "버터가 필요해요",
+    "example_id": "7a84208708_2",
+    "ko_direct": "버터가 필요해요, 얼마나 있죠?"
+  },
+  {
+    "ja": "来週までにその詩を暗記しなさい。",
+    "en": "Memorize the poem by next week.",
+    "ko": "다음주까지 시를 외워",
+    "example_id": "f263ebe6ea_2",
+    "ko_direct": "다음 주까지 그 시를 암기해."
+  },
+  {
+    "ja": "彼女は大した詩人ではありません。",
+    "en": "She isn't much of a poet.",
+    "ko": "그녀는 시인이 아니에요",
+    "example_id": "25190a5f67_1",
+    "ko_direct": "그녀는 위대한 시인이 아니에요."
+  },
+  {
+    "ja": "彼はその詩の感想を述べた。",
+    "en": "He gave us his impression of the poem.",
+    "ko": "그는 우리에게 시의 자신의 인상을 주었다.",
+    "example_id": "51d4f339b1_2",
+    "ko_direct": "그는 이 시의 감정을 표현했다."
+  },
+  {
+    "ja": "「じゃんけんね」「ぐー」「ちょ・・パー」「後出しかよ！」",
+    "en": "\"Rock-paper-scissors, OK?\" \"Rock.\" \"Sciss... paper.\" \"You cheated!\"",
+    "ko": "\"바위-종이-가위, 알았지?\" \"바위.\" \"스키스... 종이.\"",
+    "example_id": "840d4d6a90_1",
+    "ko_direct": "너무 늦었어요, 너무 늦었어요, 너무 늦었어요, 너무 늦었다고 말해주세요."
+  },
+  {
+    "ja": "やだストッキング伝線しちゃってる。",
+    "en": "Fudge! My stocking's run.",
+    "ko": "퍼지, 내 스타킹이 빠졌어",
+    "example_id": "5610f4c4d8_2",
+    "ko_direct": "너무 긴장해서요"
+  },
+  {
+    "ja": "おかしいな、スピーカーがガーガーいってるよ。",
+    "en": "That's funny. The speaker is crackling.",
+    "ko": "웃기네 스피커가 터지는군",
+    "example_id": "9ece254a41_1",
+    "ko_direct": "웃기네, 스피커가 가르거리는데"
+  },
+  {
+    "ja": "詩歌とは、詩や短歌のことです。",
+    "en": "Shika are verses and 31-syllable poems.",
+    "ko": "시카는 구절과 31개의 음절로 이루어져 있다.",
+    "example_id": "873a4f5e09_1",
+    "ko_direct": "시(詩)는 시나 짧은 노래를 말한다."
+  },
+  {
+    "ja": "その詩は韻文に散文をまじえている。",
+    "en": "That poem mixes prose with poetry.",
+    "ko": "그 시는 산문과 시를 섞은 거야",
+    "example_id": "fcb506d21f_2",
+    "ko_direct": "이 곡은 리듬에 맞춰서 쓰여졌다."
+  },
+  {
+    "ja": "彼はその詩を一本調子で朗読した。",
+    "en": "He read the poem in a monotone.",
+    "ko": "그는 단조로운 시를 읽었다.",
+    "example_id": "3b514433e9_1",
+    "ko_direct": "그는 이 시를 1편의 곡으로 편곡하였다."
+  },
+  {
+    "ja": "もうスミスさんに会われましたね。",
+    "en": "You've met Mr. Smith already, haven't you?",
+    "ko": "이미 스미스 씨를 만났잖아요?",
+    "example_id": "ada066edfd_1",
+    "ko_direct": "이미 스미스 씨를 만났잖아요."
+  },
+  {
+    "ja": "じゃあパーティーで会いましょう。",
+    "en": "See you at the party.",
+    "ko": "파티에서 보자",
+    "example_id": "ada066edfd_2",
+    "ko_direct": "파티에서 만나요"
+  },
+  {
+    "ja": "信号が青に変わったわよ。",
+    "en": "The traffic light turned green.",
+    "ko": "신호등이 녹색으로 바뀌었습니다.",
+    "example_id": "ebec658463_1",
+    "ko_direct": "신호가 파란색으로 바뀌었어요."
+  },
+  {
+    "ja": "夏の通学服は白と青のチェックです。",
+    "en": "My summer school dress is blue and white checkered.",
+    "ko": "내 여름 학교 드레스는 파란색과 흰색 체크 무늬입니다.",
+    "example_id": "ebec658463_2",
+    "ko_direct": "여름 학교 유니폼은 하얀색과 파란색의 체크입니다."
+  },
+  {
+    "ja": "お前はまだ「青い」な。",
+    "en": "You're still green.",
+    "ko": "아직 초록색이야",
+    "example_id": "51a671ec17_1",
+    "ko_direct": "너는 아직도 '푸른'이야."
+  },
+  {
+    "ja": "なぜ空が青いか知っているか。",
+    "en": "Do you know why the sky is blue?",
+    "ko": "하늘이 왜 파란색인지 아세요?",
+    "example_id": "51a671ec17_2",
+    "ko_direct": "하늘이 왜 파란색인지 알아?"
+  },
+  {
+    "ja": "赤インクで書いてはいけない。",
+    "en": "Don't write in red ink.",
+    "ko": "빨간색 잉크로 쓰지 마세요.",
+    "example_id": "2dacb910b2_1",
+    "ko_direct": "빨간색 잉크로 쓰면 안된다."
+  },
+  {
+    "ja": "その家は赤レンガづくりです。",
+    "en": "The house is built of red bricks.",
+    "ko": "집은 빨간 벽돌로 지어졌습니다.",
+    "example_id": "2dacb910b2_2",
+    "ko_direct": "집은 붉은 벽돌로 지어졌다."
+  },
+  {
+    "ja": "彼女は赤いスカートをはいていた。",
+    "en": "She was wearing a red skirt.",
+    "ko": "그녀는 빨간 스커트를 입고 있었다.",
+    "example_id": "44ba38cf8b_1",
+    "ko_direct": "그녀는 빨간 스커트를 입고 있었어요."
+  },
+  {
+    "ja": "その国は気候が温和だ。",
+    "en": "That country has a mild climate.",
+    "ko": "그 나라는 온화한 기후가 있어요.",
+    "example_id": "00077af4b5_1",
+    "ko_direct": "그 나라는 기후가 온화하다."
+  },
+  {
+    "ja": "当地の気候は英国と非常に似ている。",
+    "en": "The climate here is very similar to that of England.",
+    "ko": "이곳의 기후는 영국과 매우 비슷합니다.",
+    "example_id": "00077af4b5_2",
+    "ko_direct": "영국의 환경은 미국과 비슷하다."
+  },
+  {
+    "ja": "遅くとも午前０時までには家に帰る。",
+    "en": "I'll be home by midnight at the latest.",
+    "ko": "최대한 자정까지 집에 있을게요",
+    "example_id": "000e220ab0_1",
+    "ko_direct": "늦어도 오전 0시까지는 집에 가야 한다."
+  },
+  {
+    "ja": "遅くともやらないよりはまし。",
+    "en": "Better late than never.",
+    "ko": "늦은 게 좋아",
+    "example_id": "000e220ab0_2",
+    "ko_direct": "늦게 하는 것이 낫다."
+  },
+  {
+    "ja": "彼女はせっせと編み物に精を出していた。",
+    "en": "She was busy with her knitting.",
+    "ko": "그녀는 뜨개질로 바빴다.",
+    "example_id": "796332c2c7_1",
+    "ko_direct": "그는 화려한 옷차림으로 화제를 모았다."
+  },
+  {
+    "ja": "彼はせっせと試験準備をしている。",
+    "en": "He is busy preparing for the examination.",
+    "ko": "그는 시험을 준비하는 데 바쁘다.",
+    "example_id": "0011c40f28_2",
+    "ko_direct": "그는 꼭 시험을 준비하고 있다."
+  },
+  {
+    "ja": "男の子のいたずらはしょうがない。",
+    "en": "Boys will be boys.",
+    "ko": "남자는 남자다.",
+    "example_id": "6f664d3ded_2",
+    "ko_direct": "남자 아이의 농담은 괜찮아."
+  },
+  {
+    "ja": "今回はあきらめな。しょうがないよ。",
+    "en": "Give up on this one. You're wasting your time.",
+    "ko": "이건 포기해 시간 낭비야",
+    "example_id": "37bb355b59_2",
+    "ko_direct": "이번엔 포기하지 마세요."
+  },
+  {
+    "ja": "今年もよい年でありますように。",
+    "en": "May the new year bring you happiness!",
+    "ko": "새해가 당신에게 행복을 가져올 수 있습니다!",
+    "example_id": "0020b9ee4e_1",
+    "ko_direct": "올해도 좋은 해가 되길 바랍니다."
+  },
+  {
+    "ja": "今年の六月はあまり雨の日がなかった。",
+    "en": "There were not many rainy days in June this year.",
+    "ko": "올해 6월에는 비가 많이 오지 않았습니다.",
+    "example_id": "0020b9ee4e_2",
+    "ko_direct": "올해 6월은 비가 많이 오지 않았다."
+  },
+  {
+    "ja": "とりわけ子供たちは愛情を必要とする。",
+    "en": "Above all, children need love.",
+    "ko": "무엇보다도, 아이들은 사랑이 필요합니다.",
+    "example_id": "0cb7e80d4c_1",
+    "ko_direct": "특히 어린이들은 사랑을 필요로 한다."
+  },
+  {
+    "ja": "彼女は旅行がとりわけ好きである。",
+    "en": "She likes traveling best of all.",
+    "ko": "그녀는 여행을 가장 좋아합니다.",
+    "example_id": "00214393d1_2",
+    "ko_direct": "그녀는 특히 여행을 좋아한다."
+  },
+  {
+    "ja": "彼女は私に自分の決意を知らせてくれた。",
+    "en": "She informed me of her decision.",
+    "ko": "그녀는 나에게 그녀의 결정을 알렸다.",
+    "example_id": "0023032732_1",
+    "ko_direct": "그녀는 나에게 자신의 결심을 알려주었다."
+  },
+  {
+    "ja": "父と話し合って、転職を決意した。",
+    "en": "I discussed it with my father and decided to change my job.",
+    "ko": "아버지와 이야기를 나누고 직업을 바꾸기로 결정했습니다.",
+    "example_id": "cc409e931a_2",
+    "ko_direct": "그는 아버지와 함께 직업을 바꾸기로 결심했다."
+  },
+  {
+    "ja": "彼女に愛着があって離れられない。",
+    "en": "I am attached to her.",
+    "ko": "나는 그녀에게 매료되어 있습니다.",
+    "example_id": "0024055e8e_1",
+    "ko_direct": "그녀를 사랑하고 있으며 떠나지 않는다."
+  },
+  {
+    "ja": "彼は東京を離れて京都に向かった。",
+    "en": "He left Tokyo for Kyoto.",
+    "ko": "그는 도쿄를 떠나 교토로 갔다.",
+    "example_id": "0024055e8e_2",
+    "ko_direct": "그는 도쿄를 떠나 교토로 향했다."
+  },
+  {
+    "ja": "水と石油は共に液体である。",
+    "en": "Water and oil are both liquids.",
+    "ko": "물과 기름은 모두 액체입니다.",
+    "example_id": "002731ca75_1",
+    "ko_direct": "물과 석유는 모두 액체이다."
+  },
+  {
+    "ja": "水は液体である。凍ると固体になる。",
+    "en": "Water is liquid. When it freezes, it becomes solid.",
+    "ko": "물은 액체이고, 얼면 고체가 됩니다.",
+    "example_id": "002731ca75_2",
+    "ko_direct": "물은 액체이고, 얼면 고체가 됩니다."
+  },
+  {
+    "ja": "政府は国産品の愛用を奨励している。",
+    "en": "The government is promoting the use of home products.",
+    "ko": "정부는 가정 제품의 사용을 촉진하고 있습니다.",
+    "example_id": "002ee4fb5a_1",
+    "ko_direct": "정부는 국산품의 사랑을 장려하고 있다."
+  },
+  {
+    "ja": "私たちの学校ではスポーツを奨励している。",
+    "en": "Our school encourages sports.",
+    "ko": "우리 학교는 스포츠를 장려합니다.",
+    "example_id": "002ee4fb5a_2",
+    "ko_direct": "우리 학교에서는 스포츠를 장려하고 있다."
+  },
+  {
+    "ja": "そろそろ寝る時間だぞ。",
+    "en": "It's time you went to bed.",
+    "ko": "잠들 시간이야",
+    "example_id": "0039e17a55_1",
+    "ko_direct": "잠자리에 들어야겠어"
+  },
+  {
+    "ja": "もうそろそろ出発の時間です。",
+    "en": "It's about time to start.",
+    "ko": "이제 시작할 시간이야",
+    "example_id": "0039e17a55_2",
+    "ko_direct": "곧 출발할 시간이야"
+  },
+  {
+    "ja": "事故は不注意から生じる。",
+    "en": "Accidents arise from carelessness.",
+    "ko": "사고는 부주의로 인해 발생합니다.",
+    "example_id": "00598d28f9_1",
+    "ko_direct": "사고는 주의력 결핍으로 인한 것이다."
+  },
+  {
+    "ja": "病気はしばしば飲みすぎから生じる。",
+    "en": "Illness often results from drinking too much.",
+    "ko": "질병은 종종 너무 많이 마시는 결과입니다.",
+    "example_id": "00598d28f9_2",
+    "ko_direct": "술은 종종 음주로 인해 발생한다."
+  },
+  {
+    "ja": "あの長髪の青年は粗野だ。",
+    "en": "That long-haired youth is rude.",
+    "ko": "그 긴 머리를 가진 청년은 무례합니다.",
+    "example_id": "005faaf9cf_1",
+    "ko_direct": "긴 머리카락을 가진 소년은 거칠다."
+  },
+  {
+    "ja": "その青年はその地位にうってつけだ。",
+    "en": "The young man is quite suited for the position.",
+    "ko": "그 젊은이는 이 자리에 아주 적합합니다.",
+    "example_id": "005faaf9cf_2",
+    "ko_direct": "그 젊은이는 그 자리에 앉아있었다."
+  },
+  {
+    "ja": "その公演は万雷の拍手を受けた。",
+    "en": "The performance was received with applause.",
+    "ko": "이 공연은 박수로 받아들여졌다.",
+    "example_id": "00612a587a_1",
+    "ko_direct": "이 공연은 큰 박수를 받았다."
+  },
+  {
+    "ja": "観客はその女優に拍手を送った。",
+    "en": "The audience applauded the actress.",
+    "ko": "관객들은 배우에게 박수를 보냈다.",
+    "example_id": "00612a587a_2",
+    "ko_direct": "관객들은 그 배우에게 박수를 보냈다."
+  },
+  {
+    "ja": "北極圏とは北極周辺の地域の事である。",
+    "en": "The Arctic is the area round the North Pole.",
+    "ko": "북극은 북극을 중심으로 한 지역이다.",
+    "example_id": "008afba684_1",
+    "ko_direct": "북극권(北極圈)은 북극 주변의 지역을 말한다."
+  },
+  {
+    "ja": "ケイトのお父さんは家の周辺にいる。",
+    "en": "Kate's father is about the house.",
+    "ko": "케이트의 아버지가 집에 대해서",
+    "example_id": "008afba684_2",
+    "ko_direct": "케이트의 아버지는 집 주변에 있어요."
+  },
+  {
+    "ja": "最近食欲がないんです。",
+    "en": "Recently I have had no appetite.",
+    "ko": "최근에는 식욕이 없어졌습니다.",
+    "example_id": "009a4011b8_1",
+    "ko_direct": "요즘 식욕이 없어요."
+  },
+  {
+    "ja": "彼は運動不足であまり食欲がない。",
+    "en": "He has little appetite for lack of exercise.",
+    "ko": "그는 운동 부족으로 인해 식욕이 거의 없습니다.",
+    "example_id": "009a4011b8_2",
+    "ko_direct": "운동이 부족해서 식욕이 없다."
+  },
+  {
+    "ja": "このごろは子供は学校で泳ぎを習う。",
+    "en": "Children learn to swim in school today.",
+    "ko": "아이들은 오늘날 학교에서 수영을 배웁니다.",
+    "example_id": "009c03bfe9_1",
+    "ko_direct": "이때 아이들은 학교에서 수영을 배운다."
+  },
+  {
+    "ja": "彼は泳ぎをこわがっている。",
+    "en": "He is afraid of swimming.",
+    "ko": "수영을 무서워한다.",
+    "example_id": "009c03bfe9_2",
+    "ko_direct": "그는 수영을 즐긴다."
+  },
+  {
+    "ja": "委員会は８名から構成されている。",
+    "en": "The committee consists of eight members.",
+    "ko": "위원회는 8명의 위원으로 구성된다.",
+    "example_id": "009cdbf36f_1",
+    "ko_direct": "위원회는 8명으로 구성되어 있다."
+  },
+  {
+    "ja": "これらのものがバランスのとれた食事を構成する。",
+    "en": "These things constitute a balanced meal.",
+    "ko": "이러한 것들은 균형 잡힌 식사를 구성합니다.",
+    "example_id": "009cdbf36f_2",
+    "ko_direct": "이러한 식물들은 균형 있는 식사를 구성한다."
+  },
+  {
+    "ja": "ボーイさん、コーヒー３つください。",
+    "en": "Waiter, three coffees, please.",
+    "ko": "웨이터, 커피 세잔 주세요",
+    "example_id": "b36b221d33_2",
+    "ko_direct": "커피 세잔 주세요"
+  },
+  {
+    "ja": "私はボーイがやってくるのを見た。",
+    "en": "I saw a bellman coming along.",
+    "ko": "종소리가 나는걸 보았어요",
+    "example_id": "00b4506e25_2",
+    "ko_direct": "나는 소년이 오는 것을 보았다."
+  },
+  {
+    "ja": "ここへ来る途中、風が強すぎて僕の傘は裏返しになってしまった。",
+    "en": "On my way here, the strong wind blew my umbrella inside out.",
+    "ko": "여기 오는 길에 강풍이 우산을 날려버렸어요",
+    "example_id": "00b65e54a4_1",
+    "ko_direct": "이곳에 오는 도중, 바람이 너무 강해서 내 우산은 뒤집어졌다."
+  },
+  {
+    "ja": "レコードが終わった。裏返しにしてくれ。",
+    "en": "The record is finished. Turn it over.",
+    "ko": "레코드는 끝났어요 뒤집어보세요",
+    "example_id": "00b65e54a4_2",
+    "ko_direct": "레코드가 다 됐어요."
+  },
+  {
+    "ja": "彼はとてもその仕事が勤まらなかった。",
+    "en": "He fell lamentably short of his duty.",
+    "ko": "그러나 그는 임무를 수행하는데 실패하였다.",
+    "example_id": "00c77c36b3_1",
+    "ko_direct": "그는 별로 그 일을 하지 않았다."
+  },
+  {
+    "ja": "その救助投手でエースの代わりはとても務まらなかった。",
+    "en": "The relief pitcher was no substitute for the ace.",
+    "ko": "그러나 에스파냐의 왕위 계승자는 아르눌프가 아니었다.",
+    "example_id": "00c77c36b3_2",
+    "ko_direct": "이 에피소드에서 에이스의 대신으로 나오는 등 별다른 역할을 하지 않았다."
+  },
+  {
+    "ja": "あのビルの屋上からの展望はすばらしかった。",
+    "en": "The view from the top of that building was magnificent.",
+    "ko": "그 건물 꼭대기에서 바라본 전망은 아름다웠습니다.",
+    "example_id": "00f9ac5fce_1",
+    "ko_direct": "그 건물의 지붕에서의 전망은 멋졌어요."
+  },
+  {
+    "ja": "会社での彼の今後の展望はあまり明るくない。",
+    "en": "His career prospects at the company are not too promising.",
+    "ko": "회사에서 그의 경력 전망은 너무 유망하지 않습니다.",
+    "example_id": "00f9ac5fce_2",
+    "ko_direct": "그의 앞으로의 행보는 그리 밝지 않았다."
+  },
+  {
+    "ja": "警官は青いユニフォームを着ている。",
+    "en": "Police officers wear blue uniforms.",
+    "ko": "경찰관은 파란색 유니폼을 입는다.",
+    "example_id": "0101791a03_1",
+    "ko_direct": "경찰관은 파란색 유니폼을 입고 있다."
+  },
+  {
+    "ja": "リフォームに結構お金がかかった。",
+    "en": "I spent a lot of money remodeling my house.",
+    "ko": "집을 개조하는데 많은 돈을 썼어요",
+    "example_id": "0101791a03_2",
+    "ko_direct": "리메이크에 비해 돈이 많이 들었다."
+  },
+  {
+    "ja": "あの山の頂上は平らだ。",
+    "en": "The top of that mountain is flat.",
+    "ko": "그 산의 정상은 평평하다.",
+    "example_id": "010f5bf635_1",
+    "ko_direct": "산의 정상은 평평하다."
+  },
+  {
+    "ja": "彼らは地球が平らであると信じた。",
+    "en": "They believed that the earth was flat.",
+    "ko": "그들은 지구가 평평하다고 믿었습니다.",
+    "example_id": "c53be2d952_2",
+    "ko_direct": "그들은 지구가 평평하다고 믿었다."
+  },
+  {
+    "ja": "彼のスラックスはしわくちゃだ。",
+    "en": "His slacks are all wrinkled.",
+    "ko": "그의 팬츠는 모두 주름이 났어요.",
+    "example_id": "01106fe229_1",
+    "ko_direct": "그의 바지는 엉망이야."
+  },
+  {
+    "ja": "東京駅で列車を乗り換えなさい。",
+    "en": "Change trains at Tokyo Station.",
+    "ko": "도쿄역에서 열차를 탈 수 있습니다.",
+    "example_id": "0114521256_1",
+    "ko_direct": "도쿄 역에서 열차를 탈 수 있다."
+  },
+  {
+    "ja": "私は東京駅で電車を乗り換えた。",
+    "en": "I changed trains at Tokyo Station.",
+    "ko": "도쿄역에서 열차를 갈아탔습니다.",
+    "example_id": "0114521256_2",
+    "ko_direct": "나는 도쿄 역에서 기차를 탈렸어요."
+  },
+  {
+    "ja": "故人をしのんで、記念碑が建てられた。",
+    "en": "A monument was erected in memory of the deceased.",
+    "ko": "사망자의 기념비가 세워졌다.",
+    "example_id": "0114b5768e_1",
+    "ko_direct": "그의 죽음을 기념하여 기념비가 세워졌다."
+  },
+  {
+    "ja": "彼はひざまずいて故人の霊に祈りをささげた。",
+    "en": "He got down on his knees and prayed for the souls of the deceased.",
+    "ko": "그는 무릎을 꿇고 사망자들의 영혼을 위해 기도했습니다.",
+    "example_id": "0114b5768e_2",
+    "ko_direct": "그는 무릎을 꿇고 사망자의 영혼을 위해 기도했다."
+  },
+  {
+    "ja": "それ以来、彼の消息を聞いていない。",
+    "en": "He has not been heard of since.",
+    "ko": "이후 그의 소식은 전해지지 않았다.",
+    "example_id": "0117a16846_1",
+    "ko_direct": "그 이후로는 그의 행적에 대해 알려진 바가 없다."
+  },
+  {
+    "ja": "あの人はアメリカへ立ったまま消息がない。",
+    "en": "Nothing has been heard from him since he left for America.",
+    "ko": "그가 미국을 떠난 이후로는 아무 소식이 없습니다.",
+    "example_id": "0117a16846_2",
+    "ko_direct": "그는 미국에 머물면서도 별다른 활동을 하지 않았다."
+  },
+  {
+    "ja": "ゲンドウがこの件に関与していたとしても不思議ではない。",
+    "en": "It is no wonder to me that Gendou has something to do with.",
+    "ko": "겐도우가 뭔가 관련이 있다는 건 나한테는 이상하지 않아",
+    "example_id": "012a1c2c8f_1",
+    "ko_direct": "겐도가 이 사건에 관여했다고 해도 이상하지 않다."
+  },
+  {
+    "ja": "ボブはその計画には関与しなかった。",
+    "en": "Bob wasn't in on the plan.",
+    "ko": "밥은 계획에 없었어요",
+    "example_id": "012a1c2c8f_2",
+    "ko_direct": "밥은 그 계획에 관여하지 않았다."
+  },
+  {
+    "ja": "このメッセージは意味をなさない。",
+    "en": "This message doesn't make sense.",
+    "ko": "이 메시지는 의미가 없습니다.",
+    "example_id": "012f6788c4_1",
+    "ko_direct": "이 메시지는 의미가 없습니다."
+  },
+  {
+    "ja": "メッセージをもう一度読みなさい。",
+    "en": "Read the message once more.",
+    "ko": "메시지를 다시 한번 읽어보세요.",
+    "example_id": "012f6788c4_2",
+    "ko_direct": "메시지를 다시 읽어보세요."
+  },
+  {
+    "ja": "両親は二人ともまだ生きています。",
+    "en": "Both the parents are still living.",
+    "ko": "부모님 둘 다 아직 살아있어요",
+    "example_id": "0139a208fe_1",
+    "ko_direct": "부모님은 둘 다 아직 살아있어요."
+  },
+  {
+    "ja": "両親とも生きているわけではない。",
+    "en": "Neither of my parents is alive.",
+    "ko": "부모님은 살아계시지 않아요",
+    "example_id": "0139a208fe_2",
+    "ko_direct": "부모님도 살아계신 게 아니에요."
+  },
+  {
+    "ja": "少年は物音に震えた。",
+    "en": "The boy quivered at the sound.",
+    "ko": "소년은 그 소리에 떨렸다.",
+    "example_id": "29031b2ba5_1",
+    "ko_direct": "소년은 놀라서 떨었다."
+  },
+  {
+    "ja": "その物音で読書の気をそらされた。",
+    "en": "That sound distracted my attention from reading.",
+    "ko": "그 소리가 읽는 것에서 제 주의를 산만하게 했어요.",
+    "example_id": "013c3a92d2_2",
+    "ko_direct": "이 소리에 책을 읽는 마음이 멀어졌다."
+  },
+  {
+    "ja": "美の認識は倫理の検査となり得る。",
+    "en": "The perception of beauty is a moral test.",
+    "ko": "아름다움의 인식은 도덕적 시험이다.",
+    "example_id": "013e8ffafb_1",
+    "ko_direct": "윤리학의 목적은 윤리적 판단을 가능하게 하는 것이다."
+  },
+  {
+    "ja": "世界は彼を認識していなかった。",
+    "en": "The world did not recognize him.",
+    "ko": "세상은 그를 알지 못하였습니다.",
+    "example_id": "013e8ffafb_2",
+    "ko_direct": "세계는 그를 인식하지 못했다."
+  },
+  {
+    "ja": "彼は４歳と１歳の２児の父親だ。",
+    "en": "He has two children, aged 4 and 1.",
+    "ko": "그에게는 4살과 1살의 두 아이가 있다.",
+    "example_id": "013f46c118_1",
+    "ko_direct": "그는 4살과 1살의 두 아이의 아버지이다."
+  },
+  {
+    "ja": "その子は母親に甘えた。",
+    "en": "The child played the baby to his mother.",
+    "ko": "그 아이는 어머니에게 아기를 연기했다.",
+    "example_id": "013f46c118_2",
+    "ko_direct": "그는 어머니에게 충성을 다했다."
+  },
+  {
+    "ja": "あいにく店は閉まっていた。",
+    "en": "Unfortunately, the store was closed.",
+    "ko": "불행히도, 가게는 닫혔습니다.",
+    "example_id": "01420cdf0f_1",
+    "ko_direct": "불행히도 가게는 닫혀 있었어요."
+  },
+  {
+    "ja": "ドアが閉まっていたので、入ることが出来なかった。",
+    "en": "The door was locked, so I couldn't get in.",
+    "ko": "문이 잠겨 있어서 들어갈 수 없었어요",
+    "example_id": "01420cdf0f_2",
+    "ko_direct": "문이 닫혀 있었기 때문에 들어갈 수 없었다."
+  },
+  {
+    "ja": "あのデパートで新しいコートを買いたい。",
+    "en": "I would like to buy a new coat at that department store.",
+    "ko": "저는 그 백화점에서 새 코트를 사고 싶어요.",
+    "example_id": "0144505953_1",
+    "ko_direct": "저 백화점에서 새 코트를 사고 싶어요."
+  },
+  {
+    "ja": "そのデパートの前に書店がある。",
+    "en": "There is a bookstore in front of the department store.",
+    "ko": "백화점 앞에 서점이 있습니다.",
+    "example_id": "0144505953_2",
+    "ko_direct": "앞에 도서관이 있다."
+  },
+  {
+    "ja": "団地も昔と変わっていなかった。",
+    "en": "Even the apartment buildings were the same as they used to be.",
+    "ko": "심지어 아파트 건물은 그들이 예전과 같았다.",
+    "example_id": "01471202a4_1",
+    "ko_direct": "집안은 예전과는 달랐다."
+  },
+  {
+    "ja": "公園を囲む団地からは明かりが漏れている。",
+    "en": "Light escaped from the apartment complex surrounding the park.",
+    "ko": "공원을 둘러싼 아파트 단지에서 빛이 탈출했다.",
+    "example_id": "01471202a4_2",
+    "ko_direct": "공원을 둘러싼 단지에서는 빛이 흘러나온다."
+  },
+  {
+    "ja": "子供にだってそんな事は分かるよ。",
+    "en": "Even children can understand it.",
+    "ko": "심지어 아이들도 이해할 수 있습니다.",
+    "example_id": "01558111d1_1",
+    "ko_direct": "어린이도 이해할 수 있을 거야"
+  },
+  {
+    "ja": "それは君だってまちがいっこない。",
+    "en": "You can't mistake it.",
+    "ko": "틀릴 수 없어요",
+    "example_id": "01558111d1_2",
+    "ko_direct": "그것도 너에게는 아무런 문제가 없다."
+  },
+  {
+    "ja": "彼は本棚に本をでたらめに入れた。",
+    "en": "He put the books on the shelf out of order.",
+    "ko": "그는 선반에 책들을 순서대로 놓지 않았어요.",
+    "example_id": "015a7731d2_1",
+    "ko_direct": "그는 책장에 책을 놓아두었어요."
+  }
+]

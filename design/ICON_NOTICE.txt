@@ -1,0 +1,4 @@
+App icon artwork: Japanese Mastery (일본어 완전정복), 2026.
+The あ outline is derived from Noto Sans CJK JP Bold, licensed under SIL Open Font License 1.1.
+The installed font package copyright/license is preserved in NOTO_FONT_LICENSE.txt.
+The SVG embeds paths and requires no font at runtime.

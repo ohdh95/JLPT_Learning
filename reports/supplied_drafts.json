@@ -1,0 +1,17 @@
+{
+  "source": "User-provided v1.4 sample DB",
+  "transfer_rule": "Exact word surface+reading or kanji character; always draft",
+  "current_status_counts": {
+    "word": {
+      "draft": 17,
+      "not_provided": 7794
+    },
+    "kanji": {
+      "draft": 15,
+      "not_provided": 2368
+    },
+    "example": {
+      "not_provided": 13718
+    }
+  }
+}

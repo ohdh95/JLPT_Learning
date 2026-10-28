@@ -1,0 +1,13 @@
+{
+  "jmdict_entries_scanned": 218969,
+  "words_compared": 7811,
+  "status": {
+    "direct_verified": 7788,
+    "not_found": 21,
+    "id_conflict": 2
+  },
+  "jmdict_sha256": "aacc8703771759ad302f01199db13e83043fdf8cabb2357df742e9e758e8aa8d",
+  "integrity": "ok",
+  "fixture_only": false,
+  "limitations": "Verified surface/kana/JMdict ID only. Korean translations, hun/eum, sense and example quality still pending."
+}

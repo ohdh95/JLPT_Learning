@@ -1,0 +1,61 @@
+{
+  "words": 7811,
+  "kanji": 2542,
+  "kanji_catalog": 2383,
+  "kanji_supplemental": 159,
+  "examples": 13718,
+  "direct_jmdict_verified": 7788,
+  "upstream_jmdict_linked_only": 0,
+  "korean_word_meaning_reviewed": 0,
+  "korean_hanja_reviewed": 0,
+  "korean_examples_reviewed": 0,
+  "korean_word_meaning_filled": 7811,
+  "korean_hanja_filled": 2542,
+  "korean_examples_filled": 13718,
+  "word_components_missing_huneum": 0,
+  "source_review_issues": 338,
+  "sql_integrity": "ok",
+  "foreign_key_errors": 0,
+  "vocab_by_level": {
+    "N1": 3070,
+    "N2": 1778,
+    "N3": 1659,
+    "N4": 630,
+    "N5": 674
+  },
+  "kanji_by_level": {
+    "N1": 1345,
+    "N2": 398,
+    "N3": 387,
+    "N4": 169,
+    "N5": 84
+  },
+  "korean_meanings_by_level": {
+    "N1": 3070,
+    "N2": 1778,
+    "N3": 1659,
+    "N4": 630,
+    "N5": 674
+  },
+  "korean_examples_by_level": {
+    "N1": 4848,
+    "N2": 3094,
+    "N3": 3218,
+    "N4": 1238,
+    "N5": 1320
+  },
+  "hanja_unihan_reading_comparison": {
+    "match": 2520,
+    "not_available": 21,
+    "mismatch": 1
+  },
+  "localization_methods": {
+    "assistant_editorial_translation": 7811,
+    "assistant_ja_ko_review": 13718,
+    "assistant_source_comparison": 299,
+    "libhangul": 1967,
+    "libhangul_curated_variant": 164,
+    "libhangul_unihan_variant": 112
+  },
+  "status": "translation_filled_review_pending"
+}

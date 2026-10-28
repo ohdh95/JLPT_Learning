@@ -1,0 +1,47 @@
+{
+  "integrity": "ok",
+  "foreign_key_errors": [],
+  "unchanged_tables": {
+    "vocab": {
+      "rows": 7811,
+      "equal": true
+    },
+    "kanji": {
+      "rows": 2542,
+      "equal": true
+    },
+    "word_kanji": {
+      "rows": 11182,
+      "equal": true
+    },
+    "example_word_links": {
+      "rows": 72895,
+      "equal": true
+    }
+  },
+  "source_sentences_ids_and_order_unchanged": true,
+  "changed_example_rows": 4134,
+  "translated_example_rows": 13718,
+  "empty_translations": 0,
+  "example_statuses": {
+    "draft": 13718
+  },
+  "review_methods": {
+    "assistant_ja_ko_review": 13718
+  },
+  "source_issues": 97,
+  "repeat_import": {
+    "updated_draft": 0,
+    "unchanged": 13718,
+    "protected_human_review": 0
+  },
+  "history_count_after_repeat": 37829,
+  "changed_by_level": {
+    "N1": 1417,
+    "N2": 995,
+    "N3": 918,
+    "N4": 410,
+    "N5": 394
+  },
+  "content_sha256": "be94baa977fdd415a20fd96898b3754988997e4ca2ac2c3b9320995dc845047b"
+}

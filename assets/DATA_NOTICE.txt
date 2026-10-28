@@ -1,0 +1,27 @@
+하루 한 장 · JLPT
+
+이 앱의 JLPT 급수는 OpenJLPT / Jonathan Waller의 비공식 학습 분류입니다.
+일본어 표기·읽기의 JMdict 대조와 한국어 뜻 검수는 서로 다른 절차입니다.
+한국어 뜻·훈음·전체 예문 번역을 제공합니다. 자동 작성·일부 교정을 사용했으며 독립된 사람 검수는 완료되지 않았습니다. 작성 방식과 검수 근거는 데이터에 보존합니다.
+
+콘텐츠: OpenJLPT contributors, CC BY-SA 4.0
+https://github.com/evanclan/OpenJLPT
+https://creativecommons.org/licenses/by-sa/4.0/
+변경 내용: SQLite 정규화, 한국어 뜻·훈음·전체 예문 번역 추가, 예문 단어 연결, 검수 상태와 근거 기록, JMdict 직접 대조 추가.
+이 파생 콘텐츠 DB는 CC BY-SA 4.0으로 제공됩니다.
+
+JMdict 및 KANJIDIC2: Electronic Dictionary Research and Development Group (EDRDG)
+https://www.edrdg.org/edrdg/licence.html
+https://www.edrdg.org/jmdict/j_jmdict.html
+CC BY-SA 4.0. EDRDG 소유 자료이며 해당 단체의 사용 조건에 따라 사용됩니다.
+
+급수: Jonathan Waller, CC BY, https://www.tanos.co.uk/jlpt/
+예문: Tatoeba contributors, CC BY 2.0 FR
+https://creativecommons.org/licenses/by/2.0/fr/
+각 문장의 저자와 이력: https://tatoeba.org/sentences/show/<tatoeba_id>
+실제 문장 ID는 카드와 DB에 보존되어 있습니다.
+
+앱의 신규 Dart/Python 소스코드는 MIT 라이선스입니다. 데이터 라이선스와 구분됩니다.
+사용자가 제공한 원본 파이프라인/명세 문서의 권리는 원저작자에게 있습니다.
+제3자 Flutter 패키지의 라이선스는 각 패키지 LICENSE에 따릅니다.
+음성은 기기 TTS가 생성하며 원본 녹음 파일을 수집하거나 포함하지 않습니다.

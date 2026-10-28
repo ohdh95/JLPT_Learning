@@ -1,0 +1,2693 @@
+{
+  "働": {
+    "hun": "일할",
+    "eum": "동",
+    "sources": [
+      "https://www.pagodabook.com/resources/pupload/qrcode/skusku_event/skusku_character_booklet.pdf"
+    ],
+    "note": "일본 국자. 출판사 학습자료의 훈음과 Unihan 한국음 비교."
+  },
+  "込": {
+    "hun": "담을",
+    "eum": "입",
+    "sources": [
+      "https://zetawiki.com/wiki/담을_입_込"
+    ],
+    "note": "일본 국자의 한국식 사전 독음. 일본어 단어 뜻과 구분."
+  },
+  "丼": {
+    "hun": "우물",
+    "eum": "정",
+    "sources": [
+      "https://hanjadict.com/hanja/丼"
+    ],
+    "note": "한국식 훈음 우물 정. 일본어에서는 덮밥·그릇의 뜻으로도 사용."
+  },
+  "枠": {
+    "hun": "벚나무",
+    "eum": "화",
+    "sources": [
+      "https://ko.wiktionary.org/wiki/枠"
+    ],
+    "note": "한국 사전에 제시되는 훈음. 일본어 わく의 틀·테두리라는 뜻과 다름; 국자·자형 충돌 주의."
+  },
+  "槙": {
+    "hun": "나무 끝",
+    "eum": "전",
+    "sources": [
+      "https://zetawiki.com/wiki/나무_끝_전_槇"
+    ],
+    "note": "槇의 이체자; 한국음 전·진 중 나무 끝 전을 대표로 선택.",
+    "source_character": "槇"
+  },
+  "凪": {
+    "hun": "그칠",
+    "eum": "지",
+    "sources": [
+      "https://ko.wiktionary.org/wiki/凪"
+    ],
+    "note": "일본 국자의 한국식 사전 독음. 전통 한국어 상용 한자음으로 오해하지 않도록 주의."
+  },
+  "捗": {
+    "hun": "칠",
+    "eum": "척",
+    "sources": [
+      "https://nikkanhub.com/learn/ko/kanji/捗/"
+    ],
+    "note": "한국식 훈음. 일본어 進捗의 진척·진행 의미와 구분."
+  },
+  "澪": {
+    "hun": "물 이름",
+    "eum": "령",
+    "sources": [
+      "https://en.wiktionary.org/wiki/澪"
+    ],
+    "note": "한국식 훈음. 두음법칙 적용형 영도 있음."
+  },
+  "蕗": {
+    "hun": "감초",
+    "eum": "로",
+    "sources": [
+      "https://seq.kr/converter/hanja/로"
+    ],
+    "note": "한국식 사전 훈음. 일본어 ふき는 머위로, 식물 뜻 차이 주의."
+  },
+  "戯": {
+    "hun": "희롱할",
+    "eum": "희",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt"
+    ],
+    "note": "戲의 신자체. libhangul의 여러 훈 중 대표 훈을 선택.",
+    "source_character": "戲"
+  },
+  "楽": {
+    "hun": "즐길",
+    "eum": "락",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt"
+    ],
+    "note": "樂의 신자체. 즐길 락·풍류 악·좋아할 요 중 대표 훈음; 音楽 등 단어의 한국 한자음은 악일 수 있음.",
+    "source_character": "樂"
+  },
+  "車": {
+    "hun": "수레",
+    "eum": "차",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt"
+    ],
+    "note": "수레 거·수레 차 중 학습용 대표음 차 선택."
+  },
+  "崚": {
+    "hun": "험준할",
+    "eum": "릉",
+    "sources": [
+      "https://klumina.tistory.com/595",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "libhangul 독음 릉 및 한국어 한자사전의 훈 비교. Unihan에 한국음 없어 교차 대조 미완료."
+  },
+  "丈": {
+    "hun": "어른",
+    "eum": "장",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "大": {
+    "hun": "큰",
+    "eum": "대",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "金": {
+    "hun": "쇠",
+    "eum": "금",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "体": {
+    "hun": "몸",
+    "eum": "체",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "體"
+  },
+  "台": {
+    "hun": "대",
+    "eum": "대",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "臺"
+  },
+  "品": {
+    "hun": "물건",
+    "eum": "품",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "教": {
+    "hun": "가르칠",
+    "eum": "교",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "文": {
+    "hun": "글월",
+    "eum": "문",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "旅": {
+    "hun": "나그네",
+    "eum": "려",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "早": {
+    "hun": "이를",
+    "eum": "조",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "止": {
+    "hun": "그칠",
+    "eum": "지",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "特": {
+    "hun": "특별할",
+    "eum": "특",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "犬": {
+    "hun": "개",
+    "eum": "견",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "発": {
+    "hun": "필",
+    "eum": "발",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "發"
+  },
+  "社": {
+    "hun": "모일",
+    "eum": "사",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "答": {
+    "hun": "대답할",
+    "eum": "답",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "茶": {
+    "hun": "차",
+    "eum": "다",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "親": {
+    "hun": "친할",
+    "eum": "친",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "計": {
+    "hun": "셀",
+    "eum": "계",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "通": {
+    "hun": "통할",
+    "eum": "통",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "院": {
+    "hun": "집",
+    "eum": "원",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "題": {
+    "hun": "제목",
+    "eum": "제",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "駅": {
+    "hun": "역",
+    "eum": "역",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "驛"
+  },
+  "与": {
+    "hun": "줄",
+    "eum": "여",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "與"
+  },
+  "予": {
+    "hun": "미리",
+    "eum": "예",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "豫"
+  },
+  "余": {
+    "hun": "남을",
+    "eum": "여",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "餘"
+  },
+  "似": {
+    "hun": "닮을",
+    "eum": "사",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "候": {
+    "hun": "기후",
+    "eum": "후",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "備": {
+    "hun": "갖출",
+    "eum": "비",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "優": {
+    "hun": "넉넉할",
+    "eum": "우",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "処": {
+    "hun": "곳",
+    "eum": "처",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "参": {
+    "hun": "참여할",
+    "eum": "참",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "受": {
+    "hun": "받을",
+    "eum": "수",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "号": {
+    "hun": "이름",
+    "eum": "호",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "商": {
+    "hun": "장사",
+    "eum": "상",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "婦": {
+    "hun": "지어미",
+    "eum": "부",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "容": {
+    "hun": "얼굴",
+    "eum": "용",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "富": {
+    "hun": "부유할",
+    "eum": "부",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "局": {
+    "hun": "판",
+    "eum": "국",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "幾": {
+    "hun": "몇",
+    "eum": "기",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "徒": {
+    "hun": "무리",
+    "eum": "도",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "情": {
+    "hun": "뜻",
+    "eum": "정",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "感": {
+    "hun": "느낄",
+    "eum": "감",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "戚": {
+    "hun": "친척",
+    "eum": "척",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "戻": {
+    "hun": "어그러질",
+    "eum": "려",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "戾"
+  },
+  "押": {
+    "hun": "누를",
+    "eum": "압",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "探": {
+    "hun": "찾을",
+    "eum": "탐",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "支": {
+    "hun": "지탱할",
+    "eum": "지",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "敗": {
+    "hun": "패할",
+    "eum": "패",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "景": {
+    "hun": "볕",
+    "eum": "경",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "格": {
+    "hun": "격식",
+    "eum": "격",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "構": {
+    "hun": "얽을",
+    "eum": "구",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "残": {
+    "hun": "남을",
+    "eum": "잔",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "消": {
+    "hun": "사라질",
+    "eum": "소",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "済": {
+    "hun": "건널",
+    "eum": "제",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "濟"
+  },
+  "港": {
+    "hun": "항구",
+    "eum": "항",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "溺": {
+    "hun": "빠질",
+    "eum": "닉",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "点": {
+    "hun": "점",
+    "eum": "점",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "然": {
+    "hun": "그럴",
+    "eum": "연",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "球": {
+    "hun": "공",
+    "eum": "구",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "産": {
+    "hun": "낳을",
+    "eum": "산",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "畑": {
+    "hun": "밭",
+    "eum": "전",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "番": {
+    "hun": "차례",
+    "eum": "번",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "神": {
+    "hun": "귀신",
+    "eum": "신",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "程": {
+    "hun": "한도",
+    "eum": "정",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "積": {
+    "hun": "쌓을",
+    "eum": "적",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "笑": {
+    "hun": "웃을",
+    "eum": "소",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "等": {
+    "hun": "같을",
+    "eum": "등",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "籠": {
+    "hun": "대바구니",
+    "eum": "롱",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "約": {
+    "hun": "맺을",
+    "eum": "약",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "組": {
+    "hun": "짤",
+    "eum": "조",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "給": {
+    "hun": "줄",
+    "eum": "급",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "置": {
+    "hun": "둘",
+    "eum": "치",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "老": {
+    "hun": "늙을",
+    "eum": "로",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "若": {
+    "hun": "같을",
+    "eum": "약",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "要": {
+    "hun": "요긴할",
+    "eum": "요",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "解": {
+    "hun": "풀",
+    "eum": "해",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "認": {
+    "hun": "알",
+    "eum": "인",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "議": {
+    "hun": "의논할",
+    "eum": "의",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "連": {
+    "hun": "이을",
+    "eum": "련",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "適": {
+    "hun": "맞을",
+    "eum": "적",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "配": {
+    "hun": "나눌",
+    "eum": "배",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "除": {
+    "hun": "덜",
+    "eum": "제",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "頂": {
+    "hun": "정수리",
+    "eum": "정",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "頃": {
+    "hun": "잠깐",
+    "eum": "경",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "頼": {
+    "hun": "의뢰할",
+    "eum": "뢰",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "願": {
+    "hun": "원할",
+    "eum": "원",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "髪": {
+    "hun": "터럭",
+    "eum": "발",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "髮"
+  },
+  "仲": {
+    "hun": "버금",
+    "eum": "중",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "刷": {
+    "hun": "인쇄할",
+    "eum": "쇄",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "券": {
+    "hun": "문서",
+    "eum": "권",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "区": {
+    "hun": "구역",
+    "eum": "구",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "區"
+  },
+  "協": {
+    "hun": "화합할",
+    "eum": "협",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "喫": {
+    "hun": "먹을",
+    "eum": "끽",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "営": {
+    "hun": "경영할",
+    "eum": "영",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "營"
+  },
+  "城": {
+    "hun": "성",
+    "eum": "성",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "季": {
+    "hun": "계절",
+    "eum": "계",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "宛": {
+    "hun": "완연할",
+    "eum": "완",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "巻": {
+    "hun": "책",
+    "eum": "권",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "卷"
+  },
+  "快": {
+    "hun": "쾌할",
+    "eum": "쾌",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "担": {
+    "hun": "멜",
+    "eum": "담",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "擔"
+  },
+  "暴": {
+    "hun": "사나울",
+    "eum": "폭",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "机": {
+    "hun": "책상",
+    "eum": "궤",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "枚": {
+    "hun": "낱",
+    "eum": "매",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "査": {
+    "hun": "조사할",
+    "eum": "사",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "極": {
+    "hun": "다할",
+    "eum": "극",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "欧": {
+    "hun": "구라파",
+    "eum": "구",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "歐"
+  },
+  "沈": {
+    "hun": "잠길",
+    "eum": "침",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "河": {
+    "hun": "물",
+    "eum": "하",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "泥": {
+    "hun": "진흙",
+    "eum": "니",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "浴": {
+    "hun": "목욕할",
+    "eum": "욕",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "液": {
+    "hun": "진",
+    "eum": "액",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "湯": {
+    "hun": "끓일",
+    "eum": "탕",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "準": {
+    "hun": "준할",
+    "eum": "준",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "溶": {
+    "hun": "녹을",
+    "eum": "용",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "焼": {
+    "hun": "불사를",
+    "eum": "소",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "燒"
+  },
+  "爆": {
+    "hun": "터질",
+    "eum": "폭",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "瓶": {
+    "hun": "병",
+    "eum": "병",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "税": {
+    "hun": "세금",
+    "eum": "세",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "稽": {
+    "hun": "상고할",
+    "eum": "계",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "章": {
+    "hun": "글",
+    "eum": "장",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "筒": {
+    "hun": "통",
+    "eum": "통",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "管": {
+    "hun": "대롱",
+    "eum": "관",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "糸": {
+    "hun": "실",
+    "eum": "사",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "絲"
+  },
+  "純": {
+    "hun": "순수할",
+    "eum": "순",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "絡": {
+    "hun": "이을",
+    "eum": "락",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "綿": {
+    "hun": "솜",
+    "eum": "면",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "総": {
+    "hun": "거느릴",
+    "eum": "총",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "總"
+  },
+  "芸": {
+    "hun": "재주",
+    "eum": "예",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "藝"
+  },
+  "薄": {
+    "hun": "엷을",
+    "eum": "박",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "触": {
+    "hun": "닿을",
+    "eum": "촉",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "輸": {
+    "hun": "나를",
+    "eum": "수",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "述": {
+    "hun": "펼",
+    "eum": "술",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "防": {
+    "hun": "막을",
+    "eum": "방",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "雇": {
+    "hun": "품팔",
+    "eum": "고",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "零": {
+    "hun": "떨어질",
+    "eum": "령",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "震": {
+    "hun": "우레",
+    "eum": "진",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "麓": {
+    "hun": "산기슭",
+    "eum": "록",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "亀": {
+    "hun": "거북",
+    "eum": "귀",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "龜"
+  },
+  "侯": {
+    "hun": "제후",
+    "eum": "후",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "俗": {
+    "hun": "풍속",
+    "eum": "속",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "健": {
+    "hun": "굳셀",
+    "eum": "건",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "冴": {
+    "hun": "찰",
+    "eum": "호",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "冱"
+  },
+  "凱": {
+    "hun": "개선할",
+    "eum": "개",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "匿": {
+    "hun": "숨길",
+    "eum": "닉",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "厳": {
+    "hun": "엄할",
+    "eum": "엄",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "嚴"
+  },
+  "哉": {
+    "hun": "어조사",
+    "eum": "재",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "唇": {
+    "hun": "입술",
+    "eum": "순",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "脣"
+  },
+  "堀": {
+    "hun": "굴",
+    "eum": "굴",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "堆": {
+    "hun": "쌓을",
+    "eum": "퇴",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "塁": {
+    "hun": "보루",
+    "eum": "루",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "壘"
+  },
+  "姫": {
+    "hun": "계집",
+    "eum": "희",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "姬"
+  },
+  "宮": {
+    "hun": "집",
+    "eum": "궁",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "寅": {
+    "hun": "셋째 지지",
+    "eum": "인",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "寮": {
+    "hun": "동관",
+    "eum": "료",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "射": {
+    "hun": "쏠",
+    "eum": "사",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "就": {
+    "hun": "나아갈",
+    "eum": "취",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "帳": {
+    "hun": "휘장",
+    "eum": "장",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "庄": {
+    "hun": "씩씩할",
+    "eum": "장",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "莊"
+  },
+  "弐": {
+    "hun": "두",
+    "eum": "이",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "貳"
+  },
+  "徳": {
+    "hun": "덕",
+    "eum": "덕",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "德"
+  },
+  "怜": {
+    "hun": "영리할",
+    "eum": "령",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "憤": {
+    "hun": "분할",
+    "eum": "분",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "我": {
+    "hun": "나",
+    "eum": "아",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "抹": {
+    "hun": "지울",
+    "eum": "말",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "拉": {
+    "hun": "꺾을",
+    "eum": "랍",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "拓": {
+    "hun": "넓힐",
+    "eum": "척",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "拷": {
+    "hun": "칠",
+    "eum": "고",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "挫": {
+    "hun": "꺾을",
+    "eum": "좌",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "推": {
+    "hun": "밀",
+    "eum": "추",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "援": {
+    "hun": "도울",
+    "eum": "원",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "搭": {
+    "hun": "탈",
+    "eum": "탑",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "携": {
+    "hun": "이끌",
+    "eum": "휴",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "摂": {
+    "hun": "잡을",
+    "eum": "섭",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "攝"
+  },
+  "撮": {
+    "hun": "모을",
+    "eum": "촬",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "撲": {
+    "hun": "칠",
+    "eum": "박",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "擦": {
+    "hun": "문지를",
+    "eum": "찰",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "於": {
+    "hun": "어조사",
+    "eum": "어",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "旺": {
+    "hun": "왕성할",
+    "eum": "왕",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "昂": {
+    "hun": "높을",
+    "eum": "앙",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "昧": {
+    "hun": "어두울",
+    "eum": "매",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "昭": {
+    "hun": "밝을",
+    "eum": "소",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "是": {
+    "hun": "옳을",
+    "eum": "시",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "晨": {
+    "hun": "새벽",
+    "eum": "신",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "朗": {
+    "hun": "밝을",
+    "eum": "랑",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "朽": {
+    "hun": "썩을",
+    "eum": "후",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "枢": {
+    "hun": "지도리",
+    "eum": "추",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "染": {
+    "hun": "물들일",
+    "eum": "염",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "柾": {
+    "hun": "나무결",
+    "eum": "정",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "核": {
+    "hun": "씨",
+    "eum": "핵",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "梨": {
+    "hun": "배나무",
+    "eum": "리",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "検": {
+    "hun": "검사할",
+    "eum": "검",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "檢"
+  },
+  "楷": {
+    "hun": "본보기",
+    "eum": "해",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "概": {
+    "hun": "대개",
+    "eum": "개",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "槪"
+  },
+  "殊": {
+    "hun": "다를",
+    "eum": "수",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "殖": {
+    "hun": "불릴",
+    "eum": "식",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "汰": {
+    "hun": "일",
+    "eum": "태",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "沿": {
+    "hun": "따를",
+    "eum": "연",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "泡": {
+    "hun": "거품",
+    "eum": "포",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "泣": {
+    "hun": "울",
+    "eum": "읍",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "淡": {
+    "hun": "맑을",
+    "eum": "담",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "滑": {
+    "hun": "미끄러울",
+    "eum": "활",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "滝": {
+    "hun": "여울",
+    "eum": "롱",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "瀧"
+  },
+  "潤": {
+    "hun": "윤택할",
+    "eum": "윤",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "激": {
+    "hun": "격할",
+    "eum": "격",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "濫": {
+    "hun": "넘칠",
+    "eum": "람",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "狂": {
+    "hun": "미칠",
+    "eum": "광",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "猶": {
+    "hun": "오히려",
+    "eum": "유",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "玲": {
+    "hun": "옥소리",
+    "eum": "령",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "璧": {
+    "hun": "둥근 옥",
+    "eum": "벽",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "癖": {
+    "hun": "버릇",
+    "eum": "벽",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "盛": {
+    "hun": "성할",
+    "eum": "성",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "睡": {
+    "hun": "졸음",
+    "eum": "수",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "瞬": {
+    "hun": "눈 깜짝일",
+    "eum": "순",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "碑": {
+    "hun": "비석",
+    "eum": "비",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "禄": {
+    "hun": "녹",
+    "eum": "록",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "禍": {
+    "hun": "재앙",
+    "eum": "화",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "秦": {
+    "hun": "나라",
+    "eum": "진",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "稜": {
+    "hun": "모날",
+    "eum": "릉",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "稿": {
+    "hun": "볏짚",
+    "eum": "고",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "第": {
+    "hun": "차례",
+    "eum": "제",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "糾": {
+    "hun": "얽힐",
+    "eum": "규",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "紡": {
+    "hun": "길쌈할",
+    "eum": "방",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "緩": {
+    "hun": "느릴",
+    "eum": "완",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "縦": {
+    "hun": "세로",
+    "eum": "종",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "縱"
+  },
+  "罰": {
+    "hun": "벌할",
+    "eum": "벌",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "耶": {
+    "hun": "어조사",
+    "eum": "야",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "胆": {
+    "hun": "쓸개",
+    "eum": "담",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "膽"
+  },
+  "胤": {
+    "hun": "이을",
+    "eum": "윤",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "胴": {
+    "hun": "큰창자",
+    "eum": "동",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "脅": {
+    "hun": "위협할",
+    "eum": "협",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "脹": {
+    "hun": "부를",
+    "eum": "창",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "苛": {
+    "hun": "가혹할",
+    "eum": "가",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "茜": {
+    "hun": "꼭두서니",
+    "eum": "천",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "莞": {
+    "hun": "왕골",
+    "eum": "완",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "蓮": {
+    "hun": "연꽃",
+    "eum": "련",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "裸": {
+    "hun": "벗을",
+    "eum": "라",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "褒": {
+    "hun": "기릴",
+    "eum": "포",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "証": {
+    "hun": "증거",
+    "eum": "증",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "證"
+  },
+  "誕": {
+    "hun": "태어날",
+    "eum": "탄",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "趣": {
+    "hun": "뜻",
+    "eum": "취",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "距": {
+    "hun": "떨어질",
+    "eum": "거",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "踏": {
+    "hun": "밟을",
+    "eum": "답",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "軸": {
+    "hun": "굴대",
+    "eum": "축",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "郎": {
+    "hun": "사내",
+    "eum": "랑",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "酉": {
+    "hun": "닭",
+    "eum": "유",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "酢": {
+    "hun": "초",
+    "eum": "초",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "酪": {
+    "hun": "쇠젖",
+    "eum": "락",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "銃": {
+    "hun": "총",
+    "eum": "총",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "銑": {
+    "hun": "무쇠",
+    "eum": "선",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "錬": {
+    "hun": "단련할",
+    "eum": "련",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "鍊"
+  },
+  "陶": {
+    "hun": "질그릇",
+    "eum": "도",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "需": {
+    "hun": "쓰일",
+    "eum": "수",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님."
+  },
+  "騒": {
+    "hun": "떠들",
+    "eum": "소",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "騷"
+  },
+  "髄": {
+    "hun": "골수",
+    "eum": "수",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "AI 편집 검토: 원자료의 여러 훈음 중 학습용 대표 훈음 선택 또는 오탈자·신자체 대응 수정. 사람 검수 완료 아님.",
+    "source_character": "髓"
+  },
+  "喧": {
+    "hun": "지껄일",
+    "eum": "훤",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "塵": {
+    "hun": "티끌",
+    "eum": "진",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "囁": {
+    "hun": "소곤거릴",
+    "eum": "섭",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "嫋": {
+    "hun": "가냘플",
+    "eum": "뇨",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "揉": {
+    "hun": "비빌",
+    "eum": "유",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "槌": {
+    "hun": "몽둥이",
+    "eum": "퇴",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "汲": {
+    "hun": "길을",
+    "eum": "급",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "痺": {
+    "hun": "저릴",
+    "eum": "비",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "癌": {
+    "hun": "암",
+    "eum": "암",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "皺": {
+    "hun": "주름",
+    "eum": "추",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "筈": {
+    "hun": "오늬",
+    "eum": "괄",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "箒": {
+    "hun": "비",
+    "eum": "추",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "紐": {
+    "hun": "맺을",
+    "eum": "뉴",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "藁": {
+    "hun": "짚",
+    "eum": "고",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "蛋": {
+    "hun": "새알",
+    "eum": "단",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "諺": {
+    "hun": "언문",
+    "eum": "언",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "貶": {
+    "hun": "낮출",
+    "eum": "폄",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "釘": {
+    "hun": "못",
+    "eum": "정",
+    "sources": [
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "note": "단어 구성 추가 한자. libhangul 대안 훈·Unicode 영문 뜻과 비교하여 AI가 대표 훈을 정리함. 한국음 대조와 사람 검수는 별개."
+  },
+  "伜": {
+    "hun": "백 사람",
+    "eum": "졸",
+    "sources": [
+      "https://klumina.tistory.com/861"
+    ],
+    "note": "일본에서는 아들의 뜻. 한국 훈음과 일본어 의미를 구별함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "呟": {
+    "hun": "소리",
+    "eum": "현",
+    "sources": [
+      "https://hanja.nameunse.com/hanjaview.php?h=%E5%91%9F&n=5267"
+    ],
+    "note": "소리 현의 사전 표기를 대조함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "噌": {
+    "hun": "시끄러울",
+    "eum": "증",
+    "sources": [
+      "https://hanjadict.com/hanja/%E5%99%8C"
+    ],
+    "note": "쟁/증의 복수 한국음. 시끄러울 증을 대표로 채택. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "抓": {
+    "hun": "긁을",
+    "eum": "조",
+    "sources": [
+      "https://koreanhanja.app/%E6%8A%93"
+    ],
+    "note": "긁을 조를 대조함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "掴": {
+    "hun": "칠",
+    "eum": "괵",
+    "sources": [
+      "https://ko.wiktionary.org/wiki/%E6%91%91"
+    ],
+    "note": "摑의 일본 표기. 한국 훈음과 일본어 잡다의 의미를 구별. AI 자료 대조 초안, 독립 사람 검수 미완료.",
+    "source_character": "摑"
+  },
+  "毟": {
+    "hun": "뜯을",
+    "eum": "모",
+    "sources": [
+      "https://klumina.tistory.com/623"
+    ],
+    "note": "일본 국자의 한국식 자전 표기. 일반 교육한자음으로 인증하지 않음. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "睨": {
+    "hun": "흘겨볼",
+    "eum": "예",
+    "sources": [
+      "https://hanjadict.com/hanja/%E7%9D%A8"
+    ],
+    "note": "흘겨볼 예와 Unicode 예를 대조함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "躾": {
+    "hun": "예절 가르칠",
+    "eum": "미",
+    "sources": [
+      "https://www.donga.com/news/article/all/20050928/8232507/1"
+    ],
+    "note": "일본 국자의 한국식 표기이며 Unicode 미를 대조함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "錆": {
+    "hun": "자세할",
+    "eum": "창",
+    "sources": [
+      "https://www.japandict.com/kanji/%E9%8C%86"
+    ],
+    "note": "창/청의 복수 한국음. 한국 자전 의미와 일본어 녹 의미 구별. https://www.namu.moe/w/%E9%8C%86 참조. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "雫": {
+    "hun": "물방울",
+    "eum": "하",
+    "sources": [
+      "https://ko.wiktionary.org/wiki/%E9%9B%AB"
+    ],
+    "note": "일본 국자의 자전식 한국 독음. 놔/하 등 이음 존재; Unicode kHangul 부재. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "鱈": {
+    "hun": "대구",
+    "eum": "설",
+    "sources": [
+      "https://www.busan.kr.emb-japan.go.jp/itpr_ko/11_000001_00299.html"
+    ],
+    "note": "주부산 일본총영사관의 대구 및 설 독음 설명을 대조함. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  },
+  "鹸": {
+    "hun": "소금기",
+    "eum": "감",
+    "sources": [
+      "https://krlai.com/255"
+    ],
+    "note": "鹼의 일본 표기. 소금기 감을 대조함; Unicode kHangul 부재. AI 자료 대조 초안, 독립 사람 검수 미완료.",
+    "source_character": "鹼"
+  },
+  "涸": {
+    "hun": "마를",
+    "eum": "학",
+    "sources": [
+      "https://zetawiki.com/wiki/%E6%B6%B8"
+    ],
+    "note": "마를 후/학의 복수 한국음. libhangul 학과 kHangul 후가 다름; 학은 kKorean HAK에도 있으나 불일치 상태를 유지. AI 자료 대조 초안, 독립 사람 검수 미완료."
+  }
+}

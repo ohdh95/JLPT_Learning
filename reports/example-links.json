@@ -1,0 +1,13 @@
+{
+  "examples": 13718,
+  "examples_linked": 13718,
+  "links": 72895,
+  "linked_words": 7141,
+  "sudachipy": "0.6.11",
+  "dictionary": "20260723",
+  "jmdict_aliases": 11381,
+  "offsets": "UTF-16",
+  "strategy": "longest whole-token surface; conjugated dictionary form; preserve homograph choices",
+  "source": "https://github.com/WorksApplications/SudachiPy",
+  "certifies_sense": false
+}

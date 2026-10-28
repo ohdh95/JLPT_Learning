@@ -1,0 +1,30 @@
+{
+  "metadata_version": "0.3.0",
+  "metadata_counts_match": true,
+  "vocab_total": 7811,
+  "kanji_total": 2383,
+  "word_kanji_links": 11182,
+  "example_total": 13718,
+  "jmdict_linked": 7800,
+  "direct_jmdict_verified": 0,
+  "korean_word_meanings_reviewed": 0,
+  "korean_hanja_huneum_reviewed": 0,
+  "korean_example_translations_reviewed": 0,
+  "vocab_by_level": {
+    "N5": 674,
+    "N4": 630,
+    "N3": 1659,
+    "N2": 1778,
+    "N1": 3070
+  },
+  "kanji_by_level": {
+    "N5": 84,
+    "N4": 169,
+    "N3": 387,
+    "N2": 398,
+    "N1": 1345
+  },
+  "source_sha256": "f76ef66975760a30c323ef81937930ca2a293d541f9fdbc73200b57ec1fd19df",
+  "sqlite_integrity": "ok",
+  "status_note": "Japanese source imported. Korean translations and Korean hanja meanings NOT completed."
+}

@@ -1,0 +1,10 @@
+[
+{"id":"ada066edfd","word":"会う","reading":"あう","romaji":"au","meanings":["to meet"],"level":"N5","pos":["v5u","vi"],"jmdict_id":1198180,"examples":[{"ja":"もうスミスさんに会われましたね。","furigana":"もうスミスさんに{会|あ}われましたね。","en":"You've met Mr. Smith already, haven't you?","tatoeba_id":194412}]},
+{"id":"ebec658463","word":"青","reading":"あお","romaji":"ao","meanings":["blue"],"level":"N5","pos":["n","adj-no"],"jmdict_id":1381380,"examples":[{"ja":"信号が青に変わったわよ。","furigana":"{信号|しんごう}が{青|あお}に{変|か}わったわよ。","en":"The traffic light turned green.","tatoeba_id":145720}]},
+{"id":"51a671ec17","word":"青い","reading":"あおい","romaji":"aoi","meanings":["blue"],"level":"N5","pos":["adj-i"],"jmdict_id":1381390,"examples":[{"ja":"お前はまだ「青い」な。","furigana":"お{前|まえ}はまだ「{青|あお}い」な。","en":"You're still green.","tatoeba_id":226939}]},
+{"id":"2dacb910b2","word":"赤","reading":"あか","romaji":"aka","meanings":["red"],"level":"N5","pos":["n","adj-no"],"jmdict_id":2013900,"examples":[{"ja":"赤インクで書いてはいけない。","furigana":"{赤|あか}インクで{書|か}いてはいけない。","en":"Don't write in red ink.","tatoeba_id":142280}]},
+{"id":"44ba38cf8b","word":"赤い","reading":"あかい","romaji":"akai","meanings":["red"],"level":"N5","pos":["adj-i"],"jmdict_id":1383240,"examples":[{"ja":"彼女は赤いスカートをはいていた。","furigana":"{彼女|かのじょ}は{赤|あか}いスカートをはいていた。","en":"She was wearing a red skirt.","tatoeba_id":88306}]},
+{"id":"91987ae840","word":"明るい","reading":"あかるい","romaji":"akarui","meanings":["bright"],"level":"N5","pos":["adj-i"],"jmdict_id":1532350,"examples":[{"ja":"外はだんだん明るくなっていく。","furigana":"{外|そと}はだんだん{明|あか}るくなっていく。","en":"It is getting lighter outside.","tatoeba_id":184877}]},
+{"id":"8dc7006bda","word":"秋","reading":"あき","romaji":"aki","meanings":["autumn"],"level":"N5","pos":["n","adv"],"jmdict_id":1332650,"examples":[{"ja":"秋はもうすぐそこまで来ている。","furigana":"{秋|あき}はもうすぐそこまで{来|き}ている。","en":"Autumn is just around the corner.","tatoeba_id":148194}]},
+{"id":"fc3bc1e6f1","word":"開く","reading":"あく","romaji":"aku","meanings":["to open","to become open"],"level":"N5","pos":["v5k","vi"],"jmdict_id":1586270,"examples":[{"ja":"ぐいと押すとドアは開いた。","furigana":"ぐいと{押|お}すとドアは{開|あ}いた。","en":"The door yielded to a strong push.","tatoeba_id":225720}]}
+]

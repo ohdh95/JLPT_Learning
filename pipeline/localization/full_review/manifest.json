@@ -1,0 +1,21 @@
+{
+  "exported_at": "2026-10-28T07:53:40.848970+00:00",
+  "reviewer": "Codex AI",
+  "human_review_completed": false,
+  "reviewed_pairs": 12615,
+  "reviewed_examples": 13718,
+  "changed_pairs": 3819,
+  "changed_examples": 4134,
+  "examples_by_level": {
+    "N5": 1320,
+    "N3": 3218,
+    "N2": 3094,
+    "N4": 1238,
+    "N1": 4848
+  },
+  "input_sha256": "e3cff6acef769310f887c7be1e232bfa885d9c2150747ee63c25655902c2cca6",
+  "decisions_sha256": "dc1e3e4ab868744ffb57cc70997348f7e28484f963b4025696e82fae97be03bf",
+  "output_sha256": "f16f2071cedec2e2af16ec833f5e101974e46441bd6d4affd481cb2cd5207c7d",
+  "source_issues_sha256": "1478f2355a8bc62dcce998d240d7a1853f7f89abec70af84e01fd6743ebe432a",
+  "unresolved_source_pairs": 94
+}

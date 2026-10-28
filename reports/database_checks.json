@@ -1,0 +1,25 @@
+{
+  "integrity_check": [
+    [
+      "ok"
+    ]
+  ],
+  "foreign_key_check": [],
+  "missing_catalog_kanji": 159,
+  "reading_status": {
+    "direct_jmdict_verified": 7788,
+    "jmdict_id_conflict": 2,
+    "jmdict_not_found": 21
+  },
+  "korean_meanings": {
+    "draft": 17,
+    "not_provided": 7794
+  },
+  "korean_huneum": {
+    "draft": 15,
+    "not_provided": 2368
+  },
+  "korean_examples": {
+    "not_provided": 13718
+  }
+}

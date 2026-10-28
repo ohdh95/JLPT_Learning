@@ -1,0 +1,20 @@
+[
+  {
+    "apk": "jlpt-study-debug.apk",
+    "metadata": [
+      "package: name='kr.localstudy.jlpt_study' versionCode='10' versionName='1.0.9' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'",
+      "sdkVersion:'24'",
+      "targetSdkVersion:'36'",
+      "native-code: 'arm64-v8a' 'armeabi-v7a' 'x86_64'"
+    ]
+  },
+  {
+    "apk": "jlpt-study-arm64-debug.apk",
+    "metadata": [
+      "package: name='kr.localstudy.jlpt_study' versionCode='2010' versionName='1.0.9' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'",
+      "sdkVersion:'24'",
+      "targetSdkVersion:'36'",
+      "native-code: 'arm64-v8a'"
+    ]
+  }
+]

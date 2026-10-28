@@ -1,0 +1,2053 @@
+[
+  {
+    "index": 57,
+    "source": {
+      "word_id": "1cfccd0cdd",
+      "surface": "一日",
+      "reading_kana": "いちにち",
+      "jlpt_level": "N5",
+      "gloss_en_json": "[\"one day\",\"first of month\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "一日",
+      "１日"
+    ],
+    "readings": [
+      "いちにち",
+      "いちじつ"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "one day"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [
+          "いちにち"
+        ],
+        "info": [],
+        "gloss": [
+          "all day (long)",
+          "the whole day",
+          "from morning till night"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "first day of the month"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 240,
+    "source": {
+      "word_id": "a9191729e3",
+      "surface": "ごちそうさま",
+      "reading_kana": "ごちそうさま",
+      "jlpt_level": "N5",
+      "gloss_en_json": "[\"feast\"]",
+      "pos_codes_json": "[\"int\"]"
+    },
+    "forms": [
+      "ご馳走様",
+      "ご馳走さま",
+      "御馳走様"
+    ],
+    "readings": [
+      "ごちそうさま"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "thank you (for the meal)",
+          "that was a delicious meal"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "thank you (for displaying lovey-dovey behaviour)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 327,
+    "source": {
+      "word_id": "b48d0c99d4",
+      "surface": "せっけん",
+      "reading_kana": "せっけん",
+      "jlpt_level": "N5",
+      "gloss_en_json": "[\"economy\"]",
+      "pos_codes_json": "[\"n\",\"vs\",\"vt\",\"vi\"]"
+    },
+    "forms": [
+      "節倹"
+    ],
+    "readings": [
+      "せっけん"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "economy",
+          "thrift"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 517,
+    "source": {
+      "word_id": "a1cda8cb11",
+      "surface": "半分",
+      "reading_kana": "はんぶん",
+      "jlpt_level": "N5",
+      "gloss_en_json": "[\"half minute\"]",
+      "pos_codes_json": "[\"adv\",\"n\"]"
+    },
+    "forms": [
+      "半分"
+    ],
+    "readings": [
+      "はんぶん"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "half"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 796,
+    "source": {
+      "word_id": "376ccb94c4",
+      "surface": "ガス",
+      "reading_kana": "ガス",
+      "jlpt_level": "N4",
+      "gloss_en_json": "[\"petrol\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "瓦斯"
+    ],
+    "readings": [
+      "ガス"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "gas (as a fuel)"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "gas (state of matter)"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "poison gas"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "dense fog",
+          "thick fog"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "gas stove",
+          "gas cooker",
+          "gas range"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "gasoline",
+          "gas",
+          "petrol"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "flatulence",
+          "gas",
+          "wind",
+          "fart"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "gassed yarn"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 937,
+    "source": {
+      "word_id": "f9a20b5203",
+      "surface": "しかる",
+      "reading_kana": "しかる",
+      "jlpt_level": "N4",
+      "gloss_en_json": "[\"a particular\"]",
+      "pos_codes_json": "[\"adj-pn\"]"
+    },
+    "forms": [
+      "然る"
+    ],
+    "readings": [
+      "さる",
+      "しかる"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [
+          "さる"
+        ],
+        "info": [],
+        "gloss": [
+          "a particular",
+          "a certain"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "that kind of",
+          "such a"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 1253,
+    "source": {
+      "word_id": "6e13cee4dc",
+      "surface": "もっとも",
+      "reading_kana": "もっとも",
+      "jlpt_level": "N4",
+      "gloss_en_json": "[\"extremely\"]",
+      "pos_codes_json": "[\"adv\"]"
+    },
+    "forms": [
+      "最も",
+      "尤も"
+    ],
+    "readings": [
+      "もっとも",
+      "もとも"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "most",
+          "extremely"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 1400,
+    "source": {
+      "word_id": "c84ab5b83d",
+      "surface": "命",
+      "reading_kana": "いのち",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"command\",\"decree\",\"life\",\"destiny\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "命"
+    ],
+    "readings": [
+      "いのち"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [
+          "sometimes written as 生命"
+        ],
+        "gloss": [
+          "life",
+          "life force"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "lifetime",
+          "lifespan"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "most important thing",
+          "foundation",
+          "core"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love)"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "fate",
+          "destiny",
+          "karma"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 1721,
+    "source": {
+      "word_id": "def0fe1435",
+      "surface": "臭い",
+      "reading_kana": "くさい",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"odour\",\"scent\",\"smell\",\"stench\"]",
+      "pos_codes_json": "[\"adj-i\"]"
+    },
+    "forms": [
+      "臭い"
+    ],
+    "readings": [
+      "くさい",
+      "くせー",
+      "くっせー"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "stinking",
+          "smelly"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "suspicious",
+          "fishy"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "hammy (acting)",
+          "over-the-top",
+          "cheesy"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "clumsy",
+          "unskilled"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "(overly) gamey",
+          "strong-tasting"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "smelling of"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "looking like",
+          "appearing like",
+          "smacking of",
+          "-ish"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 1740,
+    "source": {
+      "word_id": "53f7d1e6a9",
+      "surface": "グランド",
+      "reading_kana": "グランド",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"gland\",\"grand\",\"(electrical) ground\"]",
+      "pos_codes_json": "[\"adj-f\"]"
+    },
+    "forms": [],
+    "readings": [
+      "グランド"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "grand",
+          "large"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 1906,
+    "source": {
+      "word_id": "9923ca40cb",
+      "surface": "支える",
+      "reading_kana": "ささえる",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"to be blocked\",\"to choke\",\"to be obstructed\"]",
+      "pos_codes_json": "[\"v1\",\"vt\"]"
+    },
+    "forms": [
+      "支える"
+    ],
+    "readings": [
+      "ささえる"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to support",
+          "to prop",
+          "to sustain",
+          "to underlay",
+          "to hold up",
+          "to defend"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to hold at bay",
+          "to stem",
+          "to check"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 1987,
+    "source": {
+      "word_id": "5e5a5dfee9",
+      "surface": "しまい",
+      "reading_kana": "しまい",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"sisters\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "姉妹"
+    ],
+    "readings": [
+      "しまい",
+      "きょうだい"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "sisters"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2122,
+    "source": {
+      "word_id": "4f0c39291a",
+      "surface": "末",
+      "reading_kana": "すえ",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"the end of\",\"powder\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "末"
+    ],
+    "readings": [
+      "すえ"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "end",
+          "tip",
+          "top"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "end (of the year, month, etc.)",
+          "close"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "youngest child"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [
+          "usu. 〜の末"
+        ],
+        "gloss": [
+          "descendants",
+          "offspring",
+          "posterity"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "future"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [
+          "as 〜の末 or 〜した末"
+        ],
+        "gloss": [
+          "(finally) after",
+          "(at last) after",
+          "at the end of"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "trifles",
+          "trivialities"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "degenerate age"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2423,
+    "source": {
+      "word_id": "5750d76e14",
+      "surface": "どうか",
+      "reading_kana": "どうか",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"copper coin\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "銅貨"
+    ],
+    "readings": [
+      "どうか"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "copper coin"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2540,
+    "source": {
+      "word_id": "8ae84a079b",
+      "surface": "能",
+      "reading_kana": "のう",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"being skilled in\",\"nicely\",\"properly\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "能"
+    ],
+    "readings": [
+      "のう"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "talent",
+          "gift",
+          "function"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "noh (theatre)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2925,
+    "source": {
+      "word_id": "b0fe98d49c",
+      "surface": "陸",
+      "reading_kana": "りく",
+      "jlpt_level": "N3",
+      "gloss_en_json": "[\"six (used in legal documents)\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "陸"
+    ],
+    "readings": [
+      "りく",
+      "おか"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "land",
+          "shore"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3033,
+    "source": {
+      "word_id": "a86f29464a",
+      "surface": "佚",
+      "reading_kana": "いつ",
+      "jlpt_level": "N2",
+      "gloss_en_json": "[\"be lost\",\"peace\",\"hide\",\"mistake\",\"beautiful\",\"in turn\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "佚"
+    ],
+    "readings": [
+      "いつ"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "being comfortable",
+          "relaxing"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3228,
+    "source": {
+      "word_id": "a2e9a76dd2",
+      "surface": "火口",
+      "reading_kana": "かこう",
+      "jlpt_level": "N2",
+      "gloss_en_json": "[\"a burner\",\"origin of a fire\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "火口"
+    ],
+    "readings": [
+      "かこう"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "(volcanic) crater",
+          "caldera"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "burner (of a boiler)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3387,
+    "source": {
+      "word_id": "5f2c3ba54c",
+      "surface": "工夫",
+      "reading_kana": "くふう",
+      "jlpt_level": "N2",
+      "gloss_en_json": "[\"labourer\",\"worker\"]",
+      "pos_codes_json": "[\"n\",\"vs\",\"vt\"]"
+    },
+    "forms": [
+      "工夫",
+      "功夫"
+    ],
+    "readings": [
+      "くふう"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "devising (a way)",
+          "contriving",
+          "inventing",
+          "thinking up",
+          "figuring out",
+          "coming up with",
+          "working out"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "device",
+          "design",
+          "idea",
+          "plan",
+          "invention"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "dedication to spiritual improvement (esp. through Zen meditation)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3853,
+    "source": {
+      "word_id": "5b1670aea6",
+      "surface": "せめて",
+      "reading_kana": "せめて",
+      "jlpt_level": "N2",
+      "gloss_en_json": "[\"offense\",\"method of attack\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "攻め手"
+    ],
+    "readings": [
+      "せめて"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "offense",
+          "offence",
+          "method of attack"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3961,
+    "source": {
+      "word_id": "34b4191f3c",
+      "surface": "ダム",
+      "reading_kana": "ダム",
+      "jlpt_level": "N2",
+      "gloss_en_json": "[\"dumb\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [],
+    "readings": [
+      "ダム"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "dam"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4050,
+    "source": {
+      "word_id": "ad4ecf843d",
+      "surface": "努める",
+      "reading_kana": "つとめる",
+      "jlpt_level": "N2",
+      "gloss_en_json": "[\"to serve\",\"to fill a post\",\"to serve under\",\"to work (for)\"]",
+      "pos_codes_json": "[\"v1\",\"vi\"]"
+    },
+    "forms": [
+      "努める",
+      "勉める",
+      "力める"
+    ],
+    "readings": [
+      "つとめる"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to endeavor (to do)",
+          "to endeavour",
+          "to try hard",
+          "to work hard",
+          "to strive",
+          "to make an effort",
+          "to exert oneself",
+          "to devote oneself",
+          "to be committed (to doing)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4120,
+    "source": {
+      "word_id": "b4e3b45b3f",
+      "surface": "統計",
+      "reading_kana": "とうけい",
+      "jlpt_level": "N2",
+      "gloss_en_json": "[\"scattering\",\"a scatter\",\"dispersion\"]",
+      "pos_codes_json": "[\"n\",\"vs\",\"vt\"]"
+    },
+    "forms": [
+      "統計"
+    ],
+    "readings": [
+      "とうけい"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "statistics"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4351,
+    "source": {
+      "word_id": "50b6055d9b",
+      "surface": "日日",
+      "reading_kana": "ひにち",
+      "jlpt_level": "N2",
+      "gloss_en_json": "[\"every day\",\"daily\",\"day after day\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "日にち",
+      "日日"
+    ],
+    "readings": [
+      "ひにち"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "date (of a planned event, act, etc.)",
+          "day"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "(number of) days"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4745,
+    "source": {
+      "word_id": "6f6edac49d",
+      "surface": "相対",
+      "reading_kana": "あいたい",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"confrontation\",\"facing\",\"between ourselves\",\"no third party\",\"tete-a-tete\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "相対"
+    ],
+    "readings": [
+      "あいたい"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "involving only the parties concerned",
+          "tete-a-tete"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4762,
+    "source": {
+      "word_id": "03b0ef5987",
+      "surface": "悪日",
+      "reading_kana": "あくび",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"unlucky day\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "悪日"
+    ],
+    "readings": [
+      "あくにち",
+      "あくび"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "unlucky day"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4818,
+    "source": {
+      "word_id": "61a475aebb",
+      "surface": "あられ",
+      "reading_kana": "あられ",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"kind of cookie\",\"cartoon character\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "霰"
+    ],
+    "readings": [
+      "あられ"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "hail (esp. hailballs under 5 mm)",
+          "graupel"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "dicing",
+          "small cubes"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "roasted mochi pieces (usu. flavoured with soy sauce, etc.)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4876,
+    "source": {
+      "word_id": "4f60e61ae2",
+      "surface": "一見",
+      "reading_kana": "いちげん",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"unfamiliar\",\"never before met\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "一見",
+      "一現"
+    ],
+    "readings": [
+      "いちげん"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "first visit to inn, restaurant, etc. without an introduction"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4877,
+    "source": {
+      "word_id": "1d578a6738",
+      "surface": "一定",
+      "reading_kana": "いちじょう",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"fixed\",\"settled\",\"definite\",\"uniform\",\"regularized\",\"defined\",\"standardized\",\"certain\",\"prescribed\"]",
+      "pos_codes_json": "[\"adj-nari\",\"n\"]"
+    },
+    "forms": [
+      "一定"
+    ],
+    "readings": [
+      "いちじょう"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "veritably",
+          "verily",
+          "to be sure",
+          "certainly"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "certain",
+          "inevitable",
+          "definite"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4986,
+    "source": {
+      "word_id": "5da1033412",
+      "surface": "会",
+      "reading_kana": "え",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"understanding\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "会"
+    ],
+    "readings": [
+      "え"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "gathering (esp. Buddhist, festive, etc.)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5204,
+    "source": {
+      "word_id": "904529718c",
+      "surface": "華奢",
+      "reading_kana": "かしゃ",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"luxury\",\"pomp\",\"delicate\",\"slender\",\"gorgeous\"]",
+      "pos_codes_json": "[\"adj-na\",\"n\"]"
+    },
+    "forms": [
+      "華奢"
+    ],
+    "readings": [
+      "かしゃ"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "lavish",
+          "luxurious",
+          "showy",
+          "gaudy"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5389,
+    "source": {
+      "word_id": "e05bb17edd",
+      "surface": "気品",
+      "reading_kana": "きひん",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"aroma\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "気品"
+    ],
+    "readings": [
+      "きひん"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "elegance",
+          "refinement",
+          "grace",
+          "dignity"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "aroma"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5640,
+    "source": {
+      "word_id": "925301438b",
+      "surface": "強気",
+      "reading_kana": "ごうぎ",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"great\",\"grand\"]",
+      "pos_codes_json": "[\"adj-na\",\"adj-no\"]"
+    },
+    "forms": [
+      "豪儀",
+      "豪気",
+      "強気"
+    ],
+    "readings": [
+      "ごうぎ",
+      "ごうき"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "great",
+          "grand"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [
+          "ごうぎ"
+        ],
+        "info": [],
+        "gloss": [
+          "obstinate",
+          "stubborn"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5732,
+    "source": {
+      "word_id": "708be70d5e",
+      "surface": "堪える",
+      "reading_kana": "こたえる",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"to bear\",\"to stand\",\"to endure\",\"to put up with\",\"to support\",\"to withstand\",\"to resist\",\"to brave\",\"to be fit for\"]",
+      "pos_codes_json": "[\"v1\",\"vt\"]"
+    },
+    "forms": [
+      "堪える",
+      "怺える"
+    ],
+    "readings": [
+      "こらえる",
+      "こたえる"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to bear",
+          "to stand",
+          "to endure",
+          "to put up with"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to restrain",
+          "to control",
+          "to keep a check on"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to forgive",
+          "to put up with",
+          "to pardon"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5853,
+    "source": {
+      "word_id": "fc4763325c",
+      "surface": "然も",
+      "reading_kana": "さも",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"with gusto\",\"with satisfaction\"]",
+      "pos_codes_json": "[\"adv\"]"
+    },
+    "forms": [
+      "然も"
+    ],
+    "readings": [
+      "さも"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "really (seem, appear, etc.)",
+          "truly",
+          "evidently"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "in that way"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5898,
+    "source": {
+      "word_id": "26c17d8895",
+      "surface": "地方",
+      "reading_kana": "じかた",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"area\",\"locality\",\"district\",\"region\",\"the coast\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "地方"
+    ],
+    "readings": [
+      "じかた"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "person in charge of music (in a Japanese dance performance)"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "person singing ballads (in noh)"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "coast (esp. as seen from the water)",
+          "shore"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "the country",
+          "countryside",
+          "the provinces",
+          "rural area"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5959,
+    "source": {
+      "word_id": "ff02641ef7",
+      "surface": "仕付ける",
+      "reading_kana": "しつける",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"to be used to a job\",\"to begin to do\",\"to baste\",\"to tack\",\"to plant\"]",
+      "pos_codes_json": "[\"v1\",\"vt\"]"
+    },
+    "forms": [
+      "仕付ける",
+      "為付ける"
+    ],
+    "readings": [
+      "しつける"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to be used to",
+          "to get accustomed to",
+          "to be in the habit of doing"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to train",
+          "to discipline",
+          "to teach manners"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to tack (in needlework)",
+          "to baste"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to plant (esp. rice seedlings)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6110,
+    "source": {
+      "word_id": "fbe9c362bd",
+      "surface": "丈夫",
+      "reading_kana": "じょうふ",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"hero\",\"gentleman\",\"warrior\",\"manly person\",\"good health\",\"robustness\",\"strong\",\"solid\",\"durable\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "丈夫",
+      "益荒男"
+    ],
+    "readings": [
+      "じょうふ",
+      "ますらお"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "hero",
+          "manly person",
+          "warrior"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6236,
+    "source": {
+      "word_id": "5c66cff518",
+      "surface": "擦れ違い",
+      "reading_kana": "すれちがい",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"chance encounter\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "すれ違い",
+      "擦れ違い"
+    ],
+    "readings": [
+      "すれちがい"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "passing each other"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "missing (meeting) each other",
+          "failing to meet"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "(being at) cross purposes",
+          "discrepancy",
+          "disagreement"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6429,
+    "source": {
+      "word_id": "1fc733c113",
+      "surface": "大部",
+      "reading_kana": "たいぶ",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"most (e.g. most part)\",\"greater\",\"fairly\",\"a good deal\",\"much\"]",
+      "pos_codes_json": "[\"n\",\"adv\"]"
+    },
+    "forms": [
+      "大部"
+    ],
+    "readings": [
+      "たいぶ",
+      "だいぶ"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "lengthy (of a book, etc.)",
+          "voluminous"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "most (e.g. most part)",
+          "greater",
+          "fairly",
+          "a good deal",
+          "much"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6466,
+    "source": {
+      "word_id": "8ee5c7c8db",
+      "surface": "立方",
+      "reading_kana": "たちかた",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"dancing (geisha)\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "立方",
+      "立ち方"
+    ],
+    "readings": [
+      "たちかた"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "way of standing"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "dancer (in a Japanese dance performance)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6490,
+    "source": {
+      "word_id": "8ddba4675b",
+      "surface": "給う",
+      "reading_kana": "たまう",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"to receive\",\"to grant\"]",
+      "pos_codes_json": "[\"v5u\",\"vt\"]"
+    },
+    "forms": [
+      "給う",
+      "賜う"
+    ],
+    "readings": [
+      "たまう"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to give"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [
+          "after the -masu stem of a verb"
+        ],
+        "gloss": [
+          "to do ..."
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6505,
+    "source": {
+      "word_id": "a6da3499d8",
+      "surface": "反",
+      "reading_kana": "たん",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"roll of cloth (c. 10 yds.)\",\"245 acres\",\"300 tsubo\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "反",
+      "段"
+    ],
+    "readings": [
+      "たん"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "variable measure of fabric (28.8 cm in width)",
+          "for kimonos: at least 10 m in length",
+          "for haori: at least 7.27 m in length",
+          "for other clothes: at least 6.06 m in length"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "300 tsubo (991.74 meters square, 0.24506 acres)"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "six ken (10.91 m)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6695,
+    "source": {
+      "word_id": "c710a69f99",
+      "surface": "鉄片",
+      "reading_kana": "てっぺん",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"iron scraps\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "鉄片"
+    ],
+    "readings": [
+      "てっぺん"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "iron scraps"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6771,
+    "source": {
+      "word_id": "02783d9713",
+      "surface": "丁々",
+      "reading_kana": "とうとう",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"clashing of swords\",\"felling of trees\",\"ringing of an ax\"]",
+      "pos_codes_json": "[\"adv-to\",\"adj-t\"]"
+    },
+    "forms": [
+      "丁々",
+      "丁丁"
+    ],
+    "readings": [
+      "とうとう"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "with a chopping sound (of an axe)",
+          "with a thump (when hammering a post into the ground)"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6935,
+    "source": {
+      "word_id": "2e8753951c",
+      "surface": "悪い",
+      "reading_kana": "にくい",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"hateful\",\"abominable\",\"poor-looking\"]",
+      "pos_codes_json": "[\"adj-i\"]"
+    },
+    "forms": [
+      "憎い",
+      "悪い"
+    ],
+    "readings": [
+      "にくい",
+      "ニクい"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "hateful",
+          "detestable",
+          "abominable",
+          "vexing",
+          "provoking"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "amazing",
+          "fantastic",
+          "admirable",
+          "lovely",
+          "wonderful"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6976,
+    "source": {
+      "word_id": "64e8f7eda0",
+      "surface": "熱量",
+      "reading_kana": "ねつりょう",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"temperature\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "熱量"
+    ],
+    "readings": [
+      "ねつりょう"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "quantity of heat (e.g. in calories, BTU, etc.)",
+          "heat value",
+          "calorific value"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "(degree of) enthusiasm",
+          "zeal",
+          "passion"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 7248,
+    "source": {
+      "word_id": "7911dfc293",
+      "surface": "仏",
+      "reading_kana": "ふつ",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"French\"]",
+      "pos_codes_json": "[\"n\"]"
+    },
+    "forms": [
+      "仏"
+    ],
+    "readings": [
+      "ふつ"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "France"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 7507,
+    "source": {
+      "word_id": "cfaa0c9c42",
+      "surface": "導く",
+      "reading_kana": "みちびく",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"to be guided\",\"to be shown\"]",
+      "pos_codes_json": "[\"v5k\",\"vt\"]"
+    },
+    "forms": [
+      "導く"
+    ],
+    "readings": [
+      "みちびく"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to guide",
+          "to lead",
+          "to show the way",
+          "to conduct"
+        ]
+      },
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "to derive",
+          "to deduce"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 7628,
+    "source": {
+      "word_id": "957434f95c",
+      "surface": "優",
+      "reading_kana": "やさ",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"gentle\",\"affectionate\"]",
+      "pos_codes_json": "[\"pref\"]"
+    },
+    "forms": [
+      "優"
+    ],
+    "readings": [
+      "やさ"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "gentle",
+          "affectionate"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 7638,
+    "source": {
+      "word_id": "d6c56bc73f",
+      "surface": "夜中",
+      "reading_kana": "やちゅう",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"all night\",\"the whole night\"]",
+      "pos_codes_json": "[\"n\",\"adv\"]"
+    },
+    "forms": [
+      "夜中"
+    ],
+    "readings": [
+      "やちゅう"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "during the night",
+          "at night"
+        ]
+      }
+    ]
+  },
+  {
+    "index": 7730,
+    "source": {
+      "word_id": "f045f3fdfe",
+      "surface": "利根",
+      "reading_kana": "りこん",
+      "jlpt_level": "N1",
+      "gloss_en_json": "[\"intelligence\"]",
+      "pos_codes_json": "[\"adj-na\",\"n\"]"
+    },
+    "forms": [
+      "利根"
+    ],
+    "readings": [
+      "りこん"
+    ],
+    "senses": [
+      {
+        "kanji": [],
+        "reading": [],
+        "info": [],
+        "gloss": [
+          "intelligence",
+          "cleverness",
+          "innate aptitude"
+        ]
+      }
+    ]
+  }
+]

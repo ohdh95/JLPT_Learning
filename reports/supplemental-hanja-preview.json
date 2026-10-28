@@ -1,0 +1,3636 @@
+[
+  {
+    "entity_type": "kanji",
+    "entity_id": "云",
+    "value": {
+      "hun": "이를",
+      "eum": "운"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "云",
+    "alternatives": [
+      [
+        "이를",
+        "운"
+      ],
+      [
+        "움직일",
+        "운"
+      ],
+      [
+        "돌아갈",
+        "운"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "些",
+    "value": {
+      "hun": "적을",
+      "eum": "사"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "些",
+    "alternatives": [
+      [
+        "적을",
+        "사"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "佚",
+    "value": {
+      "hun": "편안할",
+      "eum": "일"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "佚",
+    "alternatives": [
+      [
+        "편안할",
+        "일"
+      ],
+      [
+        "편할",
+        "일"
+      ],
+      [
+        "흐릴",
+        "질"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "俄",
+    "value": {
+      "hun": "갑자기",
+      "eum": "아"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "俄",
+    "alternatives": [
+      [
+        "갑자기",
+        "아"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "儲",
+    "value": {
+      "hun": "쌓을",
+      "eum": "저"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "儲",
+    "alternatives": [
+      [
+        "쌓을",
+        "저"
+      ],
+      [
+        "버금",
+        "저"
+      ],
+      [
+        "용납할",
+        "저"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "兎",
+    "value": {
+      "hun": "토끼",
+      "eum": "토"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "兎",
+    "alternatives": [
+      [
+        "토끼",
+        "토"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "其",
+    "value": {
+      "hun": "그",
+      "eum": "기"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "其",
+    "alternatives": [
+      [
+        "그",
+        "기"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "几",
+    "value": {
+      "hun": "안석",
+      "eum": "궤"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "几",
+    "alternatives": [
+      [
+        "안석",
+        "궤"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "剃",
+    "value": {
+      "hun": "머리 깎을",
+      "eum": "체"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "剃",
+    "alternatives": [
+      [
+        "머리 깎을",
+        "체"
+      ],
+      [
+        "머리깍을",
+        "체"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "剥",
+    "value": {
+      "hun": "벗길",
+      "eum": "박"
+    },
+    "method": "libhangul_unihan_variant",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "剝",
+    "alternatives": [
+      [
+        "벗길",
+        "박"
+      ],
+      [
+        "찢을",
+        "박"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "일본 표기 剥의 대응 한자 剝를 참조"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "匙",
+    "value": {
+      "hun": "숟가락",
+      "eum": "시"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "匙",
+    "alternatives": [
+      [
+        "숟가락",
+        "시"
+      ],
+      [
+        "열쇠",
+        "시"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "叩",
+    "value": {
+      "hun": "두드릴",
+      "eum": "고"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "叩",
+    "alternatives": [
+      [
+        "두드릴",
+        "고"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "叱",
+    "value": {
+      "hun": "꾸짖을",
+      "eum": "질"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "叱",
+    "alternatives": [
+      [
+        "꾸짖을",
+        "질"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "吊",
+    "value": {
+      "hun": "슬퍼할",
+      "eum": "적"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "吊",
+    "alternatives": [
+      [
+        "슬퍼할",
+        "적"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "吠",
+    "value": {
+      "hun": "짖을",
+      "eum": "폐"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "吠",
+    "alternatives": [
+      [
+        "짖을",
+        "폐"
+      ],
+      [
+        "땅이름",
+        "폐"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "呆",
+    "value": {
+      "hun": "어리석을",
+      "eum": "매"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "呆",
+    "alternatives": [
+      [
+        "어리석을",
+        "매"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "呑",
+    "value": {
+      "hun": "삼킬",
+      "eum": "탄"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "呑",
+    "alternatives": [
+      [
+        "삼킬",
+        "탄"
+      ],
+      [
+        "휩쌀",
+        "탄"
+      ],
+      [
+        "감출",
+        "탄"
+      ],
+      [
+        "멸할",
+        "탄"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "咄",
+    "value": {
+      "hun": "꾸짖을",
+      "eum": "돌"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "咄",
+    "alternatives": [
+      [
+        "꾸짖을",
+        "돌"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "咎",
+    "value": {
+      "hun": "허물",
+      "eum": "구"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "咎",
+    "alternatives": [
+      [
+        "허물",
+        "구"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "咥",
+    "value": {
+      "hun": "허허 웃을",
+      "eum": "희"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "咥",
+    "alternatives": [
+      [
+        "허허 웃을",
+        "희"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "咳",
+    "value": {
+      "hun": "기침",
+      "eum": "해"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "咳",
+    "alternatives": [
+      [
+        "기침",
+        "해"
+      ],
+      [
+        "침 뱉을",
+        "해"
+      ],
+      [
+        "방글방글 웃을",
+        "해"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "喧",
+    "value": {
+      "hun": "의젓할",
+      "eum": "훤"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "喧",
+    "alternatives": [
+      [
+        "의젓할",
+        "훤"
+      ],
+      [
+        "지껄일",
+        "훤"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "嗚",
+    "value": {
+      "hun": "탄식할",
+      "eum": "오"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "嗚",
+    "alternatives": [
+      [
+        "탄식할",
+        "오"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "嗜",
+    "value": {
+      "hun": "즐길",
+      "eum": "기"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "嗜",
+    "alternatives": [
+      [
+        "즐길",
+        "기"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "嗟",
+    "value": {
+      "hun": "탄식할",
+      "eum": "차"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "嗟",
+    "alternatives": [
+      [
+        "탄식할",
+        "차"
+      ],
+      [
+        "슬플",
+        "차"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "嗽",
+    "value": {
+      "hun": "기침할",
+      "eum": "수"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "嗽",
+    "alternatives": [
+      [
+        "기침할",
+        "수"
+      ],
+      [
+        "입가실",
+        "수"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "嘘",
+    "value": {
+      "hun": "불",
+      "eum": "허"
+    },
+    "method": "libhangul_unihan_variant",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "噓",
+    "alternatives": [
+      [
+        "불",
+        "허"
+      ],
+      [
+        "뿜을",
+        "허"
+      ],
+      [
+        "탄식할",
+        "허"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "일본 표기 嘘의 대응 한자 噓를 참조"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "嘩",
+    "value": {
+      "hun": "시끄러울",
+      "eum": "화"
+    },
+    "method": "libhangul_unihan_variant",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "譁",
+    "alternatives": [
+      [
+        "시끄러울",
+        "화"
+      ],
+      [
+        "떠들썩할",
+        "화"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "일본 표기 嘩의 대응 한자 譁를 참조"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "嘴",
+    "value": {
+      "hun": "부리",
+      "eum": "취"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "嘴",
+    "alternatives": [
+      [
+        "부리",
+        "취"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "噂",
+    "value": {
+      "hun": "수군거릴",
+      "eum": "준"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "噂",
+    "alternatives": [
+      [
+        "수군거릴",
+        "준"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "囀",
+    "value": {
+      "hun": "새 지저귈",
+      "eum": "전"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "囀",
+    "alternatives": [
+      [
+        "새 지저귈",
+        "전"
+      ],
+      [
+        "후렴",
+        "전"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "囁",
+    "value": {
+      "hun": "말하려다 멈출",
+      "eum": "섭"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "囁",
+    "alternatives": [
+      [
+        "말하려다 멈출",
+        "섭"
+      ],
+      [
+        "중얼거릴",
+        "섭"
+      ],
+      [
+        "입 다물",
+        "섭"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "垢",
+    "value": {
+      "hun": "때",
+      "eum": "구"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "垢",
+    "alternatives": [
+      [
+        "때",
+        "구"
+      ],
+      [
+        "더러울",
+        "구"
+      ],
+      [
+        "먼지",
+        "구"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "埃",
+    "value": {
+      "hun": "티끌",
+      "eum": "애"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "埃",
+    "alternatives": [
+      [
+        "티끌",
+        "애"
+      ],
+      [
+        "속세",
+        "애"
+      ],
+      [
+        "먼지",
+        "애"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "塵",
+    "value": {
+      "hun": "띠끌",
+      "eum": "진"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "塵",
+    "alternatives": [
+      [
+        "띠끌",
+        "진"
+      ],
+      [
+        "티끌",
+        "진"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "夥",
+    "value": {
+      "hun": "많을",
+      "eum": "과"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "夥",
+    "alternatives": [
+      [
+        "많을",
+        "과"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "奢",
+    "value": {
+      "hun": "사치할",
+      "eum": "사"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "奢",
+    "alternatives": [
+      [
+        "사치할",
+        "사"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "姪",
+    "value": {
+      "hun": "조카",
+      "eum": "질"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "姪",
+    "alternatives": [
+      [
+        "조카",
+        "질"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "婉",
+    "value": {
+      "hun": "순할",
+      "eum": "완"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "婉",
+    "alternatives": [
+      [
+        "순할",
+        "완"
+      ],
+      [
+        "예쁠",
+        "완"
+      ],
+      [
+        "젊을",
+        "완"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "嫋",
+    "value": {
+      "hun": "날릴",
+      "eum": "뇨"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "嫋",
+    "alternatives": [
+      [
+        "날릴",
+        "뇨"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "尖",
+    "value": {
+      "hun": "뾰족할",
+      "eum": "첨"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "尖",
+    "alternatives": [
+      [
+        "뾰족할",
+        "첨"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "尤",
+    "value": {
+      "hun": "가장",
+      "eum": "우"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "尤",
+    "alternatives": [
+      [
+        "가장",
+        "우"
+      ],
+      [
+        "더욱",
+        "우"
+      ],
+      [
+        "탓할",
+        "우"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "屎",
+    "value": {
+      "hun": "똥",
+      "eum": "시"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "屎",
+    "alternatives": [
+      [
+        "똥",
+        "시"
+      ],
+      [
+        "변",
+        "시"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "屑",
+    "value": {
+      "hun": "가루",
+      "eum": "설"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "屑",
+    "alternatives": [
+      [
+        "가루",
+        "설"
+      ],
+      [
+        "구차할",
+        "설"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "庖",
+    "value": {
+      "hun": "푸줏간",
+      "eum": "포"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "庖",
+    "alternatives": [
+      [
+        "푸줏간",
+        "포"
+      ],
+      [
+        "부엌",
+        "포"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "弛",
+    "value": {
+      "hun": "늦출",
+      "eum": "이"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "弛",
+    "alternatives": [
+      [
+        "늦출",
+        "이"
+      ],
+      [
+        "활 부릴",
+        "이"
+      ],
+      [
+        "방탕할",
+        "이"
+      ],
+      [
+        "해이할",
+        "이"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "怯",
+    "value": {
+      "hun": "무서워할",
+      "eum": "겁"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "怯",
+    "alternatives": [
+      [
+        "무서워할",
+        "겁"
+      ],
+      [
+        "겁낼",
+        "겁"
+      ],
+      [
+        "으를",
+        "겁"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "悉",
+    "value": {
+      "hun": "모두",
+      "eum": "실"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "悉",
+    "alternatives": [
+      [
+        "모두",
+        "실"
+      ],
+      [
+        "알",
+        "실"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "惚",
+    "value": {
+      "hun": "황홀할",
+      "eum": "홀"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "惚",
+    "alternatives": [
+      [
+        "황홀할",
+        "홀"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "憫",
+    "value": {
+      "hun": "불쌍히 여길",
+      "eum": "민"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "憫",
+    "alternatives": [
+      [
+        "불쌍히 여길",
+        "민"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "或",
+    "value": {
+      "hun": "혹",
+      "eum": "혹"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "或",
+    "alternatives": [
+      [
+        "혹",
+        "혹"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "拗",
+    "value": {
+      "hun": "고집스러울",
+      "eum": "요"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "拗",
+    "alternatives": [
+      [
+        "고집스러울",
+        "요"
+      ],
+      [
+        "꺾을",
+        "요"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "捧",
+    "value": {
+      "hun": "받들",
+      "eum": "봉"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "捧",
+    "alternatives": [
+      [
+        "받들",
+        "봉"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "捩",
+    "value": {
+      "hun": "비틀",
+      "eum": "렬"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "捩",
+    "alternatives": [
+      [
+        "비틀",
+        "렬"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "捲",
+    "value": {
+      "hun": "거둘",
+      "eum": "권"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "捲",
+    "alternatives": [
+      [
+        "거둘",
+        "권"
+      ],
+      [
+        "주먹쥘",
+        "권"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "掬",
+    "value": {
+      "hun": "두 손으로 움킬",
+      "eum": "국"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "掬",
+    "alternatives": [
+      [
+        "두 손으로 움킬",
+        "국"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "揃",
+    "value": {
+      "hun": "가를",
+      "eum": "전"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "揃",
+    "alternatives": [
+      [
+        "가를",
+        "전"
+      ],
+      [
+        "자를",
+        "전"
+      ],
+      [
+        "가지런히 할",
+        "전"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "揉",
+    "value": {
+      "hun": "풀",
+      "eum": "유"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "揉",
+    "alternatives": [
+      [
+        "풀",
+        "유"
+      ],
+      [
+        "부드럽게 할",
+        "유"
+      ],
+      [
+        "희일",
+        "유"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "撒",
+    "value": {
+      "hun": "뿌릴",
+      "eum": "살"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "撒",
+    "alternatives": [
+      [
+        "뿌릴",
+        "살"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "撫",
+    "value": {
+      "hun": "어루만질",
+      "eum": "무"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "撫",
+    "alternatives": [
+      [
+        "어루만질",
+        "무"
+      ],
+      [
+        "누를",
+        "무"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "杖",
+    "value": {
+      "hun": "지팡이",
+      "eum": "장"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "杖",
+    "alternatives": [
+      [
+        "지팡이",
+        "장"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "梯",
+    "value": {
+      "hun": "사다리",
+      "eum": "제"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "梯",
+    "alternatives": [
+      [
+        "사다리",
+        "제"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "椀",
+    "value": {
+      "hun": "주발",
+      "eum": "완"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "椀",
+    "alternatives": [
+      [
+        "주발",
+        "완"
+      ],
+      [
+        "사발",
+        "완"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "椒",
+    "value": {
+      "hun": "산초나무",
+      "eum": "초"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "椒",
+    "alternatives": [
+      [
+        "산초나무",
+        "초"
+      ],
+      [
+        "후추",
+        "초"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "楕",
+    "value": {
+      "hun": "나무그릇",
+      "eum": "타"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "楕",
+    "alternatives": [
+      [
+        "나무그릇",
+        "타"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "槌",
+    "value": {
+      "hun": "칠",
+      "eum": "추"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "槌",
+    "alternatives": [
+      [
+        "칠",
+        "추"
+      ],
+      [
+        "몽둥이",
+        "퇴"
+      ],
+      [
+        "너스레",
+        "퇴"
+      ],
+      [
+        "누에시렁",
+        "퇴"
+      ],
+      [
+        "던질",
+        "퇴"
+      ]
+    ],
+    "reading_crosscheck": "mismatch",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "檻",
+    "value": {
+      "hun": "우리",
+      "eum": "함"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "檻",
+    "alternatives": [
+      [
+        "우리",
+        "함"
+      ],
+      [
+        "난간",
+        "함"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "櫛",
+    "value": {
+      "hun": "빗",
+      "eum": "즐"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "櫛",
+    "alternatives": [
+      [
+        "빗",
+        "즐"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "歎",
+    "value": {
+      "hun": "탄식할",
+      "eum": "탄"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "歎",
+    "alternatives": [
+      [
+        "탄식할",
+        "탄"
+      ],
+      [
+        "아름답다 할",
+        "탄"
+      ],
+      [
+        "화답할",
+        "탄"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "歪",
+    "value": {
+      "hun": "비뚤",
+      "eum": "왜"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "歪",
+    "alternatives": [
+      [
+        "비뚤",
+        "왜"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "汲",
+    "value": {
+      "hun": "길을",
+      "eum": "급"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "汲",
+    "alternatives": [
+      [
+        "길을",
+        "급"
+      ],
+      [
+        "물길을",
+        "급"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "洒",
+    "value": {
+      "hun": "씻을",
+      "eum": "세"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "洒",
+    "alternatives": [
+      [
+        "씻을",
+        "세"
+      ],
+      [
+        "설치할",
+        "세"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "涸",
+    "value": {
+      "hun": "마를",
+      "eum": "학"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "涸",
+    "alternatives": [
+      [
+        "마를",
+        "학"
+      ]
+    ],
+    "reading_crosscheck": "mismatch",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "溜",
+    "value": {
+      "hun": "방울져 떨어질",
+      "eum": "류"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "溜",
+    "alternatives": [
+      [
+        "방울져 떨어질",
+        "류"
+      ],
+      [
+        "증류수",
+        "류"
+      ],
+      [
+        "처마물 류",
+        "유"
+      ],
+      [
+        "낙수물 류",
+        "유"
+      ],
+      [
+        "증류수 류",
+        "유"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "滲",
+    "value": {
+      "hun": "샐",
+      "eum": "삼"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "滲",
+    "alternatives": [
+      [
+        "샐",
+        "삼"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "漕",
+    "value": {
+      "hun": "배로 실어 나를",
+      "eum": "조"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "漕",
+    "alternatives": [
+      [
+        "배로 실어 나를",
+        "조"
+      ],
+      [
+        "배로실어올",
+        "조"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "濠",
+    "value": {
+      "hun": "해자",
+      "eum": "호"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "濠",
+    "alternatives": [
+      [
+        "해자",
+        "호"
+      ],
+      [
+        "강 이름",
+        "호"
+      ],
+      [
+        "고을이름",
+        "호"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "濡",
+    "value": {
+      "hun": "적실",
+      "eum": "유"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "濡",
+    "alternatives": [
+      [
+        "적실",
+        "유"
+      ],
+      [
+        "막힐",
+        "유"
+      ],
+      [
+        "곱고 윤택할",
+        "유"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "炒",
+    "value": {
+      "hun": "볶을",
+      "eum": "초"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "炒",
+    "alternatives": [
+      [
+        "볶을",
+        "초"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "焚",
+    "value": {
+      "hun": "불사를",
+      "eum": "분"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "焚",
+    "alternatives": [
+      [
+        "불사를",
+        "분"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "煉",
+    "value": {
+      "hun": "불릴",
+      "eum": "련"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "煉",
+    "alternatives": [
+      [
+        "불릴",
+        "련"
+      ],
+      [
+        "쇠불릴",
+        "련"
+      ],
+      [
+        "쇠 불릴 련",
+        "연"
+      ],
+      [
+        "반죽할 련",
+        "연"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "煌",
+    "value": {
+      "hun": "빛날",
+      "eum": "황"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "煌",
+    "alternatives": [
+      [
+        "빛날",
+        "황"
+      ],
+      [
+        "환히밝을",
+        "황"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "煽",
+    "value": {
+      "hun": "부칠",
+      "eum": "선"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "煽",
+    "alternatives": [
+      [
+        "부칠",
+        "선"
+      ],
+      [
+        "부추킬",
+        "선"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "燭",
+    "value": {
+      "hun": "촛불",
+      "eum": "촉"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "燭",
+    "alternatives": [
+      [
+        "촛불",
+        "촉"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "甥",
+    "value": {
+      "hun": "생질",
+      "eum": "생"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "甥",
+    "alternatives": [
+      [
+        "생질",
+        "생"
+      ],
+      [
+        "사위",
+        "생"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "痺",
+    "value": {
+      "hun": "암메추라기",
+      "eum": "비"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "痺",
+    "alternatives": [
+      [
+        "암메추라기",
+        "비"
+      ],
+      [
+        "새이름",
+        "비"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "癌",
+    "value": {
+      "hun": "종양",
+      "eum": "암"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "癌",
+    "alternatives": [
+      [
+        "종양",
+        "암"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "皺",
+    "value": {
+      "hun": "쭈그러질",
+      "eum": "추"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "皺",
+    "alternatives": [
+      [
+        "쭈그러질",
+        "추"
+      ],
+      [
+        "추할",
+        "추"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "瞑",
+    "value": {
+      "hun": "눈 감을",
+      "eum": "명"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "瞑",
+    "alternatives": [
+      [
+        "눈 감을",
+        "명"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "碌",
+    "value": {
+      "hun": "푸른 빛",
+      "eum": "녹"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "碌",
+    "alternatives": [
+      [
+        "푸른 빛",
+        "녹"
+      ],
+      [
+        "돌모양",
+        "녹"
+      ],
+      [
+        "돌 모양",
+        "록"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "碗",
+    "value": {
+      "hun": "그릇",
+      "eum": "완"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "碗",
+    "alternatives": [
+      [
+        "그릇",
+        "완"
+      ],
+      [
+        "주발",
+        "완"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "秤",
+    "value": {
+      "hun": "저울",
+      "eum": "칭"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "秤",
+    "alternatives": [
+      [
+        "저울",
+        "칭"
+      ],
+      [
+        "백 근",
+        "칭"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "竿",
+    "value": {
+      "hun": "장대",
+      "eum": "간"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "竿",
+    "alternatives": [
+      [
+        "장대",
+        "간"
+      ],
+      [
+        "화살대",
+        "간"
+      ],
+      [
+        "횃대",
+        "간"
+      ],
+      [
+        "대줄기",
+        "간"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "筈",
+    "value": {
+      "hun": "하눌타리",
+      "eum": "괄"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "筈",
+    "alternatives": [
+      [
+        "하눌타리",
+        "괄"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "箒",
+    "value": {
+      "hun": "비",
+      "eum": "추"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "箒",
+    "alternatives": [
+      [
+        "비",
+        "추"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "籤",
+    "value": {
+      "hun": "제비",
+      "eum": "첨"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "籤",
+    "alternatives": [
+      [
+        "제비",
+        "첨"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "粥",
+    "value": {
+      "hun": "죽",
+      "eum": "죽"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "粥",
+    "alternatives": [
+      [
+        "죽",
+        "죽"
+      ],
+      [
+        "미음",
+        "죽"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "糊",
+    "value": {
+      "hun": "풀",
+      "eum": "호"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "糊",
+    "alternatives": [
+      [
+        "풀",
+        "호"
+      ],
+      [
+        "끈끈할",
+        "호"
+      ],
+      [
+        "풀칠할",
+        "호"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "紐",
+    "value": {
+      "hun": "잡색비단",
+      "eum": "뉴"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "紐",
+    "alternatives": [
+      [
+        "잡색비단",
+        "뉴"
+      ],
+      [
+        "단추",
+        "뉴"
+      ],
+      [
+        "단추 뉴",
+        "유"
+      ],
+      [
+        "맺을 뉴",
+        "유"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "綴",
+    "value": {
+      "hun": "꿰맬",
+      "eum": "철"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "綴",
+    "alternatives": [
+      [
+        "꿰맬",
+        "철"
+      ],
+      [
+        "맺을",
+        "철"
+      ],
+      [
+        "꿰멜",
+        "체"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "縞",
+    "value": {
+      "hun": "명주",
+      "eum": "호"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "縞",
+    "alternatives": [
+      [
+        "명주",
+        "호"
+      ],
+      [
+        "흴",
+        "호"
+      ],
+      [
+        "흰비단",
+        "호"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "纏",
+    "value": {
+      "hun": "둘릴",
+      "eum": "전"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "纏",
+    "alternatives": [
+      [
+        "둘릴",
+        "전"
+      ],
+      [
+        "묶을",
+        "전"
+      ],
+      [
+        "얽을",
+        "전"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "罹",
+    "value": {
+      "hun": "근심",
+      "eum": "리"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "罹",
+    "alternatives": [
+      [
+        "근심",
+        "리"
+      ],
+      [
+        "만날",
+        "리"
+      ],
+      [
+        "만날 리",
+        "이"
+      ],
+      [
+        "근심할 리",
+        "이"
+      ],
+      [
+        "걸릴 리",
+        "이"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "聳",
+    "value": {
+      "hun": "솟을",
+      "eum": "용"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "聳",
+    "alternatives": [
+      [
+        "솟을",
+        "용"
+      ],
+      [
+        "귀먹을",
+        "용"
+      ],
+      [
+        "공경할",
+        "용"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "脆",
+    "value": {
+      "hun": "연할",
+      "eum": "취"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "脆",
+    "alternatives": [
+      [
+        "연할",
+        "취"
+      ],
+      [
+        "약할",
+        "취"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "腿",
+    "value": {
+      "hun": "넓적다리",
+      "eum": "퇴"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "腿",
+    "alternatives": [
+      [
+        "넓적다리",
+        "퇴"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "莫",
+    "value": {
+      "hun": "없을",
+      "eum": "막"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "莫",
+    "alternatives": [
+      [
+        "없을",
+        "막"
+      ],
+      [
+        "말",
+        "막"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "董",
+    "value": {
+      "hun": "바로잡을",
+      "eum": "동"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "董",
+    "alternatives": [
+      [
+        "바로잡을",
+        "동"
+      ],
+      [
+        "바를",
+        "동"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "葦",
+    "value": {
+      "hun": "갈대",
+      "eum": "위"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "葦",
+    "alternatives": [
+      [
+        "갈대",
+        "위"
+      ],
+      [
+        "작은 배",
+        "위"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "蕎",
+    "value": {
+      "hun": "메밀",
+      "eum": "교"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "蕎",
+    "alternatives": [
+      [
+        "메밀",
+        "교"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "蕾",
+    "value": {
+      "hun": "꽃봉오리",
+      "eum": "뢰"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "蕾",
+    "alternatives": [
+      [
+        "꽃봉오리",
+        "뢰"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "藁",
+    "value": {
+      "hun": "마른 나무",
+      "eum": "고"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "藁",
+    "alternatives": [
+      [
+        "마른 나무",
+        "고"
+      ],
+      [
+        "짚",
+        "고"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "蘇",
+    "value": {
+      "hun": "차조기",
+      "eum": "소"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "蘇",
+    "alternatives": [
+      [
+        "차조기",
+        "소"
+      ],
+      [
+        "나무할",
+        "소"
+      ],
+      [
+        "까무러칠",
+        "소"
+      ],
+      [
+        "깨어날",
+        "소"
+      ],
+      [
+        "성씨",
+        "소"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "蛋",
+    "value": {
+      "hun": "오랑캐 이름",
+      "eum": "단"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "蛋",
+    "alternatives": [
+      [
+        "오랑캐 이름",
+        "단"
+      ],
+      [
+        "새알",
+        "단"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "褄",
+    "value": {
+      "hun": "깃의 가",
+      "eum": "처"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "褄",
+    "alternatives": [
+      [
+        "깃의 가",
+        "처"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "襖",
+    "value": {
+      "hun": "도포",
+      "eum": "오"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "襖",
+    "alternatives": [
+      [
+        "도포",
+        "오"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "覗",
+    "value": {
+      "hun": "엿볼",
+      "eum": "사"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "覗",
+    "alternatives": [
+      [
+        "엿볼",
+        "사"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "詫",
+    "value": {
+      "hun": "자랑할",
+      "eum": "타"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "詫",
+    "alternatives": [
+      [
+        "자랑할",
+        "타"
+      ],
+      [
+        "풍칠",
+        "타"
+      ],
+      [
+        "신통할",
+        "타"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "誂",
+    "value": {
+      "hun": "꾈",
+      "eum": "조"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "誂",
+    "alternatives": [
+      [
+        "꾈",
+        "조"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "諺",
+    "value": {
+      "hun": "상말",
+      "eum": "언"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "諺",
+    "alternatives": [
+      [
+        "상말",
+        "언"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "貶",
+    "value": {
+      "hun": "떨어질",
+      "eum": "폄"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "貶",
+    "alternatives": [
+      [
+        "떨어질",
+        "폄"
+      ],
+      [
+        "덜릴",
+        "폄"
+      ],
+      [
+        "꺾을",
+        "폄"
+      ],
+      [
+        "귀양보낼",
+        "폄"
+      ],
+      [
+        "감할",
+        "폄"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "賑",
+    "value": {
+      "hun": "구휼할",
+      "eum": "진"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "賑",
+    "alternatives": [
+      [
+        "구휼할",
+        "진"
+      ],
+      [
+        "넉넉할",
+        "진"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "贅",
+    "value": {
+      "hun": "붙일",
+      "eum": "췌"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "贅",
+    "alternatives": [
+      [
+        "붙일",
+        "췌"
+      ],
+      [
+        "데릴사위",
+        "췌"
+      ],
+      [
+        "혹",
+        "췌"
+      ],
+      [
+        "군더더기",
+        "췌"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "贋",
+    "value": {
+      "hun": "가짜",
+      "eum": "안"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "贋",
+    "alternatives": [
+      [
+        "가짜",
+        "안"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "踵",
+    "value": {
+      "hun": "발꿈치",
+      "eum": "종"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "踵",
+    "alternatives": [
+      [
+        "발꿈치",
+        "종"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "軋",
+    "value": {
+      "hun": "수레 삐걱거릴",
+      "eum": "알"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "軋",
+    "alternatives": [
+      [
+        "수레 삐걱거릴",
+        "알"
+      ],
+      [
+        "빼앗을",
+        "알"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "轢",
+    "value": {
+      "hun": "삐걱거릴",
+      "eum": "력"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "轢",
+    "alternatives": [
+      [
+        "삐걱거릴",
+        "력"
+      ],
+      [
+        "수레바퀴에 치는",
+        "력"
+      ],
+      [
+        "수레바퀴에 치일 력",
+        "역"
+      ],
+      [
+        "서로 부닥칠 력",
+        "역"
+      ],
+      [
+        "수레바퀴에 치는",
+        "역"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": [
+      "여러 한국음 중 대표 훈음; 단어별 독음 분해와 다름"
+    ]
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "辟",
+    "value": {
+      "hun": "임금",
+      "eum": "벽"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "辟",
+    "alternatives": [
+      [
+        "임금",
+        "벽"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "辻",
+    "value": {
+      "hun": "네거리",
+      "eum": "십"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "辻",
+    "alternatives": [
+      [
+        "네거리",
+        "십"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "辿",
+    "value": {
+      "hun": "천천히 걸을",
+      "eum": "천"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "辿",
+    "alternatives": [
+      [
+        "천천히 걸을",
+        "천"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "這",
+    "value": {
+      "hun": "맞을",
+      "eum": "저"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "這",
+    "alternatives": [
+      [
+        "맞을",
+        "저"
+      ],
+      [
+        "이것",
+        "저"
+      ],
+      [
+        "여기",
+        "저"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "逞",
+    "value": {
+      "hun": "굳셀",
+      "eum": "령"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "逞",
+    "alternatives": [
+      [
+        "굳셀",
+        "령"
+      ],
+      [
+        "통할",
+        "령"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "釘",
+    "value": {
+      "hun": "창",
+      "eum": "정"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "釘",
+    "alternatives": [
+      [
+        "창",
+        "정"
+      ],
+      [
+        "못",
+        "정"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "飴",
+    "value": {
+      "hun": "엿",
+      "eum": "이"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "飴",
+    "alternatives": [
+      [
+        "엿",
+        "이"
+      ],
+      [
+        "맛",
+        "이"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "饉",
+    "value": {
+      "hun": "주릴",
+      "eum": "근"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "饉",
+    "alternatives": [
+      [
+        "주릴",
+        "근"
+      ],
+      [
+        "푸성귀흉년드는",
+        "근"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "馴",
+    "value": {
+      "hun": "길들일",
+      "eum": "순"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "馴",
+    "alternatives": [
+      [
+        "길들일",
+        "순"
+      ],
+      [
+        "착할",
+        "순"
+      ],
+      [
+        "길드릴",
+        "순"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "黴",
+    "value": {
+      "hun": "곰팡이",
+      "eum": "미"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "黴",
+    "alternatives": [
+      [
+        "곰팡이",
+        "미"
+      ],
+      [
+        "검을",
+        "미"
+      ],
+      [
+        "썪을",
+        "미"
+      ],
+      [
+        "기미낄",
+        "미"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "鼠",
+    "value": {
+      "hun": "쥐",
+      "eum": "서"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "鼠",
+    "alternatives": [
+      [
+        "쥐",
+        "서"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  },
+  {
+    "entity_type": "kanji",
+    "entity_id": "鼾",
+    "value": {
+      "hun": "코골",
+      "eum": "한"
+    },
+    "method": "libhangul",
+    "sources": [
+      "https://github.com/libhangul/libhangul/blob/main/data/hanja/hanja.txt",
+      "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip"
+    ],
+    "source_character": "鼾",
+    "alternatives": [
+      [
+        "코골",
+        "한"
+      ]
+    ],
+    "reading_crosscheck": "match",
+    "notes": []
+  }
+]

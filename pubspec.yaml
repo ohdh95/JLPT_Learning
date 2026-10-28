@@ -1,0 +1,31 @@
+name: jlpt_study
+description: 일본어 완전정복 — 가나부터 JLPT N1까지
+publish_to: none
+version: 1.0.13+14
+environment:
+  sdk: '>=3.9.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  crypto: ^3.0.6
+  flutter_tts: ^4.2.3
+  file_picker: ^10.3.10
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  sqflite_common_ffi: ^2.3.6
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/content.sqlite
+    - assets/OPENJLPT_NOTICE.txt
+    - assets/DATA_NOTICE.txt
+    - assets/LOCALIZATION_NOTICE.txt

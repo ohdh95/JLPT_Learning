@@ -1,0 +1,44 @@
+[
+  {
+    "apk": "jlpt-study-debug.apk",
+    "metadata": [
+      "package: name='kr.localstudy.jlpt_study' versionCode='12' versionName='1.0.11' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'",
+      "sdkVersion:'24'",
+      "targetSdkVersion:'36'",
+      "application-label:'일본어 완전정복'",
+      "application: label='일본어 완전정복' icon='res/mipmap-anydpi-v26/ic_launcher.xml'",
+      "native-code: 'arm64-v8a' 'armeabi-v7a' 'x86_64'"
+    ],
+    "packaged_icons": [
+      "res/drawable/ic_launcher_foreground.xml",
+      "res/drawable/ic_launcher_jlpt.xml",
+      "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "res/mipmap-hdpi-v4/ic_launcher.png",
+      "res/mipmap-mdpi-v4/ic_launcher.png",
+      "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "res/mipmap-xxxhdpi-v4/ic_launcher.png"
+    ]
+  },
+  {
+    "apk": "jlpt-study-arm64-debug.apk",
+    "metadata": [
+      "package: name='kr.localstudy.jlpt_study' versionCode='2012' versionName='1.0.11' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'",
+      "sdkVersion:'24'",
+      "targetSdkVersion:'36'",
+      "application-label:'일본어 완전정복'",
+      "application: label='일본어 완전정복' icon='res/mipmap-anydpi-v26/ic_launcher.xml'",
+      "native-code: 'arm64-v8a'"
+    ],
+    "packaged_icons": [
+      "res/drawable/ic_launcher_foreground.xml",
+      "res/drawable/ic_launcher_jlpt.xml",
+      "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "res/mipmap-hdpi-v4/ic_launcher.png",
+      "res/mipmap-mdpi-v4/ic_launcher.png",
+      "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "res/mipmap-xxxhdpi-v4/ic_launcher.png"
+    ]
+  }
+]

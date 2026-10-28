@@ -1,0 +1,22 @@
+[
+  {
+    "apk": "jlpt-study-debug.apk",
+    "metadata": [
+      "package: name='kr.localstudy.jlpt_study' versionCode='13' versionName='1.0.12' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'",
+      "sdkVersion:'24'",
+      "targetSdkVersion:'36'",
+      "application-label:'일본어 완전정복'",
+      "native-code: 'arm64-v8a' 'armeabi-v7a' 'x86_64'"
+    ]
+  },
+  {
+    "apk": "jlpt-study-arm64-debug.apk",
+    "metadata": [
+      "package: name='kr.localstudy.jlpt_study' versionCode='2013' versionName='1.0.12' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'",
+      "sdkVersion:'24'",
+      "targetSdkVersion:'36'",
+      "application-label:'일본어 완전정복'",
+      "native-code: 'arm64-v8a'"
+    ]
+  }
+]

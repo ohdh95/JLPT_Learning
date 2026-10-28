@@ -1,0 +1,32 @@
+{
+  "Unihan.zip": {
+    "url": "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+    "bytes": 8518517,
+    "sha256": "f7a48b2b545acfaa77b2d607ae28747404ce02baefee16396c5d2d7a8ef34b5e"
+  },
+  "UNICODE-LICENSE.txt": {
+    "url": "https://www.unicode.org/license.txt",
+    "bytes": 1995,
+    "sha256": "e7a93b009565cfce55919a381437ac4db883e9da2126fa28b91d12732bc53d96"
+  },
+  "kor_sentences_detailed.tsv.bz2": {
+    "url": "https://downloads.tatoeba.org/exports/per_language/kor/kor_sentences_detailed.tsv.bz2",
+    "bytes": 305989,
+    "sha256": "46fbeaa3cd0b2f140b303149e10881bc49978a3a822efe944b0c4ebabb3ea371"
+  },
+  "links.tar.bz2": {
+    "url": "https://downloads.tatoeba.org/exports/links.tar.bz2",
+    "bytes": 150273082,
+    "sha256": "f180bcdf64de8fb41ba1e8275b7601c14ed820cb64430867b4ff491b01c13789"
+  },
+  "libhangul-hanja.txt": {
+    "url": "https://raw.githubusercontent.com/libhangul/libhangul/main/data/hanja/hanja.txt",
+    "bytes": 6452537,
+    "sha256": "b1004034589f1357daaea3534a6136f6b5ef825afa8779886b20f0b7908bbe3b"
+  },
+  "jpn_sentences.tsv.bz2": {
+    "url": "https://downloads.tatoeba.org/exports/per_language/jpn/jpn_sentences.tsv.bz2",
+    "bytes": 3417887,
+    "sha256": "25d727283d297f812b2c9ec36f3a6812a8a60ed9d6d5427978c4e020a83782c3"
+  }
+}

@@ -1,0 +1,527 @@
+[
+  {
+    "level": "N5",
+    "example_id": "39fff8fc4b_1",
+    "ja": "昨夜はよく眠れましたか。",
+    "en": "Did you have a good sleep last night?",
+    "machine_ko": "어젯밤에 잠은 잘 주무셨나요?"
+  },
+  {
+    "level": "N5",
+    "example_id": "ae534d4ca8_2",
+    "ja": "３時間目にはフランス語があります。",
+    "en": "We have French third period.",
+    "machine_ko": "프랑스어 3교시가 있어요."
+  },
+  {
+    "level": "N5",
+    "example_id": "0c6e923ef9_2",
+    "ja": "あなたはいつもは何時に寝ますか。",
+    "en": "What time do you usually turn in?",
+    "machine_ko": "보통 몇시에 들어오나요?"
+  },
+  {
+    "level": "N5",
+    "example_id": "0a3894175f_1",
+    "ja": "外国人が日本語を学ぶのは難しい。",
+    "en": "It is difficult for a foreigner to study Japanese.",
+    "machine_ko": "외국인이 일본어를 공부하는 것은 어렵습니다."
+  },
+  {
+    "level": "N5",
+    "example_id": "2dbe65ee1d_1",
+    "ja": "ポストはどこにありますか。",
+    "en": "Where is the mailbox?",
+    "machine_ko": "우편함은 어디에 있나요?"
+  },
+  {
+    "level": "N5",
+    "example_id": "a0ff0f67c8_2",
+    "ja": "一千万円くらいかな？",
+    "en": "Is it about ten million yen?",
+    "machine_ko": "천만엔 정도인가?"
+  },
+  {
+    "level": "N5",
+    "example_id": "4f134c9b38_2",
+    "ja": "アルファベットでＢはＡの後にくる。",
+    "en": "In the alphabet, B comes after A.",
+    "machine_ko": "알파벳에서는 A 뒤에 B가 옵니다."
+  },
+  {
+    "level": "N5",
+    "example_id": "7ce7f7d305_2",
+    "ja": "ルーシーは箸が使えないんだ。",
+    "en": "Lucy cannot use chopsticks.",
+    "machine_ko": "루시는 젓가락을 사용할 수 없습니다."
+  },
+  {
+    "level": "N5",
+    "example_id": "2e6c7d2d9d_2",
+    "ja": "荷物をはかりの上にのせてください。",
+    "en": "Please put your baggage on this scale.",
+    "machine_ko": "이 저울에 짐을 올려주세요."
+  },
+  {
+    "level": "N5",
+    "example_id": "3af80b5b2a_1",
+    "ja": "ここで靴を脱がなければなりませんか。",
+    "en": "Do I have to take off my shoes here?",
+    "machine_ko": "여기서 신발을 벗어야 하나요?"
+  },
+  {
+    "level": "N5",
+    "example_id": "319e218950_1",
+    "ja": "外へ出る前に靴を磨きなさい。",
+    "en": "Shine your shoes before going out.",
+    "machine_ko": "외출하기 전에 신발을 닦으십시오."
+  },
+  {
+    "level": "N5",
+    "example_id": "162e00c6ef_2",
+    "ja": "あの人は医者でありまた大学の先生でもある。",
+    "en": "He is a doctor and a university professor.",
+    "machine_ko": "그는 의사이자 대학교수이다."
+  },
+  {
+    "level": "N5",
+    "example_id": "1000ee441a_1",
+    "ja": "その紙を四つ折りにしなさい。",
+    "en": "Fold the paper in four.",
+    "machine_ko": "종이를 4개로 접습니다."
+  },
+  {
+    "level": "N5",
+    "example_id": "9476d7966d_1",
+    "ja": "同社は醤油その他の食品を生産する。",
+    "en": "The company produces soy sauce and other food products.",
+    "machine_ko": "이 회사는 간장 및 기타 식품을 생산합니다."
+  },
+  {
+    "level": "N5",
+    "example_id": "c4cdc162d7_2",
+    "ja": "父がもっと長生きしていたらなあ。",
+    "en": "I wish my father had lived longer.",
+    "machine_ko": "아버지가 더 오래 살았더라면 좋았을 텐데요."
+  },
+  {
+    "level": "N4",
+    "example_id": "9b3ce398bd_1",
+    "ja": "彼は仕事の上では私の先輩だ。",
+    "en": "He has more experience on the job than I.",
+    "machine_ko": "그 사람은 나보다 그 일에 대한 경험이 더 많아요."
+  },
+  {
+    "level": "N4",
+    "example_id": "7c74c440e5_2",
+    "ja": "あの問題には参ったよ。",
+    "en": "That problem has really got me.",
+    "machine_ko": "그 문제는 정말 나를 사로잡았습니다."
+  },
+  {
+    "level": "N4",
+    "example_id": "2139fab218_1",
+    "ja": "いう事と行う事はまったく別だ。",
+    "en": "To say is one thing, and to do quite another.",
+    "machine_ko": "말하는 것과 행동하는 것은 완전히 다른 것입니다."
+  },
+  {
+    "level": "N4",
+    "example_id": "75acde1d68_2",
+    "ja": "この自動車の生産は１９８０年に始まった。",
+    "en": "Production of this automobile started in 1980.",
+    "machine_ko": "이 자동차의 생산은 1980년에 시작되었습니다."
+  },
+  {
+    "level": "N4",
+    "example_id": "6d69734463_2",
+    "ja": "その人はその知らせに驚きました。",
+    "en": "The man was surprised at the news.",
+    "machine_ko": "그 남자는 그 소식에 놀랐다."
+  },
+  {
+    "level": "N4",
+    "example_id": "0b089107f6_2",
+    "ja": "かなり多くの家が台風で壊された。",
+    "en": "Not a few houses were destroyed by the typhoon.",
+    "machine_ko": "태풍으로 인해 집도 적지 않게 파괴되었습니다."
+  },
+  {
+    "level": "N4",
+    "example_id": "59bc2e87aa_2",
+    "ja": "この町の人口は増えている。",
+    "en": "The population of this city is on the increase.",
+    "machine_ko": "이 도시의 인구는 증가하고 있습니다."
+  },
+  {
+    "level": "N4",
+    "example_id": "da94019cdd_1",
+    "ja": "この線の終点はどこですか。",
+    "en": "Where is the end of this line?",
+    "machine_ko": "이 줄의 끝은 어디인가요?"
+  },
+  {
+    "level": "N4",
+    "example_id": "82b0bf966f_2",
+    "ja": "彼らは良い知らせを聞いて喜んだ。",
+    "en": "They were delighted at the good news.",
+    "machine_ko": "그들은 좋은 소식을 듣고 기뻐했습니다."
+  },
+  {
+    "level": "N4",
+    "example_id": "138dee4a26_1",
+    "ja": "私の兄は大学生です。",
+    "en": "My brother is a college student.",
+    "machine_ko": "내 동생은 대학생이에요."
+  },
+  {
+    "level": "N4",
+    "example_id": "2078b08350_2",
+    "ja": "今ははっきりとはわかりません。",
+    "en": "I'm not sure right now.",
+    "machine_ko": "지금은 잘 모르겠습니다."
+  },
+  {
+    "level": "N4",
+    "example_id": "64e3e16740_2",
+    "ja": "父さんは考えを変えると思うかい。",
+    "en": "Do you think Dad will change his mind?",
+    "machine_ko": "아빠가 마음을 바꾸실 것 같아요?"
+  },
+  {
+    "level": "N4",
+    "example_id": "19f08c094e_1",
+    "ja": "今、ちょっとお金が足りなくてね。",
+    "en": "I'm a bit short of money now.",
+    "machine_ko": "지금은 돈이 좀 부족해요."
+  },
+  {
+    "level": "N4",
+    "example_id": "4610276c99_1",
+    "ja": "いつゴルフを始めたのですか。",
+    "en": "When did you begin playing golf?",
+    "machine_ko": "골프는 언제부터 시작했나요?"
+  },
+  {
+    "level": "N4",
+    "example_id": "69678bc04e_2",
+    "ja": "私たちは動物園でサルをみました。",
+    "en": "We saw the monkey at the zoo.",
+    "machine_ko": "우리는 동물원에서 원숭이를 보았습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "87062c3230_1",
+    "ja": "この数字の列を合計しなさい。",
+    "en": "Add up this column of figures.",
+    "machine_ko": "이 숫자 열을 더하세요."
+  },
+  {
+    "level": "N3",
+    "example_id": "524a699a99_2",
+    "ja": "まさかの時にはあなたを助けてやろう。",
+    "en": "I'll stand by you in time of need.",
+    "machine_ko": "필요할 때 나는 당신 옆에 있을 것입니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "2a8f495a2f_1",
+    "ja": "太陽が雲のかげに隠れた。",
+    "en": "The sun disappeared behind a cloud.",
+    "machine_ko": "태양은 구름 뒤로 사라졌습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "7adcba85aa_1",
+    "ja": "彼は指導されなくても学ぶことができた。",
+    "en": "He could learn without instruction.",
+    "machine_ko": "그는 지시 없이도 배울 수 있었습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "3c8f324542_1",
+    "ja": "あいにく私はお金を持っていない。",
+    "en": "Unfortunately I have no money with me.",
+    "machine_ko": "불행히도 나에게는 돈이 없습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "38bf87fc8a_2",
+    "ja": "大使はワルシャワから召還された。",
+    "en": "The ambassador was recalled from Warsaw.",
+    "machine_ko": "대사는 바르샤바에서 소환되었습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "5c1b91aae6_1",
+    "ja": "この河はニューオリンズまで続いている。",
+    "en": "This river flows all the way to New Orleans.",
+    "machine_ko": "이 강은 뉴올리언스까지 흘러갑니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "20bef3d13c_2",
+    "ja": "彼女はあきらめてその地に住むことにした。",
+    "en": "She reconciled herself to living there.",
+    "machine_ko": "그녀는 그곳에서 살기로 마음먹었습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "070d8af6f7_2",
+    "ja": "ベルギーの首都を知っていますか。",
+    "en": "Do you know the capital of Belgium?",
+    "machine_ko": "벨기에의 수도를 아시나요?"
+  },
+  {
+    "level": "N3",
+    "example_id": "8190d9ad28_1",
+    "ja": "古き良き時代は去って、二度ともどってこない。",
+    "en": "The good old days have gone, never to return.",
+    "machine_ko": "좋았던 시절은 지나갔고 다시는 돌아오지 않습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "986fdb6fe9_2",
+    "ja": "彼は会合に出たり出なかったりだ。",
+    "en": "He attends meetings off and on.",
+    "machine_ko": "그는 쉬지 않고 회의에 참석합니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "360b70b61d_2",
+    "ja": "そこは風景が美しいことで有名だ。",
+    "en": "This place is famous for its scenic beauty.",
+    "machine_ko": "이곳은 경치가 아름답기로 유명합니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "6a34d83a67_1",
+    "ja": "彼は商売がうまくいったのを喜んだ。",
+    "en": "He rejoiced at the successful business transaction.",
+    "machine_ko": "그는 성공적인 사업 거래를 기뻐했습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "89b43cf72a_1",
+    "ja": "その新聞記者はニュースを嗅ぎつける鋭い勘を持っている。",
+    "en": "The newsman has a nose for news.",
+    "machine_ko": "뉴스맨은 뉴스에 대한 감각이 있습니다."
+  },
+  {
+    "level": "N3",
+    "example_id": "6795b8e330_1",
+    "ja": "あなたを誤解してしまってごめんなさい。",
+    "en": "I'm sorry I misunderstood you.",
+    "machine_ko": "오해해서 미안해요."
+  },
+  {
+    "level": "N2",
+    "example_id": "2e9324e58b_1",
+    "ja": "漁師は釣り上げた魚の大きさをおおげさにいった。",
+    "en": "The fisherman exaggerated the size of the fish he had caught.",
+    "machine_ko": "어부는 자신이 잡은 물고기의 크기를 과장했습니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "7dc4f9002b_1",
+    "ja": "私は彼がぶつぶつ独り言をいうのを聞いた。",
+    "en": "I heard him mumble to himself.",
+    "machine_ko": "나는 그가 혼자 중얼거리는 것을 들었다."
+  },
+  {
+    "level": "N2",
+    "example_id": "2f2bfb723b_1",
+    "ja": "子孫にきれいな、緑の地球を残したい。",
+    "en": "We want to leave our descendants a clean and green earth.",
+    "machine_ko": "우리는 후손들에게 깨끗하고 푸른 지구를 물려주고 싶습니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "72d8fe6720_1",
+    "ja": "これは我が校の名誉にかかわる問題だ。",
+    "en": "The problem affects the prestige of our school.",
+    "machine_ko": "문제는 우리 학교의 명성에 영향을 미칩니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "3a94a8d62a_2",
+    "ja": "彼はそのスライドを顕微鏡で見た。",
+    "en": "He looked at the slide under the microscope.",
+    "machine_ko": "그는 현미경으로 슬라이드를 살펴보았습니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "a7cee32023_2",
+    "ja": "ペンとインキで書きなさい。",
+    "en": "Write with pen and ink.",
+    "machine_ko": "펜과 잉크로 쓰세요."
+  },
+  {
+    "level": "N2",
+    "example_id": "664f19910f_2",
+    "ja": "あの老人たちは街角に無駄話をしに行くのが好きだ。",
+    "en": "The old men like to meet on the street corner just to shoot the bull.",
+    "machine_ko": "노인들은 단지 황소를 쏘기 위해 길모퉁이에 모이는 것을 좋아합니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "573b247c42_2",
+    "ja": "出入り口は開けたままになっていた。",
+    "en": "The gate was left open.",
+    "machine_ko": "문은 열려 있었습니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "8476b331d5_2",
+    "ja": "その子は算数ならどんな問題でも解ける。",
+    "en": "The boy can solve any problem in arithmetic.",
+    "machine_ko": "그 소년은 산술 문제는 무엇이든 해결할 수 있습니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "102e6b2f3d_2",
+    "ja": "時間が刻々と迫っている。",
+    "en": "Time is pressing every moment.",
+    "machine_ko": "매 순간 시간이 촉박합니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "1bec520d49_1",
+    "ja": "女房の手は店員さんより一回り小さい。",
+    "en": "My wife's hands are slightly smaller than the shop assistant's.",
+    "machine_ko": "내 아내의 손은 점원의 손보다 약간 작습니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "817ab81f5e_1",
+    "ja": "その事故は明け方に起こった。",
+    "en": "The accident occurred at dawn.",
+    "machine_ko": "사고는 새벽에 발생했습니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "562d25e8d9_2",
+    "ja": "ご援助できないのが残念に存じます。",
+    "en": "I regret that I can't help you.",
+    "machine_ko": "당신을 도울 수 없어서 유감입니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "9bb431e820_1",
+    "ja": "この列車は各駅に停車する。",
+    "en": "This train stops at every station.",
+    "machine_ko": "이 열차는 모든 역에 정차합니다."
+  },
+  {
+    "level": "N2",
+    "example_id": "8fda5b92a3_1",
+    "ja": "彼は全く思いがけなく着いた。",
+    "en": "He arrived quite out of the blue.",
+    "machine_ko": "그는 갑자기 도착했습니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "adad28a5c4_2",
+    "ja": "オーブントースターのタイマーが鳴る。食パンがコンガリ焼けた、香ばしい匂い。",
+    "en": "The toaster-oven's timer rings. The fragrant smell of well toasted bread.",
+    "machine_ko": "토스터 오븐의 타이머가 울립니다. 잘 구워진 빵의 고소한 냄새."
+  },
+  {
+    "level": "N1",
+    "example_id": "49167c4c88_1",
+    "ja": "彼女はとても愛想のよい隣人だ。",
+    "en": "She is a most gracious neighbor.",
+    "machine_ko": "그녀는 가장 은혜로운 이웃입니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "11acdf0a51_1",
+    "ja": "事前に予約を取っておくべきだ。",
+    "en": "We'd better make a reservation beforehand.",
+    "machine_ko": "미리 예약을 해두는 게 좋을 것 같아요."
+  },
+  {
+    "level": "N1",
+    "example_id": "5fe58f6863_1",
+    "ja": "風やら雨やらで旅行は台無しだった。",
+    "en": "What with the wind and the rain, our trip was spoiled.",
+    "machine_ko": "바람과 비로 인해 우리 여행은 망쳐졌습니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "29f6f83ec8_1",
+    "ja": "口いっぱいに物を放り込んで話をするのは無作法だ。",
+    "en": "It is rude to talk when your mouth is full.",
+    "machine_ko": "입이 가득 차 있을 때 말하는 것은 실례입니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "73155c92ff_2",
+    "ja": "１０時過ぎには電話をしないで下さい。",
+    "en": "Don't call me up after ten o'clock.",
+    "machine_ko": "10시 이후에는 나에게 전화하지 마세요."
+  },
+  {
+    "level": "N1",
+    "example_id": "6137659b2a_2",
+    "ja": "私は彼の過ちはたいしたことはないとみなしている。",
+    "en": "I view his error as insignificant.",
+    "machine_ko": "나는 그의 실수가 중요하지 않다고 본다."
+  },
+  {
+    "level": "N1",
+    "example_id": "abe619fbd8_2",
+    "ja": "人にはそれぞれ向き不向きがある。",
+    "en": "Each man has his own field of work.",
+    "machine_ko": "사람마다 자신만의 업무 분야가 있습니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "054813c4c2_2",
+    "ja": "核兵器を全面的に禁止して初めて、兵器競争を止めさせることができる。",
+    "en": "Only by prohibiting nuclear weapons altogether can we stop the arms race.",
+    "machine_ko": "핵무기를 완전히 금지해야만 군비 경쟁을 멈출 수 있습니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "9f3db67bab_1",
+    "ja": "てんで見当がつきません。",
+    "en": "I don't have the slightest idea.",
+    "machine_ko": "나는 조금도 생각이 없습니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "a8e0cc0d2a_1",
+    "ja": "その洋服は赤と白のコントラストが美しい。",
+    "en": "The dress has a beautiful contrast between red and white.",
+    "machine_ko": "빨간색과 흰색의 대비가 아름다운 드레스입니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "65fc20eed5_1",
+    "ja": "彼女の誠実さは私が保証します。",
+    "en": "You have my word on her sincerity.",
+    "machine_ko": "당신은 그녀의 진실성에 대해 내 말을 들었습니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "27a80f5aeb_1",
+    "ja": "ジェーンは申込書に必要事項を書き入れた。",
+    "en": "Jane filled out an application.",
+    "machine_ko": "제인은 신청서를 작성했습니다."
+  },
+  {
+    "level": "N1",
+    "example_id": "5c0448565e_1",
+    "ja": "国連はその国際問題を扱うだろう。",
+    "en": "The United Nations will deal with that international problem.",
+    "machine_ko": "유엔은 그 국제적 문제를 다룰 것이다."
+  },
+  {
+    "level": "N1",
+    "example_id": "a942fde509_2",
+    "ja": "私たちは全力を尽くすつもりです。",
+    "en": "We will do our best.",
+    "machine_ko": "최선을 다하겠습니다."
+  }
+]

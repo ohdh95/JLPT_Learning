@@ -1,0 +1,9 @@
+[
+  {"entity_type":"vocab","entity_id":"b48d0c99d4","field_name":"sense","severity":"high","issue_code":"HOMOPHONE_LEVEL_REVIEW","message":"せっけん은 원본/JMdict 연결에 따라 節倹(절검)을 번역했다. N5 학습에서 기대되는 石鹸(비누)과 다르므로 원본 항목의 의도·급수·예문 연결 재검토 필요. 표기·ID는 변경하지 않음."},
+  {"entity_type":"vocab","entity_id":"5b1670aea6","field_name":"sense","severity":"high","issue_code":"HOMOPHONE_SENSE_REVIEW","message":"せめて는 원본/JMdict 연결에 따라 攻め手(공격)를 번역했다. 부사 せめて(적어도)와 구별해야 하므로 원본 항목의 의도·품사·예문 재검토 필요."},
+  {"entity_type":"vocab","entity_id":"d374033b31","field_name":"sense","severity":"high","issue_code":"JMDICT_SENSE_CONFLICT","message":"しいんと(쥐 죽은 듯이)는 현재 연결된 JMdict의 死因(사인) 뜻과 맞지 않는다. 원문 일본어 부사/영어 풀이에 따라 번역했으나 원본 사전 ID·품사 수정 검토 필요."},
+  {"entity_type":"vocab","entity_id":"554ab81272","field_name":"sense","severity":"medium","issue_code":"UPSTREAM_GLOSS_CORRECTED_DRAFT","message":"そう의 원본 really와 연결된 현재 JMdict의 양태(appearing/seeming) 용법이 다름. 현재 사전 sense에 따라 '~할 것 같음; ~해 보임' 초안으로 수정. 문맥·예문 검수 대기."},
+  {"entity_type":"vocab","entity_id":"ed378b5868","field_name":"sense","severity":"medium","issue_code":"UPSTREAM_GLOSS_CORRECTED_DRAFT","message":"兼ねて의 원본 simultaneously와 현재 JMdict previously/already가 다름. 현재 사전에 따라 '이전부터; 진작; 미리' 초안으로 수정. 문맥·예문 검수 대기."},
+  {"entity_type":"example","entity_id":"dfe344f4e2_1","field_name":"text_ko","severity":"high","issue_code":"SOURCE_SENTENCE_CONFLICT","message":"일본어 連帯保険와 영어 delay insurance가 불일치한다. 어느 쪽이 의도된 원문인지 불명확하여 한국어 번역을 반영하지 않고 보류."},
+  {"entity_type":"kanji","entity_id":"涸","field_name":"korean_eum","severity":"medium","issue_code":"UNIHAN_READING_CONFLICT","message":"훈음은 '마를 학'. libhangul/한국 한자 자료의 학과 Unihan kKorean HAK를 참고했으나 kHangul은 후로 기록되어 자동 일치하지 않음. 이체·다음자 전문 검수 대기."}
+]
