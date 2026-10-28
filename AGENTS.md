@@ -15,3 +15,5 @@
 - Windows/Linux 테스트는 sqflite_common_ffi를 사용한다. Widget 테스트는 실제 DB I/O를 위한 runAsync/settle이 필요하다. SQL을 가짜 성공으로 대체하지 않는다.
 - release_gate.py --strict가 실패하는 현재 데이터는 미검수 미리보기다. 검수 완료 배포본이라고 표시하지 않는다.
 - 테스트/빌드 결과와 실기기 미확인 범위를 README 및 reports에 사실대로 기록한다. 원격 푸시/외부 배포는 요청 없이 하지 않는다.
+
+- 한자 구성은 정답 보기 뒤에만 표시한다. 기본 글자/자료 미확인 항목에 빈 영역이나 구성 없음 문구를 만들지 않는다. KanjiVG 변형은 원래 한자로 연결하며 부분 모양에는 완전한 한자 링크를 만들지 않는다. 구성 상세를 닫으면 부모의 정답 표시·관련 단어·스크롤을 유지한다. 보충 구성 한자에는 JLPT 급수를 추정해 붙이지 않는다. 구성 자료는 pipeline/data/kanji_components.json, 재생성/수입은 pipeline/build_kanji_components.py를 따른다.

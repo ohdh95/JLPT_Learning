@@ -34,6 +34,7 @@ class _KanjiDetailState extends State<KanjiDetail> {
   bool navigationReady = false;
   final scroll = ScrollController();
   Future<List<Word>>? related;
+  Future<List<Map<String, Object?>>>? composition;
 
   @override
   void initState() {
@@ -65,6 +66,7 @@ class _KanjiDetailState extends State<KanjiDetail> {
       expanded = false;
       revealed = false;
       related = null;
+      composition = null;
     });
   }
 
@@ -83,7 +85,10 @@ class _KanjiDetailState extends State<KanjiDetail> {
     await guard(context, () async {
       await widget.model.visit('kanji', character);
       if (mounted && entries[index]['character'] == character) {
-        setState(() => revealed = true);
+        setState(() {
+          revealed = true;
+          composition ??= widget.model.repo.kanjiComponents(character);
+        });
       }
     });
     if (mounted) setState(() => savingAnswer = false);
@@ -137,6 +142,29 @@ class _KanjiDetailState extends State<KanjiDetail> {
             Text(onyomi.isEmpty ? '읽기 정보 없음' : onyomi.join(' · ')),
             const SectionLabel('일본어 훈독'),
             Text(kunyomi.isEmpty ? '읽기 정보 없음' : kunyomi.join(' · ')),
+            AsyncView(
+              key: ValueKey('kanji-composition:$character'),
+              future: composition!,
+              builder: (parts) => parts.isEmpty
+                  ? const SizedBox.shrink()
+                  : Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const SectionLabel('한자 구성'),
+                        Wrap(
+                          spacing: 8,
+                          runSpacing: 8,
+                          crossAxisAlignment: WrapCrossAlignment.center,
+                          children: [
+                            for (var i = 0; i < parts.length; i++) ...[
+                              if (i > 0) const Text('+'),
+                              component(parts[i]),
+                            ],
+                          ],
+                        ),
+                      ],
+                    ),
+            ),
             const SizedBox(height: 16),
             ExpansionTile(
               key: ValueKey('related-words:$index:$character'),
@@ -224,6 +252,41 @@ class _KanjiDetailState extends State<KanjiDetail> {
           ),
         ),
       ),
+    );
+  }
+
+  Widget component(Map<String, Object?> part) {
+    final glyph = part['glyph'] as String;
+    final target = part['target_character'] as String?;
+    final hunEum = target == null
+        ? part['label_ko'] as String
+        : formatHunEum(part);
+    final partial = part['is_partial'] == 1;
+    final text = [
+      target != null && target != glyph ? '$glyph → $target' : glyph,
+      if (partial) '일부',
+      if (hunEum.isNotEmpty) hunEum,
+    ].join(' ');
+    final key = ValueKey('kanji-component:${part['sequence']}:$glyph');
+    if (target == null) {
+      return Chip(key: key, label: Text(text));
+    }
+    return ActionChip(
+      key: key,
+      label: Text(text),
+      tooltip: '$target 한자 상세',
+      onPressed: () => guard(context, () async {
+        final entry = await widget.model.repo.kanjiEntry(target);
+        if (!mounted || entry == null) return;
+        await push(
+          context,
+          KanjiDetail(
+            model: widget.model,
+            speech: widget.speech,
+            entries: [entry],
+          ),
+        );
+      }),
     );
   }
 }

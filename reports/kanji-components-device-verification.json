@@ -1,0 +1,18 @@
+{
+  "version": "1.0.14+15",
+  "platform": "Android API 36 x86_64 isolated emulator",
+  "previous_version": "1.0.13+14",
+  "signed_update": true,
+  "offline": true,
+  "old_word_progress_preserved": true,
+  "old_star_preserved": true,
+  "variant_navigation": true,
+  "direct_component_navigation": true,
+  "basic_section_absent": true,
+  "parent_answer_preserved": true,
+  "restart_progress_preserved": true,
+  "large_font_visual_check": true,
+  "runtime_errors": 0,
+  "real_phone_tested": false,
+  "ios_tested": false
+}

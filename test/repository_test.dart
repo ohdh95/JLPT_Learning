@@ -41,7 +41,7 @@ void main() {
     () async {
       final audit = await f.repo.audit();
       expect(audit['word_filled'], 7811);
-      expect(audit['hanja_filled'], 2542);
+      expect(audit['hanja_filled'], 2756);
       expect(audit['kanji_catalog'], 2383);
       expect(audit['examples_filled'], 13718);
       expect(audit['ko'], 0);

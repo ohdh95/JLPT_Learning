@@ -282,6 +282,15 @@ void main() {
       expect(find.text('모일 회'), findsOneWidget);
       final relatedRow = find.byKey(ValueKey('related-word:${other.id}'));
       expect(relatedRow, findsNothing);
+      await t.scrollUntilVisible(
+        find.text('관련 단어'),
+        120,
+        scrollable: find.descendant(
+          of: find.byKey(const ValueKey('kanji-detail-scroll')),
+          matching: find.byType(Scrollable),
+        ),
+      );
+      await settle(t);
       await t.tap(find.text('관련 단어'));
       await settle(t);
       await t.ensureVisible(relatedRow);

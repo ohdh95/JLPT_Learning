@@ -46,6 +46,13 @@ CREATE TABLE kanji(
  korean_hun TEXT, korean_eum TEXT, korean_hun_eum_status TEXT NOT NULL DEFAULT 'not_provided',
  strokes INTEGER, radical TEXT
 );
+CREATE TABLE kanji_components(
+ character TEXT NOT NULL REFERENCES kanji(character), sequence INTEGER NOT NULL,
+ glyph TEXT NOT NULL, target_character TEXT REFERENCES kanji(character),
+ label_ko TEXT NOT NULL DEFAULT '', position TEXT NOT NULL DEFAULT '',
+ is_partial INTEGER NOT NULL CHECK(is_partial IN (0,1)), source_group TEXT NOT NULL,
+ PRIMARY KEY(character,sequence)
+);
 CREATE TABLE word_kanji(
  word_id TEXT NOT NULL REFERENCES vocab(word_id), character TEXT NOT NULL,
  surface_pos INTEGER NOT NULL, reading_in_word TEXT,

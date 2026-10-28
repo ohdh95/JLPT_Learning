@@ -359,6 +359,15 @@ class Repository {
     return rows.isEmpty ? null : rows.single;
   }
 
+  Future<List<Map<String, Object?>>> kanjiComponents(String character) =>
+      db.rawQuery(
+        'SELECT c.*,k.korean_hun,k.korean_eum '
+        'FROM content.kanji_components c '
+        'LEFT JOIN content.kanji k ON k.character=c.target_character '
+        'WHERE c.character=? ORDER BY c.sequence',
+        [character],
+      );
+
   Future<String?> firstUnlearnedKanji() async {
     final rows = await db.rawQuery(
       "SELECT k.character FROM content.kanji k WHERE k.jlpt_level IN ('N5','N4','N3','N2','N1') AND NOT EXISTS(SELECT 1 FROM learning_visits l WHERE l.kind='kanji' AND l.item_id=k.character) ORDER BY k.jlpt_level DESC,k.character LIMIT 1",

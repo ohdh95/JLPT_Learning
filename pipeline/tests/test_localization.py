@@ -59,7 +59,7 @@ class LocalizationTest(unittest.TestCase):
         with sqlite3.connect(ROOT.parent/'assets/content.sqlite') as db:
             self.assertEqual(db.execute("SELECT COUNT(*) FROM vocab WHERE COALESCE(meanings_ko_json,'[]')='[]'").fetchone()[0],0)
             self.assertEqual(db.execute("SELECT COUNT(*) FROM kanji WHERE COALESCE(korean_hun,'')='' OR COALESCE(korean_eum,'')=''").fetchone()[0],0)
-            self.assertEqual(db.execute('SELECT COUNT(*) FROM kanji WHERE jlpt_level IS NULL').fetchone()[0],159)
+            self.assertEqual(db.execute('SELECT COUNT(*) FROM kanji WHERE jlpt_level IS NULL').fetchone()[0],373)
             self.assertEqual(db.execute('SELECT COUNT(*) FROM word_kanji WHERE character NOT IN (SELECT character FROM kanji)').fetchone()[0],0)
             self.assertEqual(db.execute("SELECT COUNT(*) FROM localization_provenance WHERE method='local_machine_translation_en_to_ko'").fetchone()[0],0)
             for table,col in [('vocab','korean_meaning_status'),('kanji','korean_hun_eum_status'),('examples','korean_translation_status')]:

@@ -25,3 +25,14 @@ https://creativecommons.org/licenses/by/2.0/fr/
 사용자가 제공한 원본 파이프라인/명세 문서의 권리는 원저작자에게 있습니다.
 제3자 Flutter 패키지의 라이선스는 각 패키지 LICENSE에 따릅니다.
 음성은 기기 TTS가 생성하며 원본 녹음 파일을 수집하거나 포함하지 않습니다.
+
+한자 구성: KanjiVG, Copyright © Ulrich Apel and contributors
+https://kanjivg.tagaini.net/
+https://github.com/KanjiVG/kanjivg/tree/70a0b7ae0c18ceb5cb358274b029cce0234a43bc
+원본 라이선스: Creative Commons Attribution-Share Alike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+변경: SVG 구성 그룹을 추출하여 SQLite로 변환, 기본 글자와 불완전 분해 생략,
+변형을 원래 한자로 연결, 한국어 훈음과 사전 정보를 결합했습니다.
+파생 구성 자료는 CC BY-SA 4.0으로 제공합니다. 독립된 사람 검수나 어원 해설이 아닙니다.
+추가 보충 한자의 일본어 읽기는 KANJIDIC2, 한국어 훈음은 libhangul에서 가져온 초안입니다.
+개별 출처·원본 해시는 pipeline/data/kanji_components.json 및 DB source_info에 보존합니다.
