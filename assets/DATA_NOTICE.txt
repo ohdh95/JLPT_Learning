@@ -17,9 +17,10 @@ CC BY-SA 4.0. EDRDG 소유 자료이며 해당 단체의 사용 조건에 따라
 
 급수: Jonathan Waller, CC BY, https://www.tanos.co.uk/jlpt/
 예문: Tatoeba contributors, CC BY 2.0 FR
+https://tatoeba.org/
 https://creativecommons.org/licenses/by/2.0/fr/
 각 문장의 저자와 이력: https://tatoeba.org/sentences/show/<tatoeba_id>
-실제 문장 ID는 카드와 DB에 보존되어 있습니다.
+문장별 원본 ID는 콘텐츠 DB에 보존되어 있습니다.
 
 앱의 신규 Dart/Python 소스코드는 MIT 라이선스입니다. 데이터 라이선스와 구분됩니다.
 사용자가 제공한 원본 파이프라인/명세 문서의 권리는 원저작자에게 있습니다.

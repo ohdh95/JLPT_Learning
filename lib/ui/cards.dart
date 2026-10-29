@@ -355,11 +355,6 @@ class ExampleBlock extends StatelessWidget {
               ),
             ],
           ),
-        if (showJapanese)
-          Text(
-            'Tatoeba #${example['tatoeba_id'] ?? '미제공'} · CC BY 2.0 FR',
-            style: Theme.of(context).textTheme.labelSmall,
-          ),
       ],
     ),
   );

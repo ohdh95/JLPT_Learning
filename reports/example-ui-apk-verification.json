@@ -1,0 +1,30 @@
+{
+  "version": "1.0.15+16",
+  "date": "2026-10-29",
+  "content_db_sha256": "7cd9d2343a76290d86749a45fae30f609c655b93e5badd483c3ab13bdf78bd2d",
+  "artifacts": [
+    {
+      "file": "jlpt-study-release.apk",
+      "version_name": "1.0.15",
+      "version_code": 16,
+      "release_signing_verified": true,
+      "signing_certificate_sha256": "a71b6325a89017b0ab7dedb1a4f0f12d71217220446f8981896626002211d8b6",
+      "debuggable": false,
+      "aot": true,
+      "notice_asset_matches": true,
+      "sha256": "e76c446a84dd6ff950f2b7ee024dd78e4461e0465436b990901dae3f05f704c2"
+    },
+    {
+      "file": "jlpt-study-arm64-release.apk",
+      "version_name": "1.0.15",
+      "version_code": 2016,
+      "release_signing_verified": true,
+      "signing_certificate_sha256": "a71b6325a89017b0ab7dedb1a4f0f12d71217220446f8981896626002211d8b6",
+      "debuggable": false,
+      "aot": true,
+      "notice_asset_matches": true,
+      "sha256": "a4f849e3be59991f14c02372278ad51898fcebd0dfb1a8f622f8b7c51e4e2921"
+    }
+  ],
+  "device_test_this_update": false
+}
