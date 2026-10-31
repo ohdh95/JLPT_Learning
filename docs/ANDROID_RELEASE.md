@@ -1,6 +1,6 @@
 # Android release APK 만들기
 
-앱 ID는 `kr.localstudy.jlpt_study`입니다. 현재 공개판은 `1.0.15+16`, GitHub 태그는 `v1.0.15-beta.1`입니다. release는 실행 방식과 최적화 구분이고 beta는 콘텐츠 검수·기기 검증이 남은 배포 상태입니다. release APK도 beta로 공개할 수 있습니다.
+앱 ID는 `kr.localstudy.jlpt_study`입니다. 현재 공개판은 `1.0.16+17`, GitHub 태그는 `v1.0.16-beta.1`입니다. release는 실행 방식과 최적화 구분이고 beta는 콘텐츠 검수·기기 검증이 남은 배포 상태입니다. release APK도 beta로 공개할 수 있습니다.
 
 ## 설치 파일 선택
 

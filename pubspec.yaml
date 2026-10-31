@@ -1,7 +1,7 @@
 name: jlpt_study
 description: 일본어 완전정복 — 가나부터 JLPT N1까지
 publish_to: none
-version: 1.0.15+16
+version: 1.0.16+17
 environment:
   sdk: '>=3.9.0 <4.0.0'
 dependencies:

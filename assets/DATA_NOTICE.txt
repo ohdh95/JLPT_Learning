@@ -37,3 +37,23 @@ https://creativecommons.org/licenses/by-sa/3.0/
 파생 구성 자료는 CC BY-SA 4.0으로 제공합니다. 독립된 사람 검수나 어원 해설이 아닙니다.
 추가 보충 한자의 일본어 읽기는 KANJIDIC2, 한국어 훈음은 libhangul에서 가져온 초안입니다.
 개별 출처·원본 해시는 pipeline/data/kanji_components.json 및 DB source_info에 보존합니다.
+
+단어 학습 순서의 빈도 자료: wordfreq 3.1.1, Copyright 2022 Robyn Speer
+https://github.com/rspeer/wordfreq
+자료 라이선스: CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+변경: 앱 표제어의 일본어 빈도만 추출하고 급수별 학습 단계와 결합했습니다.
+약 2021년까지의 여러 말뭉치에서 산정한 표기 빈도이며 JLPT 출제 빈도나 읽기별 빈도가 아닙니다.
+빈도가 없다는 것은 희귀어로 검증됐다는 뜻이 아닙니다. 단계 분류는 편집·규칙 기반 추천이며 독립된 사람 검수는 완료되지 않았습니다.
+wordfreq의 기여 자료: Google Books Ngrams, Google Books Syntactic Ngrams,
+Leeds Internet Corpus, Wikipedia, ParaCrawl, OPUS OpenSubtitles 2018 / OpenSubtitles,
+SUBTLEX-US/UK/CH/DE/NL (Marc Brysbaert et al., 자유롭게 이용 가능한 자료), Twitter 통계.
+https://github.com/rspeer/wordfreq/blob/master/NOTICE.md
+http://books.google.com/ngrams
+http://corpus.leeds.ac.uk/list.html
+https://www.wikipedia.org/
+https://paracrawl.eu/
+http://opus.nlpl.eu/OpenSubtitles.php
+http://www.opensubtitles.org/
+http://crr.ugent.be/programs-data/subtitle-frequencies
+세부 근거·원본 해시는 pipeline/data/learning_order_evidence.json과 DB source_info에 보존합니다.

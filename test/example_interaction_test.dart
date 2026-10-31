@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:jlpt_study/data/models.dart';
 import 'package:jlpt_study/ui/cards.dart';
 import 'package:jlpt_study/ui/linked_example.dart';
 import 'package:jlpt_study/ui/tests.dart';
@@ -122,7 +123,13 @@ void main() {
       await t.tap(find.byType(BackButton));
       await settle(t);
       expect(find.text('단어 학습 · 1/20'), findsNothing);
-      expect(find.text('단어 학습 · 1/7811'), findsOneWidget);
+      final order = (await t.runAsync(
+        () => f.repo.allIds(const WordFilter()),
+      ))!;
+      expect(
+        find.text('단어 학습 · ${order.indexOf('ada066edfd') + 1}/${order.length}'),
+        findsOneWidget,
+      );
       expect(find.byType(LinkedExampleText), findsNWidgets(2));
       expect(f.model.selected, {'ada066edfd'});
       expect(f.model.visibility('study')['translation'], false);

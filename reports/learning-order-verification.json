@@ -1,0 +1,71 @@
+{
+  "previous_version": "1.0.15+16",
+  "new_version": "1.0.16+17",
+  "original_tables_unchanged": {
+    "source_info": 19,
+    "vocab": 7811,
+    "kanji": 2756,
+    "word_kanji": 11182,
+    "examples": 13718,
+    "validations": 15622,
+    "source_review": 338,
+    "content_revision": 1,
+    "localization_checks": 24071,
+    "localization_history": 37829,
+    "localization_provenance": 24071,
+    "example_word_links": 72895,
+    "kanji_components": 4878
+  },
+  "new_content_sha256": "fb8882fdd2c2247db3c92d1049f5907d1936c714a11306c9cdccdc98a3c5d85f",
+  "before_user_table_counts": {
+    "android_metadata": 1,
+    "preferences": 1,
+    "selection": 0,
+    "kanji_selection": 0,
+    "learning_visits": 4,
+    "user_word_state": 1,
+    "test_sessions": 0,
+    "test_responses": 0
+  },
+  "device_upgrade_user_tables_unchanged": [
+    "android_metadata",
+    "preferences",
+    "selection",
+    "kanji_selection",
+    "learning_visits",
+    "user_word_state",
+    "test_sessions",
+    "test_responses"
+  ],
+  "date": "2026-11-01",
+  "flutter_tests_passed": 68,
+  "python_tests_passed": 45,
+  "flutter_analyze": "no_issues",
+  "sqlite_integrity": "ok",
+  "foreign_key_errors": 0,
+  "builds_passed": [
+    "debug",
+    "release_universal",
+    "release_arm64"
+  ],
+  "device": {
+    "android": "16",
+    "api": 36,
+    "architecture": "x86_64",
+    "isolated_emulator": true,
+    "upgrade": "1.0.15+16 -> 1.0.16+17",
+    "wifi_and_mobile_data_disabled": true,
+    "ui_checks_passed": [
+      "n5-list",
+      "first-word",
+      "second-word",
+      "previous-word",
+      "answer",
+      "home-learned",
+      "resume"
+    ],
+    "resume_after_reveal": "する -> いる",
+    "physical_device_tested": false,
+    "ios_tested": false
+  }
+}

@@ -1,0 +1,1162 @@
+{
+  "version": 1,
+  "words": 7811,
+  "human_reviewed": false,
+  "levels": {
+    "N5": {
+      "stages": [
+        {
+          "label": "자주 쓰는 기초 단어",
+          "count": 105
+        },
+        {
+          "label": "일상생활 명사·동사·형용사",
+          "count": 430
+        },
+        {
+          "label": "나머지",
+          "count": 139
+        }
+      ],
+      "first_30": [
+        {
+          "surface": "する",
+          "reading": "する",
+          "rank": 1,
+          "stage": 1,
+          "zipf": 6.76
+        },
+        {
+          "surface": "いる",
+          "reading": "いる",
+          "rank": 2,
+          "stage": 1,
+          "zipf": 6.66
+        },
+        {
+          "surface": "ある",
+          "reading": "ある",
+          "rank": 3,
+          "stage": 1,
+          "zipf": 6.6
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "rank": 4,
+          "stage": 1,
+          "zipf": 6.56
+        },
+        {
+          "surface": "いい",
+          "reading": "いい",
+          "rank": 5,
+          "stage": 1,
+          "zipf": 6.37
+        },
+        {
+          "surface": "この",
+          "reading": "この",
+          "rank": 6,
+          "stage": 1,
+          "zipf": 6.35
+        },
+        {
+          "surface": "これ",
+          "reading": "これ",
+          "rank": 7,
+          "stage": 1,
+          "zipf": 6.31
+        },
+        {
+          "surface": "その",
+          "reading": "その",
+          "rank": 8,
+          "stage": 1,
+          "zipf": 6.25
+        },
+        {
+          "surface": "なる",
+          "reading": "なる",
+          "rank": 9,
+          "stage": 1,
+          "zipf": 6.21
+        },
+        {
+          "surface": "中",
+          "reading": "なか",
+          "rank": 10,
+          "stage": 1,
+          "zipf": 6.16
+        },
+        {
+          "surface": "それ",
+          "reading": "それ",
+          "rank": 11,
+          "stage": 1,
+          "zipf": 6.15
+        },
+        {
+          "surface": "何",
+          "reading": "なん",
+          "rank": 12,
+          "stage": 1,
+          "zipf": 6.15
+        },
+        {
+          "surface": "私",
+          "reading": "わたくし",
+          "rank": 13,
+          "stage": 1,
+          "zipf": 6.12
+        },
+        {
+          "surface": "一",
+          "reading": "いち",
+          "rank": 14,
+          "stage": 1,
+          "zipf": 6.08
+        },
+        {
+          "surface": "今",
+          "reading": "いま",
+          "rank": 15,
+          "stage": 1,
+          "zipf": 6.07
+        },
+        {
+          "surface": "前",
+          "reading": "まえ",
+          "rank": 16,
+          "stage": 1,
+          "zipf": 5.97
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん",
+          "rank": 17,
+          "stage": 1,
+          "zipf": 5.95
+        },
+        {
+          "surface": "どう",
+          "reading": "どう",
+          "rank": 18,
+          "stage": 1,
+          "zipf": 5.94
+        },
+        {
+          "surface": "できる",
+          "reading": "できる",
+          "rank": 19,
+          "stage": 1,
+          "zipf": 5.9
+        },
+        {
+          "surface": "家",
+          "reading": "いえ",
+          "rank": 20,
+          "stage": 1,
+          "zipf": 5.82
+        },
+        {
+          "surface": "後",
+          "reading": "あと",
+          "rank": 21,
+          "stage": 1,
+          "zipf": 5.79
+        },
+        {
+          "surface": "ください",
+          "reading": "ください",
+          "rank": 22,
+          "stage": 1,
+          "zipf": 5.77
+        },
+        {
+          "surface": "好き",
+          "reading": "すき",
+          "rank": 23,
+          "stage": 1,
+          "zipf": 5.77
+        },
+        {
+          "surface": "二",
+          "reading": "に",
+          "rank": 24,
+          "stage": 1,
+          "zipf": 5.77
+        },
+        {
+          "surface": "ここ",
+          "reading": "ここ",
+          "rank": 25,
+          "stage": 1,
+          "zipf": 5.76
+        },
+        {
+          "surface": "上",
+          "reading": "うえ",
+          "rank": 26,
+          "stage": 1,
+          "zipf": 5.75
+        },
+        {
+          "surface": "誰",
+          "reading": "だれ",
+          "rank": 27,
+          "stage": 1,
+          "zipf": 5.71
+        },
+        {
+          "surface": "ありがとう",
+          "reading": "ありがとう",
+          "rank": 28,
+          "stage": 1,
+          "zipf": 5.7
+        },
+        {
+          "surface": "言う",
+          "reading": "いう",
+          "rank": 29,
+          "stage": 1,
+          "zipf": 5.68
+        },
+        {
+          "surface": "仕事",
+          "reading": "しごと",
+          "rank": 30,
+          "stage": 1,
+          "zipf": 5.68
+        }
+      ]
+    },
+    "N4": {
+      "stages": [
+        {
+          "label": "N5에서 배운 단어와 연관된 표현",
+          "count": 98
+        },
+        {
+          "label": "자주 쓰는 동사·복합 표현",
+          "count": 247
+        },
+        {
+          "label": "나머지",
+          "count": 285
+        }
+      ],
+      "first_30": [
+        {
+          "surface": "女性",
+          "reading": "じょせい",
+          "rank": 1,
+          "stage": 1,
+          "zipf": 5.5
+        },
+        {
+          "surface": "娘",
+          "reading": "むすめ",
+          "rank": 2,
+          "stage": 1,
+          "zipf": 5.24
+        },
+        {
+          "surface": "説明",
+          "reading": "せつめい",
+          "rank": 3,
+          "stage": 1,
+          "zipf": 5.23
+        },
+        {
+          "surface": "男性",
+          "reading": "だんせい",
+          "rank": 4,
+          "stage": 1,
+          "zipf": 5.17
+        },
+        {
+          "surface": "見える",
+          "reading": "みえる",
+          "rank": 5,
+          "stage": 1,
+          "zipf": 5.14
+        },
+        {
+          "surface": "考える",
+          "reading": "かんがえる",
+          "rank": 6,
+          "stage": 1,
+          "zipf": 5.1
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん",
+          "rank": 7,
+          "stage": 1,
+          "zipf": 5.04
+        },
+        {
+          "surface": "妻",
+          "reading": "つま",
+          "rank": 8,
+          "stage": 1,
+          "zipf": 5.02
+        },
+        {
+          "surface": "味",
+          "reading": "あじ",
+          "rank": 9,
+          "stage": 1,
+          "zipf": 5.0
+        },
+        {
+          "surface": "高校",
+          "reading": "こうこう",
+          "rank": 10,
+          "stage": 1,
+          "zipf": 5.0
+        },
+        {
+          "surface": "危険",
+          "reading": "きけん",
+          "rank": 11,
+          "stage": 1,
+          "zipf": 4.98
+        },
+        {
+          "surface": "卒業",
+          "reading": "そつぎょう",
+          "rank": 12,
+          "stage": 1,
+          "zipf": 4.93
+        },
+        {
+          "surface": "息子",
+          "reading": "むすこ",
+          "rank": 13,
+          "stage": 1,
+          "zipf": 4.92
+        },
+        {
+          "surface": "会議",
+          "reading": "かいぎ",
+          "rank": 14,
+          "stage": 1,
+          "zipf": 4.89
+        },
+        {
+          "surface": "食事",
+          "reading": "しょくじ",
+          "rank": 15,
+          "stage": 1,
+          "zipf": 4.89
+        },
+        {
+          "surface": "夫",
+          "reading": "おっと",
+          "rank": 16,
+          "stage": 1,
+          "zipf": 4.87
+        },
+        {
+          "surface": "事務所",
+          "reading": "じむしょ",
+          "rank": 17,
+          "stage": 1,
+          "zipf": 4.84
+        },
+        {
+          "surface": "社長",
+          "reading": "しゃちょう",
+          "rank": 18,
+          "stage": 1,
+          "zipf": 4.83
+        },
+        {
+          "surface": "会話",
+          "reading": "かいわ",
+          "rank": 19,
+          "stage": 1,
+          "zipf": 4.81
+        },
+        {
+          "surface": "帰り",
+          "reading": "かえり",
+          "rank": 20,
+          "stage": 1,
+          "zipf": 4.8
+        },
+        {
+          "surface": "試験",
+          "reading": "しけん",
+          "rank": 21,
+          "stage": 1,
+          "zipf": 4.78
+        },
+        {
+          "surface": "始める",
+          "reading": "はじめる",
+          "rank": 22,
+          "stage": 1,
+          "zipf": 4.77
+        },
+        {
+          "surface": "交通",
+          "reading": "こうつう",
+          "rank": 23,
+          "stage": 1,
+          "zipf": 4.74
+        },
+        {
+          "surface": "小学校",
+          "reading": "しょうがっこう",
+          "rank": 24,
+          "stage": 1,
+          "zipf": 4.65
+        },
+        {
+          "surface": "台風",
+          "reading": "たいふう",
+          "rank": 25,
+          "stage": 1,
+          "zipf": 4.58
+        },
+        {
+          "surface": "空港",
+          "reading": "くうこう",
+          "rank": 26,
+          "stage": 1,
+          "zipf": 4.57
+        },
+        {
+          "surface": "今夜",
+          "reading": "こんや",
+          "rank": 27,
+          "stage": 1,
+          "zipf": 4.57
+        },
+        {
+          "surface": "高校生",
+          "reading": "こうこうせい",
+          "rank": 28,
+          "stage": 1,
+          "zipf": 4.54
+        },
+        {
+          "surface": "入学",
+          "reading": "にゅうがく",
+          "rank": 29,
+          "stage": 1,
+          "zipf": 4.44
+        },
+        {
+          "surface": "思い出す",
+          "reading": "おもいだす",
+          "rank": 30,
+          "stage": 1,
+          "zipf": 4.43
+        }
+      ]
+    },
+    "N3": {
+      "stages": [
+        {
+          "label": "일상 및 사회생활에서 자주 쓰는 단어",
+          "count": 863
+        },
+        {
+          "label": "추상적인 표현",
+          "count": 129
+        },
+        {
+          "label": "나머지",
+          "count": 667
+        }
+      ],
+      "first_30": [
+        {
+          "surface": "日本",
+          "reading": "にっぽん",
+          "rank": 1,
+          "stage": 1,
+          "zipf": 6.05
+        },
+        {
+          "surface": "感じ",
+          "reading": "かんじ",
+          "rank": 2,
+          "stage": 1,
+          "zipf": 5.74
+        },
+        {
+          "surface": "ゲーム",
+          "reading": "ゲーム",
+          "rank": 3,
+          "stage": 1,
+          "zipf": 5.62
+        },
+        {
+          "surface": "情報",
+          "reading": "じょうほう",
+          "rank": 4,
+          "stage": 1,
+          "zipf": 5.61
+        },
+        {
+          "surface": "人間",
+          "reading": "にんげん",
+          "rank": 5,
+          "stage": 1,
+          "zipf": 5.53
+        },
+        {
+          "surface": "あと",
+          "reading": "あと",
+          "rank": 6,
+          "stage": 1,
+          "zipf": 5.52
+        },
+        {
+          "surface": "ただ",
+          "reading": "ただ",
+          "rank": 7,
+          "stage": 1,
+          "zipf": 5.5
+        },
+        {
+          "surface": "使用",
+          "reading": "しよう",
+          "rank": 8,
+          "stage": 1,
+          "zipf": 5.46
+        },
+        {
+          "surface": "参加",
+          "reading": "さんか",
+          "rank": 9,
+          "stage": 1,
+          "zipf": 5.45
+        },
+        {
+          "surface": "しまう",
+          "reading": "しまう",
+          "rank": 10,
+          "stage": 1,
+          "zipf": 5.45
+        },
+        {
+          "surface": "無料",
+          "reading": "むりょう",
+          "rank": 11,
+          "stage": 1,
+          "zipf": 5.41
+        },
+        {
+          "surface": "相手",
+          "reading": "あいて",
+          "rank": 12,
+          "stage": 1,
+          "zipf": 5.36
+        },
+        {
+          "surface": "作品",
+          "reading": "さくひん",
+          "rank": 13,
+          "stage": 1,
+          "zipf": 5.35
+        },
+        {
+          "surface": "企業",
+          "reading": "きぎょう",
+          "rank": 14,
+          "stage": 1,
+          "zipf": 5.34
+        },
+        {
+          "surface": "現在",
+          "reading": "げんざい",
+          "rank": 15,
+          "stage": 1,
+          "zipf": 5.34
+        },
+        {
+          "surface": "存在",
+          "reading": "そんざい",
+          "rank": 16,
+          "stage": 1,
+          "zipf": 5.34
+        },
+        {
+          "surface": "行き",
+          "reading": "いき",
+          "rank": 17,
+          "stage": 1,
+          "zipf": 5.33
+        },
+        {
+          "surface": "事件",
+          "reading": "じけん",
+          "rank": 18,
+          "stage": 1,
+          "zipf": 5.32
+        },
+        {
+          "surface": "通り",
+          "reading": "とおり",
+          "rank": 19,
+          "stage": 1,
+          "zipf": 5.32
+        },
+        {
+          "surface": "最高",
+          "reading": "さいこう",
+          "rank": 20,
+          "stage": 1,
+          "zipf": 5.31
+        },
+        {
+          "surface": "女子",
+          "reading": "じょし",
+          "rank": 21,
+          "stage": 1,
+          "zipf": 5.31
+        },
+        {
+          "surface": "確認",
+          "reading": "かくにん",
+          "rank": 22,
+          "stage": 1,
+          "zipf": 5.3
+        },
+        {
+          "surface": "実際",
+          "reading": "じっさい",
+          "rank": 23,
+          "stage": 1,
+          "zipf": 5.3
+        },
+        {
+          "surface": "まあ",
+          "reading": "まあ",
+          "rank": 24,
+          "stage": 1,
+          "zipf": 5.3
+        },
+        {
+          "surface": "今回",
+          "reading": "こんかい",
+          "rank": 25,
+          "stage": 1,
+          "zipf": 5.29
+        },
+        {
+          "surface": "個人",
+          "reading": "こじん",
+          "rank": 26,
+          "stage": 1,
+          "zipf": 5.28
+        },
+        {
+          "surface": "ずっと",
+          "reading": "ずっと",
+          "rank": 27,
+          "stage": 1,
+          "zipf": 5.27
+        },
+        {
+          "surface": "かなり",
+          "reading": "かなり",
+          "rank": 28,
+          "stage": 1,
+          "zipf": 5.25
+        },
+        {
+          "surface": "どんな",
+          "reading": "どんな",
+          "rank": 29,
+          "stage": 1,
+          "zipf": 5.25
+        },
+        {
+          "surface": "人気",
+          "reading": "にんき",
+          "rank": 30,
+          "stage": 1,
+          "zipf": 5.25
+        }
+      ]
+    },
+    "N2": {
+      "stages": [
+        {
+          "label": "사용 빈도가 높은 한자어·복합어",
+          "count": 294
+        },
+        {
+          "label": "유의어·다의어",
+          "count": 366
+        },
+        {
+          "label": "나머지",
+          "count": 1118
+        }
+      ],
+      "first_30": [
+        {
+          "surface": "発売",
+          "reading": "はつばい",
+          "rank": 1,
+          "stage": 1,
+          "zipf": 5.31
+        },
+        {
+          "surface": "登場",
+          "reading": "とうじょう",
+          "rank": 2,
+          "stage": 1,
+          "zipf": 5.24
+        },
+        {
+          "surface": "撮影",
+          "reading": "さつえい",
+          "rank": 3,
+          "stage": 1,
+          "zipf": 5.15
+        },
+        {
+          "surface": "公式",
+          "reading": "こうしき",
+          "rank": 4,
+          "stage": 1,
+          "zipf": 5.13
+        },
+        {
+          "surface": "終了",
+          "reading": "しゅうりょう",
+          "rank": 5,
+          "stage": 1,
+          "zipf": 5.13
+        },
+        {
+          "surface": "追加",
+          "reading": "ついか",
+          "rank": 6,
+          "stage": 1,
+          "zipf": 5.1
+        },
+        {
+          "surface": "展開",
+          "reading": "てんかい",
+          "rank": 7,
+          "stage": 1,
+          "zipf": 5.0
+        },
+        {
+          "surface": "対策",
+          "reading": "たいさく",
+          "rank": 8,
+          "stage": 1,
+          "zipf": 4.93
+        },
+        {
+          "surface": "以降",
+          "reading": "いこう",
+          "rank": 9,
+          "stage": 1,
+          "zipf": 4.92
+        },
+        {
+          "surface": "指定",
+          "reading": "してい",
+          "rank": 10,
+          "stage": 1,
+          "zipf": 4.88
+        },
+        {
+          "surface": "特定",
+          "reading": "とくてい",
+          "rank": 11,
+          "stage": 1,
+          "zipf": 4.87
+        },
+        {
+          "surface": "編集",
+          "reading": "へんしゅう",
+          "rank": 12,
+          "stage": 1,
+          "zipf": 4.87
+        },
+        {
+          "surface": "制作",
+          "reading": "せいさく",
+          "rank": 13,
+          "stage": 1,
+          "zipf": 4.86
+        },
+        {
+          "surface": "応援",
+          "reading": "おうえん",
+          "rank": 14,
+          "stage": 1,
+          "zipf": 4.85
+        },
+        {
+          "surface": "活躍",
+          "reading": "かつやく",
+          "rank": 15,
+          "stage": 1,
+          "zipf": 4.84
+        },
+        {
+          "surface": "複数",
+          "reading": "ふくすう",
+          "rank": 16,
+          "stage": 1,
+          "zipf": 4.83
+        },
+        {
+          "surface": "解説",
+          "reading": "かいせつ",
+          "rank": 17,
+          "stage": 1,
+          "zipf": 4.78
+        },
+        {
+          "surface": "募集",
+          "reading": "ぼしゅう",
+          "rank": 18,
+          "stage": 1,
+          "zipf": 4.78
+        },
+        {
+          "surface": "基準",
+          "reading": "きじゅん",
+          "rank": 19,
+          "stage": 1,
+          "zipf": 4.77
+        },
+        {
+          "surface": "構造",
+          "reading": "こうぞう",
+          "rank": 20,
+          "stage": 1,
+          "zipf": 4.76
+        },
+        {
+          "surface": "停止",
+          "reading": "ていし",
+          "rank": 21,
+          "stage": 1,
+          "zipf": 4.76
+        },
+        {
+          "surface": "周辺",
+          "reading": "しゅうへん",
+          "rank": 22,
+          "stage": 1,
+          "zipf": 4.75
+        },
+        {
+          "surface": "工事",
+          "reading": "こうじ",
+          "rank": 23,
+          "stage": 1,
+          "zipf": 4.73
+        },
+        {
+          "surface": "段階",
+          "reading": "だんかい",
+          "rank": 24,
+          "stage": 1,
+          "zipf": 4.73
+        },
+        {
+          "surface": "基地",
+          "reading": "きち",
+          "rank": 25,
+          "stage": 1,
+          "zipf": 4.72
+        },
+        {
+          "surface": "本来",
+          "reading": "ほんらい",
+          "rank": 26,
+          "stage": 1,
+          "zipf": 4.72
+        },
+        {
+          "surface": "作成",
+          "reading": "さくせい",
+          "rank": 27,
+          "stage": 1,
+          "zipf": 4.7
+        },
+        {
+          "surface": "温泉",
+          "reading": "おんせん",
+          "rank": 28,
+          "stage": 1,
+          "zipf": 4.68
+        },
+        {
+          "surface": "関西",
+          "reading": "かんさい",
+          "rank": 29,
+          "stage": 1,
+          "zipf": 4.68
+        },
+        {
+          "surface": "感想",
+          "reading": "かんそう",
+          "rank": 30,
+          "stage": 1,
+          "zipf": 4.68
+        }
+      ]
+    },
+    "N1": {
+      "stages": [
+        {
+          "label": "자주 등장하는 고급 어휘",
+          "count": 721
+        },
+        {
+          "label": "추상적인 한자어·관용 표현",
+          "count": 137
+        },
+        {
+          "label": "드물고 어려운 표현",
+          "count": 2212
+        }
+      ],
+      "first_30": [
+        {
+          "surface": "なんか",
+          "reading": "なんか",
+          "rank": 1,
+          "stage": 1,
+          "zipf": 5.54
+        },
+        {
+          "surface": "始め",
+          "reading": "はじめ",
+          "rank": 2,
+          "stage": 1,
+          "zipf": 5.35
+        },
+        {
+          "surface": "開催",
+          "reading": "かいさい",
+          "rank": 3,
+          "stage": 1,
+          "zipf": 5.3
+        },
+        {
+          "surface": "教え",
+          "reading": "おしえ",
+          "rank": 4,
+          "stage": 1,
+          "zipf": 5.28
+        },
+        {
+          "surface": "公開",
+          "reading": "こうかい",
+          "rank": 5,
+          "stage": 1,
+          "zipf": 5.25
+        },
+        {
+          "surface": "対応",
+          "reading": "たいおう",
+          "rank": 6,
+          "stage": 1,
+          "zipf": 5.24
+        },
+        {
+          "surface": "システム",
+          "reading": "システム",
+          "rank": 7,
+          "stage": 1,
+          "zipf": 5.21
+        },
+        {
+          "surface": "登録",
+          "reading": "とうろく",
+          "rank": 8,
+          "stage": 1,
+          "zipf": 5.2
+        },
+        {
+          "surface": "設定",
+          "reading": "せってい",
+          "rank": 9,
+          "stage": 1,
+          "zipf": 5.19
+        },
+        {
+          "surface": "開発",
+          "reading": "かいはつ",
+          "rank": 10,
+          "stage": 1,
+          "zipf": 5.18
+        },
+        {
+          "surface": "過ぎ",
+          "reading": "すぎ",
+          "rank": 11,
+          "stage": 1,
+          "zipf": 5.18
+        },
+        {
+          "surface": "限定",
+          "reading": "げんてい",
+          "rank": 12,
+          "stage": 1,
+          "zipf": 5.17
+        },
+        {
+          "surface": "まとめ",
+          "reading": "まとめ",
+          "rank": 13,
+          "stage": 1,
+          "zipf": 5.12
+        },
+        {
+          "surface": "覚え",
+          "reading": "おぼえ",
+          "rank": 14,
+          "stage": 1,
+          "zipf": 5.11
+        },
+        {
+          "surface": "一部",
+          "reading": "いちぶ",
+          "rank": 15,
+          "stage": 1,
+          "zipf": 5.1
+        },
+        {
+          "surface": "事業",
+          "reading": "じぎょう",
+          "rank": 16,
+          "stage": 1,
+          "zipf": 5.08
+        },
+        {
+          "surface": "デザイン",
+          "reading": "デザイン",
+          "rank": 17,
+          "stage": 1,
+          "zipf": 5.08
+        },
+        {
+          "surface": "映像",
+          "reading": "えいぞう",
+          "rank": 18,
+          "stage": 1,
+          "zipf": 5.07
+        },
+        {
+          "surface": "データ",
+          "reading": "データ",
+          "rank": 19,
+          "stage": 1,
+          "zipf": 5.07
+        },
+        {
+          "surface": "ファン",
+          "reading": "ファン",
+          "rank": 20,
+          "stage": 1,
+          "zipf": 5.07
+        },
+        {
+          "surface": "出演",
+          "reading": "しゅつえん",
+          "rank": 21,
+          "stage": 1,
+          "zipf": 5.06
+        },
+        {
+          "surface": "発生",
+          "reading": "はっせい",
+          "rank": 22,
+          "stage": 1,
+          "zipf": 5.05
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ",
+          "rank": 23,
+          "stage": 1,
+          "zipf": 5.04
+        },
+        {
+          "surface": "ポイント",
+          "reading": "ポイント",
+          "rank": 24,
+          "stage": 1,
+          "zipf": 5.04
+        },
+        {
+          "surface": "企画",
+          "reading": "きかく",
+          "rank": 25,
+          "stage": 1,
+          "zipf": 5.03
+        },
+        {
+          "surface": "施設",
+          "reading": "しせつ",
+          "rank": 26,
+          "stage": 1,
+          "zipf": 5.02
+        },
+        {
+          "surface": "詳細",
+          "reading": "しょうさい",
+          "rank": 27,
+          "stage": 1,
+          "zipf": 5.01
+        },
+        {
+          "surface": "調べ",
+          "reading": "しらべ",
+          "rank": 28,
+          "stage": 1,
+          "zipf": 5.01
+        },
+        {
+          "surface": "保護",
+          "reading": "ほご",
+          "rank": 29,
+          "stage": 1,
+          "zipf": 5.01
+        },
+        {
+          "surface": "作り",
+          "reading": "つくり",
+          "rank": 30,
+          "stage": 1,
+          "zipf": 5.0
+        }
+      ]
+    }
+  },
+  "frequency_matched": 7478,
+  "reason_counts": {
+    "editorial_core": 105,
+    "frequent_everyday_content_word": 430,
+    "remaining_or_low_frequency": 4408,
+    "editorial_link_to_n5": 98,
+    "frequent_verb_or_compound": 247,
+    "dictionary_rare_or_historical": 13,
+    "everyday_social_or_frequent_content_word": 863,
+    "editorial_abstract": 129,
+    "frequent_kanji_compound": 294,
+    "editorial_synonym_or_dictionary_multiple_senses": 366,
+    "frequent_advanced_content_word": 721,
+    "editorial_abstract_or_idiomatic": 137
+  }
+}

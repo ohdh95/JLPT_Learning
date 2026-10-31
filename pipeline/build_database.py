@@ -278,6 +278,10 @@ def build_content(root:Path,out:Path,report:Path,allow_partial=False):
     db.execute('INSERT INTO content_revision(revision,built_at) VALUES(?,?)', (sha[:16],date.today().isoformat()))
     db.execute('CREATE INDEX vocab_jmdict_idx ON vocab(jmdict_id)')
     db.execute('CREATE INDEX vocab_source_idx ON vocab(jlpt_level,source_index,word_id)')
+    # Preserve upstream source_index and install the app's default curriculum
+    # separately. New/fixture entries without evidence go at each level's end.
+    from build_learning_order import install as install_learning_order
+    install_learning_order(db)
     # Portable SQLite: Android's bundled SQLite need not support FTS5.
     fkerr=db.execute('PRAGMA foreign_key_check').fetchall()
     check=db.execute('PRAGMA integrity_check').fetchone()[0]

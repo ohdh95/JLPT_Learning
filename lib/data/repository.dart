@@ -14,7 +14,8 @@ class Repository {
   static const _visitsSchema =
       "CREATE TABLE learning_visits(kind TEXT NOT NULL CHECK(kind IN ('word','kanji')), item_id TEXT NOT NULL, visited_at TEXT NOT NULL, PRIMARY KEY(kind,item_id))";
   final Database db;
-  Repository._(this.db);
+  final bool _hasLearningOrder;
+  Repository._(this.db, this._hasLearningOrder);
   static Future<Repository> bundled() async {
     final dir = await getApplicationSupportDirectory();
     await dir.create(recursive: true);
@@ -94,7 +95,10 @@ class Repository {
       await db.close();
       throw StateError('콘텐츠 DB 무결성 오류');
     }
-    return Repository._(db);
+    final hasLearningOrder = (await db.rawQuery(
+      "SELECT 1 FROM content.sqlite_master WHERE type='table' AND name='word_learning_order'",
+    )).isNotEmpty;
+    return Repository._(db, hasLearningOrder);
   }
 
   Future<void> close() => db.close();
@@ -273,8 +277,13 @@ class Repository {
     return (clauses.join(' AND '), args);
   }
 
-  String _order(WordFilter f) => f.sort == 'reading'
-      ? 'v.reading_kana,v.surface,v.word_id'
+  String get _vocabFrom => _hasLearningOrder
+      ? 'content.vocab v LEFT JOIN content.word_learning_order o ON o.word_id=v.word_id'
+      : 'content.vocab v';
+  // One default for lists, links, detail navigation and resume. Older content
+  // databases still open; their source order is used until content is updated.
+  String get _wordOrder => _hasLearningOrder
+      ? 'v.jlpt_level DESC,COALESCE(o.rank,2147483647),v.source_index,v.word_id'
       : 'v.jlpt_level DESC,v.source_index,v.word_id';
   Future<WordPage> words(WordFilter filter, int page, int size) async {
     if (size < 1 || size > 200) {
@@ -289,7 +298,7 @@ class Repository {
     )!;
     final safePage = page.clamp(0, max(0, (total / size).ceil() - 1));
     final rows = await db.rawQuery(
-      'SELECT v.*,$latestRating AS last_rating FROM content.vocab v WHERE $where ORDER BY ${_order(filter)} LIMIT ? OFFSET ?',
+      'SELECT v.*,$latestRating AS last_rating FROM $_vocabFrom WHERE $where ORDER BY $_wordOrder LIMIT ? OFFSET ?',
       [...args, size, safePage * size],
     );
     return WordPage(rows.map(Word.new).toList(), total, safePage.toInt(), size);
@@ -298,14 +307,14 @@ class Repository {
   Future<List<String>> allIds(WordFilter filter) async {
     final (where, args) = _where(filter);
     return (await db.rawQuery(
-      'SELECT v.word_id FROM content.vocab v WHERE $where ORDER BY ${_order(filter)}',
+      'SELECT v.word_id FROM $_vocabFrom WHERE $where ORDER BY $_wordOrder',
       args,
     )).map((r) => r['word_id'] as String).toList();
   }
 
   Future<String?> firstUnlearnedWord() async {
     final rows = await db.rawQuery(
-      "SELECT v.word_id FROM content.vocab v WHERE NOT EXISTS(SELECT 1 FROM learning_visits l WHERE l.kind='word' AND l.item_id=v.word_id) ORDER BY ${_order(const WordFilter())} LIMIT 1",
+      "SELECT v.word_id FROM $_vocabFrom WHERE NOT EXISTS(SELECT 1 FROM learning_visits l WHERE l.kind='word' AND l.item_id=v.word_id) ORDER BY $_wordOrder LIMIT 1",
     );
     return rows.isEmpty ? null : rows.single['word_id'] as String;
   }
@@ -380,7 +389,7 @@ class Repository {
   );
 
   Future<List<Word>> related(String character) async => (await db.rawQuery(
-    'SELECT DISTINCT v.* FROM content.vocab v JOIN content.word_kanji w ON v.word_id=w.word_id WHERE w.character=? ORDER BY v.jlpt_level DESC,v.source_index',
+    'SELECT DISTINCT v.* FROM $_vocabFrom JOIN content.word_kanji w ON v.word_id=w.word_id WHERE w.character=? ORDER BY $_wordOrder',
     [character],
   )).map(Word.new).toList();
   Future<List<Map<String, Object?>>> progress() => db.rawQuery(

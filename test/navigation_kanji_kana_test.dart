@@ -209,7 +209,7 @@ void main() {
     await t.tap(find.text('N5'));
     await settle(t);
     expect(find.text('단어장'), findsOneWidget);
-    expect(find.text('会う'), findsOneWidget);
+    expect(find.text('する'), findsOneWidget);
     await t.tap(find.byType(BackButton));
     await settle(t);
     await t.tap(find.text('한자').last);
@@ -305,7 +305,13 @@ void main() {
       expect(relatedRow, findsOneWidget);
       await t.tap(find.byType(BackButton));
       await settle(t);
-      expect(find.text('단어 학습 · 1/7811'), findsOneWidget);
+      final order = (await t.runAsync(
+        () => f.repo.allIds(const WordFilter()),
+      ))!;
+      expect(
+        find.text('단어 학습 · ${order.indexOf('ada066edfd') + 1}/${order.length}'),
+        findsOneWidget,
+      );
       expect(find.text('정답 닫기'), findsOneWidget);
       expect(f.model.visibility('study').values.any((v) => v), false);
       expect(f.model.prefs['last_study'], 'ada066edfd');
@@ -320,7 +326,15 @@ void main() {
       await t.tap(find.text('다음'));
       await settle(t);
       expect(find.text('가나 읽기'), findsNothing);
-      expect(find.text('단어 학습 · 2/7811'), findsOneWidget);
+      final nextIndex = order.indexOf('ada066edfd') + 1;
+      expect(
+        find.text('단어 학습 · ${nextIndex + 1}/${order.length}'),
+        findsOneWidget,
+      );
+      expect(
+        t.widget<WordCard>(find.byType(WordCard)).word.id,
+        order[nextIndex],
+      );
       expect(t.takeException(), null);
     },
   );
