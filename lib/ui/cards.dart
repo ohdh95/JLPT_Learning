@@ -511,16 +511,18 @@ class KanjiLink extends StatelessWidget {
 class StudyScreen extends StatefulWidget {
   final AppModel model;
   final Speech speech;
-  // The caller's list identifies the starting word only. Browsing always uses
-  // the full N5 → N1 catalog, independent of pages, filters and selections.
+  // The caller's list identifies the starting word only. Favorites constrain
+  // navigation to saved words across all pages and filters in catalog order.
   final List<String> ids;
   final int initial;
+  final bool favoritesOnly;
   const StudyScreen({
     super.key,
     required this.model,
     required this.speech,
     required this.ids,
     this.initial = 0,
+    this.favoritesOnly = false,
   });
   @override
   State<StudyScreen> createState() => _StudyScreenState();
@@ -576,13 +578,39 @@ class _StudyScreenState extends State<StudyScreen> {
     if (mounted) setState(() => savingAnswer = false);
   }
 
-  void move(int delta) {
-    if (!navigationReady || index + delta < 0 || index + delta >= ids.length) {
-      return;
+  int? navigationTarget(int delta) {
+    if (!navigationReady) return null;
+    for (
+      var next = index + delta;
+      next >= 0 && next < ids.length;
+      next += delta
+    ) {
+      if (!widget.favoritesOnly || widget.model.starred.contains(ids[next])) {
+        return next;
+      }
     }
+    return null;
+  }
+
+  String get title {
+    if (!widget.favoritesOnly) {
+      return navigationReady ? '단어 학습 · ${index + 1}/${ids.length}' : '단어 학습';
+    }
+    final favorites = ids.where(widget.model.starred.contains).toList();
+    final position = favorites.indexOf(ids[index]);
+    // Removing the current favorite keeps its card open, but it is no longer
+    // counted or reachable through previous/next after leaving it.
+    return navigationReady && position >= 0
+        ? '즐겨찾기 학습 · ${position + 1}/${favorites.length}'
+        : '즐겨찾기 학습';
+  }
+
+  void move(int delta) {
+    final target = navigationTarget(delta);
+    if (target == null) return;
     if (scroll.hasClients) scroll.jumpTo(0);
     setState(() {
-      index += delta;
+      index = target;
       revealed = false;
       load();
     });
@@ -597,65 +625,64 @@ class _StudyScreenState extends State<StudyScreen> {
   }
 
   @override
-  Widget build(BuildContext context) => Scaffold(
-    appBar: AppBar(
-      title: Text(
-        navigationReady ? '단어 학습 · ${index + 1}/${ids.length}' : '단어 학습',
+  Widget build(BuildContext context) => ListenableBuilder(
+    listenable: widget.model,
+    builder: (context, _) => Scaffold(
+      appBar: AppBar(
+        title: Text(title),
+        actions: [
+          LearningMarkButton(
+            model: widget.model,
+            kind: 'word',
+            itemId: ids[index],
+          ),
+        ],
       ),
-      actions: [
-        LearningMarkButton(
-          model: widget.model,
-          kind: 'word',
-          itemId: ids[index],
-        ),
-      ],
-    ),
-    body: ListView(
-      key: const ValueKey('study-scroll'),
-      controller: scroll,
-      padding: const EdgeInsets.all(8),
-      children: [
-        AsyncView(
-          future: word,
-          builder: (Word? w) => w == null
-              ? const Text('현재 콘텐츠에서 찾을 수 없는 단어입니다.')
-              : WordCard(
-                  key: ValueKey(w.id),
-                  model: widget.model,
-                  speech: widget.speech,
-                  word: w,
-                  profile: 'study',
-                  temporaryReveal: revealed,
-                ),
-        ),
-      ],
-    ),
-    bottomNavigationBar: SafeArea(
-      top: false,
-      child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 6),
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            TextButton(
-              key: const ValueKey('study-previous'),
-              onPressed: navigationReady && index > 0 ? () => move(-1) : null,
-              child: const Text('이전'),
-            ),
-            Flexible(
-              child: FilledButton.tonal(
-                onPressed: savingAnswer ? null : toggleAnswer,
-                child: Text(revealed ? '정답 닫기' : '정답 보기'),
+      body: ListView(
+        key: const ValueKey('study-scroll'),
+        controller: scroll,
+        padding: const EdgeInsets.all(8),
+        children: [
+          AsyncView(
+            future: word,
+            builder: (Word? w) => w == null
+                ? const Text('현재 콘텐츠에서 찾을 수 없는 단어입니다.')
+                : WordCard(
+                    key: ValueKey(w.id),
+                    model: widget.model,
+                    speech: widget.speech,
+                    word: w,
+                    profile: 'study',
+                    temporaryReveal: revealed,
+                  ),
+          ),
+        ],
+      ),
+      bottomNavigationBar: SafeArea(
+        top: false,
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 6),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              TextButton(
+                key: const ValueKey('study-previous'),
+                onPressed: navigationTarget(-1) == null ? null : () => move(-1),
+                child: const Text('이전'),
               ),
-            ),
-            TextButton(
-              key: const ValueKey('study-next'),
-              onPressed: navigationReady && index + 1 < ids.length
-                  ? () => move(1)
-                  : null,
-              child: const Text('다음'),
-            ),
-          ],
+              Flexible(
+                child: FilledButton.tonal(
+                  onPressed: savingAnswer ? null : toggleAnswer,
+                  child: Text(revealed ? '정답 닫기' : '정답 보기'),
+                ),
+              ),
+              TextButton(
+                key: const ValueKey('study-next'),
+                onPressed: navigationTarget(1) == null ? null : () => move(1),
+                child: const Text('다음'),
+              ),
+            ],
+          ),
         ),
       ),
     ),

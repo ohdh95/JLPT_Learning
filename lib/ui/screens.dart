@@ -32,7 +32,7 @@ class _ShellState extends State<Shell> {
     final speech = widget.speech;
     return Scaffold(
       appBar: AppBar(
-        title: Text([appName, '한자', '가나 표', '별표 단어', '활용 문법'][tab]),
+        title: Text([appName, '한자', '가나 표', '즐겨찾기', '활용 문법'][tab]),
         actions: [
           IconButton(
             tooltip: '설정',
@@ -104,7 +104,7 @@ class _ShellState extends State<Shell> {
           ),
           NavigationDestination(icon: Icon(Icons.grid_view), label: '한자'),
           NavigationDestination(icon: Icon(Icons.translate), label: '가나'),
-          NavigationDestination(icon: Icon(Icons.star_outline), label: '별표'),
+          NavigationDestination(icon: Icon(Icons.star_outline), label: '즐겨찾기'),
           NavigationDestination(
             icon: Icon(Icons.auto_stories_outlined),
             label: '문법',
@@ -457,6 +457,7 @@ class _WordsScreenState extends State<WordsScreen> {
                                         speech: widget.speech,
                                         ids: ids,
                                         initial: i,
+                                        favoritesOnly: widget.starred,
                                       ),
                                     ),
                                   ),
@@ -971,7 +972,7 @@ class SettingsScreen extends StatelessWidget {
           ListTile(
             leading: const Icon(Icons.save_alt),
             title: const Text('사용자 기록 백업'),
-            subtitle: const Text('별표 · 선택 · 설정 · 학습 표시를 JSON 파일로 저장'),
+            subtitle: const Text('즐겨찾기 · 선택 · 설정 · 학습 표시를 JSON 파일로 저장'),
             onTap: () => guard(context, () async {
               final bytes = Uint8List.fromList(
                 utf8.encode(await model.repo.backup()),
@@ -1012,7 +1013,7 @@ class SettingsScreen extends StatelessWidget {
                 builder: (context) => AlertDialog(
                   title: const Text('백업으로 교체할까요?'),
                   content: const Text(
-                    '현재 별표·선택·설정·학습 표시가 이 백업 내용으로 교체됩니다. 필요한 경우 먼저 백업해주세요.',
+                    '현재 즐겨찾기·선택·설정·학습 표시가 이 백업 내용으로 교체됩니다. 필요한 경우 먼저 백업해주세요.',
                   ),
                   actions: [
                     TextButton(

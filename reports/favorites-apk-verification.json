@@ -1,0 +1,42 @@
+{
+  "version": "1.0.17+18",
+  "date": "2026-11-16",
+  "content_unchanged_from": "1.0.16+17",
+  "content_db_sha256": "fb8882fdd2c2247db3c92d1049f5907d1936c714a11306c9cdccdc98a3c5d85f",
+  "artifacts": [
+    {
+      "file": "jlpt-study-release.apk",
+      "version_name": "1.0.17",
+      "version_code": 18,
+      "release_signing_verified": true,
+      "signing_certificate_sha256": "a71b6325a89017b0ab7dedb1a4f0f12d71217220446f8981896626002211d8b6",
+      "debuggable": false,
+      "aot": true,
+      "notice_asset_matches": true,
+      "content_asset_matches": true,
+      "abis": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86_64"
+      ],
+      "bytes": 68009236,
+      "sha256": "4a0c3b82bb39f67b65e6f6eedf80b716631ed57b5fb2595fab7395f85c195e65"
+    },
+    {
+      "file": "jlpt-study-arm64-release.apk",
+      "version_name": "1.0.17",
+      "version_code": 2018,
+      "release_signing_verified": true,
+      "signing_certificate_sha256": "a71b6325a89017b0ab7dedb1a4f0f12d71217220446f8981896626002211d8b6",
+      "debuggable": false,
+      "aot": true,
+      "notice_asset_matches": true,
+      "content_asset_matches": true,
+      "abis": [
+        "arm64-v8a"
+      ],
+      "bytes": 33175897,
+      "sha256": "5f4406efc9b0df36217358c84640f24899e2639859aff20a75b70470e25e297a"
+    }
+  ]
+}

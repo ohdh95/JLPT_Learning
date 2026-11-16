@@ -122,7 +122,7 @@ class StarButton extends StatelessWidget {
   Widget build(BuildContext context) => ListenableBuilder(
     listenable: model,
     builder: (context, _) => IconButton(
-      tooltip: model.starred.contains(id) ? '별표 해제' : '별표 추가',
+      tooltip: model.starred.contains(id) ? '즐겨찾기 해제' : '즐겨찾기 추가',
       onPressed: () => guard(context, () => model.star(id)),
       icon: Icon(
         model.starred.contains(id)

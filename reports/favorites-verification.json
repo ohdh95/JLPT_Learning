@@ -1,0 +1,41 @@
+{
+  "version": "1.0.17+18",
+  "date": "2026-11-16",
+  "flutter_analyze": "no_issues",
+  "flutter_tests_passed": 71,
+  "python_tests_passed": 45,
+  "sqlite_integrity": "ok",
+  "foreign_key_errors": 0,
+  "device": {
+    "android": "16",
+    "api": 36,
+    "architecture": "x86_64",
+    "isolated_emulator": true,
+    "wifi_and_mobile_data_disabled": true,
+    "upgrade": {
+      "from": "1.0.16+17",
+      "to": "1.0.17+18",
+      "user_tables_unchanged": {
+        "android_metadata": 1,
+        "preferences": 0,
+        "selection": 0,
+        "kanji_selection": 0,
+        "learning_visits": 0,
+        "user_word_state": 1,
+        "test_sessions": 0,
+        "test_responses": 0
+      }
+    },
+    "ui_checks_passed": [
+      "new-home",
+      "first-favorite",
+      "second-favorite",
+      "removed-current",
+      "remaining-favorite"
+    ],
+    "saved_navigation": "する -> ある (いる skipped)",
+    "removed_favorite_excluded": true,
+    "physical_device_tested": false,
+    "ios_tested": false
+  }
+}

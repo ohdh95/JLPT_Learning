@@ -204,7 +204,7 @@ void main() {
       t
           .widgetList<NavigationDestination>(find.byType(NavigationDestination))
           .map((d) => d.label),
-      ['단어', '한자', '가나', '별표', '문법'],
+      ['단어', '한자', '가나', '즐겨찾기', '문법'],
     );
     await t.tap(find.text('N5'));
     await settle(t);
@@ -238,7 +238,7 @@ void main() {
     expect(find.text('あ'), findsOneWidget);
     expect(find.text('ア'), findsOneWidget);
     expect(find.text('아'), findsOneWidget);
-    await t.tap(find.text('별표').last);
+    await t.tap(find.text('즐겨찾기').last);
     await settle(t);
     expect(find.text('会う'), findsOneWidget);
     await t.tap(find.text('단어').last);

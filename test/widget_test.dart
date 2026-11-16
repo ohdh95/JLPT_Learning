@@ -45,12 +45,12 @@ void main() {
       await t.tap(find.byType(Checkbox).at(1));
       await settle(t);
       expect(f.model.selected.length, 2);
-      await t.tap(find.byTooltip('별표 추가').first);
+      await t.tap(find.byTooltip('즐겨찾기 추가').first);
       await settle(t);
       expect(f.model.starred.length, 1);
       await t.tap(find.byType(BackButton));
       await settle(t);
-      await t.tap(find.text('별표').last);
+      await t.tap(find.text('즐겨찾기').last);
       await settle(t);
       expect(f.model.selected.length, 2);
       expect(find.textContaining('/ 1'), findsWidgets);
